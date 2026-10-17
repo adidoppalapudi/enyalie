@@ -1,0 +1,12 @@
+# dependencies and build output
+node_modules
+dist
+coverage
+
+# local and OS files
+*.local
+*.log
+.DS_Store
+
+# local tooling
+skills/

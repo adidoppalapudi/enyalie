@@ -1,0 +1,430 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-vocabulary",
+    "name": "Vocabulary Builder",
+    "description": "Useful English words for reading and writing, with clear definitions."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ubiquitous\" mean?",
+      "choices": [
+        "Extremely old",
+        "Hard to understand",
+        "Found everywhere",
+        "Very rare"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ephemeral\" mean?",
+      "choices": [
+        "Easily angered",
+        "Lasting forever",
+        "Very large",
+        "Lasting a very short time"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"benevolent\" mean?",
+      "choices": [
+        "Talkative",
+        "Kind and well-meaning",
+        "Cruel",
+        "Lazy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"pragmatic\" mean?",
+      "choices": [
+        "Very old-fashioned",
+        "Dealing with things in a practical way",
+        "Dreamy and unrealistic",
+        "Rude"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"meticulous\" mean?",
+      "choices": [
+        "Very fast",
+        "Careless",
+        "Easily bored",
+        "Very careful about details"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"laconic\" mean?",
+      "choices": [
+        "Extremely tired",
+        "Using very few words",
+        "Very angry",
+        "Very talkative"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word comes from Laconia, the region of the Spartans, who were known for terse speech.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"gregarious\" mean?",
+      "choices": [
+        "Greedy",
+        "Shy and withdrawn",
+        "Gloomy",
+        "Fond of company; sociable"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"obfuscate\" mean?",
+      "choices": [
+        "To destroy",
+        "To celebrate",
+        "To explain clearly",
+        "To make something unclear"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ameliorate\" mean?",
+      "choices": [
+        "To make something worse",
+        "To make something better",
+        "To measure",
+        "To ignore"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"capricious\" mean?",
+      "choices": [
+        "Very generous",
+        "Given to sudden changes of mood or behaviour",
+        "Steady and reliable",
+        "Shy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"esoteric\" mean?",
+      "choices": [
+        "Outdoors",
+        "Understood by only a small group",
+        "Known by everyone",
+        "Expensive"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"magnanimous\" mean?",
+      "choices": [
+        "Generous, especially toward a rival",
+        "Boastful",
+        "Stingy",
+        "Very large"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"sycophant\".",
+      "answer": "A person who flatters someone powerful to gain an advantage.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Loquacious\" and \"garrulous\" both describe a very talkative person.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "synonyms"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Enervate\" means to fill with energy.",
+      "answer": false,
+      "explanation": "\"Enervate\" means the opposite: to drain energy or weaken. It is often confused with \"energize\".",
+      "difficulty": "hard",
+      "tags": [
+        "commonly-confused"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"mitigate\" mean?",
+      "choices": [
+        "To make less severe",
+        "To make worse",
+        "To delay",
+        "To copy"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"disparate\" mean?",
+      "choices": [
+        "Equal",
+        "Very different from each other",
+        "Desperate",
+        "Connected"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ostentatious\" mean?",
+      "choices": [
+        "Hidden",
+        "Cheap",
+        "Modest",
+        "Showy, meant to impress"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"reticent\" mean?",
+      "choices": [
+        "Hesitant to act",
+        "Reluctant to share thoughts or feelings",
+        "Forgetful",
+        "Very open"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Reticent\" is about speaking or sharing. Using it to mean \"reluctant\" in general is widely considered an error.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"pernicious\" mean?",
+      "choices": [
+        "Very precise",
+        "Stubborn",
+        "Helpful",
+        "Harmful, often in a gradual or subtle way"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"perfunctory\" mean?",
+      "choices": [
+        "Done with minimal effort or care",
+        "Done in advance",
+        "Done in public",
+        "Done perfectly"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"equanimity\".",
+      "answer": "Calmness and composure, especially in a difficult situation.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"quixotic\" mean?",
+      "choices": [
+        "Quiet",
+        "Sarcastic",
+        "Idealistic and impractical",
+        "Very quick"
+      ],
+      "correctIndex": 2,
+      "explanation": "From Don Quixote, the idealistic hero of Cervantes' novel.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"inchoate\" mean?",
+      "choices": [
+        "Finished",
+        "Just begun and not fully formed",
+        "Chocolate-coloured",
+        "Incoherent and angry"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"sanguine\" mean?",
+      "choices": [
+        "Sad",
+        "Sleepy",
+        "Optimistic, especially in a bad situation",
+        "Bloodthirsty"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"superfluous\" mean?",
+      "choices": [
+        "Missing",
+        "Excellent",
+        "More than is needed",
+        "Very fast"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"tenacious\" mean?",
+      "choices": [
+        "Persistent; not giving up easily",
+        "Ten times larger",
+        "Gentle",
+        "Tense"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ambivalent\" mean?",
+      "choices": [
+        "Having mixed feelings",
+        "Angry",
+        "Indifferent",
+        "Using both hands equally"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Ambivalent\" means torn between feelings. \"Ambidextrous\" means using both hands equally.",
+      "difficulty": "medium",
+      "tags": [
+        "commonly-confused"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Candid\" means truthful and straightforward.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"ameliorate\" in one word.",
+      "answer": "Improve",
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ]
+    }
+  ]
+}

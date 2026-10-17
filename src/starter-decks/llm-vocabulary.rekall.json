@@ -1,0 +1,443 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-llm-vocabulary",
+    "name": "LLM Vocabulary",
+    "description": "Key terms for working with large language models."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "In an LLM, what is a \"token\"?",
+      "choices": [
+        "A chunk of text, such as a word or part of a word, that the model processes",
+        "A password for the API",
+        "A single neuron",
+        "A full sentence"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a model's \"context window\"?",
+      "choices": [
+        "The time it takes to reply",
+        "The browser window used to chat",
+        "The maximum amount of text, in tokens, it can consider at once",
+        "The training dataset"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an LLM \"hallucination\"?",
+      "choices": [
+        "Confident output that is false or not supported by the input or sources",
+        "A model refusing a request",
+        "A slow response",
+        "A visual glitch"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "behaviour"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does raising the \"temperature\" setting usually do?",
+      "choices": [
+        "Makes the model faster",
+        "Makes outputs longer",
+        "Lets the model read more text",
+        "Makes outputs more random and varied"
+      ],
+      "correctIndex": 3,
+      "explanation": "Low temperature makes output more focused and repeatable.",
+      "difficulty": "medium",
+      "tags": [
+        "sampling"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"top-p\" (nucleus) sampling?",
+      "choices": [
+        "Choosing the next token only from the smallest set whose combined probability reaches p",
+        "Limiting replies to p words",
+        "Returning the top p answers",
+        "Picking the single most likely token"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "sampling"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an \"embedding\"?",
+      "choices": [
+        "A list of numbers representing text so that similar meanings are close together",
+        "A compressed model file",
+        "A hidden prompt",
+        "An image inside a document"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 2017 paper introduced the Transformer architecture?",
+      "choices": [
+        "\"ImageNet Classification with Deep CNNs\"",
+        "\"Attention Is All You Need\"",
+        "\"Deep Residual Learning\"",
+        "\"Generative Adversarial Nets\""
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does the attention mechanism let a model do?",
+      "choices": [
+        "Store memories between conversations",
+        "Weigh how relevant each part of the input is to each other part",
+        "Run faster on CPUs",
+        "Browse the web"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "architecture"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"pretraining\"?",
+      "choices": [
+        "Training on a very large general text corpus to predict the next token",
+        "Writing the system prompt",
+        "Testing the model before release",
+        "Choosing hardware"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"fine-tuning\"?",
+      "choices": [
+        "Compressing a model",
+        "Adjusting the temperature",
+        "Shortening a prompt",
+        "Further training a pretrained model on a smaller, task-specific dataset"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does RLHF stand for?",
+      "answer": "Reinforcement learning from human feedback",
+      "explanation": "Human preference ratings train a reward model, which then guides further training.",
+      "difficulty": "medium",
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a \"system prompt\"?",
+      "choices": [
+        "The first user question",
+        "An error message",
+        "A hardware setting",
+        "Instructions given to the model that set its role and rules for a conversation"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "prompting"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"few-shot\" prompting?",
+      "choices": [
+        "Limiting the reply length",
+        "Asking the model several times",
+        "Using a smaller model",
+        "Including a few worked examples in the prompt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zero-shot prompting gives instructions with no examples.",
+      "difficulty": "easy",
+      "tags": [
+        "prompting"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"chain-of-thought\" prompting?",
+      "choices": [
+        "Summarising a long conversation",
+        "Asking the model to work through intermediate reasoning steps before answering",
+        "Repeating the same prompt",
+        "Linking several models together"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "prompting"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is RAG (retrieval-augmented generation)?",
+      "choices": [
+        "Fetching relevant documents and adding them to the prompt so the answer is grounded in them",
+        "A type of GPU",
+        "A way to compress models",
+        "Training on random data"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a vector database typically used for in LLM apps?",
+      "choices": [
+        "Storing user passwords",
+        "Storing embeddings and finding the most similar ones quickly",
+        "Running the model",
+        "Rendering images"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What are a model's \"parameters\" (weights)?",
+      "choices": [
+        "The words in the prompt",
+        "The settings in the API request",
+        "The servers that run it",
+        "The learned numbers inside the network that determine its behaviour"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"inference\"?",
+      "choices": [
+        "Labelling data",
+        "Training a model",
+        "Running a trained model to produce outputs",
+        "Deleting old models"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a tokenizer do?",
+      "choices": [
+        "Counts users",
+        "Encrypts prompts",
+        "Splits text into tokens and maps them to IDs the model uses",
+        "Checks grammar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many tokenizers use byte-pair encoding (BPE).",
+      "difficulty": "medium",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"quantization\"?",
+      "choices": [
+        "Counting tokens",
+        "Storing weights with fewer bits to save memory and speed up inference",
+        "Adding more parameters",
+        "Measuring accuracy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "efficiency"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"distillation\"?",
+      "choices": [
+        "Removing harmful data",
+        "Shortening prompts",
+        "Merging two datasets",
+        "Training a smaller model to imitate a larger one"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "efficiency"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is LoRA (low-rank adaptation)?",
+      "choices": [
+        "A prompt format",
+        "A fine-tuning method that trains small added matrices instead of all the weights",
+        "A model family",
+        "A long-range radio protocol only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In LLM apps, what is \"tool use\" (function calling)?",
+      "choices": [
+        "A keyboard shortcut",
+        "The model outputs a structured request to call an external function or API",
+        "Training with tools",
+        "The model writes its own hardware drivers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an \"agent\" in the LLM sense?",
+      "choices": [
+        "A human support worker",
+        "A web browser",
+        "A database",
+        "A system where a model plans and takes actions with tools over multiple steps"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"mixture of experts\" (MoE)?",
+      "choices": [
+        "A panel of human reviewers",
+        "Averaging several chatbots",
+        "A type of prompt",
+        "An architecture that routes each token to a few specialised sub-networks"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "architecture"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"perplexity\" measure for a language model?",
+      "choices": [
+        "How confusing its answers are to users",
+        "How well it predicts text; lower is better",
+        "How many parameters it has",
+        "Its response speed"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "evaluation"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Setting temperature to 0 makes the model pick the most likely token at each step, so outputs become close to deterministic.",
+      "answer": true,
+      "explanation": "Small differences can still occur because of how the computation is run.",
+      "difficulty": "medium",
+      "tags": [
+        "sampling"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is \"grounding\" a model's answer?",
+      "choices": [
+        "Lowering the temperature to 0",
+        "Tying it to provided sources or data so it can be checked",
+        "Turning the model off",
+        "Training it on maps"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "retrieval"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is \"latency\" in an LLM service?",
+      "answer": "The time between sending a request and getting a response, often measured to the first token.",
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "A larger context window means the model has more parameters.",
+      "answer": false,
+      "explanation": "Context length and parameter count are separate design choices.",
+      "difficulty": "medium",
+      "tags": [
+        "basics"
+      ]
+    }
+  ]
+}

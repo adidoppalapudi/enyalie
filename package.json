@@ -1,0 +1,34 @@
+{
+  "name": "rekall",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Local-first flashcards and quizzes: Anki-style decks with a quick, game-like quiz player.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:host": "vite --host",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "preview:host": "vite preview --host",
+    "typecheck": "tsc -b",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.1.0",
+    "fake-indexeddb": "^6.2.0",
+    "typescript": "~6.0.3",
+    "vite": "^8.3.0",
+    "vitest": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

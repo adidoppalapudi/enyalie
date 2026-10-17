@@ -1,0 +1,395 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-pokemon",
+    "name": "Pokémon Basics",
+    "description": "Types, evolutions, regions and trivia from the main games and anime."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "What type is Pikachu?",
+      "choices": [
+        "Psychic",
+        "Electric",
+        "Normal",
+        "Fire"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Pokémon is #001 in the National Pokédex?",
+      "choices": [
+        "Pikachu",
+        "Mew",
+        "Charmander",
+        "Bulbasaur"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "pokedex"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does Charmander evolve into?",
+      "choices": [
+        "Ponyta",
+        "Magmar",
+        "Charmeleon",
+        "Charizard"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charmander evolves into Charmeleon, which then evolves into Charizard.",
+      "difficulty": "easy",
+      "tags": [
+        "evolution"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Charizard is a Fire/Flying type.",
+      "answer": true,
+      "explanation": "Despite looking like a dragon, Charizard is Fire/Flying, not Dragon.",
+      "difficulty": "easy",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which item evolves Eevee into Vaporeon?",
+      "choices": [
+        "Moon Stone",
+        "Fire Stone",
+        "Water Stone",
+        "Thunder Stone"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Fire Stone gives Flareon and a Thunder Stone gives Jolteon.",
+      "difficulty": "medium",
+      "tags": [
+        "evolution"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The first Pokémon games, released in Japan in 1996, were Pokémon Red and Pokémon ___.",
+      "choices": [
+        "Blue",
+        "Gold",
+        "Green",
+        "Yellow"
+      ],
+      "correctIndex": 2,
+      "explanation": "Red and Green came out in Japan in 1996. Outside Japan the pair was released as Red and Blue.",
+      "difficulty": "medium",
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How many Pokémon were in the original (Generation I) Pokédex?",
+      "answer": "151",
+      "explanation": "From Bulbasaur (#001) to Mew (#151).",
+      "difficulty": "easy",
+      "tags": [
+        "pokedex"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Pokémon does Ash Ketchum get from Professor Oak at the start of the anime?",
+      "choices": [
+        "Pikachu",
+        "Bulbasaur",
+        "Squirtle",
+        "Charmander"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type is super effective against Water-type Pokémon?",
+      "choices": [
+        "Ground",
+        "Steel",
+        "Grass",
+        "Fire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grass and Electric moves are super effective against Water.",
+      "difficulty": "easy",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ghost-type moves have no effect on Normal-type Pokémon.",
+      "answer": true,
+      "explanation": "Normal types are immune to Ghost moves, and Ghost types are immune to Normal moves.",
+      "difficulty": "medium",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type is immune to Ground-type moves?",
+      "choices": [
+        "Steel",
+        "Rock",
+        "Flying",
+        "Water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pokémon with the Levitate ability are also unaffected by Ground moves.",
+      "difficulty": "medium",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Mewtwo was created from the genetic material of which Pokémon?",
+      "choices": [
+        "Mew",
+        "Arceus",
+        "Ditto",
+        "Mewthree"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "legendary"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which region is the setting of Pokémon Gold and Silver?",
+      "choices": [
+        "Hoenn",
+        "Johto",
+        "Kanto",
+        "Sinnoh"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "regions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which region is the setting of Pokémon Ruby and Sapphire?",
+      "choices": [
+        "Johto",
+        "Kalos",
+        "Hoenn",
+        "Unova"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "regions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which region is the setting of Pokémon Diamond and Pearl?",
+      "choices": [
+        "Kalos",
+        "Sinnoh",
+        "Alola",
+        "Hoenn"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "regions"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which type was introduced in Generation VI (Pokémon X and Y)?",
+      "answer": "Fairy",
+      "difficulty": "medium",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which two types were added in Generation II?",
+      "choices": [
+        "Dragon and Dark",
+        "Steel and Fairy",
+        "Dark and Steel",
+        "Fairy and Dark"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Snorlax is a Normal-type Pokémon.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Gyarados evolves from which Pokémon?",
+      "choices": [
+        "Goldeen",
+        "Psyduck",
+        "Magikarp",
+        "Horsea"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "evolution"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Who created Pokémon?",
+      "answer": "Satoshi Tajiri",
+      "explanation": "He founded the game studio Game Freak.",
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is Pikachu's National Pokédex number?",
+      "choices": [
+        "#001",
+        "#025",
+        "#052",
+        "#151"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "pokedex"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ditto can transform into a copy of its opponent.",
+      "answer": true,
+      "explanation": "Ditto learns only one move, Transform.",
+      "difficulty": "easy",
+      "tags": [
+        "moves"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What are Lucario's types?",
+      "choices": [
+        "Fighting/Dark",
+        "Steel/Psychic",
+        "Fighting/Psychic",
+        "Fighting/Steel"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Poké Ball catches a wild Pokémon without fail?",
+      "choices": [
+        "Premier Ball",
+        "Great Ball",
+        "Master Ball",
+        "Ultra Ball"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "items"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What was Jigglypuff's type in Generation I?",
+      "choices": [
+        "Fairy",
+        "Psychic",
+        "Normal",
+        "Normal/Flying"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jigglypuff became Normal/Fairy in Generation VI, when the Fairy type was added.",
+      "difficulty": "hard",
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Name the three legendary birds of Generation I.",
+      "answer": "Articuno, Zapdos and Moltres",
+      "difficulty": "medium",
+      "tags": [
+        "legendary"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who is the gym leader of Cerulean City in Pokémon Red and Blue?",
+      "choices": [
+        "Lt. Surge",
+        "Erika",
+        "Brock",
+        "Misty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Misty uses Water-type Pokémon.",
+      "difficulty": "medium",
+      "tags": [
+        "gyms"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type does Brock specialise in?",
+      "choices": [
+        "Rock",
+        "Water",
+        "Electric",
+        "Grass"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "gyms"
+      ]
+    }
+  ]
+}

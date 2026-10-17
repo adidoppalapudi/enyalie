@@ -1,0 +1,440 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-aws",
+    "name": "AWS Fundamentals",
+    "description": "Core AWS services and concepts, at roughly Cloud Practitioner level."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which AWS service is object storage?",
+      "choices": [
+        "Amazon EBS",
+        "Amazon EC2",
+        "Amazon RDS",
+        "Amazon S3"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "storage"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which AWS service provides resizable virtual servers?",
+      "choices": [
+        "AWS Lambda",
+        "Amazon Route 53",
+        "Amazon S3",
+        "Amazon EC2"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "compute"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service runs code without you managing servers, billing per request and compute time?",
+      "choices": [
+        "AWS Batch",
+        "Amazon EC2",
+        "AWS Lambda",
+        "Amazon Lightsail"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "compute"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the maximum timeout for a single AWS Lambda invocation?",
+      "choices": [
+        "5 minutes",
+        "1 hour",
+        "24 hours",
+        "15 minutes"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "compute"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service is a managed relational database for engines such as MySQL and PostgreSQL?",
+      "choices": [
+        "Amazon RDS",
+        "Amazon Redshift",
+        "Amazon ElastiCache",
+        "Amazon DynamoDB"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "databases"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service is a fully managed NoSQL key-value and document database?",
+      "choices": [
+        "Amazon DynamoDB",
+        "Amazon RDS",
+        "Amazon Neptune",
+        "Amazon Aurora"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "databases"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Amazon Aurora is compatible with which database engines?",
+      "choices": [
+        "MySQL and PostgreSQL",
+        "Redis and Memcached",
+        "MongoDB and Cassandra",
+        "Oracle and SQL Server"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "databases"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service manages users, groups, roles and permissions?",
+      "choices": [
+        "AWS IAM",
+        "AWS Organizations",
+        "AWS Shield",
+        "Amazon Cognito"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "IAM is a global service, not tied to a single region.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an AWS Availability Zone?",
+      "choices": [
+        "One or more data centres with separate power and networking, inside a region",
+        "A billing account",
+        "A geographic area containing several regions",
+        "A content delivery edge location"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service lets you launch AWS resources in a logically isolated virtual network?",
+      "choices": [
+        "AWS Transit Gateway",
+        "Amazon CloudFront",
+        "AWS Direct Connect",
+        "Amazon VPC"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service is AWS's content delivery network (CDN)?",
+      "choices": [
+        "Amazon Route 53",
+        "Elastic Load Balancing",
+        "Amazon CloudFront",
+        "AWS Global Accelerator"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service provides DNS and domain registration?",
+      "choices": [
+        "Amazon CloudFront",
+        "Amazon Route 53",
+        "Amazon API Gateway",
+        "AWS Cloud Map"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service collects metrics and logs and sets alarms on them?",
+      "choices": [
+        "Amazon CloudWatch",
+        "AWS CloudTrail",
+        "AWS Config",
+        "AWS X-Ray"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "monitoring"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service records the API calls made in your AWS account, for auditing?",
+      "choices": [
+        "AWS CloudTrail",
+        "AWS Trusted Advisor",
+        "Amazon CloudWatch",
+        "Amazon Inspector"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "monitoring"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service is a fully managed message queue for decoupling applications?",
+      "choices": [
+        "Amazon SQS",
+        "Amazon SNS",
+        "Amazon MQ",
+        "Amazon Kinesis"
+      ],
+      "correctIndex": 0,
+      "explanation": "SQS is a queue that consumers poll. SNS pushes messages to many subscribers.",
+      "difficulty": "medium",
+      "tags": [
+        "integration"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service publishes one message to many subscribers, such as email, SMS or Lambda?",
+      "choices": [
+        "Amazon SES",
+        "Amazon SQS",
+        "AWS Step Functions",
+        "Amazon SNS"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "integration"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service provides block storage volumes attached to EC2 instances?",
+      "choices": [
+        "AWS Storage Gateway",
+        "Amazon S3",
+        "Amazon EBS",
+        "Amazon EFS"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "storage"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which S3 storage class family is designed for low-cost long-term archiving?",
+      "choices": [
+        "S3 One Zone-IA",
+        "S3 Glacier",
+        "S3 Express One Zone",
+        "S3 Standard"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "storage"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What durability is Amazon S3 Standard designed for?",
+      "choices": [
+        "99.99%",
+        "99.9%",
+        "100%",
+        "99.999999999% (11 nines)"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "storage"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "S3 bucket names must be globally unique (within a partition such as standard AWS regions).",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "storage"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Under the shared responsibility model, what is AWS responsible for?",
+      "choices": [
+        "Encrypting your data by default in every service",
+        "Your application code",
+        "Security of the cloud: hardware, facilities and the global infrastructure",
+        "Your IAM users' passwords"
+      ],
+      "correctIndex": 2,
+      "explanation": "Customers are responsible for security in the cloud, such as data, access and configuration.",
+      "difficulty": "medium",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service lets you define infrastructure as code with JSON or YAML templates?",
+      "choices": [
+        "AWS Systems Manager",
+        "AWS CodeDeploy",
+        "AWS Elastic Beanstalk",
+        "AWS CloudFormation"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service creates and controls encryption keys?",
+      "choices": [
+        "AWS Shield",
+        "AWS Secrets Manager",
+        "AWS Certificate Manager",
+        "AWS KMS"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service stores and automatically rotates database credentials and API keys?",
+      "choices": [
+        "AWS KMS",
+        "AWS IAM",
+        "Amazon Macie",
+        "AWS Secrets Manager"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Security groups are stateful, while network ACLs are stateless.",
+      "answer": true,
+      "explanation": "With a security group, return traffic for an allowed request is allowed automatically. Network ACLs need explicit rules in both directions.",
+      "difficulty": "hard",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which EC2 purchasing option offers large discounts but can be interrupted when AWS needs the capacity back?",
+      "choices": [
+        "On-Demand Instances",
+        "Spot Instances",
+        "Reserved Instances",
+        "Dedicated Hosts"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "compute"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service distributes incoming traffic across multiple targets such as EC2 instances?",
+      "choices": [
+        "AWS Auto Scaling",
+        "Amazon API Gateway",
+        "Amazon Route 53",
+        "Elastic Load Balancing"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which services run Docker containers on AWS with managed orchestration?",
+      "choices": [
+        "Amazon ECS and Amazon EKS",
+        "Amazon EC2 and Amazon EBS",
+        "Amazon S3 and Amazon CloudFront",
+        "AWS Lambda and Amazon SQS"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "compute"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the AWS-recommended practice for the account root user?",
+      "answer": "Turn on MFA, don't create access keys for it, and use it only for the few tasks that require it.",
+      "difficulty": "medium",
+      "tags": [
+        "security"
+      ]
+    }
+  ]
+}
