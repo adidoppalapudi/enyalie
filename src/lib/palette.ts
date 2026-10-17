@@ -3,7 +3,7 @@
  * "classic" is the default with no attribute. index.html applies the saved
  * palette before the first paint so the page never flashes the wrong colours.
  */
-const PALETTES = ['classic', 'sycamore', 'rhodonite', 'paper', 'cloud'] as const;
+const PALETTES = ['classic', 'sycamore', 'cloud'] as const;
 const STORAGE_KEY = 'rekall.palette';
 
 /** Matches the phone's browser bar to the title bar. */

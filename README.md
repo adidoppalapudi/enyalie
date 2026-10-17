@@ -78,8 +78,8 @@ on a phone they are big buttons for your thumb.
 - A quiz in progress survives a page reload, and the title bar offers **resume quiz** if you wander off.
 - Deck management (edit, duplicate, export, delete) is on the deck screen and behind **more** in the library.
 - **browse starter decks**, under the deck list, adds any built-in deck you don't have yet.
-- `C` cycles through five colour palettes: classic blue, sycamore (green), rhodonite (purple), and two
-  light ones, paper and cloud. Each device remembers its choice.
+- `C` cycles through three colour palettes: classic blue, sycamore (green) and a light one, cloud. Each
+  device remembers its choice.
 
 ## Deck files
 

@@ -33,26 +33,7 @@
   --gutter: 1rem;
 }
 
-/* Two light palettes (paper, cloud) and two muted dark ones (sycamore, rhodonite). */
-
-:root[data-palette='paper'] {
-  color-scheme: light;
-  --screen: #dfd1bb;
-  --well: #f3ece0;
-  --well-focus: #ece3d3;
-  --text: #40312f;
-  --dim: #66574b;
-  --rule: #81725e;
-  --accent: #133955;
-  --highlight: #755139;
-  --green: #35463d;
-  --red: #9a2b2e;
-  --on-bright: #f3ece0;
-  --window: #f3ece0;
-  --window-text: #40312f;
-  --window-danger: #9a2b2e;
-  --shadow: #8c7a62;
-}
+/* One light palette (cloud) and one muted dark one (sycamore). */
 
 :root[data-palette='cloud'] {
   color-scheme: light;
@@ -89,24 +70,6 @@
   --window-text: #35463d;
   --window-danger: #9a2b2e;
   --shadow: #141c17;
-}
-
-:root[data-palette='rhodonite'] {
-  --screen: #3e3b59;
-  --well: #322f4a;
-  --well-focus: #36334f;
-  --text: #d7d6ce;
-  --dim: #c5aeb1;
-  --rule: #8d87ab;
-  --accent: #c5aeb1;
-  --highlight: #ed9764;
-  --green: #7fbb9e;
-  --red: #f7b9c2;
-  --on-bright: #26243a;
-  --window: #d7d6ce;
-  --window-text: #3e3b59;
-  --window-danger: #9a2b2e;
-  --shadow: #1a1828;
 }
 
 *,
