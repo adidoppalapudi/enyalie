@@ -100,16 +100,6 @@ Merriam-Webster entries checked for the definitions and examples:
 
 The reticent question now supplies context. Merriam-Webster records both reserved speech and a broader reluctant sense, so the old blanket claim that the latter is an error was removed.
 
-## LLM terminology and AWS
-
-- [Google's generative AI glossary](https://developers.google.com/machine-learning/glossary/generative)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [LoRA](https://arxiv.org/abs/2106.09685)
-- [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
-- [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)
-- [AWS: S3 durability and Availability Zones](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DataDurability.html)
-- [AWS: shared responsibility](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/shared-responsibility-model-for-resiliency.html)
-
 ## Mixed trivia and revised historical questions
 
 - [NASA: solar system facts](https://science.nasa.gov/solar-system/solar-system-facts/)
@@ -129,9 +119,15 @@ The reticent question now supplies context. Merriam-Webster records both reserve
 - [LEGO: the company name](https://www.lego.com/nl-be/aboutus/lego-group/the-lego-group-history)
 - [Nintendo: company history](https://www.nintendo.co.jp/corporate/history/index.html)
 - [Academy: 1992 awards](https://www.oscars.org/oscars/ceremonies/1992), [2004 awards](https://www.oscars.org/oscars/ceremonies/2004)
-- [National Archives: Juneteenth order](https://www.archives.gov/news/articles/juneteenth-original-document)
 
 Numerical questions such as the normal 4-by-4 magic-square sum and the perfect number 28 were also checked directly by calculation.
+
+## AP Chemistry
+
+- [College Board AP Chemistry Course and Exam Description, effective Fall 2024](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description-effective-fall-2024.pdf) for the required course framework, nine units, learning objectives, and science practices. The [College Board AP Chemistry course page](https://apcentral.collegeboard.org/courses/ap-chemistry) lists this as the current CED for the 2026-27 course year.
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for explanations and worked examples across atomic structure, bonding, phases, solutions, kinetics, equilibrium, acids and bases, thermochemistry, and electrochemistry.
+
+Question wording, scenarios, and numerical values in the AP Chemistry deck are original. They are not copied from College Board exam questions.
 
 ## Chemistry Foundations
 

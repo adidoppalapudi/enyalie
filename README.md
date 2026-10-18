@@ -16,8 +16,8 @@ npm run dev
 ```
 
 Open the address it prints (usually http://localhost:5173). In the empty library, **starter decks** adds
-any of the 27 built-in decks, with about 1,100 questions across science, history, places, sports, stories,
-games, food, technology and words. Four mixed trivia decks range from Easy to Expert.
+any of the 22 built-in decks, with about 1,100 questions across science, history, places, sports, stories,
+games, food and words. Four mixed trivia decks range from Easy to Expert.
 
 | Command                | What it does                                                         |
 | ---------------------- | -------------------------------------------------------------------- |

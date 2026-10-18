@@ -7,17 +7,16 @@ interface CatalogDeck {
 const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
   Science: [
-    'deck-human-body', 'deck-nature', 'deck-botany', 'deck-weather', 'deck-oceans-water-bodies',
-    'deck-chemistry-foundations',
+    'deck-human-body', 'deck-nature', 'deck-botany', 'deck-oceans-water-bodies',
+    'deck-chemistry-foundations', 'deck-ap-chemistry',
   ],
-  Technology: ['deck-aws', 'deck-llm-vocabulary', 'sample-postgresql-basics'],
-  History: ['deck-us-history', 'deck-texas-history'],
+  History: ['deck-us-history'],
   Places: ['deck-geography', 'deck-national-parks'],
   'Stories & games': [
     'deck-harry-potter', 'deck-hunger-games', 'deck-marvel-comics',
     'deck-movies', 'deck-pokemon', 'deck-minecraft',
   ],
-  Words: ['deck-vocabulary', 'deck-spelling'],
+  Words: ['deck-vocabulary'],
   Sports: ['deck-nba'],
   Food: ['deck-chipotle'],
   Other: [],

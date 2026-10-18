@@ -21,9 +21,9 @@ describe('deck browsing', () => {
     expect(filterDecks(decks, '', '')).toHaveLength(4);
   });
 
-  it('keeps custom decks discoverable in Other and recognizes the original sample id', () => {
+  it('keeps custom decks discoverable in Other', () => {
     expect(filterDecks(decks, '', 'Other').map((deck) => deck.id)).toEqual(['custom-deck']);
-    expect(deckCategory('sample-postgresql-basics')).toBe('Technology');
+    expect(deckCategory('deck-geography')).toBe('Places');
     expect(deckCategory()).toBe('Other');
   });
 

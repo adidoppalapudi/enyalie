@@ -1,0 +1,2389 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-ap-chemistry",
+    "name": "AP Chemistry",
+    "description": "A focused review of the nine AP Chemistry units, with calculations, data reading, particle models, and laboratory reasoning."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "How many moles of H2O are in 36.0 g of water? Use a molar mass of 18.0 g/mol.",
+      "choices": [
+        "2.00 mol",
+        "0.500 mol",
+        "18.0 mol",
+        "36.0 mol"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "moles"
+      ],
+      "explanation": "Divide mass by molar mass: 36.0 g / 18.0 g/mol = 2.00 mol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An element has isotopes of mass 10 u (20%) and 11 u (80%). What is its average atomic mass?",
+      "choices": [
+        "10.8 u",
+        "10.5 u",
+        "10.2 u",
+        "11.0 u"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "mass-spectrometry"
+      ],
+      "explanation": "The weighted mean is (10)(0.20) + (11)(0.80) = 10.8 u."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A compound is 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. Which is its empirical formula?",
+      "choices": [
+        "CHO",
+        "C2H2O",
+        "C2H4O",
+        "CH2O"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "elemental-composition"
+      ],
+      "explanation": "Assume 100 g. The mole amounts are about 3.33 mol C, 6.7 mol H, and 3.33 mol O. Dividing by 3.33 gives the simplest ratio 1:2:1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A solution contains 5.0 g of sugar and 95.0 g of water. What is the sugar mass percent?",
+      "choices": [
+        "5.3%",
+        "5.0%",
+        "19%",
+        "95%"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "mixtures"
+      ],
+      "explanation": "Mass percent is solute mass divided by total solution mass, times 100: 5.0 g / 100.0 g x 100 = 5.0%."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which electron configuration represents a ground-state chlorine atom?",
+      "choices": [
+        "1s2 2s2 2p6 3s1 3p6",
+        "1s2 2s2 2p6 3s2 3p6",
+        "1s2 2s2 2p5 3s2 3p6",
+        "1s2 2s2 2p6 3s2 3p5"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "electron-configuration"
+      ],
+      "explanation": "Chlorine has 17 electrons. Filling orbitals in order gives 1s2 2s2 2p6 3s2 3p5."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a photoelectron spectrum, what does a peak at higher binding energy indicate about those electrons?",
+      "choices": [
+        "They are less tightly held by the nucleus",
+        "They occupy a larger volume",
+        "They have greater mass",
+        "They are more tightly held by the nucleus"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "photoelectron-spectroscopy"
+      ],
+      "explanation": "Higher binding energy means more energy is needed to remove the electron, so it is held more strongly by the atom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which atom has the largest atomic radius?",
+      "choices": [
+        "Mg",
+        "Na",
+        "Al",
+        "Si"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "periodic-trends"
+      ],
+      "explanation": "These atoms are in the same period. Effective nuclear charge generally increases from left to right, pulling electrons closer, so Na is largest."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why is the first ionization energy of Al slightly lower than that of Mg?",
+      "choices": [
+        "Al has a filled valence shell",
+        "Al has more protons, so its outer electrons are always less tightly held",
+        "Mg has a larger atomic radius than every atom in period 3",
+        "Al loses a 3p electron, which is higher in energy than Mg's 3s electron"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "ionization-energy"
+      ],
+      "explanation": "The electron removed from Al is in a 3p subshell, which is higher in energy and easier to remove than Mg's 3s electron."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many electrons are in an O2- ion?",
+      "choices": [
+        "6",
+        "10",
+        "8",
+        "12"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "ions"
+      ],
+      "explanation": "Neutral oxygen has 8 electrons. A 2- charge means it has gained 2, for 10 total."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Isotopes of one element have the same number of protons but different numbers of neutrons.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "isotopes"
+      ],
+      "explanation": "The proton count defines the element. Isotopes differ in neutron count, which changes their mass."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A one-mole sample of any element has a mass of exactly 1 gram.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "molar-mass"
+      ],
+      "explanation": "One mole contains Avogadro's number of specified particles. Its mass in grams is numerically equal to the element's molar mass, which varies by element."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a photoelectron spectrum, the area under a subshell peak is related to the number of electrons in that subshell.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "photoelectron-spectroscopy"
+      ],
+      "explanation": "A larger peak signal corresponds to more electrons occupying that subshell."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The average atomic mass of an element is a weighted average of its naturally occurring isotope masses.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "isotopes"
+      ],
+      "explanation": "Each isotope contributes according to its fractional abundance, so the average need not equal any one isotope's mass."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does one mole measure?",
+      "answer": "A specified number of entities: exactly 6.02214076 x 10^23 of them.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "moles"
+      ],
+      "explanation": "The entity must be stated, such as atoms, molecules, ions, or formula units."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an empirical formula?",
+      "answer": "The smallest whole-number ratio of the atoms of each element in a compound.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "elemental-composition"
+      ],
+      "explanation": "For example, CH2O is the empirical formula of a compound whose molecular formula is C6H12O6."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What information does photoelectron spectroscopy provide?",
+      "answer": "The binding energies of electrons in an atom's occupied subshells, with signal size related to electron count.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "photoelectron-spectroscopy"
+      ],
+      "explanation": "The spectrum can be used to infer electron configuration and relative attraction to the nucleus."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are valence electrons?",
+      "answer": "Electrons in an atom's outer occupied shell that are most involved in chemical bonding.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-1",
+        "valence-electrons"
+      ],
+      "explanation": "For main-group elements, the number of valence electrons helps predict common ion charges and bonding."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which change generally makes the lattice energy of an ionic solid larger in magnitude?",
+      "choices": [
+        "Using ions with larger charges and smaller radii",
+        "Using ions with smaller charges and larger radii",
+        "Adding more water molecules between the ions",
+        "Reducing the number of ions in each formula unit"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "ionic-bonding"
+      ],
+      "explanation": "Electrostatic attraction increases with charge and decreases with distance. Greater ionic charges and shorter ion separation strengthen the lattice."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why can a copper wire conduct electricity as a solid?",
+      "choices": [
+        "Copper atoms release all their electrons into the air",
+        "Some electrons are delocalized and can move through the metal",
+        "Copper ions move freely through the solid lattice",
+        "The bonds between copper atoms continually break and reform"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "metallic-bonding"
+      ],
+      "explanation": "Metallic bonding includes mobile, delocalized valence electrons that carry charge through the solid."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Brass is harder than pure copper partly because zinc atoms in its structure...",
+      "choices": [
+        "form separate liquid droplets between copper atoms",
+        "replace some copper atoms and disrupt the regular layers",
+        "remove all mobile electrons from the metal",
+        "make the copper atoms larger without changing the lattice"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "alloys"
+      ],
+      "explanation": "Brass is a substitutional alloy. Zinc atoms occupy some copper positions and make it harder for layers of atoms to slide past one another."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Lewis diagram best represents CO2?",
+      "choices": [
+        "O-C-O with one single bond to each O",
+        "O=C=O with two lone pairs on each O",
+        "C=O with one oxygen atom omitted",
+        "O-C-O with a lone pair on carbon and two single bonds"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "lewis-diagrams"
+      ],
+      "explanation": "Two C=O double bonds give each atom an octet and minimize formal charges."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the formal charge on nitrogen in NH4+?",
+      "choices": [
+        "+1",
+        "0",
+        "-1",
+        "+2"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "formal-charge"
+      ],
+      "explanation": "Formal charge is valence electrons minus nonbonding electrons minus half the bonding electrons: 5 - 0 - 4 = +1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do the resonance structures of NO3- represent?",
+      "choices": [
+        "Nitrate rapidly switching between different atom arrangements",
+        "Different valid electron placements for the same fixed atom arrangement",
+        "Different compounds with the same formula",
+        "A mixture of nitrate ions with different numbers of oxygen atoms"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "resonance"
+      ],
+      "explanation": "The nuclei keep the same arrangement. The actual ion is described by delocalized electrons, not by switching among separate structures."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the molecular shape of NH3?",
+      "choices": [
+        "Trigonal planar",
+        "Trigonal pyramidal",
+        "Tetrahedral",
+        "Linear"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "vsepr"
+      ],
+      "explanation": "Nitrogen has three bonding regions and one lone pair. The electron geometry is tetrahedral, while the molecular shape is trigonal pyramidal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which molecule is nonpolar even though it contains polar bonds?",
+      "choices": [
+        "CO2",
+        "NH3",
+        "H2O",
+        "HCl"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "molecular-polarity"
+      ],
+      "explanation": "CO2 is linear, so its two equal C=O bond dipoles point in opposite directions and cancel."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "On a potential-energy curve for two bonded atoms, what does the minimum represent?",
+      "choices": [
+        "The point where the atoms no longer attract",
+        "The most stable internuclear distance",
+        "The energy required to remove a proton",
+        "The highest-energy transition state"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "bond-energy"
+      ],
+      "explanation": "At the minimum, attractive and repulsive interactions balance, giving the equilibrium bond length and lowest potential energy."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An ionic solid is held together by electrostatic attractions among oppositely charged ions.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "ionic-bonding"
+      ],
+      "explanation": "Ionic compounds form extended lattices of cations and anions rather than separate neutral molecules."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A metal can be hammered into a sheet because metallic bonding allows layers to shift while attraction is maintained.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "metallic-bonding"
+      ],
+      "explanation": "The mobile electrons continue to attract the positive metal ions when layers move."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A Lewis structure with the fewest formal charges is always the only valid structure for every molecule or ion.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "formal-charge"
+      ],
+      "explanation": "Some species require resonance descriptions, and formal charges may remain even in the most useful structures."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A molecule with polar bonds must be polar overall.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "molecular-polarity"
+      ],
+      "explanation": "Molecular geometry can make bond dipoles cancel, as in linear CO2."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is lattice energy?",
+      "answer": "The energy change associated with forming an ionic solid from separated gaseous ions, or the reverse process under a stated convention.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "ionic-bonding"
+      ],
+      "explanation": "Its magnitude reflects the electrostatic attraction among ions in the crystal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is resonance in a Lewis-structure model?",
+      "answer": "The use of multiple valid electron-dot structures with the same atom arrangement to represent delocalized electrons.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "resonance"
+      ],
+      "explanation": "The resonance hybrid is the real description; the molecule does not alternate between separate drawings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How is formal charge calculated for an atom in a Lewis diagram?",
+      "answer": "Formal charge = valence electrons - nonbonding electrons - one-half of bonding electrons.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "formal-charge"
+      ],
+      "explanation": "The calculation assigns bonding electrons equally between the bonded atoms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does VSEPR predict?",
+      "answer": "Molecular shape from the arrangement of electron regions around a central atom, which repel one another.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-2",
+        "vsepr"
+      ],
+      "explanation": "Lone pairs also occupy regions and can change the observed molecular shape."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the same pressure, which pure substance is expected to have the highest boiling point?",
+      "choices": [
+        "C4H10",
+        "C2H6",
+        "C3H8",
+        "CH4"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "intermolecular-forces"
+      ],
+      "explanation": "These molecules are nonpolar, so their main intermolecular attraction is London dispersion. It grows with electron cloud size, making C4H10 hardest to separate into a gas."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why does solid NaCl have a much higher melting point than solid CO2?",
+      "choices": [
+        "CO2's molecular attractions are stronger than the ionic lattice attractions in solid NaCl",
+        "NaCl's ionic lattice has stronger attractions than forces between solid CO2 molecules",
+        "Melting NaCl breaks covalent bonds inside its separate molecules",
+        "Solid CO2 forms an ionic lattice, while NaCl consists of separate neutral molecules"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "solids"
+      ],
+      "explanation": "Melting NaCl disrupts strong ion-ion attractions. Solid CO2 consists of neutral molecules held together mainly by weaker intermolecular forces."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A pure substance is melting at constant pressure. What happens to its temperature while the solid and liquid coexist?",
+      "choices": [
+        "It rises steadily as each particle melts",
+        "It falls because melting is exothermic",
+        "It remains nearly constant while energy changes phase",
+        "It alternates between two temperatures"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "phase-changes"
+      ],
+      "explanation": "During melting, added energy increases potential energy as particles separate rather than raising their average kinetic energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A gas has volume 2.0 L at 300 K. At constant pressure, what volume will it occupy at 450 K?",
+      "choices": [
+        "1.3 L",
+        "2.0 L",
+        "4.5 L",
+        "3.0 L"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "gas-laws"
+      ],
+      "explanation": "At constant pressure, V/T is constant. V2 = 2.0 L x 450 K / 300 K = 3.0 L."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What volume does 0.500 mol of an ideal gas occupy at 300 K and 1.00 atm? Use R = 0.0821 L atm mol-1 K-1.",
+      "choices": [
+        "6.16 L",
+        "24.6 L",
+        "12.3 L",
+        "49.3 L"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "ideal-gas-law"
+      ],
+      "explanation": "Use PV = nRT: V = (0.500)(0.0821)(300)/(1.00) = 12.3 L."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the same temperature, which statement about helium and xenon gas samples is correct?",
+      "choices": [
+        "Helium atoms have greater average kinetic energy",
+        "Both samples have the same average kinetic energy per atom",
+        "Xenon atoms have greater average kinetic energy",
+        "Their average kinetic energies depend only on pressure"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "kinetic-molecular-theory"
+      ],
+      "explanation": "Average translational kinetic energy depends on absolute temperature, not the gas identity or molar mass."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Under which conditions does a real gas usually deviate most from ideal behavior?",
+      "choices": [
+        "Low pressure and high temperature",
+        "Low pressure and low temperature",
+        "High pressure and high temperature",
+        "High pressure and low temperature"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "real-gases"
+      ],
+      "explanation": "At high pressure, particle volume matters; at low temperature, attractions matter more because particles move more slowly."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the molarity of a solution made by dissolving 0.30 mol solute to make 1.20 L of solution?",
+      "choices": [
+        "0.36 M",
+        "0.25 M",
+        "2.5 M",
+        "4.0 M"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "solutions"
+      ],
+      "explanation": "Molarity is moles of solute per liter of solution: 0.30 mol / 1.20 L = 0.25 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A particle model shows the same number of dissolved solute particles in twice the solution volume. How does the concentration change?",
+      "choices": [
+        "It doubles",
+        "It becomes zero",
+        "It stays the same",
+        "It is cut in half"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "particle-models"
+      ],
+      "explanation": "Concentration is amount of solute divided by solution volume. Doubling the volume while keeping the solute amount fixed halves the concentration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In paper chromatography, a dye spot travels farther with the solvent than another dye. What is the best explanation?",
+      "choices": [
+        "It has a stronger attraction to the paper",
+        "It has a larger molar mass",
+        "It has a greater attraction to the mobile solvent relative to the paper",
+        "It has a higher boiling point"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "chromatography"
+      ],
+      "explanation": "A component that prefers the mobile phase spends more time moving with the solvent and travels farther."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What generally happens to the solubility of a gas in water as the water temperature rises?",
+      "choices": [
+        "It increases because gas particles move faster",
+        "It decreases because dissolved gas escapes more readily",
+        "It stays constant for every gas",
+        "It becomes equal to the gas pressure"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "solubility"
+      ],
+      "explanation": "For many gases, dissolution in water is exothermic, so warming favors gas particles leaving the solution."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At a fixed temperature, all ideal-gas particles have the same speed.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "kinetic-molecular-theory"
+      ],
+      "explanation": "Gas particles have a distribution of speeds. Their average kinetic energy is the same at a given temperature, but lighter particles have higher typical speeds."
+    },
+    {
+      "type": "true_false",
+      "prompt": "For gases at the same temperature, lighter molecules have a greater root-mean-square speed than heavier molecules.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "kinetic-molecular-theory"
+      ],
+      "explanation": "At equal average kinetic energy, a smaller molecular mass corresponds to a higher typical speed."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an intermolecular force?",
+      "answer": "An attraction or repulsion between separate particles, such as molecules or ions.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "intermolecular-forces"
+      ],
+      "explanation": "Intermolecular forces are distinct from the bonds holding atoms together within a molecule."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is molarity?",
+      "answer": "Moles of dissolved solute per liter of total solution, written mol/L or M.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "solutions"
+      ],
+      "explanation": "The volume is the final solution volume, not just the volume of solvent."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does chromatography separate substances by?",
+      "answer": "Differences in how strongly each component interacts with a stationary phase and a moving mobile phase.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "chromatography"
+      ],
+      "explanation": "A component's relative attractions affect how quickly and how far it travels."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "State the Beer-Lambert relationship.",
+      "answer": "For a fixed path length and absorbing species, absorbance A = epsilon l c, so absorbance is proportional to concentration.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "spectroscopy"
+      ],
+      "explanation": "A calibration curve can use measured absorbance to estimate an unknown concentration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the net ionic equation when aqueous AgNO3 and NaCl are mixed?",
+      "choices": [
+        "Ag+ + Cl- -> AgCl(s)",
+        "Na+ + Cl- -> NaCl(s)",
+        "Ag+ + NO3- -> AgNO3(s)",
+        "AgNO3(aq) + NaCl(aq) -> AgCl(aq) + NaNO3(aq)"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "net-ionic-equations"
+      ],
+      "explanation": "Na+ and NO3- remain dissolved as spectator ions. AgCl is insoluble, so Ag+ and Cl- form the precipitate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For 2H2 + O2 -> 2H2O, 3.0 mol H2 reacts with 2.0 mol O2. Which reactant is limiting, and how much H2O can form?",
+      "choices": [
+        "H2; 6.0 mol",
+        "H2; 3.0 mol",
+        "O2; 2.0 mol",
+        "O2; 4.0 mol"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "stoichiometry"
+      ],
+      "explanation": "Three moles of H2 require 1.5 mol O2, which is available. H2 limits the reaction and forms 3.0 mol H2O in a 1:1 mole ratio."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What volume of 0.100 M NaOH is needed to neutralize 25.0 mL of 0.100 M HCl?",
+      "choices": [
+        "12.5 mL",
+        "50.0 mL",
+        "25.0 mL",
+        "100. mL"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "titration"
+      ],
+      "explanation": "HCl and NaOH react 1:1. Equal molarity therefore requires equal volumes: 25.0 mL."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the net ionic equation for a strong acid reacting with a strong base?",
+      "choices": [
+        "H2O -> H+ + OH-",
+        "Na+ + Cl- -> NaCl(s)",
+        "HCl + NaOH -> NaCl + H2O",
+        "H+ + OH- -> H2O"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "acid-base-reactions"
+      ],
+      "explanation": "The acid and base provide H+ and OH-. The spectator ions are left out of the net ionic equation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which equation represents a decomposition reaction?",
+      "choices": [
+        "2KClO3 -> 2KCl + 3O2",
+        "2Mg + O2 -> 2MgO",
+        "CH4 + 2O2 -> CO2 + 2H2O",
+        "Ag+ + Cl- -> AgCl"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "reaction-types"
+      ],
+      "explanation": "A decomposition reaction has one reactant forming two or more products."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In the change Fe2+ -> Fe3+ + e-, what happens to iron?",
+      "choices": [
+        "It is oxidized because it loses an electron",
+        "It is reduced because it gains an electron",
+        "It is reduced because its oxidation state rises",
+        "It is neither oxidized nor reduced"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "redox"
+      ],
+      "explanation": "Iron loses an electron, and its oxidation state increases from +2 to +3. Loss of electrons is oxidation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A student records too large a titrant volume by adding past the endpoint. What happens to the calculated concentration of the analyte?",
+      "choices": [
+        "It is underestimated",
+        "It becomes zero",
+        "It is unchanged",
+        "It is overestimated"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "laboratory-error"
+      ],
+      "explanation": "The calculation treats the excess titrant as if it reacted with analyte, so the inferred analyte amount and concentration are too high."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A balanced particle equation is 2A + B -> A2B. If 8 A particles and 5 B particles are mixed, how many A2B particles can form?",
+      "choices": [
+        "4",
+        "2",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "particle-models"
+      ],
+      "explanation": "Each product particle needs two A particles and one B particle. A is limiting, so 8 A particles form 4 A2B particles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why should a chemical equation be balanced before using its coefficients for stoichiometry?",
+      "choices": [
+        "To conserve each type of atom and give valid mole ratios",
+        "To make the reaction faster",
+        "To make the product side contain more mass",
+        "To ensure every reaction has equal numbers of molecules on both sides"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "conservation-of-mass"
+      ],
+      "explanation": "Balanced coefficients preserve the number of atoms of each element and provide the correct ratios between reacting particles."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Spectator ions appear unchanged on both sides of a complete ionic equation and are omitted from the net ionic equation.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "net-ionic-equations"
+      ],
+      "explanation": "They do not participate in the chemical change being represented."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A phase change such as boiling creates a new chemical substance.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "physical-and-chemical-changes"
+      ],
+      "explanation": "Boiling changes a substance's physical state. Its chemical identity remains the same."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a redox reaction, oxidation and reduction occur together because electrons lost by one species are gained by another.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "redox"
+      ],
+      "explanation": "Electron transfer is conserved across the paired oxidation and reduction processes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Balanced equation coefficients give mass ratios directly, without using molar masses.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "stoichiometry"
+      ],
+      "explanation": "Coefficients give ratios of particles or moles. Convert between mass and moles with molar mass."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a limiting reactant?",
+      "answer": "The reactant that is consumed first and therefore limits the maximum amount of product.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "stoichiometry"
+      ],
+      "explanation": "Any other reactant is present in excess when the limiting reactant is used up."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a net ionic equation?",
+      "answer": "An equation showing only the dissolved ions and substances that directly participate in the chemical change.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "net-ionic-equations"
+      ],
+      "explanation": "Unchanged spectator ions are canceled from the complete ionic equation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do the equivalence point and endpoint of a titration differ?",
+      "answer": "The equivalence point is the stoichiometric completion point; the endpoint is the observed signal used to mark it.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "titration"
+      ],
+      "explanation": "A good indicator changes color close to the equivalence point, but the two terms describe different things."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does oxidation state track in redox chemistry?",
+      "answer": "A bookkeeping assignment used to track electron transfer; an increase indicates oxidation and a decrease indicates reduction.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-4",
+        "redox"
+      ],
+      "explanation": "Oxidation states are assigned by rules and need not equal actual partial charges in covalent bonds."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a rate experiment, doubling [A] while holding other reactant concentrations fixed doubles the initial rate. What is the order with respect to A?",
+      "choices": [
+        "Zero order",
+        "Second order",
+        "First order",
+        "Third order"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "rate-laws"
+      ],
+      "explanation": "If rate is proportional to [A]^m, doubling [A] changes rate by 2^m. A factor of 2 means m = 1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For rate = k[A][B]^2, what is the overall reaction order?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "rate-laws"
+      ],
+      "explanation": "The overall order is the sum of the exponents: 1 + 2 = 3."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A first-order reactant starts at 0.80 M and has a half-life of 20 s. What is its concentration after 60 s?",
+      "choices": [
+        "0.40 M",
+        "0.10 M",
+        "0.20 M",
+        "0.025 M"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "integrated-rate-laws"
+      ],
+      "explanation": "Sixty seconds is three half-lives: 0.80 M -> 0.40 M -> 0.20 M -> 0.10 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For the elementary step NO + O3 -> NO2 + O2, which rate law follows from the step's molecularity?",
+      "choices": [
+        "rate = k[NO]^2[O3]",
+        "rate = k[NO2][O2]",
+        "rate = k[NO][O3]",
+        "rate = k[NO][O3]^2"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "elementary-reactions"
+      ],
+      "explanation": "This elementary step involves one NO particle and one O3 particle, so the rate law is rate = k[NO][O3]."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why does increasing temperature usually increase a reaction rate?",
+      "choices": [
+        "The activation energy becomes zero",
+        "Reactant particles stop colliding with one another",
+        "The equilibrium constant must increase",
+        "A larger fraction of collisions has energy at least equal to the activation energy"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "collision-model"
+      ],
+      "explanation": "Higher temperature shifts the molecular energy distribution so more collisions can overcome the activation-energy barrier."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction-energy diagram has an uncatalyzed activation energy of 80 kJ/mol and a catalyzed activation energy of 45 kJ/mol. What changes?",
+      "choices": [
+        "The catalyst lowers the activation energy but leaves the reaction enthalpy unchanged",
+        "The catalyst makes the reaction enthalpy 35 kJ/mol more negative",
+        "The catalyst changes the identities of reactants and products",
+        "The catalyst raises the energy of the products by 35 kJ/mol"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "catalysis"
+      ],
+      "explanation": "A catalyst offers a lower-barrier pathway. It does not change the energy difference between reactants and products."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a proposed mechanism, which step most directly controls the observed rate when it is much slower than the others?",
+      "choices": [
+        "The fastest step",
+        "The step with the largest coefficient in the overall equation",
+        "The final product's decomposition",
+        "The rate-determining slow step"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "reaction-mechanisms"
+      ],
+      "explanation": "A slow step limits how quickly the mechanism can proceed. The mechanism's rate law must still agree with experimental data."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A catalyst is added to a system already at chemical equilibrium. What is the immediate effect?",
+      "choices": [
+        "Equilibrium is reached faster, but K is unchanged",
+        "K decreases",
+        "K increases",
+        "The equilibrium shifts toward products"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "catalysis"
+      ],
+      "explanation": "A catalyst speeds both forward and reverse reactions. It changes the time to reach equilibrium, not K or the equilibrium composition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a second-order reaction with rate = k[A]2, what are the units of k when concentration is in mol/L and time in seconds?",
+      "choices": [
+        "s-1",
+        "L mol-1 s-1",
+        "mol L-1 s-1",
+        "L2 mol-2 s-1"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "rate-laws"
+      ],
+      "explanation": "Rate has units M/s and [A]^2 has units M^2, so k has units M^-1 s^-1, or L mol^-1 s^-1."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The exponents in an experimentally determined rate law must always match the coefficients in the overall balanced equation.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "rate-laws"
+      ],
+      "explanation": "Rate-law exponents are determined experimentally. They match stoichiometric coefficients only for an elementary step."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A catalyst changes the value of the equilibrium constant by lowering the forward activation energy.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "catalysis"
+      ],
+      "explanation": "A catalyst lowers activation barriers for forward and reverse pathways and does not change the equilibrium constant."
+    },
+    {
+      "type": "true_false",
+      "prompt": "For a first-order reaction, the half-life does not depend on the starting concentration.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "integrated-rate-laws"
+      ],
+      "explanation": "The first-order half-life is ln(2)/k, so it depends on k rather than the initial concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An intermediate is formed in one elementary step and consumed in a later step of a mechanism.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "reaction-mechanisms"
+      ],
+      "explanation": "Intermediates cancel when the elementary steps are added to obtain the overall reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a reaction's rate law?",
+      "answer": "An experimentally supported equation relating reaction rate to reactant concentrations and a rate constant.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "rate-laws"
+      ],
+      "explanation": "The concentration exponents are reaction orders and are not generally taken from the balanced equation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is activation energy?",
+      "answer": "The energy barrier that reactant particles must overcome to reach the transition state.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "activation-energy"
+      ],
+      "explanation": "A catalyst can provide a pathway with a lower activation energy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a reaction intermediate?",
+      "answer": "A species produced in one step of a mechanism and consumed in a later step.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "reaction-mechanisms"
+      ],
+      "explanation": "It appears in the mechanism's steps but cancels from the net reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a catalyst change in a reaction mechanism?",
+      "answer": "It supplies an alternative pathway with a lower activation-energy barrier and is regenerated overall.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "catalysis"
+      ],
+      "explanation": "A catalyst changes reaction rates, not the reaction's net stoichiometry or equilibrium constant."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction releases heat to its surroundings at constant pressure. What is true about the system?",
+      "choices": [
+        "Its entropy must be zero",
+        "Its enthalpy change is positive",
+        "Its temperature must decrease",
+        "Its enthalpy change is negative"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "enthalpy"
+      ],
+      "explanation": "A process that releases heat is exothermic, so the system's enthalpy change is negative under constant pressure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "On a reaction-energy diagram, how is the forward activation energy measured?",
+      "choices": [
+        "From the products up to the reactants",
+        "From the transition-state peak down to the products",
+        "From the reactants up to the transition-state peak",
+        "From the products down to the reactants"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "energy-diagrams"
+      ],
+      "explanation": "The forward activation energy is the energy difference between the reactants and the transition state."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How much heat is absorbed by 50.0 g of water when it warms from 20.0 C to 25.0 C? Use c = 4.18 J g-1 C-1.",
+      "choices": [
+        "209 J",
+        "4.18 kJ",
+        "1.05 kJ",
+        "20.9 kJ"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "calorimetry"
+      ],
+      "explanation": "q = mcDeltaT = (50.0 g)(4.18 J g-1 C-1)(5.0 C) = 1.05 x 10^3 J, or 1.05 kJ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction occurs in a well-insulated coffee-cup calorimeter. The solution absorbs 2.4 kJ, and the cup absorbs negligible heat. What is q for the reaction?",
+      "choices": [
+        "+4.8 kJ",
+        "0 kJ",
+        "+2.4 kJ",
+        "-2.4 kJ"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "calorimetry"
+      ],
+      "explanation": "Energy is conserved. If the solution gains 2.4 kJ, the reaction loses 2.4 kJ under the stated assumption."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "During the melting of a pure solid at constant pressure, added heat primarily...",
+      "choices": [
+        "increases the average kinetic energy while the temperature rises",
+        "increases potential energy as particles separate, while temperature stays constant",
+        "changes the chemical identity of each particle",
+        "decreases the enthalpy of the system"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "phase-changes"
+      ],
+      "explanation": "At the melting point, energy helps overcome attractions between particles. The temperature remains nearly constant until melting is complete."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Use these reactions: C(s) + O2(g) -> CO2(g), Delta H = -394 kJ; C(s) + 1/2 O2(g) -> CO(g), Delta H = -111 kJ. What is Delta H for CO(g) + 1/2 O2(g) -> CO2(g)?",
+      "choices": [
+        "-505 kJ",
+        "+283 kJ",
+        "-283 kJ",
+        "+505 kJ"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "hess-law"
+      ],
+      "explanation": "Subtract the carbon-to-CO reaction from the carbon-to-CO2 reaction: -394 - (-111) = -283 kJ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Estimate Delta H for 2H2(g) + O2(g) -> 2H2O(g) using bond enthalpies H-H = 436, O=O = 498, and O-H = 463 kJ/mol.",
+      "choices": [
+        "-482 kJ",
+        "-1,852 kJ",
+        "+482 kJ",
+        "+1,852 kJ"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "bond-enthalpy"
+      ],
+      "explanation": "Breaking bonds costs 2(436) + 498 = 1,370 kJ. Forming four O-H bonds releases 1,852 kJ. Delta H is about 1,370 - 1,852 = -482 kJ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How is the standard enthalpy change of a reaction calculated from standard enthalpies of formation?",
+      "choices": [
+        "Sum for products minus sum for reactants, each weighted by its coefficient",
+        "Sum for reactants minus sum for products",
+        "Average of all formation enthalpies",
+        "Products' formation enthalpies multiplied by reactants' formation enthalpies"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "enthalpy-of-formation"
+      ],
+      "explanation": "Use Delta H reaction = sum n Delta Hf(products) - sum n Delta Hf(reactants)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A hot metal block and cool water are placed in an insulated container. At thermal equilibrium, what is true?",
+      "choices": [
+        "The metal has transferred all its energy to the water",
+        "They have the same thermal energy",
+        "The water must have a higher temperature because it has more mass",
+        "They have the same temperature, and heat transfer between them has ceased"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "thermal-equilibrium"
+      ],
+      "explanation": "Thermal equilibrium means the objects have the same temperature and no net heat flows between them."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At constant pressure, the heat transferred to or from a system equals its enthalpy change when only pressure-volume work occurs.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "enthalpy"
+      ],
+      "explanation": "Under these conditions, q at constant pressure is Delta H."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Hess's law works because enthalpy is a state function.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "hess-law"
+      ],
+      "explanation": "The enthalpy change depends on the initial and final states, not on the path taken."
+    },
+    {
+      "type": "true_false",
+      "prompt": "During a phase-change plateau for a pure substance, temperature stays constant while energy is transferred.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "phase-changes"
+      ],
+      "explanation": "The transferred energy changes particle arrangement and intermolecular potential energy during the phase change."
+    },
+    {
+      "type": "true_false",
+      "prompt": "If a reaction is exothermic, the system must also have a negative entropy change.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "entropy"
+      ],
+      "explanation": "Enthalpy and entropy describe different properties. An exothermic reaction can have positive, negative, or near-zero entropy change."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is specific heat capacity?",
+      "answer": "The heat needed to raise the temperature of one gram of a substance by one degree Celsius (or one kelvin).",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "calorimetry"
+      ],
+      "explanation": "For a sample, q = mcDeltaT when specific heat is approximately constant over the temperature range."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "State Hess's law.",
+      "answer": "The enthalpy change for an overall reaction equals the sum of enthalpy changes for any set of steps that adds to that reaction.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "hess-law"
+      ],
+      "explanation": "Reverse a reaction and change the sign of Delta H; scale a reaction and scale Delta H by the same factor."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is standard enthalpy of formation?",
+      "answer": "The enthalpy change for forming one mole of a substance from its elements in their standard states.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "enthalpy-of-formation"
+      ],
+      "explanation": "The standard enthalpy of formation of an element in its standard state is zero by convention."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does an exothermic process mean for the system and surroundings?",
+      "answer": "The system releases heat, so the surroundings gain that heat; at constant pressure the system has Delta H < 0.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-6",
+        "enthalpy"
+      ],
+      "explanation": "The sign refers to the system's energy change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For 2SO2(g) + O2(g) <=> 2SO3(g), which expression is Kc?",
+      "choices": [
+        "[SO2]2[O2] / [SO3]2",
+        "[SO3]2 / ([SO2]2[O2])",
+        "[SO3] / ([SO2][O2])",
+        "[SO3]2 / ([SO2][O2]2)"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-constant"
+      ],
+      "explanation": "Each concentration is raised to its stoichiometric coefficient. Pure solids and liquids, if present, are omitted."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a reaction, K = 4.0 and the current reaction quotient Q = 0.50. Which way will the reaction proceed to reach equilibrium?",
+      "choices": [
+        "Toward reactants because Q < K",
+        "Toward reactants because Q > K",
+        "Toward products because Q < K",
+        "It is already at equilibrium"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "reaction-quotient"
+      ],
+      "explanation": "Because Q is smaller than K, the mixture has too few products relative to equilibrium and will proceed toward products."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For H2(g) + I2(g) <=> 2HI(g), equilibrium concentrations are [H2] = 0.20 M, [I2] = 0.20 M, and [HI] = 0.80 M. What is Kc?",
+      "choices": [
+        "4",
+        "8",
+        "32",
+        "16"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-calculations"
+      ],
+      "explanation": "Kc = [HI]^2 / ([H2][I2]) = (0.80)^2 / ((0.20)(0.20)) = 16."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For N2O4(g) <=> 2NO2(g), Kc = 0.20 at 300 K. What is Kp? Use R = 0.0821 L atm mol-1 K-1.",
+      "choices": [
+        "0.0081",
+        "0.20",
+        "24.6",
+        "4.9"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "kp-and-kc"
+      ],
+      "explanation": "Delta n gas = 2 - 1 = 1. Kp = Kc(RT)^Delta n = 0.20(0.0821 x 300) = 4.9."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A very large equilibrium constant for a reaction indicates that, at equilibrium...",
+      "choices": [
+        "products are strongly favored",
+        "reactants are strongly favored",
+        "reactants and products must have equal concentrations",
+        "the forward and reverse rates are unequal"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-constant"
+      ],
+      "explanation": "A large K means the equilibrium mixture contains product concentrations that are large relative to reactant concentrations, accounting for coefficients."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For A <=> B, a mixture begins with [A] = 1.00 M and [B] = 0. At equilibrium Kc = [B]/[A] = 4.0. What is [B] at equilibrium?",
+      "choices": [
+        "0.80 M",
+        "0.50 M",
+        "0.20 M",
+        "1.25 M"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-concentrations"
+      ],
+      "explanation": "Let x = [B] formed. Then [A] = 1.00 - x and x/(1.00 - x) = 4. Solving gives x = 0.80 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For N2(g) + 3H2(g) <=> 2NH3(g), what is the effect of decreasing the container volume at constant temperature?",
+      "choices": [
+        "The system shifts toward N2 and H2, where there are more gas particles",
+        "The system shifts toward NH3, where there are fewer gas particles",
+        "K increases",
+        "There is no change because temperature is constant"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "le-chatelier"
+      ],
+      "explanation": "Compression raises pressure, so equilibrium shifts toward the side with fewer moles of gas. The value of K is unchanged at fixed temperature."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For an exothermic forward reaction at equilibrium, what happens when temperature increases?",
+      "choices": [
+        "The system shifts toward products and K increases",
+        "The system shifts toward reactants and K increases",
+        "The system shifts toward reactants and K decreases",
+        "Neither the position nor K changes"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "temperature-and-equilibrium"
+      ],
+      "explanation": "Adding heat favors the endothermic reverse direction. For an exothermic forward reaction, increasing temperature also decreases K."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "AgCl(s) <=> Ag+(aq) + Cl-(aq) has Ksp = 1.8 x 10^-10 in pure water. What is its approximate molar solubility?",
+      "choices": [
+        "1.8 x 10^-10 M",
+        "9.0 x 10^-11 M",
+        "1.3 x 10^-5 M",
+        "1.8 x 10^-5 M"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "solubility-equilibria"
+      ],
+      "explanation": "In pure water, [Ag+] = [Cl-] = s, so Ksp = s^2. The square root of 1.8 x 10^-10 is about 1.3 x 10^-5 M."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At dynamic equilibrium in a closed system, the forward and reverse reaction rates are equal.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "dynamic-equilibrium"
+      ],
+      "explanation": "Both reactions continue, but equal rates keep concentrations constant."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At equilibrium, the concentrations of reactants and products must be equal.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-concentrations"
+      ],
+      "explanation": "Equilibrium requires equal forward and reverse rates, not equal concentrations. The value of K determines their relationship."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Adding a catalyst to an equilibrium mixture changes K because it speeds the forward reaction.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "catalysis"
+      ],
+      "explanation": "A catalyst speeds both directions and does not change K or the equilibrium composition."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Adding a common ion to a saturated solution of a sparingly soluble salt generally decreases the salt's molar solubility.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "common-ion-effect"
+      ],
+      "explanation": "The added ion shifts the dissolution equilibrium toward the solid, reducing the amount that dissolves."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the reaction quotient Q tell you?",
+      "answer": "The products-to-reactants concentration ratio at a particular moment, using the same form as K.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "reaction-quotient"
+      ],
+      "explanation": "Comparing Q with K predicts the direction of net reaction needed to reach equilibrium."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the equilibrium constant K?",
+      "answer": "A temperature-dependent ratio of product and reactant activities at equilibrium; in AP calculations it is commonly expressed using concentrations or gas pressures.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "equilibrium-constant"
+      ],
+      "explanation": "The stoichiometric coefficients become exponents, and pure solids and liquids are omitted."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does Le Chatelier's principle predict?",
+      "answer": "How a system at equilibrium shifts in response to a change in concentration, pressure or volume, or temperature.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "le-chatelier"
+      ],
+      "explanation": "A shift tends to oppose the imposed change, while a catalyst only changes how quickly equilibrium is reached."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the common-ion effect?",
+      "answer": "The reduction in the solubility of a sparingly soluble ionic compound when a solution already contains one of its ions.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-7",
+        "common-ion-effect"
+      ],
+      "explanation": "The added ion shifts the dissolution equilibrium toward the undissolved solid."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the pH of 1.0 x 10^-3 M HCl at 25 C, assuming complete ionization?",
+      "choices": [
+        "1.0",
+        "11.0",
+        "3.0",
+        "13.0"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "strong-acids"
+      ],
+      "explanation": "HCl is a strong acid, so [H+] = 1.0 x 10^-3 M. pH = -log[H+] = 3.0."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A 0.10 M solution of a monoprotic weak acid HA has Ka = 1.0 x 10^-5. What is its approximate pH?",
+      "choices": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "weak-acids"
+      ],
+      "explanation": "For a weak acid, [H+] is approximately sqrt(Ka x C) = sqrt(1.0 x 10^-6) = 1.0 x 10^-3 M, so pH is about 3."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A solution has [OH-] = 1.0 x 10^-4 M at 25 C. What is its pH?",
+      "choices": [
+        "4",
+        "7",
+        "10",
+        "14"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "ph-and-poh"
+      ],
+      "explanation": "pOH = 4.00. At 25 C, pH + pOH = 14.00, so pH = 10.00."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which pair can form a buffer when mixed in suitable amounts?",
+      "choices": [
+        "CH3COOH and CH3COO-",
+        "HCl and NaCl",
+        "NaOH and NaCl",
+        "HNO3 and KNO3"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "buffers"
+      ],
+      "explanation": "A weak acid and its conjugate base can consume small added amounts of base and acid, respectively."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A buffer has pKa = 4.76 and equal concentrations of weak acid and conjugate base. What is its pH?",
+      "choices": [
+        "0.00",
+        "2.38",
+        "4.76",
+        "9.52"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "henderson-hasselbalch"
+      ],
+      "explanation": "The Henderson-Hasselbalch equation gives pH = pKa + log([base]/[acid]). When the ratio is 1, the logarithm is zero."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Two buffers have the same acid-to-conjugate-base ratio, but one contains ten times as much of each component per liter. Which statement is best?",
+      "choices": [
+        "Both buffers must have different pKa values",
+        "The more concentrated buffer has a pH ten times higher",
+        "The less concentrated buffer has greater capacity",
+        "The more concentrated buffer has greater capacity to resist added acid or base"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "buffer-capacity"
+      ],
+      "explanation": "The ratio sets the pH, while the total amounts of the buffer components help determine how much added acid or base can be absorbed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What happens to the solubility of Mg(OH)2(s) when acid is added to the solution?",
+      "choices": [
+        "It decreases because H+ adds more OH-",
+        "It is unchanged because Mg(OH)2 is a solid",
+        "It increases because H+ removes OH- from solution",
+        "It becomes zero because the acid is consumed"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "ph-and-solubility"
+      ],
+      "explanation": "H+ reacts with OH- to form water. Removing a dissolution product shifts Mg(OH)2(s) <=> Mg2+ + 2OH- toward more dissolved ions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At 25 C, what is the approximate pH at the equivalence point for titrating a strong acid with a strong base?",
+      "choices": [
+        "Below 7",
+        "Above 7",
+        "7",
+        "It depends only on the indicator"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "titration-curves"
+      ],
+      "explanation": "At equivalence, the acid and base have reacted stoichiometrically. The resulting salt is neutral for a strong acid-strong base titration at 25 C."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the stronger acid in water, HF or HCl?",
+      "choices": [
+        "HF, because fluorine is more electronegative",
+        "HF, because the H-F bond is shorter",
+        "They are equally strong because both are hydrogen halides",
+        "HCl, because the H-Cl bond is weaker and breaks more readily"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "molecular-structure"
+      ],
+      "explanation": "Across the hydrogen halides, acid strength increases down the group because the H-X bond becomes weaker. HCl ionizes more completely than HF."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A weak acid is one that only partially ionizes in water at equilibrium.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "weak-acids"
+      ],
+      "explanation": "Weak describes the extent of ionization, not the concentration of the solution."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A buffer can keep its pH unchanged no matter how much strong acid is added.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "buffers"
+      ],
+      "explanation": "A buffer resists pH changes for limited additions. Once one component is used up, the pH can change sharply."
+    },
+    {
+      "type": "true_false",
+      "prompt": "For a weak acid titrated with a strong base, the pH equals the pKa at the half-equivalence point.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "titration-curves"
+      ],
+      "explanation": "At half-equivalence, equal amounts of weak acid and conjugate base remain, so the Henderson-Hasselbalch equation gives pH = pKa."
+    },
+    {
+      "type": "true_false",
+      "prompt": "For a typical polyprotic acid, each successive ionization has a larger Ka than the preceding ionization.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "polyprotic-acids"
+      ],
+      "explanation": "Successive ionizations are generally less favorable, so Ka1 > Ka2 > Ka3."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is Ka?",
+      "answer": "The equilibrium constant for ionization of an acid in water.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "acid-equilibrium"
+      ],
+      "explanation": "A larger Ka means greater ionization and a stronger acid, for comparable conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is pKa?",
+      "answer": "The negative base-10 logarithm of Ka: pKa = -log Ka.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "ph-and-pka"
+      ],
+      "explanation": "A smaller pKa corresponds to a larger Ka and a stronger acid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the Henderson-Hasselbalch equation relate?",
+      "answer": "For a buffer, pH = pKa + log([conjugate base]/[weak acid]).",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "henderson-hasselbalch"
+      ],
+      "explanation": "It is useful when both members of a weak-acid/conjugate-base pair are present in appreciable amounts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a polyprotic acid?",
+      "answer": "An acid that can donate more than one proton per molecule in successive ionization steps.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-8",
+        "polyprotic-acids"
+      ],
+      "explanation": "Each step has its own equilibrium constant, such as Ka1 and Ka2."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which change is generally associated with an increase in entropy for the system?",
+      "choices": [
+        "Water vapor condenses to liquid water",
+        "A gas expands into a larger volume",
+        "A dissolved salt crystallizes from solution",
+        "A liquid freezes into an ordered solid"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "entropy"
+      ],
+      "explanation": "Expansion gives gas particles more possible positions. The other changes generally reduce the number of accessible arrangements for the system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction has total standard molar entropy of 230 J mol-1 K-1 for its products and 120 + 80 J mol-1 K-1 for its reactants. What is Delta S degree?",
+      "choices": [
+        "+30 J mol-1 K-1",
+        "-30 J mol-1 K-1",
+        "-430 J mol-1 K-1",
+        "+430 J mol-1 K-1"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "entropy-change"
+      ],
+      "explanation": "Delta S degree = sum S degree(products) - sum S degree(reactants) = 230 - (120 + 80) = +30 J mol-1 K-1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction has Delta H = +20 kJ/mol and Delta S = +100 J mol-1 K-1 at 300 K. What is Delta G at this temperature?",
+      "choices": [
+        "+20 kJ/mol",
+        "+10 kJ/mol",
+        "-10 kJ/mol",
+        "+50 kJ/mol"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "gibbs-free-energy"
+      ],
+      "explanation": "Convert Delta S to 0.100 kJ mol-1 K-1. Delta G = Delta H - TDeltaS = 20 - (300)(0.100) = -10 kJ/mol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction has negative Delta G under specified conditions but proceeds very slowly. What best explains this?",
+      "choices": [
+        "Thermodynamic favorability does not guarantee a small activation barrier",
+        "Negative Delta G means the reaction is at equilibrium",
+        "A slow reaction must have positive Delta G",
+        "The reaction must absorb heat"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "thermodynamics-and-kinetics"
+      ],
+      "explanation": "Delta G describes thermodynamic favorability. Kinetics depends on the pathway and activation energy, so a favorable reaction can still be slow."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a reaction at a given temperature, Delta G degree = -RT ln K. If K is greater than 1, what is true?",
+      "choices": [
+        "Delta G degree is positive and reactants are favored at equilibrium",
+        "Delta G degree is negative and products are favored at equilibrium",
+        "Delta G degree is zero and the reaction has stopped",
+        "Delta G degree must equal the activation energy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "free-energy-and-equilibrium"
+      ],
+      "explanation": "When K > 1, ln K is positive, so -RT ln K is negative. Products are favored relative to reactants at equilibrium."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A nonspontaneous reaction with Delta G = +15 kJ/mol is coupled to a reaction with Delta G = -22 kJ/mol. What is Delta G for the combined process?",
+      "choices": [
+        "-37 kJ/mol",
+        "+7 kJ/mol",
+        "-7 kJ/mol",
+        "+37 kJ/mol"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "coupled-reactions"
+      ],
+      "explanation": "The free-energy changes add: +15 + (-22) = -7 kJ/mol. The coupled overall process is thermodynamically favorable."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a galvanic cell, which process occurs at the anode?",
+      "choices": [
+        "Reduction",
+        "Precipitation",
+        "Neutralization",
+        "Oxidation"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "galvanic-cells"
+      ],
+      "explanation": "Oxidation occurs at the anode. In a galvanic cell, electrons then flow through the external circuit toward the cathode, where reduction occurs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Using standard reduction potentials E degree(Cu2+/Cu) = +0.80 V and E degree(Zn2+/Zn) = -0.76 V, what is E degree cell for Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)?",
+      "choices": [
+        "+1.56 V",
+        "-0.04 V",
+        "+0.04 V",
+        "-1.56 V"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "cell-potential"
+      ],
+      "explanation": "Copper is reduced at the cathode and zinc is oxidized at the anode. E degree cell = E degree cathode - E degree anode = 0.80 - (-0.76) = +1.56 V."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s), what happens to cell potential if [Zn2+] increases while [Cu2+] stays fixed?",
+      "choices": [
+        "It increases because Q decreases",
+        "It becomes equal to E degree regardless of concentration",
+        "It remains unchanged because temperature is fixed",
+        "It decreases because Q increases"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "nernst-equation"
+      ],
+      "explanation": "Q = [Zn2+]/[Cu2+], so raising [Zn2+] raises Q. From the Nernst relationship, increasing Q lowers Ecell."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A charge of 96,500 C passes through a solution containing Cu2+. How much copper can be deposited? Use F = 96,500 C/mol e-.",
+      "choices": [
+        "0.25 mol",
+        "1.0 mol",
+        "0.50 mol",
+        "2.0 mol"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "electrolysis"
+      ],
+      "explanation": "The charge is 1 mol of electrons. Since Cu2+ + 2e- -> Cu, this deposits 0.50 mol Cu."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a galvanic cell operating spontaneously under the stated conditions, Ecell is positive and Delta G is negative.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "cell-potential"
+      ],
+      "explanation": "The relationship is Delta G = -nFEcell for the cell reaction as written."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A salt bridge lets electrons flow between the half-cells through the solution.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "electrochemical-cells"
+      ],
+      "explanation": "Electrons travel through the external wire. Ions move through the salt bridge to maintain charge balance."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A negative Delta G guarantees that a reaction occurs rapidly.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "thermodynamics-and-kinetics"
+      ],
+      "explanation": "A negative Delta G indicates thermodynamic favorability, while the rate depends on kinetic barriers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is standard molar entropy?",
+      "answer": "The entropy of one mole of a substance in its standard state at a specified temperature, commonly 298 K in tabulated data.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "absolute-entropy"
+      ],
+      "explanation": "Unlike standard enthalpy of formation, standard molar entropy is not assigned zero for elements in their standard states."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are the anode and cathode in any electrochemical cell?",
+      "answer": "The anode is where oxidation occurs; the cathode is where reduction occurs.",
+      "difficulty": "easy",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "electrochemical-cells"
+      ],
+      "explanation": "Remember: oxidation at the anode and reduction at the cathode, for both galvanic and electrolytic cells."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the Nernst equation relate?",
+      "answer": "Cell potential to standard cell potential, temperature, electron transfer, and the reaction quotient.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "nernst-equation"
+      ],
+      "explanation": "At a fixed temperature, changing concentrations changes Q and therefore the cell potential."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How are charge, current, and time related during electrolysis?",
+      "answer": "The charge passed is q = I t; divide by Faraday's constant to find moles of electrons, then use the half-reaction stoichiometry.",
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "faradays-law"
+      ],
+      "explanation": "One mole of electrons carries approximately 96,500 C of charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Beer-Lambert calibration graph is linear: a 0.10 M standard has absorbance 0.20 and a 0.30 M standard has absorbance 0.60. What concentration corresponds to an unknown with absorbance 0.40?",
+      "choices": [
+        "0.10 M",
+        "0.30 M",
+        "0.20 M",
+        "0.40 M"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-3",
+        "spectroscopy",
+        "data-analysis"
+      ],
+      "explanation": "The unknown lies halfway between the two standards in absorbance, so linear interpolation gives 0.20 M. The straight-line relationship is valid for the stated conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "To test how the initial concentration of A affects the rate of A + B -> products, which comparison is best controlled?",
+      "choices": [
+        "Change [A] while keeping [B], temperature, and total volume the same",
+        "Change [A] and [B] together while keeping temperature the same",
+        "Change temperature and [A] together while keeping total volume the same",
+        "Change the catalyst and [A] together while keeping [B] the same"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "experimental-design",
+        "rate-laws"
+      ],
+      "explanation": "Vary one independent variable, [A], while holding other conditions constant. Then any systematic rate difference can be linked to [A]."
+    }
+  ]
+}
