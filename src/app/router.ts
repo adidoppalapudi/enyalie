@@ -58,8 +58,8 @@ export function routeToHash(route: Route): string {
 // Each app history entry tracks how many screens are behind it.
 export function depthOf(state: unknown): number {
   if (typeof state !== 'object' || state === null) return 0;
-  const value = state as { enyalieDepth?: unknown; rekallDepth?: unknown };
-  const depth = value.enyalieDepth ?? value.rekallDepth;
+  const value = state as { enyalieDepth?: unknown };
+  const depth = value.enyalieDepth;
   if (typeof depth === 'number') return depth;
   return 0;
 }

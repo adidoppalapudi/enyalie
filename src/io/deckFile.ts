@@ -31,7 +31,6 @@ import {
 } from '../models/validation';
 
 const DECK_FILE_FORMAT = 'enyalie-deck';
-const LEGACY_DECK_FILE_FORMAT = 'rekall-deck';
 const DECK_FILE_VERSION = 1;
 
 export interface DeckFile {
@@ -77,11 +76,7 @@ export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
   }
   if (!isRecord(data)) return failure('file', NOT_A_DECK);
 
-  if (
-    data.format !== undefined &&
-    data.format !== DECK_FILE_FORMAT &&
-    data.format !== LEGACY_DECK_FILE_FORMAT
-  ) {
+  if (data.format !== undefined && data.format !== DECK_FILE_FORMAT) {
     return failure('format', `${NOT_A_DECK} (Its format is "${String(data.format)}".)`);
   }
   if (data.version !== undefined) {

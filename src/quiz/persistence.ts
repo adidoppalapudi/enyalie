@@ -14,17 +14,13 @@ import {
   type QuizSession,
   type TimerOption,
 } from './engine';
-import { clearMigratedValue, readMigratedValue, writeMigratedValue } from '../lib/browserStorageMigration';
-
 const SESSION_KEY = 'enyalie.quiz';
-const LEGACY_SESSION_KEY = 'rekall.quiz';
 const PREFERENCES_KEY = 'enyalie.quizPreferences';
-const LEGACY_PREFERENCES_KEY = 'rekall.quizPreferences';
 
 export function saveSession(session: QuizSession | null): void {
   try {
-    if (session) writeMigratedValue(sessionStorage, SESSION_KEY, LEGACY_SESSION_KEY, JSON.stringify(session));
-    else clearMigratedValue(sessionStorage, SESSION_KEY, LEGACY_SESSION_KEY);
+    if (session) sessionStorage.setItem(SESSION_KEY, JSON.stringify(session));
+    else sessionStorage.removeItem(SESSION_KEY);
   } catch {
     // The quiz just won't survive a reload.
   }
@@ -32,20 +28,12 @@ export function saveSession(session: QuizSession | null): void {
 
 export function loadSession(): QuizSession | null {
   try {
-    const raw = readMigratedValue(sessionStorage, SESSION_KEY, LEGACY_SESSION_KEY, isValidSessionJson);
+    const raw = sessionStorage.getItem(SESSION_KEY);
     if (!raw) return null;
     const data: unknown = JSON.parse(raw);
     return looksLikeSession(data) ? data : null;
   } catch {
     return null;
-  }
-}
-
-function isValidSessionJson(raw: string): boolean {
-  try {
-    return looksLikeSession(JSON.parse(raw));
-  } catch {
-    return false;
   }
 }
 
@@ -83,7 +71,7 @@ export function loadPreferences(): QuizPreferences {
     timer: DEFAULT_SETTINGS.timer,
   };
   try {
-    const raw = readMigratedValue(localStorage, PREFERENCES_KEY, LEGACY_PREFERENCES_KEY, isPreferencesJson);
+    const raw = localStorage.getItem(PREFERENCES_KEY);
     if (!raw) return defaults;
     const data = JSON.parse(raw) as Partial<QuizPreferences>;
     return {
@@ -102,22 +90,9 @@ export function loadPreferences(): QuizPreferences {
 /** Remembers length, shuffle options and timer (not the filters, which depend on the deck). */
 export function savePreferences({ count, shuffleQuestions, shuffleChoices, timer }: QuizPreferences): void {
   try {
-    writeMigratedValue(
-      localStorage,
-      PREFERENCES_KEY,
-      LEGACY_PREFERENCES_KEY,
-      JSON.stringify({ count, shuffleQuestions, shuffleChoices, timer }),
-    );
+    localStorage.setItem(PREFERENCES_KEY, JSON.stringify({ count, shuffleQuestions, shuffleChoices, timer }));
   } catch {
     // Not important enough to report.
   }
 }
 
-function isPreferencesJson(raw: string): boolean {
-  try {
-    const data: unknown = JSON.parse(raw);
-    return typeof data === 'object' && data !== null && !Array.isArray(data);
-  } catch {
-    return false;
-  }
-}

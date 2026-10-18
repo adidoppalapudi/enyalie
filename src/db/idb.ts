@@ -7,10 +7,9 @@
  * never unrelated async work such as fetch().
  */
 
-const DB_VERSION = 2;
+const DB_VERSION = 3;
 export const DECKS = 'decks';
 export const QUESTIONS = 'questions';
-export const MIGRATIONS = 'migrations';
 /** Index on questions.deckId, used to load or delete one deck's questions. */
 export const BY_DECK = 'byDeck';
 
@@ -32,7 +31,9 @@ export function openDatabase(name: string): Promise<IDBDatabase> {
         const questions = db.createObjectStore(QUESTIONS, { keyPath: 'id' });
         questions.createIndex(BY_DECK, 'deckId', { unique: false });
       }
-      if (event.oldVersion < 2) db.createObjectStore(MIGRATIONS, { keyPath: 'id' });
+      if (event.oldVersion < 3 && db.objectStoreNames.contains('migrations')) {
+        db.deleteObjectStore('migrations');
+      }
     };
     request.onsuccess = () => resolve(request.result);
     request.onerror = () => reject(request.error ?? new Error('Could not open the local database.'));

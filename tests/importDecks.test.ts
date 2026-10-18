@@ -28,12 +28,6 @@ function deckText(id: string, name: string, questionCount = 3): string {
   return serializeDeckFile(createDeckFile(deck, questions));
 }
 
-function legacyDeckText(id: string, name: string, questionCount = 3): string {
-  const legacy = JSON.parse(deckText(id, name, questionCount)) as Record<string, unknown>;
-  legacy.format = 'rekall-deck';
-  return JSON.stringify(legacy);
-}
-
 /** For batches where no deck is in the library yet; a call shows up as a skipped file. */
 async function noConflictExpected(): Promise<ConflictChoice> {
   throw new Error('Unexpected conflict.');
@@ -60,20 +54,6 @@ describe('importing several deck files', () => {
       names.filter((name) => name !== 'geography').map((name) => `${name}.enyalie.json`),
     );
     expect(await store.listDecks()).toHaveLength(9);
-  });
-
-  it('imports legacy Rekall format and filenames alongside Enyalië decks', async () => {
-    const store = freshStore();
-    const report = await importDeckFiles(
-      [
-        file('legacy.rekall.json', legacyDeckText('legacy-deck', 'Legacy deck')),
-        file('current.enyalie.json', deckText('current-deck', 'Current deck')),
-      ],
-      { store, onConflict: noConflictExpected },
-    );
-
-    expect(report.imported.map((item) => item.source)).toEqual(['current.enyalie.json', 'legacy.rekall.json']);
-    expect(await store.listDecks()).toHaveLength(2);
   });
 
   it('asks once for each deck already in the library and follows each choice', async () => {

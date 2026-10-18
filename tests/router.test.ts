@@ -25,9 +25,8 @@ describe('router', () => {
     expect(parseRoute('#/deck/%E0%A4%A')).toEqual({ name: 'notFound' });
   });
 
-  it('reads legacy history depth and prefers the new history key', () => {
-    expect(depthOf({ rekallDepth: 3 })).toBe(3);
+  it('reads app history depth', () => {
     expect(depthOf({ enyalieDepth: 4 })).toBe(4);
-    expect(depthOf({ enyalieDepth: 4, rekallDepth: 3 })).toBe(4);
+    expect(depthOf({ enyalieDepth: '4' })).toBe(0);
   });
 });

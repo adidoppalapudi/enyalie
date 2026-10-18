@@ -15,7 +15,7 @@
  * Bump CACHE_VERSION if you change this file in a way that should throw away
  * everything cached by older versions.
  */
-const CACHE_VERSION = 4;
+const CACHE_VERSION = 5;
 const CACHE_NAME = `enyalie-v${CACHE_VERSION}`;
 const NAVIGATION_TIMEOUT_MS = 4000;
 
@@ -143,9 +143,7 @@ self.addEventListener('activate', (event) => {
     (async () => {
       const keys = await caches.keys();
       await Promise.all(
-        keys
-          .filter((key) => (key.startsWith('rekall-') || key.startsWith('enyalie-')) && key !== CACHE_NAME)
-          .map((key) => caches.delete(key)),
+        keys.filter((key) => key.startsWith('enyalie-') && key !== CACHE_NAME).map((key) => caches.delete(key)),
       );
       await self.clients.claim();
     })(),

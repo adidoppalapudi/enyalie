@@ -151,11 +151,14 @@ export function LibraryView() {
       </ul>
     );
     footer = (
-      <p className="library-foot">
-        <button type="button" className="btn btn-quiet" onClick={() => setBrowsingStarters(true)}>
-          browse starter decks
-        </button>
-      </p>
+      <>
+        <p className="library-foot">
+          <button type="button" className="btn btn-quiet" onClick={() => setBrowsingStarters(true)}>
+            browse starter decks
+          </button>
+        </p>
+        <p className="library-definition dim">Enyalië n. “memory, (lit.) recalling”</p>
+      </>
     );
   }
 

@@ -42,7 +42,7 @@ Enyalië supports multiple-choice, true/false, and flashcard questions. Multiple
 
 For multiple choice, `correctIndex` is the position of the right choice, starting at 0. Deck files in [`src/starter-decks/`](src/starter-decks/) are ready-to-use examples.
 
-Enyalië exports use the `enyalie-deck` format marker and `.enyalie.json` filename. Existing `rekall-deck` files and `.rekall.json` decks remain importable. On first open, Enyalië copies saved decks and questions from the old database to its `enyalie` database and verifies the copy. Palette and quiz storage keys move to `enyalie` after each new value is confirmed; the old IndexedDB database remains as a recovery copy.
+Enyalië exports use the `enyalie-deck` format marker and `.enyalie.json` filename.
 
 The app now installs from `/enyalie/`. If an existing home-screen shortcut does not update after the URL changes, remove it and install Enyalië again from the new URL.
 

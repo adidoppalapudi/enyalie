@@ -14,22 +14,8 @@
     <script>
       // Apply the saved colour palette before the first paint (see src/lib/palette.ts).
       try {
-        const key = 'enyalie.palette';
-        const legacyKey = 'rekall.palette';
+        const palette = localStorage.getItem('enyalie.palette');
         const palettes = ['classic', 'sycamore', 'cloud'];
-        let palette = localStorage.getItem(key);
-        if (palette === null) {
-          const legacyPalette = localStorage.getItem(legacyKey);
-          if (legacyPalette && palettes.includes(legacyPalette)) {
-            palette = legacyPalette;
-            try {
-              localStorage.setItem(key, legacyPalette);
-              if (localStorage.getItem(key) === legacyPalette) localStorage.removeItem(legacyKey);
-            } catch {}
-          }
-        } else if (localStorage.getItem(legacyKey) === palette) {
-          localStorage.removeItem(legacyKey);
-        }
         if (palette && palette !== 'classic' && palettes.includes(palette)) {
           document.documentElement.dataset.palette = palette;
         }

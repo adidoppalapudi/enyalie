@@ -45,12 +45,6 @@ describe('deck files', () => {
     expect(deckFileName('???')).toBe('deck.enyalie.json');
   });
 
-  it('imports legacy Rekall deck files', () => {
-    const legacyFile = JSON.parse(serializeDeckFile(createDeckFile(deck, sampleQuestions()))) as Record<string, unknown>;
-    legacyFile.format = 'rekall-deck';
-    expect(parseDeckFile(JSON.stringify(legacyFile)).ok).toBe(true);
-  });
-
   it('accepts minimal hand-written files', () => {
     const parsed = parseDeckFile(
       String.fromCharCode(0xfeff) + // a byte-order mark, as some editors add

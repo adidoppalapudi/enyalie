@@ -117,24 +117,6 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which is the SI base unit for amount of substance?",
-      "choices": [
-        "Gram (g)",
-        "Liter (L)",
-        "Mole (mol)",
-        "Degree Celsius (°C)"
-      ],
-      "correctIndex": 2,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "measurement"
-      ],
-      "explanation": "The mole is the SI base unit for amount of substance. Mass is measured in kilograms, while liter and degree Celsius are not SI base units."
-    },
-    {
-      "type": "multiple_choice",
       "prompt": "A sample has a mass of 2.5 kg. What is its mass in grams?",
       "choices": [
         "250 g",
@@ -189,42 +171,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Color can be observed without changing a substance into a different substance.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "physical-property"
-      ],
-      "explanation": "Color is a physical property because observing it does not change the substance’s chemical identity."
-    },
-    {
-      "type": "true_false",
-      "prompt": "When a candle burns, only a change of state happens.",
-      "answer": false,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "chemical-change"
-      ],
-      "explanation": "Burning wax reacts with oxygen to make new substances, including carbon dioxide and water vapor; melted wax nearby is a separate physical change."
-    },
-    {
-      "type": "true_false",
-      "prompt": "The mass of a sample is an intensive property.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "intensive-extensive"
-      ],
-      "explanation": "Mass depends on sample size, so it is extensive. Density is an example of an intensive property."
-    },
-    {
-      "type": "true_false",
       "prompt": "A prediction should be changed after seeing the results so it matches them.",
       "answer": false,
       "difficulty": "medium",
@@ -249,18 +195,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is matter?",
-      "answer": "Anything that has mass and occupies space.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "scope"
-      ],
-      "explanation": "Air is matter even though it is invisible: it has mass and takes up space."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What is a controlled variable?",
       "answer": "A factor kept the same during a test so its effect does not confuse the result.",
       "difficulty": "easy",
@@ -270,30 +204,6 @@
         "scientific-method"
       ],
       "explanation": "Keeping controlled variables steady helps make a fair comparison when testing another factor."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a physical property?",
-      "answer": "A feature that can be observed or measured without changing a substance’s chemical identity.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "physical-property"
-      ],
-      "explanation": "Color, melting point, and density are physical properties."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is an extensive property?",
-      "answer": "A property that depends on the amount of material, such as mass or volume.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "extensive-property"
-      ],
-      "explanation": "If a sample is doubled, its mass and volume double, while its density stays the same under the same conditions."
     },
     {
       "type": "flashcard",
@@ -327,24 +237,6 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which state has a fixed volume but takes the shape of its container?",
-      "choices": [
-        "Solid",
-        "Gas",
-        "Plasma",
-        "Liquid"
-      ],
-      "correctIndex": 3,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "states-of-matter"
-      ],
-      "explanation": "A liquid flows and changes shape while maintaining a nearly fixed volume."
-    },
-    {
-      "type": "multiple_choice",
       "prompt": "Which sample is an element?",
       "choices": [
         "Pure copper metal",
@@ -363,24 +255,6 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which sample is a compound?",
-      "choices": [
-        "Air with several gases mixed",
-        "Pure water made of H₂O molecules",
-        "A piece of aluminum",
-        "Sand mixed with salt"
-      ],
-      "correctIndex": 1,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "classification"
-      ],
-      "explanation": "Water is a pure compound because hydrogen and oxygen atoms are chemically combined in a fixed ratio."
-    },
-    {
-      "type": "multiple_choice",
       "prompt": "Which is a homogeneous mixture?",
       "choices": [
         "Granite, with minerals spread through the solid",
@@ -396,24 +270,6 @@
         "mixtures"
       ],
       "explanation": "A homogeneous mixture has uniform composition throughout at the scale being considered."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Which description fits a heterogeneous mixture?",
-      "choices": [
-        "It contains only one kind of atom",
-        "Its substances are chemically bonded in a fixed ratio",
-        "It must be a gas",
-        "Its composition is not uniform throughout"
-      ],
-      "correctIndex": 3,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "mixtures"
-      ],
-      "explanation": "Heterogeneous mixtures have distinguishable regions or components with nonuniform composition."
     },
     {
       "type": "multiple_choice",
@@ -513,30 +369,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Filtering can remove salt that has completely dissolved in water.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "separation"
-      ],
-      "explanation": "Dissolved salt particles pass through ordinary filter paper with the water; evaporation or distillation separates them."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Evaporation can happen at the surface of a liquid below its boiling point.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "phase-changes"
-      ],
-      "explanation": "Some surface particles have enough energy to escape into the gas phase at temperatures below boiling."
-    },
-    {
-      "type": "true_false",
       "prompt": "Plasma is a gas in which some particles are electrically charged.",
       "answer": true,
       "difficulty": "hard",
@@ -561,18 +393,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is condensation?",
-      "answer": "The change from gas to liquid.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "phase-changes"
-      ],
-      "explanation": "Water vapor condenses into liquid droplets when it cools enough, as on the outside of a cold glass."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What does chromatography separate substances by?",
       "answer": "Differences in how strongly they move with a mobile phase versus interact with a stationary phase.",
       "difficulty": "medium",
@@ -582,18 +402,6 @@
         "separation"
       ],
       "explanation": "A dye that travels farther on paper interacts differently with the solvent and paper than a dye that stays behind."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "How do you calculate density?",
-      "answer": "Density = mass ÷ volume.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "density"
-      ],
-      "explanation": "Use consistent units; for example, grams divided by cubic centimeters gives g/cm³."
     },
     {
       "type": "flashcard",
@@ -801,30 +609,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Isotopes of an element have different numbers of protons.",
-      "answer": false,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "isotopes"
-      ],
-      "explanation": "Isotopes have the same number of protons and different numbers of neutrons; changing proton count changes the element."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A cation forms when an atom gains electrons.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "ions"
-      ],
-      "explanation": "A cation is positively charged and usually forms when an atom loses one or more electrons."
-    },
-    {
-      "type": "true_false",
       "prompt": "The modern orbital model says electrons travel in known little circular paths around the nucleus.",
       "answer": false,
       "difficulty": "medium",
@@ -834,18 +618,6 @@
         "atomic-models"
       ],
       "explanation": "Quantum mechanics describes probabilities for electron locations, not exact classical paths."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Atoms of elements in the same main-group column often have the same number of valence electrons.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "valence-electrons"
-      ],
-      "explanation": "This shared outer-electron pattern helps explain why group members often show related chemistry."
     },
     {
       "type": "flashcard",
@@ -858,30 +630,6 @@
         "mass-number"
       ],
       "explanation": "For carbon-14, 6 protons + 8 neutrons = mass number 14."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is an ion?",
-      "answer": "An atom or group of atoms with a net electric charge because it has gained or lost electrons.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "ions"
-      ],
-      "explanation": "Protons remain in the nucleus in ordinary chemical ion formation; electron transfer changes the charge."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is an electron configuration?",
-      "answer": "A notation describing how an atom’s electrons occupy shells, subshells, or orbitals.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "electron-configuration"
-      ],
-      "explanation": "For example, hydrogen has the configuration 1s¹ in the orbital notation used in introductory chemistry."
     },
     {
       "type": "flashcard",
@@ -912,24 +660,6 @@
         "organization"
       ],
       "explanation": "Periods are the horizontal rows; properties change in patterns across a period."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Elements in the same group are found in the same:",
-      "choices": [
-        "Horizontal row",
-        "Block of isotopes",
-        "Chemical formula",
-        "Vertical column"
-      ],
-      "correctIndex": 3,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "organization"
-      ],
-      "explanation": "Groups are vertical columns; many main-group elements within a group have similar valence-electron patterns."
     },
     {
       "type": "multiple_choice",
@@ -1077,18 +807,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Halogens are in group 17 of the periodic table.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "families"
-      ],
-      "explanation": "Fluorine, chlorine, bromine, iodine, and other halogens occupy group 17."
-    },
-    {
-      "type": "true_false",
       "prompt": "First ionization energy generally decreases down a group in the periodic table.",
       "answer": true,
       "difficulty": "medium",
@@ -1098,42 +816,6 @@
         "ionization-energy"
       ],
       "explanation": "Down a group, the outer electron is generally farther from the nucleus and more shielded, so it is easier to remove."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Most nonmetals are found on the left side of the periodic table.",
-      "answer": false,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "metals"
-      ],
-      "explanation": "Most nonmetals are on the upper-right side, with hydrogen as a nonmetal on the left."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Every element in a group has exactly the same chemical reactivity.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "reactivity"
-      ],
-      "explanation": "Group members often share patterns but can differ substantially; trends depend on the reactions and conditions considered."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a group on the periodic table?",
-      "answer": "A vertical column of elements.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "organization"
-      ],
-      "explanation": "Main-group elements in one group often have similar numbers of valence electrons."
     },
     {
       "type": "flashcard",
@@ -1158,30 +840,6 @@
         "atomic-radius"
       ],
       "explanation": "Additional shells place the outer electrons farther from the nucleus on average."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is first ionization energy?",
-      "answer": "The energy required to remove the first electron from a neutral gaseous atom.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "ionization-energy"
-      ],
-      "explanation": "The word “first” distinguishes it from later removals, which generally require more energy."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is the broad trend in electronegativity across a period?",
-      "answer": "It generally increases from left to right, with noble gases commonly omitted from basic trend comparisons.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "electronegativity"
-      ],
-      "explanation": "The effective attraction for bonding electrons tends to grow across a row; electronegativity scales have specific conventions."
     },
     {
       "type": "multiple_choice",
@@ -1388,42 +1046,6 @@
       "explanation": "Bond dipoles can cancel because of molecular geometry, making a molecule such as CO₂ nonpolar overall."
     },
     {
-      "type": "true_false",
-      "prompt": "Permanent dipoles can attract when the positive end of one polar molecule is near the negative end of another.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "dipole-dipole"
-      ],
-      "explanation": "This attraction is called dipole-dipole force. London dispersion forces also occur, but they are present even in nonpolar molecules."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A molecular substance that boils has broken all covalent bonds within its molecules.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "properties"
-      ],
-      "explanation": "Boiling usually separates molecules by overcoming intermolecular attractions; the covalent bonds within each molecule generally remain intact."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a covalent bond?",
-      "answer": "A chemical bond formed when atoms share electron pairs.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "bonding-types"
-      ],
-      "explanation": "The shared electrons are attracted to both bonded nuclei."
-    },
-    {
       "type": "flashcard",
       "prompt": "What does a partial charge (δ+ or δ−) mean in a polar bond?",
       "answer": "Electron density is shared unequally, leaving one end slightly positive and the other slightly negative.",
@@ -1446,30 +1068,6 @@
         "vsepr"
       ],
       "explanation": "Electron groups arrange to reduce repulsion; lone pairs also affect molecular shape."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is an intermolecular force?",
-      "answer": "An attraction or repulsion between separate particles, such as molecules or ions.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "intermolecular-forces"
-      ],
-      "explanation": "Intermolecular forces are distinct from covalent or ionic bonds within a particle or solid lattice."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "When is hydrogen bonding commonly important?",
-      "answer": "When hydrogen is covalently bonded to N, O, or F and interacts with a lone pair on N, O, or F nearby.",
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "hydrogen-bonding"
-      ],
-      "explanation": "This stronger, directional intermolecular attraction helps explain water’s relatively high boiling point."
     },
     {
       "type": "multiple_choice",
@@ -1635,18 +1233,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "The first letter of a chemical element symbol is capitalized.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "symbols"
-      ],
-      "explanation": "If there is a second letter, it is lowercase, as in Co for cobalt."
-    },
-    {
-      "type": "true_false",
       "prompt": "The name Na₂O is disodium monoxide.",
       "answer": false,
       "difficulty": "medium",
@@ -1656,18 +1242,6 @@
         "ionic-naming"
       ],
       "explanation": "Ionic compounds are not named with molecular prefixes; Na₂O is sodium oxide."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A chemical formula for an ionic compound represents the simplest whole-number ratio of its ions.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "ionic-formulas"
-      ],
-      "explanation": "For example, MgCl₂ gives the lowest ratio that balances the total positive and negative charges."
     },
     {
       "type": "true_false",
@@ -1695,18 +1269,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What do prefixes such as mono-, di-, and tri- indicate in binary molecular names?",
-      "answer": "The number of atoms of each element in the molecule.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "molecular-naming"
-      ],
-      "explanation": "For example, carbon dioxide has one carbon and two oxygen atoms; the mono- on the first element is often omitted."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What is a polyatomic ion?",
       "answer": "A group of covalently bonded atoms that carries an overall electric charge.",
       "difficulty": "medium",
@@ -1728,18 +1290,6 @@
         "ionic-formulas"
       ],
       "explanation": "For Al³⁺ and O²⁻, two aluminum ions (+6) balance three oxide ions (−6), giving Al₂O₃."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is an oxidation state?",
-      "answer": "A bookkeeping charge assigned to an atom using agreed rules to track electron distribution in compounds.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "oxidation-states"
-      ],
-      "explanation": "Oxidation states help identify redox changes; they are not always the atom’s actual physical charge."
     },
     {
       "type": "multiple_choice",
@@ -1935,18 +1485,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Every exothermic reaction must be fast.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "energy-changes"
-      ],
-      "explanation": "Energy change and reaction speed are different properties; some exothermic reactions proceed slowly because of activation barriers."
-    },
-    {
-      "type": "true_false",
       "prompt": "Oxidation involves losing electrons, while reduction involves gaining electrons.",
       "answer": true,
       "difficulty": "medium",
@@ -1956,18 +1494,6 @@
         "redox"
       ],
       "explanation": "“LEO says GER” summarizes electron transfer: loss is oxidation, gain is reduction."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A precipitate is a gas that escapes from a solution.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "precipitation"
-      ],
-      "explanation": "A precipitate is an insoluble solid; a gas may also form but is not called a precipitate."
     },
     {
       "type": "true_false",
@@ -1983,18 +1509,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What does the arrow in a chemical equation mean?",
-      "answer": "It separates reactants from products and indicates the direction represented by the reaction.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "equations"
-      ],
-      "explanation": "A reversible-reaction arrow uses arrows in both directions to show the reaction can proceed either way."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What may be changed when balancing a chemical equation?",
       "answer": "Coefficients placed before formulas, not the formulas’ subscripts.",
       "difficulty": "medium",
@@ -2004,42 +1518,6 @@
         "balancing"
       ],
       "explanation": "Changing a subscript changes a compound’s identity and describes a different reaction."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a precipitation reaction?",
-      "answer": "A reaction in solution that produces an insoluble solid called a precipitate.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "reaction-types"
-      ],
-      "explanation": "For example, suitable silver nitrate and sodium chloride solutions produce solid silver chloride."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What does reduction mean in terms of oxidation state?",
-      "answer": "A decrease in oxidation state, usually corresponding to gain of electrons.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "redox"
-      ],
-      "explanation": "Oxidation and reduction occur together because electrons lost by one species are gained by another."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is the difference between exothermic and endothermic?",
-      "answer": "Exothermic transfers heat from the system to surroundings; endothermic takes in heat from surroundings.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "energy-changes"
-      ],
-      "explanation": "The words describe heat flow for the stated system and conditions."
     },
     {
       "type": "multiple_choice",
@@ -2235,18 +1713,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "One mole of every substance has the same mass.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "molar-mass"
-      ],
-      "explanation": "One mole has the same number of entities, but its mass depends on the substance’s molar mass."
-    },
-    {
-      "type": "true_false",
       "prompt": "Balanced-equation coefficients give mole ratios between reactants and products.",
       "answer": true,
       "difficulty": "medium",
@@ -2256,30 +1722,6 @@
         "stoichiometry"
       ],
       "explanation": "Coefficients represent relative amounts in moles as well as relative particle counts."
-    },
-    {
-      "type": "true_false",
-      "prompt": "The limiting reactant is the reactant left over after the reaction stops.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "limiting-reactant"
-      ],
-      "explanation": "The limiting reactant is consumed first and limits maximum product; another reactant may remain."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Molarity uses the final solution volume, not just the solvent volume.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "concentration"
-      ],
-      "explanation": "Molarity is moles of solute per liter of total solution."
     },
     {
       "type": "flashcard",
@@ -2295,18 +1737,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is a stoichiometric ratio?",
-      "answer": "A ratio of amounts of substances taken from coefficients in a balanced chemical equation.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "stoichiometry"
-      ],
-      "explanation": "For N₂ + 3H₂ → 2NH₃, the mole ratio H₂:NH₃ is 3:2."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What is the limiting reactant?",
       "answer": "The reactant used up first that therefore limits the amount of product.",
       "difficulty": "medium",
@@ -2316,30 +1746,6 @@
         "limiting-reactant"
       ],
       "explanation": "Compare each reactant’s available amount with the balanced-equation requirements."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "How do you calculate percent yield?",
-      "answer": "Percent yield = (actual yield ÷ theoretical yield) × 100%.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "yield"
-      ],
-      "explanation": "The theoretical yield comes from stoichiometry; actual yield is measured experimentally."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is molarity?",
-      "answer": "Moles of solute per liter of total solution, written mol/L or M.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "concentration"
-      ],
-      "explanation": "If 0.2 mol is dissolved to make 1.0 L solution, its molarity is 0.2 M."
     },
     {
       "type": "multiple_choice",
@@ -2535,42 +1941,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "A solution can contain a solid solute dissolved in a liquid solvent.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "solutions"
-      ],
-      "explanation": "Salt dissolved in water is a familiar example."
-    },
-    {
-      "type": "true_false",
-      "prompt": "At 25 °C, an aqueous solution with pH 9 is basic.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "ph"
-      ],
-      "explanation": "In the introductory model at 25 °C, pH values above 7 are basic and values below 7 are acidic."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Stirring usually increases the final equilibrium solubility of a solid in water.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "solubility"
-      ],
-      "explanation": "Stirring can speed dissolving but does not usually change equilibrium solubility at fixed temperature and pressure."
-    },
-    {
-      "type": "true_false",
       "prompt": "The equivalence point and indicator endpoint are exactly the same concept.",
       "answer": false,
       "difficulty": "hard",
@@ -2595,18 +1965,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is a solute?",
-      "answer": "A substance dissolved in a solvent to form a solution.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "solutions"
-      ],
-      "explanation": "In lemonade, sugar and flavor substances are solutes, and water is the main solvent."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What is a Brønsted-Lowry acid?",
       "answer": "A species that donates a proton (H⁺) to another species.",
       "difficulty": "easy",
@@ -2616,18 +1974,6 @@
         "acids-bases"
       ],
       "explanation": "A Brønsted-Lowry base accepts that proton."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What does pH describe in an aqueous solution?",
-      "answer": "A logarithmic measure related to hydrogen-ion activity; in dilute introductory cases, pH ≈ −log₁₀[H₃O⁺].",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "ph"
-      ],
-      "explanation": "One pH unit corresponds to about a tenfold change in hydronium concentration in the simple model."
     },
     {
       "type": "flashcard",
@@ -2835,30 +2181,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "If a substance warms up, its temperature change ΔT is negative.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "calorimetry"
-      ],
-      "explanation": "For warming, final temperature exceeds initial temperature, so ΔT = Tfinal − Tinitial is positive."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A catalyst is consumed completely by the overall reaction.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "catalysts"
-      ],
-      "explanation": "A catalyst participates in intermediate steps but is regenerated by the end of the catalytic cycle."
-    },
-    {
-      "type": "true_false",
       "prompt": "Increasing reactant concentration always changes the equilibrium constant.",
       "answer": false,
       "difficulty": "hard",
@@ -2871,30 +2193,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is specific heat capacity?",
-      "answer": "The heat needed to raise a unit mass of a substance by one degree.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "specific-heat"
-      ],
-      "explanation": "In q = mcΔT, c is specific heat capacity, m is mass, and ΔT is temperature change."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What equation is commonly used for heat gained or lost during a temperature change?",
-      "answer": "q = mcΔT.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "calorimetry"
-      ],
-      "explanation": "Sign depends on the chosen system and warming or cooling; phase changes need additional treatment."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What is a reaction’s activation energy?",
       "answer": "The energy barrier from reactants to the transition state along a reaction pathway.",
       "difficulty": "medium",
@@ -2904,30 +2202,6 @@
         "activation-energy"
       ],
       "explanation": "A catalyst lowers the barrier for a pathway but not the overall energy difference between reactants and products."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is dynamic chemical equilibrium?",
-      "answer": "A reversible reaction state where forward and reverse rates are equal and concentrations remain constant.",
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "equilibrium"
-      ],
-      "explanation": "The reaction continues microscopically even though there is no net macroscopic change."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is the difference between heat and temperature?",
-      "answer": "Heat is energy transferred because of a temperature difference; temperature describes the thermal state of a system.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "heat-temperature"
-      ],
-      "explanation": "Heat is energy in transit; temperature helps predict the direction of transfer."
     },
     {
       "type": "multiple_choice",
@@ -3105,18 +2379,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "Every plastic is made from exactly the same polymer.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "polymers"
-      ],
-      "explanation": "Plastics are a broad family made from many different polymers and additives."
-    },
-    {
-      "type": "true_false",
       "prompt": "Carbon dioxide is a greenhouse gas because it absorbs infrared radiation.",
       "answer": true,
       "difficulty": "medium",
@@ -3126,18 +2388,6 @@
         "greenhouse-gases"
       ],
       "explanation": "CO₂ absorbs at infrared frequencies and contributes to the atmosphere’s greenhouse effect."
-    },
-    {
-      "type": "true_false",
-      "prompt": "All household cleaning products are safe to mix together.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "household-chemistry"
-      ],
-      "explanation": "Some combinations can release toxic gases or create other hazards; follow product labels and never mix cleaners unless directed."
     },
     {
       "type": "true_false",
@@ -3153,30 +2403,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What is a functional group in organic chemistry?",
-      "answer": "A recognizable group of atoms that gives a molecule characteristic patterns of structure and reactivity.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "functional-groups"
-      ],
-      "explanation": "Examples include hydroxyl, carbonyl, carboxyl, and amino groups."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a monomer?",
-      "answer": "A relatively small molecule that can join with others to form a polymer.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "polymers"
-      ],
-      "explanation": "Ethene molecules can join to form polyethylene under suitable conditions."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What does biodegradable mean?",
       "answer": "Able to be broken down by organisms into simpler substances over time.",
       "difficulty": "medium",
@@ -3186,18 +2412,6 @@
         "biodegradation"
       ],
       "explanation": "How quickly something biodegrades depends on its material and environment; biodegradable does not automatically mean harmless."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What can incomplete combustion of a hydrocarbon produce when oxygen is limited?",
-      "answer": "It can produce carbon monoxide and/or carbon soot, along with water.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "combustion"
-      ],
-      "explanation": "With too little oxygen, carbon may not become carbon dioxide. Carbon monoxide is poisonous, so combustion should never be used as a home experiment."
     },
     {
       "type": "flashcard",
@@ -3374,24 +2588,6 @@
       "explanation": "A volumetric flask is calibrated to contain a specified volume when filled to its mark."
     },
     {
-      "type": "multiple_choice",
-      "prompt": "What should you do before using an unfamiliar chemical?",
-      "choices": [
-        "Taste a tiny amount to check how it reacts",
-        "Read the label and follow the supervisor's safety directions",
-        "Mix it with a familiar cleaner before use",
-        "Smell it closely to learn what it contains"
-      ],
-      "correctIndex": 1,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "safety"
-      ],
-      "explanation": "Labels and safety information explain hazards, protective equipment, storage, and handling; never taste chemicals."
-    },
-    {
       "type": "true_false",
       "prompt": "It is safe to taste a laboratory chemical if it looks like food.",
       "answer": false,
@@ -3416,30 +2612,6 @@
       "explanation": "Controlling other factors makes a comparison more informative, though some designs use more complex methods."
     },
     {
-      "type": "true_false",
-      "prompt": "Unexpected results should be erased so they do not confuse the report.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "data-recording"
-      ],
-      "explanation": "Record observations honestly; unexpected data can reveal an effect, measurement problem, or procedural issue."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Household cleaners should not be mixed unless product labels explicitly say the combination is safe.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "safety"
-      ],
-      "explanation": "Some cleaners react to release toxic gases or create other hazards; use products only as directed."
-    },
-    {
       "type": "flashcard",
       "prompt": "What is personal protective equipment (PPE) in a chemistry lab?",
       "answer": "Equipment such as safety glasses, suitable gloves, and a lab coat used to reduce exposure to hazards.",
@@ -3453,30 +2625,6 @@
     },
     {
       "type": "flashcard",
-      "prompt": "What does a graduated cylinder measure?",
-      "answer": "The volume of a liquid, with precision determined by its graduations and design.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "equipment"
-      ],
-      "explanation": "Read the meniscus at eye level and use more precise glassware when the procedure requires it."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is the independent variable in an experiment?",
-      "answer": "The factor deliberately changed to test its effect.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "experimental-design"
-      ],
-      "explanation": "The dependent variable is the measured outcome; controlled variables are kept as constant as practical."
-    },
-    {
-      "type": "flashcard",
       "prompt": "What should accompany a recorded laboratory measurement?",
       "answer": "A numerical value, unit, and enough context to identify the sample or condition measured.",
       "difficulty": "medium",
@@ -3486,18 +2634,6 @@
         "data-recording"
       ],
       "explanation": "Clear labels make data interpretable and help another person understand how it was collected."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a Safety Data Sheet (SDS)?",
-      "answer": "A document describing a chemical’s hazards and guidance for safe handling, storage, exposure response, and disposal.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "hazard-symbols"
-      ],
-      "explanation": "Read the SDS and follow local procedures before working with unfamiliar hazardous materials."
     },
     {
       "type": "multiple_choice",
@@ -3536,42 +2672,6 @@
       "explanation": "A consistent offset in the same direction suggests systematic error, such as an unzeroed balance."
     },
     {
-      "type": "true_false",
-      "prompt": "A set of precise measurements is necessarily close to the true value.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "accuracy-precision"
-      ],
-      "explanation": "Precision describes agreement among repeated measurements; accuracy describes closeness to an accepted value."
-    },
-    {
-      "type": "true_false",
-      "prompt": "One milliliter is equal in volume to one cubic centimeter.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "unit-conversion"
-      ],
-      "explanation": "The units are equivalent: 1 mL = 1 cm³."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "How do accuracy and precision differ?",
-      "answer": "Accuracy is closeness to an accepted value; precision is closeness among repeated measurements.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "introduction",
-        "accuracy-precision"
-      ],
-      "explanation": "Results can be precise but inaccurate if a systematic error shifts all readings."
-    },
-    {
       "type": "multiple_choice",
       "prompt": "A black marker ink separates into several colored bands on paper using a solvent. Which method is this?",
       "choices": [
@@ -3590,30 +2690,6 @@
       "explanation": "Different dyes travel at different rates because they interact differently with the paper and solvent."
     },
     {
-      "type": "true_false",
-      "prompt": "Freezing and melting are reverse physical changes between liquid and solid.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "phase-changes"
-      ],
-      "explanation": "Both change state without changing a substance’s chemical identity."
-    },
-    {
-      "type": "true_false",
-      "prompt": "An object denser than a liquid will always float in that liquid.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "matter",
-        "density"
-      ],
-      "explanation": "An object whose average density exceeds the liquid’s density generally sinks, unless buoyancy or trapped gas changes its average density."
-    },
-    {
       "type": "flashcard",
       "prompt": "What is sublimation?",
       "answer": "A change directly from solid to gas without first becoming liquid.",
@@ -3624,24 +2700,6 @@
         "phase-changes"
       ],
       "explanation": "Dry ice (solid carbon dioxide) sublimes under ordinary atmospheric conditions."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Which scientist’s cathode-ray experiments provided evidence for the electron?",
-      "choices": [
-        "John Dalton",
-        "J. J. Thomson",
-        "Ernest Rutherford",
-        "James Chadwick"
-      ],
-      "correctIndex": 1,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "atomic-models"
-      ],
-      "explanation": "Thomson’s cathode-ray studies showed that atoms contain negatively charged particles much smaller than atoms."
     },
     {
       "type": "multiple_choice",
@@ -3662,66 +2720,6 @@
       "explanation": "Neutrons = mass number − atomic number = 37 − 17 = 20."
     },
     {
-      "type": "true_false",
-      "prompt": "A sodium ion, Na⁺, has one fewer electron than a neutral sodium atom.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "ions"
-      ],
-      "explanation": "A +1 charge results from losing one negatively charged electron."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "An oxygen atom has atomic number 8. How many electrons are in its neutral atom?",
-      "choices": [
-        "6",
-        "10",
-        "16",
-        "8"
-      ],
-      "correctIndex": 3,
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "electron-configuration"
-      ],
-      "explanation": "Neutral atoms have equal numbers of protons and electrons; oxygen’s atomic number gives 8 protons."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What does the notation carbon-14 tell you?",
-      "answer": "It is a carbon isotope with mass number 14; with 6 protons, it has 8 neutrons.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "atomic-structure",
-        "isotopes"
-      ],
-      "explanation": "The isotope name gives the element and the total proton-plus-neutron count."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "How many valence electrons do neutral alkali-metal atoms typically have?",
-      "choices": [
-        "One",
-        "Two",
-        "Seven",
-        "Eight"
-      ],
-      "correctIndex": 0,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "families"
-      ],
-      "explanation": "Group 1 alkali metals have one valence electron and commonly form +1 ions."
-    },
-    {
       "type": "multiple_choice",
       "prompt": "Compared with its neutral atom, a typical positive ion (cation) is usually:",
       "choices": [
@@ -3738,18 +2736,6 @@
         "ionic-radius"
       ],
       "explanation": "Cations are generally smaller than their parent atoms; losing electrons reduces repulsion and can remove an occupied outer shell."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Group 2 elements are called the alkaline earth metals.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "periodic-table",
-        "families"
-      ],
-      "explanation": "Beryllium, magnesium, calcium, and other group 2 elements are alkaline earth metals."
     },
     {
       "type": "true_false",
@@ -3777,24 +2763,6 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "What is the molecular shape of water, H₂O, when its two lone pairs are included in the electron-group arrangement?",
-      "choices": [
-        "Linear",
-        "Trigonal planar",
-        "Bent",
-        "Tetrahedral"
-      ],
-      "correctIndex": 2,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "vsepr"
-      ],
-      "explanation": "Oxygen has two bonding pairs and two lone pairs; the molecular shape from atom positions is bent."
-    },
-    {
-      "type": "multiple_choice",
       "prompt": "Why does water have a higher boiling point than similarly small methane molecules?",
       "choices": [
         "Methane forms strong ionic bonds; water has none",
@@ -3810,42 +2778,6 @@
         "intermolecular-forces"
       ],
       "explanation": "Hydrogen bonding between water molecules requires more energy to overcome than methane’s dispersion attractions."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Solid sodium chloride conducts electricity well because its ions move freely through the solid.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "ionic-bonding"
-      ],
-      "explanation": "In the solid lattice, ions are fixed; molten or dissolved NaCl can conduct because ions become mobile."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A Lewis structure can show both shared electron pairs and lone pairs.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "lewis-structures"
-      ],
-      "explanation": "Bond lines represent shared pairs, and dots represent valence electrons not shown as bonds."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "In a VSEPR sketch, what is a lone pair?",
-      "answer": "A pair of valence electrons on one atom that is not shared as a bond.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "bonding",
-        "vsepr"
-      ],
-      "explanation": "Lone pairs occupy space and repel other electron groups, influencing molecular shape."
     },
     {
       "type": "multiple_choice",
@@ -3866,48 +2798,6 @@
       "explanation": "Three ammonium ions, each +1, balance one phosphate ion with charge 3−."
     },
     {
-      "type": "true_false",
-      "prompt": "Prefixes such as di- and tri- are normally used to name binary molecular compounds.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "molecular-naming"
-      ],
-      "explanation": "Molecular prefixes indicate atom counts, as in dinitrogen trioxide."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What are the formulas and charges of nitrate and nitrite?",
-      "answer": "Nitrate is NO₃⁻; nitrite is NO₂⁻.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "nomenclature",
-        "polyatomic-ions"
-      ],
-      "explanation": "The -ate ion has one more oxygen than the corresponding -ite ion in this pair."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Which pattern represents a double-replacement reaction?",
-      "choices": [
-        "A + BC → AC + B",
-        "AB + CD → AD + CB",
-        "A + B → AB",
-        "AB → A + B"
-      ],
-      "correctIndex": 1,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "reaction-types"
-      ],
-      "explanation": "Two compounds exchange ionic partners in the common double-replacement pattern."
-    },
-    {
       "type": "multiple_choice",
       "prompt": "What coefficients balance CH₄ + O₂ → CO₂ + H₂O?",
       "choices": [
@@ -3926,48 +2816,6 @@
       "explanation": "One carbon gives 1 CO₂; four hydrogens give 2 H₂O; those products contain four oxygens, requiring 2 O₂."
     },
     {
-      "type": "true_false",
-      "prompt": "In a closed system, total mass is conserved during an ordinary chemical reaction.",
-      "answer": true,
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "conservation-of-mass"
-      ],
-      "explanation": "Atoms rearrange, but chemical reactions do not create or destroy the atoms."
-    },
-    {
-      "type": "true_false",
-      "prompt": "A balanced equation’s coefficients can be interpreted as relative numbers of molecules for molecular substances.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "reactions",
-        "reaction-types"
-      ],
-      "explanation": "For molecular reactions, coefficients give relative particle counts and mole ratios."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "What is the molar mass of CO₂, using C = 12.01 and O = 16.00 g/mol?",
-      "choices": [
-        "28.01 g/mol",
-        "32.00 g/mol",
-        "60.01 g/mol",
-        "44.01 g/mol"
-      ],
-      "correctIndex": 3,
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "molar-mass"
-      ],
-      "explanation": "Molar mass = 12.01 + 2(16.00) = 44.01 g/mol."
-    },
-    {
       "type": "multiple_choice",
       "prompt": "If the theoretical yield is 5.0 g and the percent yield is 80%, what actual yield was obtained?",
       "choices": [
@@ -3984,132 +2832,6 @@
         "yield"
       ],
       "explanation": "Actual yield = 0.80 × 5.0 g = 4.0 g."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Theoretical yield is the maximum product amount predicted from stoichiometry for the stated reactants.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "yield"
-      ],
-      "explanation": "It assumes the limiting reactant reacts completely and the reaction follows the balanced equation."
-    },
-    {
-      "type": "true_false",
-      "prompt": "One mole of oxygen molecules (O₂) contains one mole of oxygen atoms.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "particles"
-      ],
-      "explanation": "Each O₂ molecule has two oxygen atoms, so one mole O₂ contains two moles of oxygen atoms."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "How do you convert a sample’s mass to moles?",
-      "answer": "Divide its mass by its molar mass: n = m ÷ M.",
-      "difficulty": "easy",
-      "tags": [
-        "chemistry-foundations",
-        "quantitative-chemistry",
-        "mole-conversion"
-      ],
-      "explanation": "For example, 36 g water ÷ 18 g/mol = 2 mol water."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "At fixed temperature and amount, a gas is compressed to half its original volume. What happens to its pressure in the ideal Boyle’s-law model?",
-      "choices": [
-        "It halves",
-        "It doubles",
-        "It stays unchanged",
-        "It becomes zero"
-      ],
-      "correctIndex": 1,
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "gas-laws"
-      ],
-      "explanation": "Because pressure and volume are inversely proportional at constant temperature, halving volume doubles pressure."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "A gas occupies 2.0 L at 300 K. At constant pressure and amount, what volume will it occupy at 450 K?",
-      "choices": [
-        "1.3 L",
-        "2.0 L",
-        "3.0 L",
-        "6.0 L"
-      ],
-      "correctIndex": 2,
-      "difficulty": "expert",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "gas-laws"
-      ],
-      "explanation": "Charles’s law gives V₂ = V₁(T₂/T₁) = 2.0 × 450/300 = 3.0 L."
-    },
-    {
-      "type": "true_false",
-      "prompt": "For many solid solutes, raising temperature often increases solubility, but the trend is not universal.",
-      "answer": true,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "solubility"
-      ],
-      "explanation": "Solubility-temperature relationships depend on the particular solute and solvent."
-    },
-    {
-      "type": "true_false",
-      "prompt": "At 25 °C, a neutral aqueous solution has pH 7 in the usual introductory model.",
-      "answer": true,
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "ph"
-      ],
-      "explanation": "At 25 °C, neutral water has equal hydronium and hydroxide activities and pH near 7; neutrality is not always pH 7 at other temperatures."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a neutralization reaction?",
-      "answer": "An acid-base reaction in which acid and base react; aqueous H⁺ and OH⁻ commonly form water.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "solutions-gases-acids-bases",
-        "neutralization"
-      ],
-      "explanation": "The other ions may remain in solution as a salt; the final pH is not always exactly 7."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "For an endothermic reaction, which has higher chemical energy in the diagram: products or reactants?",
-      "choices": [
-        "Reactants",
-        "They must be equal",
-        "Neither; energy diagrams show only temperature",
-        "Products"
-      ],
-      "correctIndex": 3,
-      "difficulty": "hard",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "energy-diagrams"
-      ],
-      "explanation": "An endothermic reaction absorbs energy, so products are higher in enthalpy than reactants for the stated process."
     },
     {
       "type": "multiple_choice",
@@ -4131,18 +2853,6 @@
     },
     {
       "type": "true_false",
-      "prompt": "A faster reaction always produces a greater theoretical amount of product.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "reaction-rates"
-      ],
-      "explanation": "Reaction rate describes how quickly change occurs; theoretical yield is determined by stoichiometry and limiting reactant."
-    },
-    {
-      "type": "true_false",
       "prompt": "At equilibrium, reactant and product concentrations must be equal.",
       "answer": false,
       "difficulty": "medium",
@@ -4152,36 +2862,6 @@
         "equilibrium"
       ],
       "explanation": "Equilibrium means forward and reverse rates are equal; concentrations depend on the equilibrium constant."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is a reaction rate?",
-      "answer": "A measure of how quickly reactant or product amounts or concentrations change with time.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "energy",
-        "reaction-rates"
-      ],
-      "explanation": "Conditions such as temperature, concentration, surface area, and catalysts can affect rate."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Which functional group is present in a carboxylic acid?",
-      "choices": [
-        "Hydroxyl only, −OH",
-        "Carboxyl, −COOH",
-        "Amino, −NH₂",
-        "Ether, C−O−C"
-      ],
-      "correctIndex": 1,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "functional-groups"
-      ],
-      "explanation": "Carboxylic acids contain a carbonyl and hydroxyl attached to the same carbon, written −COOH."
     },
     {
       "type": "multiple_choice",
@@ -4200,36 +2880,6 @@
         "environment"
       ],
       "explanation": "Excess nitrogen and phosphorus can drive eutrophication; decomposition of excess biomass can reduce dissolved oxygen."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Dissolving sugar in water necessarily changes sugar molecules into new chemical substances.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "organic-environmental",
-        "physical-change"
-      ],
-      "explanation": "Ordinary dissolving disperses sugar molecules in water; it is generally a physical process, although chemical reactions can occur in other conditions."
-    },
-    {
-      "type": "multiple_choice",
-      "prompt": "Which tool is commonly used to transfer one selected, accurate small liquid volume?",
-      "choices": [
-        "Beaker",
-        "Mortar and pestle",
-        "Crucible",
-        "Volumetric pipette"
-      ],
-      "correctIndex": 3,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "equipment"
-      ],
-      "explanation": "A volumetric pipette is calibrated to deliver a specified volume accurately."
     },
     {
       "type": "multiple_choice",
@@ -4260,30 +2910,6 @@
         "experimental-design"
       ],
       "explanation": "Repeated trials show how much values vary and can support a mean and estimate of spread."
-    },
-    {
-      "type": "true_false",
-      "prompt": "Chemical waste can always be poured down the sink if diluted with water.",
-      "answer": false,
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "safety"
-      ],
-      "explanation": "Waste handling depends on the substances and local procedures; follow the instructor’s disposal instructions."
-    },
-    {
-      "type": "flashcard",
-      "prompt": "What is measurement uncertainty?",
-      "answer": "A quantified or estimated range describing the doubt associated with a measured value.",
-      "difficulty": "medium",
-      "tags": [
-        "chemistry-foundations",
-        "laboratory",
-        "uncertainty"
-      ],
-      "explanation": "Uncertainty reflects limits of the method and instrument; it should not be confused with a mistake."
     }
   ]
 }

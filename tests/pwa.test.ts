@@ -120,16 +120,15 @@ describe('Enyalië installation path and service worker', () => {
     expect(worker.requested).toContain(`${origin}/enyalie/`);
     expect(worker.requested).toContain(`${origin}/enyalie/icons/icon.svg`);
     expect(worker.requested).not.toContain(`${origin}/icons/icon.svg`);
-    expect(await worker.caches.keys()).toEqual(['enyalie-v4']);
-    const cache = await worker.caches.open('enyalie-v4');
+    expect(await worker.caches.keys()).toEqual(['enyalie-v5']);
+    const cache = await worker.caches.open('enyalie-v5');
     expect(await cache.match(`${origin}/enyalie/`)).toBeDefined();
     expect(await cache.match(`${origin}/enyalie/manifest.webmanifest`)).toBeDefined();
   });
 
-  it('cleans old Rekall caches and claims the new app scope on activation', async () => {
+  it('cleans previous app caches and claims the new app scope on activation', async () => {
     const worker = createWorkerHarness();
-    await worker.caches.open('enyalie-v4');
-    await worker.caches.open('rekall-v2');
+    await worker.caches.open('enyalie-v5');
     await worker.caches.open('enyalie-v1');
     await worker.caches.open('unrelated-cache');
 
@@ -138,7 +137,7 @@ describe('Enyalië installation path and service worker', () => {
     if (!activate) return;
     await dispatchLifecycle(activate);
 
-    expect(await worker.caches.keys()).toEqual(['enyalie-v4', 'unrelated-cache']);
+    expect(await worker.caches.keys()).toEqual(['enyalie-v5', 'unrelated-cache']);
     expect(worker.claimed).toBe(true);
   });
 });
