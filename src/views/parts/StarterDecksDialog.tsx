@@ -14,7 +14,7 @@ interface StarterDecksDialogProps {
   onClose: () => void;
 }
 
-/** Lists the decks that ship with Rekall and adds the ticked ones to the library. */
+/** Lists the decks that ship with Enyalië and adds the ticked ones to the library. */
 export function StarterDecksDialog({ libraryIds, onAdd, onClose }: StarterDecksDialogProps) {
   const [decks, setDecks] = useState<StarterDeck[] | null>(null);
   const [error, setError] = useState<string | null>(null);

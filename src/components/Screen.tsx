@@ -23,7 +23,7 @@ export function Screen({ path, title, actions = [], children }: ScreenProps) {
   const canResume = session !== null && !isFinished(session) && route.name !== 'quiz';
 
   useEffect(() => {
-    document.title = title ? `${title} – Rekall` : 'Rekall';
+    document.title = title ? `${title} – Enyalië` : 'Enyalië';
   }, [title]);
 
   return (
@@ -31,7 +31,7 @@ export function Screen({ path, title, actions = [], children }: ScreenProps) {
       <header className="titlebar">
         <div className="bar-inner">
           <Link to={{ name: 'library' }} className="brand" title="Library">
-            rekall
+            Enyalië
             <span className="cursor" aria-hidden="true" />
           </Link>
           <span className="path">~/{path.join('/')}</span>

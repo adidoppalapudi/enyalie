@@ -1,0 +1,383 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-movies",
+    "name": "Movies",
+    "description": "Film history, directors, actors and famous moments."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Jaws (1975)?",
+      "choices": [
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "George Lucas",
+        "Martin Scorsese"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What was Walt Disney's first full-length animated feature film?",
+      "choices": [
+        "The Three Caballeros",
+        "The Sword in the Stone",
+        "Snow White and the Seven Dwarfs",
+        "The Rescuers Down Under"
+      ],
+      "correctIndex": 2,
+      "explanation": "Released in 1937.",
+      "difficulty": "medium",
+      "tags": [
+        "animation"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won Best Picture at the first Academy Awards ceremony in 1929?",
+      "choices": [
+        "Wings",
+        "Sunrise",
+        "Metropolis",
+        "The Jazz Singer"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Godfather (1972) was directed by Francis Ford Coppola.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played Jack Dawson in Titanic (1997)?",
+      "choices": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Johnny Depp",
+        "Brad Pitt"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film features the line \"Here's looking at you, kid\"?",
+      "choices": [
+        "Casablanca",
+        "The Maltese Falcon",
+        "Citizen Kane",
+        "Gone with the Wind"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "quotes"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won 11 Academy Awards, tying the record held by Ben-Hur and Titanic?",
+      "choices": [
+        "Master and Commander: The Far Side of the World",
+        "The Lord of the Rings: The Return of the King",
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Harry Potter and the Prisoner of Azkaban"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Who composed the score for Star Wars (1977)?",
+      "answer": "John Williams",
+      "explanation": "He also scored Jaws, E.T., Jurassic Park and the first three Harry Potter films.",
+      "difficulty": "medium",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What was Pixar's first feature film?",
+      "choices": [
+        "Toy Story",
+        "A Bug's Life",
+        "Monsters, Inc.",
+        "Finding Nemo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Released in 1995, it was the first entirely computer-animated feature film.",
+      "difficulty": "easy",
+      "tags": [
+        "animation"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Pulp Fiction (1994)?",
+      "choices": [
+        "Quentin Tarantino",
+        "Spike Lee",
+        "David Fincher",
+        "Guy Ritchie"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Parasite (2019) was the first non-English-language film to win the Oscar for Best Picture.",
+      "answer": true,
+      "explanation": "The South Korean film was directed by Bong Joon-ho.",
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which studio made Spirited Away (2001)?",
+      "choices": [
+        "Pixar",
+        "DreamWorks",
+        "Toei Animation",
+        "Studio Ghibli"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "animation"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Spirited Away?",
+      "choices": [
+        "Hayao Miyazaki",
+        "Akira Kurosawa",
+        "Makoto Shinkai",
+        "Isao Takahata"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed and starred in Citizen Kane (1941)?",
+      "choices": [
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Charlie Chaplin",
+        "John Huston"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In The Matrix (1999), which pill does Neo take?",
+      "choices": [
+        "Blue",
+        "He refuses both",
+        "Green",
+        "Red"
+      ],
+      "correctIndex": 3,
+      "explanation": "The red pill reveals the truth; the blue pill would have returned him to the illusion.",
+      "difficulty": "easy",
+      "tags": [
+        "scenes"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In what year was the first Star Wars film released?",
+      "answer": "1977",
+      "difficulty": "easy",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played the Joker in The Dark Knight (2008)?",
+      "choices": [
+        "Heath Ledger",
+        "Jack Nicholson",
+        "Joaquin Phoenix",
+        "Jared Leto"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Heath Ledger won an Oscar for his role in The Dark Knight after his death.",
+      "answer": true,
+      "explanation": "He won Best Supporting Actor at the 2009 ceremony.",
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Inception (2010)?",
+      "choices": [
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "Christopher Nolan",
+        "James Cameron"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Jurassic Park, where do scientists find the dinosaur DNA?",
+      "choices": [
+        "In ancient plants",
+        "In mosquitoes preserved in amber",
+        "In frozen bones",
+        "In fossilised eggs"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "scenes"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won Best Picture, Director, Actor, Actress and Screenplay at the 1992 Academy Awards?",
+      "choices": [
+        "One Flew Over the Cuckoo's Nest",
+        "Dances with Wolves",
+        "The Remains of the Day",
+        "The Silence of the Lambs"
+      ],
+      "correctIndex": 3,
+      "explanation": "It won all five major categories for the 1991 film year. The ceremony took place in 1992.",
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played the title role in Forrest Gump (1994)?",
+      "choices": [
+        "Robin Williams",
+        "Tom Hanks",
+        "Kevin Costner",
+        "Bill Murray"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Tom Hanks won the Best Actor Oscar two years in a row.",
+      "answer": true,
+      "explanation": "For Philadelphia (1993) and Forrest Gump (1994).",
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Alfred Hitchcock film (1960) contains a famous shower scene?",
+      "choices": [
+        "Psycho",
+        "Vertigo",
+        "The Birds",
+        "Rear Window"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "scenes"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What colour are Dorothy's slippers in the 1939 film The Wizard of Oz?",
+      "choices": [
+        "Emerald green",
+        "Ruby red",
+        "Gold",
+        "Silver"
+      ],
+      "correctIndex": 1,
+      "explanation": "In L. Frank Baum's book they are silver. The film changed them to show off Technicolor.",
+      "difficulty": "medium",
+      "tags": [
+        "scenes"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Schindler's List (1993)?",
+      "choices": [
+        "Roman Polanski",
+        "Oliver Stone",
+        "Ron Howard",
+        "Steven Spielberg"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which actor has won the most Oscars for acting?",
+      "answer": "Katharine Hepburn, with four Best Actress awards.",
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ]
+    }
+  ]
+}

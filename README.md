@@ -1,28 +1,28 @@
-# Rekall
+# Enyalië
 
 **A simple, local-first app for making flashcards and playing quick quizzes.**
 
-[Open Rekall](https://adidoppalapudi.github.io/rekall/) · No account needed.
+[Open Enyalië](https://adidoppalapudi.github.io/enyalie/) · No account needed.
 
 ## Get started
 
-1. Open Rekall and choose **browse starter decks** to find a deck, or create your own.
+1. Open Enyalië and choose **browse starter decks** to find a deck, or create your own.
 2. Open a deck and choose the question types, difficulty, quiz length, and timer.
 3. Answer questions, see your score, and retry the ones you missed.
 
 ## Your decks stay yours
 
-Decks are saved in this browser on this device. Rekall needs no account or server, and works offline after you have opened it once. To move decks between devices, export a deck to a file, then import that file on the other device.
+Decks are saved in this browser on this device. Enyalië needs no account or server, and works offline after you have opened it once. To move decks between devices, export a deck to a file, then import that file on the other device.
 
 ## Make or import a deck
 
-Create decks and questions in the app, or import one or more Rekall `.json` deck files. You can also write a deck file yourself or have an AI draft one. Each imported file can be up to 5 MB.
+Create decks and questions in the app, or import one or more `.enyalie.json` deck files. You can also write a deck file yourself or have an AI draft one. Each imported file can be up to 5 MB.
 
-Rekall supports multiple-choice, true/false, and flashcard questions. Multiple-choice questions have 2–4 choices and a zero-based `correctIndex`; true/false and flashcards use an `answer` field.
+Enyalië supports multiple-choice, true/false, and flashcard questions. Multiple-choice questions have 2–4 choices and a zero-based `correctIndex`; true/false and flashcards use an `answer` field.
 
 ```json
 {
-  "format": "rekall-deck",
+  "format": "enyalie-deck",
   "version": 1,
   "deck": { "name": "AWS Basics", "description": "Core services" },
   "questions": [
@@ -42,7 +42,11 @@ Rekall supports multiple-choice, true/false, and flashcard questions. Multiple-c
 
 For multiple choice, `correctIndex` is the position of the right choice, starting at 0. Deck files in [`src/starter-decks/`](src/starter-decks/) are ready-to-use examples.
 
-## Run Rekall on your computer
+Enyalië exports use the `enyalie-deck` format marker and `.enyalie.json` filename. Existing `rekall-deck` files and `.rekall.json` decks remain importable. On first open, Enyalië copies saved decks and questions from the old database to its `enyalie` database and verifies the copy. Palette and quiz storage keys move to `enyalie` after each new value is confirmed; the old IndexedDB database remains as a recovery copy.
+
+The app now installs from `/enyalie/`. If an existing home-screen shortcut does not update after the URL changes, remove it and install Enyalië again from the new URL.
+
+## Run Enyalië on your computer
 
 Install [Node.js 20.19+ or 22.12+](https://nodejs.org/), then:
 
@@ -54,6 +58,7 @@ npm run dev
 To build and check the app:
 
 ```bash
+npm run typecheck
 npm test
 npm run build
 ```
@@ -63,4 +68,4 @@ npm run build
 - On a phone, use **Add to Home Screen** (iPhone) or **Install app** (Android) from the live site.
 - On a computer, the bottom action bar shows keyboard shortcuts; on a phone, it shows touch buttons.
 - See [`src/`](src/) for the app and [`tests/`](tests/) for its tests.
-- Rekall is licensed under the [MIT License](LICENSE).
+- Enyalië is licensed under the [MIT License](LICENSE).

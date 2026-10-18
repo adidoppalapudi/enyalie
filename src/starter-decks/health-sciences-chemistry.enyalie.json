@@ -1,0 +1,1655 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-health-sciences-chemistry",
+    "name": "Chemistry for Health Sciences",
+    "description": "A practical introduction to chemistry in body fluids, biomolecules, healthcare measurements, and physiology."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which particle determines whether an atom is sodium or chlorine?",
+      "choices": [
+        "Its protons",
+        "Its neutrons",
+        "Its electrons in the outer shell",
+        "Its total mass"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "atomic-structure",
+        "elements"
+      ],
+      "explanation": "An element is defined by its proton number, called its atomic number."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A sodium atom becomes Na+ by:",
+      "choices": [
+        "Gaining a proton",
+        "Losing one electron",
+        "Gaining one neutron",
+        "Losing one proton"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "ions",
+        "electrolytes"
+      ],
+      "explanation": "Sodium has one valence electron and forms Na+ by losing that electron; the nucleus is unchanged."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which bond forms when atoms share a pair of electrons?",
+      "choices": [
+        "Ionic",
+        "Metallic",
+        "Covalent",
+        "Hydrogen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "bonding",
+        "covalent"
+      ],
+      "explanation": "A covalent bond is a shared pair of electrons between atoms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many moles are in 18.0 g of water? Use 18.0 g/mol.",
+      "choices": [
+        "0.10 mol",
+        "18.0 mol",
+        "324 mol",
+        "1.00 mol"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "measurement",
+        "mole"
+      ],
+      "explanation": "Divide mass by molar mass: 18.0 g / 18.0 g/mol = 1.00 mol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A solution contains 0.30 mol solute in 0.60 L solution. What is its molarity?",
+      "choices": [
+        "2.0 M",
+        "0.20 M",
+        "0.50 M",
+        "1.8 M"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "molarity"
+      ],
+      "explanation": "Molarity is moles per liter of solution: 0.30 / 0.60 = 0.50 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A 10 mL sample is diluted to a final volume of 50 mL. If its initial concentration is 2.0 M, what is the final concentration?",
+      "choices": [
+        "1.0 M",
+        "0.40 M",
+        "2.0 M",
+        "10 M"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "dilution"
+      ],
+      "explanation": "Using M1V1 = M2V2 gives M2 = 2.0 * 10 / 50 = 0.40 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the major positively charged ion in extracellular fluid?",
+      "choices": [
+        "Potassium",
+        "Magnesium",
+        "Sodium",
+        "Iron"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "sodium"
+      ],
+      "explanation": "Sodium is the principal cation in extracellular fluid; potassium is the principal intracellular cation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ion is the major intracellular cation in typical human cells?",
+      "choices": [
+        "Sodium",
+        "Chloride",
+        "Bicarbonate",
+        "Potassium"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "potassium"
+      ],
+      "explanation": "Potassium concentration is normally higher inside cells, while sodium is higher outside."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes osmosis?",
+      "choices": [
+        "Water moves across a selectively permeable membrane in response to solute differences",
+        "Solute moves through any barrier",
+        "Water always moves toward lower solute concentration",
+        "Only ions move across membranes"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "osmosis"
+      ],
+      "explanation": "Osmosis is net water movement across a selectively permeable membrane, driven by a difference in effective solute concentration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A cell placed in a solution with lower effective solute concentration than its interior is in a:",
+      "choices": [
+        "Hypertonic solution",
+        "Hypotonic solution",
+        "Isotonic solution",
+        "Saturated solution"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "tonicity"
+      ],
+      "explanation": "Water tends to enter the cell from a hypotonic environment, potentially causing it to swell."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the approximate pH of a solution with hydronium concentration 1 x 10^-7 M at 25 degrees C?",
+      "choices": [
+        "0",
+        "10",
+        "7",
+        "14"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "pH equals -log10[H3O+], which is 7 for 10^-7 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A buffer solution contains:",
+      "choices": [
+        "A strong acid with a neutral salt",
+        "A strong base with an unrelated acid",
+        "A weak acid with a strong oxidizer",
+        "A weak acid or base with its conjugate partner"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "The conjugate pair reacts with small added amounts of acid or base, limiting pH change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which formula shows the main carbonic-acid/bicarbonate buffer equilibrium?",
+      "choices": [
+        "CO2 + H2O <-> H2CO3 <-> H+ + HCO3-",
+        "NaCl(s) -> Na+(aq) + Cl-(aq)",
+        "O2(g) + 2H2(g) -> 2H2O(l)",
+        "CO2(g) + H2(g) -> C(s) + H2O(l)"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "bicarbonate"
+      ],
+      "explanation": "Dissolved carbon dioxide and water form carbonic acid, which can reversibly donate a proton to form bicarbonate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "If hydronium concentration increases, what happens to pH?",
+      "choices": [
+        "It increases",
+        "It decreases",
+        "It must remain 7",
+        "It becomes equal to pOH"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "Because pH = -log[H3O+], increasing hydronium concentration lowers pH."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which atom in hemoglobin's heme group binds oxygen reversibly?",
+      "choices": [
+        "Calcium",
+        "Iodine",
+        "Iron",
+        "Sodium"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "iron"
+      ],
+      "explanation": "An iron ion in heme binds oxygen reversibly, allowing hemoglobin to transport it."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mineral is a major component of the hard mineral phase in bones and teeth?",
+      "choices": [
+        "Sodium chloride",
+        "Potassium iodide",
+        "Iron oxide",
+        "Calcium phosphate"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "calcium"
+      ],
+      "explanation": "Bone mineral is largely a calcium phosphate material related to hydroxyapatite."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which element is present in thyroid hormones?",
+      "choices": [
+        "Iodine",
+        "Zinc",
+        "Sodium",
+        "Silicon"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "iodine"
+      ],
+      "explanation": "Thyroid hormones contain iodine atoms; iodine is required for their synthesis."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main chemical role of an enzyme?",
+      "choices": [
+        "It lowers the reaction activation energy",
+        "It is consumed to make every product",
+        "It changes the reaction enthalpy",
+        "It changes the reaction equilibrium constant"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "enzymes"
+      ],
+      "explanation": "Enzymes provide a lower-activation-energy pathway and are regenerated; they do not change the equilibrium constant."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which biomolecule is built from amino-acid subunits?",
+      "choices": [
+        "Triglyceride",
+        "Starch",
+        "Protein",
+        "DNA"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "proteins"
+      ],
+      "explanation": "Proteins are chains of amino acids linked by peptide bonds."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which biomolecule is the body's main rapidly available fuel in many cells?",
+      "choices": [
+        "DNA",
+        "Cholesterol only",
+        "Water",
+        "Carbohydrate such as glucose"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "carbohydrates"
+      ],
+      "explanation": "Cells can oxidize glucose to capture energy in ATP, although fats and other fuels also contribute."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is ATP's common role in cells?",
+      "choices": [
+        "Energy transfer for cellular work",
+        "Long-term storage of genetic information",
+        "Oxygen transport around the body",
+        "Mineral building in bones and teeth"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "atp"
+      ],
+      "explanation": "ATP hydrolysis can be coupled to cellular processes that require energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which functional group is characteristic of an alcohol?",
+      "choices": [
+        "-COOH attached to carbon",
+        "-OH attached to carbon",
+        "-NH2 attached to carbon",
+        "-PO4 attached to carbon"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "An alcohol contains a hydroxyl group bonded to a carbon atom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which functional group defines a carboxylic acid?",
+      "choices": [
+        "-O-",
+        "-NH2",
+        "-COOH",
+        "-SH"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "The carboxyl group combines a carbonyl and hydroxyl on the same carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What happens during hydrolysis of a large biological molecule?",
+      "choices": [
+        "Water is removed to form a bond",
+        "Electrons are always transferred to oxygen",
+        "The molecule becomes an element",
+        "Water is used to break a bond"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "hydrolysis"
+      ],
+      "explanation": "Hydrolysis uses water across a bond; digestion uses hydrolysis to break many food macromolecules into smaller units."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas is a major product of cellular respiration and is carried to the lungs for exhalation?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "cellular-respiration"
+      ],
+      "explanation": "Cellular oxidation of nutrients produces carbon dioxide, which blood carries to the lungs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which process helps the body lose heat as sweat evaporates?",
+      "choices": [
+        "Condensation releases heat from the skin",
+        "Evaporation takes energy from the skin",
+        "Freezing releases oxygen",
+        "Dissolving salt produces cold"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "body-chemistry",
+        "heat-transfer"
+      ],
+      "explanation": "Evaporation requires energy; water molecules leaving the skin take heat with them."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A 0.9% w/v solution contains how many grams of solute per 100 mL solution?",
+      "choices": [
+        "0.09 g",
+        "9 g",
+        "0.9 g",
+        "90 g"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "measurement",
+        "concentration-units"
+      ],
+      "explanation": "Percent weight/volume means grams per 100 mL, so 0.9% w/v is 0.9 g per 100 mL."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many milligrams are in 0.25 g?",
+      "choices": [
+        "2.5 mg",
+        "25 mg",
+        "2,500 mg",
+        "250 mg"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "measurement",
+        "unit-conversion"
+      ],
+      "explanation": "One gram is 1,000 milligrams, so 0.25 g equals 250 mg."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement correctly distinguishes molarity from osmolality?",
+      "choices": [
+        "Molarity is mol/L solution; osmolality is osmoles/kg solvent",
+        "Molarity is mol/kg solvent; osmolality is osmoles/L solution",
+        "Molarity is grams/L solution; osmolality is grams/kg solvent",
+        "Molarity is osmoles/L solvent; osmolality is mol/kg solution"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "Molarity is mol/L solution, while osmolality is osmoles/kg solvent; the units and measured quantities differ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why can a dissolved salt contribute more osmotic particles than an equal molar amount of a nonelectrolyte?",
+      "choices": [
+        "It evaporates faster",
+        "It may dissociate into ions",
+        "It has no mass",
+        "It becomes a gas"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "osmotic-particles"
+      ],
+      "explanation": "Dissociation can create multiple dissolved particles per formula unit, though real solutions may deviate from ideal behavior."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about drug ionization and pH is generally correct?",
+      "choices": [
+        "pH never affects molecules",
+        "Every drug is fully ionized at every pH",
+        "Ionization can affect solubility and membrane passage",
+        "Only metals respond to pH"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "ionization"
+      ],
+      "explanation": "For weak acids and bases, pH relative to pKa affects the ionized fraction, which can influence solubility and transport."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which measurement is most directly affected by a sample contaminated with a small amount of saline?",
+      "choices": [
+        "Molecular shape of hemoglobin",
+        "Number of oxygen atoms in water",
+        "Atomic number of sodium",
+        "Electrolyte concentration"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "clinical-measurements",
+        "sample-error"
+      ],
+      "explanation": "Saline contains sodium and chloride; contamination can alter measured electrolyte concentrations."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a serial dilution, each step usually:",
+      "choices": [
+        "Dilutes a sample by a known factor",
+        "Increases concentration without adding solute",
+        "Changes an element into another",
+        "Removes all solvent"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "laboratory",
+        "dilution"
+      ],
+      "explanation": "A serial dilution repeats a defined dilution factor to reach a lower concentration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which choice is the safest response to a chemical spill in a teaching lab?",
+      "choices": [
+        "Ask a classmate to identify the spill first",
+        "Alert the supervisor and follow lab protocol",
+        "Cover it with towels and continue working",
+        "Wash it into the sink without checking"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "laboratory",
+        "safety"
+      ],
+      "explanation": "Unknown spills require the established safety procedure and trained supervision; tasting or mixing chemicals is unsafe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of interaction helps stabilize the folded shapes of many proteins in water?",
+      "choices": [
+        "Metallic bonds and ionic lattices in the chain",
+        "Covalent bonds break whenever water is present",
+        "Hydrogen bonds and other noncovalent attractions",
+        "Only disulfide bridges hold every protein together"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "protein-structure"
+      ],
+      "explanation": "Hydrogen bonding, ionic attractions, dispersion forces, and hydrophobic effects contribute to protein structure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a lipid's common property compared with many sugars?",
+      "choices": [
+        "Lipids are always charged",
+        "Lipids contain no carbon",
+        "Sugars cannot dissolve in water",
+        "Many lipids are less soluble in water"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "lipids"
+      ],
+      "explanation": "Many lipids have large nonpolar regions, making them poorly soluble in polar water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes a chemical disinfectant?",
+      "choices": [
+        "A substance used to reduce or inactivate microbes on appropriate surfaces",
+        "A guaranteed sterilizer for every material",
+        "A food nutrient",
+        "A solvent safe to mix with any cleaner"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "disinfectants"
+      ],
+      "explanation": "Disinfectants have specific uses and instructions; they are not interchangeable and should never be mixed casually."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about blood pH control is most accurate?",
+      "choices": [
+        "Only the lungs remove carbon dioxide",
+        "Buffers plus breathing and kidney function",
+        "Food sets blood pH directly after each meal",
+        "Bones control pH by releasing calcium alone"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "physiological-regulation"
+      ],
+      "explanation": "Chemical buffers act rapidly; lungs regulate carbon dioxide and kidneys adjust acid and bicarbonate handling over longer times."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which unit is equivalent to a molar concentration?",
+      "choices": [
+        "g*L",
+        "L/mol^2",
+        "mol/L",
+        "kg/L only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "measurement",
+        "concentration-units"
+      ],
+      "explanation": "Molarity is defined as amount of solute in moles per liter of solution."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which observation best indicates a chemical change rather than merely a physical change?",
+      "choices": [
+        "A solid is cut into smaller pieces",
+        "Liquid water freezes",
+        "Sugar crystals are crushed",
+        "A new substance forms with different chemical composition"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemical-change",
+        "reaction-evidence"
+      ],
+      "explanation": "Chemical change creates products with different chemical identities; size or state changes alone are physical changes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An ion can form when an atom gains or loses electrons.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "ions",
+        "atomic-structure"
+      ],
+      "explanation": "The proton count stays the same during ordinary ion formation; electron number changes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A solution is always a liquid.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "mixtures"
+      ],
+      "explanation": "Solutions can also be gases or solids, such as air or a homogeneous alloy."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Osmolality is expressed per kilogram of solvent.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "Osmolality reports osmoles of dissolved particles per kilogram of solvent."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Molarity uses the volume of the final solution, not just the solvent added.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "molarity"
+      ],
+      "explanation": "The denominator is total solution volume after solute and solvent are combined."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Water can move across some biological membranes without the solute crossing with it.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "osmosis"
+      ],
+      "explanation": "A selectively permeable membrane may allow water passage while restricting particular solutes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An isotonic solution causes a large net change in cell volume under the relevant conditions.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "tonicity"
+      ],
+      "explanation": "An isotonic environment has similar effective osmotic pressure, so there is no large sustained net water shift."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sodium is usually more concentrated inside cells than outside them.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "sodium"
+      ],
+      "explanation": "Sodium is generally higher in extracellular fluid; potassium is generally higher inside cells."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Potassium ions are important in electrical signaling in excitable cells.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "potassium"
+      ],
+      "explanation": "Potassium gradients contribute to membrane potentials and the recovery phases of action potentials."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At the same temperature, a one-unit increase in pH means hydronium concentration is ten times higher.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "A one-unit pH increase corresponds to tenfold lower hydronium concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A weak acid may still be present at high concentration.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "acid-strength"
+      ],
+      "explanation": "Weakness describes partial ionization, while concentration describes the amount dissolved per volume."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A buffer has unlimited capacity to absorb acid and base.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "Buffers can be overwhelmed once their acid or base components are used up."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Carbon dioxide participates in a reversible acid-base system in water.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "bicarbonate"
+      ],
+      "explanation": "Dissolved CO2 is in equilibrium with carbonic acid and bicarbonate plus hydrogen ions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A catalyst makes an otherwise unfavorable equilibrium favorable by changing K.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "enzymes"
+      ],
+      "explanation": "Catalysts affect rates, not equilibrium composition or the equilibrium constant."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Enzymes are usually proteins, although some RNA molecules can also catalyze reactions.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "enzymes"
+      ],
+      "explanation": "Most biological catalysts are proteins; catalytic RNA molecules are called ribozymes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All energy in food is released in one step during digestion.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "metabolism"
+      ],
+      "explanation": "Cells transform energy through many coupled steps rather than releasing it all at once."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The hydrolysis of ATP can be coupled to cellular work.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "atp"
+      ],
+      "explanation": "ATP hydrolysis can drive processes such as transport or biosynthesis when appropriately coupled."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Proteins are polymers whose building blocks include amino acids.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "proteins"
+      ],
+      "explanation": "Amino acids join through peptide bonds to form polypeptide chains."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The sequence of amino acids can influence a protein three-dimensional structure.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "protein-structure"
+      ],
+      "explanation": "The sequence determines interaction patterns that help shape folding and function."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All lipids dissolve readily in water.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "lipids"
+      ],
+      "explanation": "Many lipids are hydrophobic because of their extensive nonpolar regions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Iron in hemoglobin helps it bind oxygen reversibly.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "iron"
+      ],
+      "explanation": "The heme iron binds oxygen without permanently consuming it under normal transport conditions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Calcium phosphate minerals contribute to the hardness of bones and teeth.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "calcium"
+      ],
+      "explanation": "Calcium-containing phosphate mineral is a major structural component of the skeleton and tooth enamel."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Iodine is an ingredient of thyroid hormones.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "iodine"
+      ],
+      "explanation": "Thyroxine and triiodothyronine contain iodine."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Evaporating sweat can cool the skin because evaporation requires energy.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "body-chemistry",
+        "heat-transfer"
+      ],
+      "explanation": "The energy for evaporation is drawn partly from skin and nearby tissues."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A carboxylic acid contains a carboxyl group.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "The carboxyl group is written -COOH and can donate a proton."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ionization state can influence how a weakly acidic or basic molecule interacts with water.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "ionization"
+      ],
+      "explanation": "Charged forms are often more water-compatible, while neutral forms may partition differently; behavior depends on the molecule."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A contaminated sample can give a result that does not reflect the original specimen.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "clinical-measurements",
+        "sample-error"
+      ],
+      "explanation": "Contamination adds or removes material and may bias the measured concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Household cleaning products should be mixed together to make them work better.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "laboratory",
+        "safety"
+      ],
+      "explanation": "Mixing cleaners can release toxic gases or cause dangerous reactions. Follow labels and keep products separate."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Oxygen is carried in blood partly bound to hemoglobin and partly dissolved in plasma.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "oxygen-transport"
+      ],
+      "explanation": "Most oxygen is transported bound to hemoglobin; a smaller amount is physically dissolved in plasma."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Digestion often breaks large food molecules into smaller molecules through hydrolysis reactions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "digestion"
+      ],
+      "explanation": "Enzymes catalyze hydrolysis of carbohydrates, proteins, and other food components."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The pH of a fluid describes its hydrogen-ion activity on a logarithmic scale.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "In dilute solutions, pH is commonly approximated as the negative base-10 logarithm of hydronium concentration."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an electrolyte?",
+      "answer": "A substance that produces mobile ions when dissolved or melted, allowing the material to conduct electricity.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "ions"
+      ],
+      "explanation": "Sodium chloride dissociates into Na+ and Cl- in water."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is molarity?",
+      "answer": "Moles of solute per liter of total solution.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "molarity"
+      ],
+      "explanation": "Molarity is written mol/L or M."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is osmolality?",
+      "answer": "The concentration of dissolved particles expressed as osmoles per kilogram of solvent.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "Unlike molarity, osmolality uses solvent mass rather than solution volume."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does isotonic mean for two solutions separated by a membrane?",
+      "answer": "They have similar effective osmotic pressure, so there is no large sustained net water shift between them.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "tonicity"
+      ],
+      "explanation": "Tonicity depends especially on solutes that do not freely cross the membrane."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a buffer?",
+      "answer": "A solution containing a conjugate acid-base pair that resists pH change when small amounts of acid or base are added.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "A buffer has limited capacity and works best near the pair pKa."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the bicarbonate buffer pair?",
+      "answer": "Carbonic acid (H2CO3) and bicarbonate (HCO3-), linked with dissolved carbon dioxide and water.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "bicarbonate"
+      ],
+      "explanation": "The reversible system helps buffer extracellular fluid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an acid-base conjugate pair?",
+      "answer": "Two species that differ by one hydrogen ion, H+.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "conjugate-pairs"
+      ],
+      "explanation": "For example, NH4+/NH3 is a conjugate acid-base pair."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an amino acid?",
+      "answer": "A molecule containing an amino group and a carboxyl group, with a side chain that varies among amino acids.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "proteins"
+      ],
+      "explanation": "Amino acids are the monomers used to build proteins."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a peptide bond?",
+      "answer": "The covalent link joining the carboxyl carbon of one amino acid to the amino nitrogen of another.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "proteins"
+      ],
+      "explanation": "Peptide bonds form when amino acids are joined in a condensation reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an enzyme?",
+      "answer": "A biological catalyst that speeds a reaction without being consumed overall.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "enzymes"
+      ],
+      "explanation": "Most enzymes are proteins, but some RNA molecules are catalytic too."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is ATP?",
+      "answer": "A nucleotide that cells use to transfer usable chemical energy in many coupled processes.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "atp"
+      ],
+      "explanation": "ATP is not a long-term energy store; cells continually synthesize and use it."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is hydrolysis?",
+      "answer": "A reaction that uses water to split a chemical bond.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "hydrolysis"
+      ],
+      "explanation": "Digestive enzymes catalyze many hydrolysis reactions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a carbohydrate?",
+      "answer": "A class of molecules including sugars and many of their polymers, used in energy transfer and structure.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "carbohydrates"
+      ],
+      "explanation": "Glucose is a common monosaccharide."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a lipid?",
+      "answer": "A diverse group of mostly water-insoluble molecules that includes fats, oils, phospholipids, and steroids.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biochemistry",
+        "lipids"
+      ],
+      "explanation": "Lipids have roles in energy storage, membranes, and signaling."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the role of hemoglobin?",
+      "answer": "It is a protein in red blood cells that binds and transports oxygen, and also participates in carbon-dioxide and proton transport.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "oxygen-transport"
+      ],
+      "explanation": "Its heme iron binds oxygen reversibly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which major ion is more abundant inside most cells: sodium or potassium?",
+      "answer": "Potassium is generally more concentrated inside cells; sodium is generally more concentrated outside.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "potassium"
+      ],
+      "explanation": "Cells maintain these gradients using membrane transport proteins."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an isotonic environment?",
+      "answer": "An environment with similar effective osmotic pressure to the fluid inside a cell.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "tonicity"
+      ],
+      "explanation": "There is water movement both ways, but no large net shift that changes cell volume."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does pH measure?",
+      "answer": "A logarithmic measure related to hydrogen-ion activity; in dilute solutions pH is approximately -log10[H3O+].",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "Each pH unit corresponds to a tenfold difference in hydronium concentration."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a functional group?",
+      "answer": "A specific arrangement of atoms in an organic molecule that contributes characteristic properties and reactions.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "Hydroxyl, carboxyl, amino, and carbonyl groups are common examples."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a hydroxyl group?",
+      "answer": "An -OH group attached to the rest of a molecule.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "Alcohols contain a hydroxyl group bonded to carbon."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is osmosis?",
+      "answer": "Net movement of water across a selectively permeable membrane driven by differences in effective solute concentration.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "osmosis"
+      ],
+      "explanation": "Water movement can change cell volume when the surrounding solution is not isotonic."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Why can sweat cool the body?",
+      "answer": "Water evaporating from skin absorbs energy, carrying heat away.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "body-chemistry",
+        "heat-transfer"
+      ],
+      "explanation": "Evaporation is an endothermic phase change for the escaping water."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a clinical reference interval?",
+      "answer": "A range of results observed or established for a defined reference population using a specified method.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "clinical-measurements",
+        "laboratory"
+      ],
+      "explanation": "It is not by itself a diagnosis; context and the laboratory method matter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Why are cleaning products kept separate?",
+      "answer": "Some combinations react or release harmful gases; products should be used only as their labels direct.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "laboratory",
+        "safety"
+      ],
+      "explanation": "Never mix bleach with ammonia, acids, or other cleaners."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is concentration?",
+      "answer": "The amount of a substance present in a specified amount of mixture or solution.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "measurement",
+        "concentration-units"
+      ],
+      "explanation": "Concentration can be expressed in units such as mol/L, g/L, or percent."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a blank in a laboratory measurement?",
+      "answer": "A sample containing the measurement reagents or medium but no analyte, used to assess background signal.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "clinical-measurements",
+        "quality-control"
+      ],
+      "explanation": "A blank helps distinguish analyte signal from reagents, containers, or instrument background."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ion is the main negatively charged ion in extracellular fluid?",
+      "choices": [
+        "Chloride",
+        "Potassium",
+        "Calcium",
+        "Iron"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "chloride"
+      ],
+      "explanation": "Chloride is the major extracellular anion and helps balance positive charges."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Magnesium ions are involved in many enzymes and help stabilize:",
+      "choices": [
+        "Oxygen atoms in air",
+        "ATP and other charged molecules",
+        "All covalent bonds",
+        "Water molecules as ice only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "magnesium"
+      ],
+      "explanation": "Mg2+ interacts with phosphate groups and serves as a cofactor in many enzymes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Phosphate is important in the body because it is part of:",
+      "choices": [
+        "Hemoglobin heme only",
+        "Sodium channels only",
+        "ATP and bone mineral",
+        "Thyroid hormones only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "biological-elements",
+        "phosphate"
+      ],
+      "explanation": "Phosphate groups occur in ATP, nucleic acids, phospholipids, and bone mineral."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Diffusion is the net movement of particles from:",
+      "choices": [
+        "Lower concentration toward higher concentration only",
+        "A membrane into a nucleus only",
+        "A solid into a gas only",
+        "Higher concentration toward lower concentration"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "diffusion"
+      ],
+      "explanation": "Random motion produces net movement down a concentration gradient until concentrations even out."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Osmolarity is expressed as osmoles of dissolved particles per:",
+      "choices": [
+        "Liter of solution",
+        "Kilogram of solvent",
+        "Mole of solute",
+        "Gram of body tissue"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "Osmolarity uses solution volume, unlike osmolality, which uses solvent mass."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A weak acid becomes more ionized when the surrounding pH is:",
+      "choices": [
+        "Far below its pKa",
+        "Above its pKa",
+        "Always exactly zero",
+        "Unrelated to its pKa"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "ionization"
+      ],
+      "explanation": "For a weak acid, the deprotonated form becomes more abundant as pH rises above pKa."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which functional group identifies an amide?",
+      "choices": [
+        "An oxygen between two carbons",
+        "A hydroxyl on carbon",
+        "A carbonyl attached to nitrogen",
+        "A carbon-carbon double bond only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "An amide contains a C(=O)-N linkage."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which functional group identifies an ester?",
+      "choices": [
+        "A nitrogen with three carbon bonds",
+        "An -OH group alone",
+        "A sulfur-sulfur bond",
+        "A carbonyl bonded to an -OR group"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "Esters contain the linkage R-C(=O)-O-R."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Chloride is a major negatively charged ion in extracellular fluid.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "electrolytes",
+        "chloride"
+      ],
+      "explanation": "Chloride helps balance the positive ions in extracellular fluid."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Osmolarity and osmolality use the same denominator.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "Osmolarity is per liter of solution; osmolality is per kilogram of solvent."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Diffusion can occur without a membrane, while osmosis specifically describes water movement across a selectively permeable membrane.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "diffusion"
+      ],
+      "explanation": "Osmosis is a special case involving water and a selective barrier."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The protonation of a weak acid or base can depend on the pH relative to its pKa.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "chemistry-in-healthcare",
+        "ionization"
+      ],
+      "explanation": "The Henderson-Hasselbalch relationship describes the ratio of protonated and deprotonated forms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which units define osmolality?",
+      "answer": "Osmoles of dissolved particles per kilogram of solvent.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "concentration-units"
+      ],
+      "explanation": "It differs from osmolarity, which uses liters of solution."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is diffusion?",
+      "answer": "Net spreading of particles from a region of higher concentration toward a region of lower concentration.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "diffusion"
+      ],
+      "explanation": "Random particle motion drives diffusion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an amide functional group?",
+      "answer": "A carbonyl group directly bonded to nitrogen, written as C(=O)-N.",
+      "difficulty": "easy",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "Peptide bonds are amide linkages."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an ester functional group?",
+      "answer": "A carbonyl attached to an oxygen that is bonded to another carbon group: R-C(=O)-O-R.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "organic-chemistry",
+        "functional-groups"
+      ],
+      "explanation": "Esters occur in fats, fragrances, and many medicines."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does it mean for a solution to be isotonic to a cell?",
+      "answer": "It has similar effective osmotic pressure, so it causes no large sustained net water shift across the membrane.",
+      "difficulty": "medium",
+      "tags": [
+        "health-sciences-chemistry",
+        "solutions",
+        "tonicity"
+      ],
+      "explanation": "Tonicity depends especially on solutes that cannot freely cross the membrane."
+    }
+  ]
+}

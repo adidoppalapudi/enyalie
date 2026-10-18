@@ -1,0 +1,613 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-trivia-expert",
+    "name": "Expert Round",
+    "description": "A demanding mix of mathematics, ancient scripts, molecular biology, astronomy, music and obscure words."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which SI base unit measures luminous intensity?",
+      "choices": [
+        "Candela",
+        "Lumen",
+        "Lux",
+        "Watt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lumens measure luminous flux; lux measures illuminance.",
+      "difficulty": "expert",
+      "tags": [
+        "measurement"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many bytes are in one kibibyte?",
+      "choices": [
+        "1000",
+        "100",
+        "2048",
+        "1024"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kibibyte is the binary unit. The SI prefix kilo means 1000.",
+      "difficulty": "expert",
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a convex polyhedron, what is V minus E plus F?",
+      "choices": [
+        "Two",
+        "Zero",
+        "One",
+        "Four"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is Euler's formula for vertices, edges and faces.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which number is perfect, meaning it equals the sum of its positive proper divisors?",
+      "choices": [
+        "24",
+        "28",
+        "26",
+        "30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Its positive proper divisors are 1, 2, 4, 7 and 14, which sum to 28.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the derivative of e to the power x with respect to x?",
+      "choices": [
+        "x times e to the power x",
+        "e to the power x minus one",
+        "e to the power x",
+        "The natural logarithm of x"
+      ],
+      "correctIndex": 2,
+      "explanation": "The natural exponential function is its own derivative.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which element has the chemical symbol W?",
+      "choices": [
+        "Tin",
+        "Tantalum",
+        "Tungsten",
+        "Tellurium"
+      ],
+      "correctIndex": 2,
+      "explanation": "The symbol comes from the alternative name wolfram.",
+      "difficulty": "expert",
+      "tags": [
+        "chemistry"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which element was the first to be identified through artificial production?",
+      "choices": [
+        "Promethium",
+        "Plutonium",
+        "Neptunium",
+        "Technetium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Technetium was identified in irradiated material in 1937; traces also occur naturally.",
+      "difficulty": "expert",
+      "tags": [
+        "chemistry"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which metal sits at the center of a chlorophyll molecule?",
+      "choices": [
+        "Iron",
+        "Copper",
+        "Magnesium",
+        "Zinc"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does ATP stand for in cell biology?",
+      "choices": [
+        "Adenosine tetraphosphate",
+        "Adenine triphosphate",
+        "Adenine tetraphosphate",
+        "Adenosine triphosphate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cells couple ATP breakdown to many energy-requiring processes.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What model of DNA replication did the Meselson-Stahl experiment support?",
+      "choices": [
+        "Conservative",
+        "Semiconservative",
+        "Dispersive",
+        "Discontinuous only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each daughter DNA double helix contains one parental strand and one newly synthesized strand.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does the spliceosome normally remove from a pre-mRNA transcript?",
+      "choices": [
+        "Introns",
+        "Exons",
+        "Codons",
+        "Telomeres"
+      ],
+      "correctIndex": 0,
+      "explanation": "The remaining exons are joined to form mature RNA.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A chain of ubiquitin molecules often marks a protein for destruction by what?",
+      "choices": [
+        "Ribosome",
+        "Spliceosome",
+        "Proteasome",
+        "Centrosome"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ubiquitin has other signaling roles too; not every ubiquitin modification means degradation.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "During which meiotic phase do sister chromatids separate?",
+      "choices": [
+        "Anaphase I",
+        "Prophase II",
+        "Anaphase II",
+        "Metaphase I"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homologous chromosomes separate in anaphase I.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does an isobath connect on a map?",
+      "choices": [
+        "Points of equal rainfall",
+        "Points of equal depth",
+        "Points of equal pressure",
+        "Points of equal temperature"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does an isohel connect on a map?",
+      "choices": [
+        "Places with equal air temperature",
+        "Places with equal atmospheric pressure",
+        "Places with equal annual rainfall",
+        "Places with equal sunshine duration"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which year is associated with the Peace of Westphalia ending the Thirty Years' War?",
+      "choices": [
+        "1618",
+        "1688",
+        "1648",
+        "1713"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The 1494 Treaty of Tordesillas divided overseas claims between which two crowns?",
+      "choices": [
+        "England and France",
+        "France and Portugal",
+        "Spain and the Netherlands",
+        "Spain and Portugal"
+      ],
+      "correctIndex": 3,
+      "explanation": "The agreement set a line of demarcation; it did not recognize the rights of peoples already living there.",
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Linear B records an early form of which language?",
+      "choices": [
+        "Latin",
+        "Etruscan",
+        "Greek",
+        "Phoenician"
+      ],
+      "correctIndex": 2,
+      "explanation": "It was used to write Mycenaean Greek.",
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which script is not on the Rosetta Stone?",
+      "choices": [
+        "Greek",
+        "Demotic",
+        "Cuneiform",
+        "Egyptian hieroglyphs"
+      ],
+      "correctIndex": 2,
+      "explanation": "The stone has three scripts but two languages: Egyptian and Greek.",
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which empire used knotted-cord records called quipus?",
+      "choices": [
+        "Aztec",
+        "Inca",
+        "Maya",
+        "Achaemenid"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which major key has four sharps in its standard key signature?",
+      "choices": [
+        "E major",
+        "A major",
+        "B major",
+        "D major"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sharps are F, C, G and D.",
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many semitones make up a tritone?",
+      "choices": [
+        "Six",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 0,
+      "explanation": "It divides the twelve-semitone octave in half.",
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which interlocking rhyme scheme did Dante use in The Divine Comedy?",
+      "choices": [
+        "Terza rima",
+        "Ottava rima",
+        "Rhyme royal",
+        "Spenserian stanza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Its rhyme pattern proceeds ABA BCB CDC.",
+      "difficulty": "expert",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is chiasmus?",
+      "choices": [
+        "Repeating the same word at sentence openings",
+        "Reversing the order of corresponding phrases",
+        "Omitting conjunctions from a series of clauses",
+        "Substituting a part for the name of a whole"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "words"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What constraint defines a lipogram?",
+      "choices": [
+        "Deliberately omitting a particular letter",
+        "Using every alphabet letter in each sentence",
+        "Writing every line as a perfect palindrome",
+        "Repeating one word at the start of every line"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "words"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does melismatic singing do?",
+      "choices": [
+        "Uses one note for each syllable",
+        "Uses only spoken words without pitch",
+        "Uses only wordless humming on one note",
+        "Uses several notes for one syllable"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who built the H4 timekeeper to help solve the longitude problem?",
+      "choices": [
+        "Christiaan Huygens",
+        "John Harrison",
+        "Robert Hooke",
+        "Thomas Tompion"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "inventions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sea is defined by ocean currents rather than land boundaries?",
+      "choices": [
+        "Sargasso Sea",
+        "Caribbean Sea",
+        "Mediterranean Sea",
+        "Baltic Sea"
+      ],
+      "correctIndex": 0,
+      "explanation": "It lies within the North Atlantic subtropical gyre.",
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Chandrasekhar limit concerns the maximum supported mass of which object?",
+      "choices": [
+        "White dwarf",
+        "Brown dwarf",
+        "Main-sequence star",
+        "Molecular cloud"
+      ],
+      "correctIndex": 0,
+      "explanation": "For an idealized white dwarf it is about 1.4 times the Sun's mass.",
+      "difficulty": "expert",
+      "tags": [
+        "space"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The James Webb Space Telescope operates near which Sun-Earth Lagrange point?",
+      "choices": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Webb follows a halo orbit around the L2 region, not a fixed point motionless in space.",
+      "difficulty": "expert",
+      "tags": [
+        "space"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Riemann hypothesis predicts that nontrivial zeta-function zeros have what real part?",
+      "choices": [
+        "One-third",
+        "Zero",
+        "One-half",
+        "One"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mathematician is associated with the incompleteness theorems?",
+      "choices": [
+        "David Hilbert",
+        "Georg Cantor",
+        "Bernhard Riemann",
+        "Kurt Godel"
+      ],
+      "correctIndex": 3,
+      "explanation": "They establish limits on sufficiently expressive formal systems.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a normal 4 by 4 magic square using 1 through 16, what is the common row sum?",
+      "choices": [
+        "30",
+        "34",
+        "32",
+        "36"
+      ],
+      "correctIndex": 1,
+      "explanation": "The numbers total 136, and four equally summed rows must each total 34.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who wrote the short story The Library of Babel?",
+      "choices": [
+        "Julio Cortazar",
+        "Italo Calvino",
+        "Adolfo Bioy Casares",
+        "Jorge Luis Borges"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who wrote the novel Pale Fire?",
+      "choices": [
+        "Boris Pasternak",
+        "Vladimir Nabokov",
+        "Mikhail Bulgakov",
+        "Ivan Bunin"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which amino acid is strongly associated with the taste called umami?",
+      "choices": [
+        "Glycine",
+        "Tryptophan",
+        "Lysine",
+        "Glutamate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Glutamate salts contribute the savory taste recognized as umami.",
+      "difficulty": "expert",
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every real transcendental number is irrational.",
+      "answer": true,
+      "explanation": "Every rational number satisfies a polynomial equation with integer coefficients, so it is algebraic.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "The SI kilogram is still defined by the mass of a particular metal cylinder.",
+      "answer": false,
+      "explanation": "Since 2019, its definition fixes the numerical value of the Planck constant.",
+      "difficulty": "expert",
+      "tags": [
+        "measurement"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a hapax legomenon?",
+      "answer": "A word or expression occurring only once within a specified text or body of texts.",
+      "difficulty": "expert",
+      "tags": [
+        "words"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is aphelion?",
+      "answer": "The point in an orbit around the Sun that is farthest from the Sun.",
+      "difficulty": "expert",
+      "tags": [
+        "space"
+      ]
+    }
+  ]
+}

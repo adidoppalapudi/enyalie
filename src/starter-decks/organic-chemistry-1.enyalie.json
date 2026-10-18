@@ -1,0 +1,1763 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-organic-chemistry-1",
+    "name": "Organic Chemistry I",
+    "description": "A first-semester review of organic structure, stereochemistry, mechanisms, alkene chemistry, spectroscopy, and laboratory methods."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "How many sigma and pi bonds are in a C=C double bond?",
+      "choices": [
+        "One sigma plus one pi bond",
+        "Two distinct sigma bonds",
+        "Two pi bonds with no sigma",
+        "One pi bond without sigma"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "bonding",
+        "pi-bonds"
+      ],
+      "explanation": "A double bond contains one sigma bond and one pi bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A tetrahedral carbon bonded to four different groups is a:",
+      "choices": [
+        "Carbonyl carbon",
+        "Chiral center",
+        "Methyl group",
+        "Radical only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "chirality"
+      ],
+      "explanation": "Four different substituents make that tetrahedral center stereogenic."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which pair are nonsuperimposable mirror images?",
+      "choices": [
+        "Conformers",
+        "Constitutional isomers",
+        "Enantiomers",
+        "Tautomers"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "enantiomers"
+      ],
+      "explanation": "Enantiomers are stereoisomers related as nonsuperimposable mirror images."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A molecule has stereocenters but is achiral because it has internal symmetry. It is:",
+      "choices": [
+        "A racemate",
+        "A constitutional isomer",
+        "A radical",
+        "Meso"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "meso"
+      ],
+      "explanation": "Internal symmetry can make a molecule with stereocenters superimposable on its mirror image."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the lowest-energy staggered conformation of butane around its central bond?",
+      "choices": [
+        "Anti",
+        "Eclipsed",
+        "Gauche",
+        "Planar cis"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "butane"
+      ],
+      "explanation": "The anti conformation puts the methyl groups 180° apart, reducing steric repulsion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A bulky tert-butyl group on cyclohexane strongly prefers which chair position?",
+      "choices": [
+        "Axial",
+        "Equatorial",
+        "Both equally",
+        "At a bridgehead"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "cyclohexane"
+      ],
+      "explanation": "The equatorial position reduces unfavorable 1,3-diaxial interactions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substrate is fastest in SN2 with the same nucleophile and leaving group?",
+      "choices": [
+        "2-bromobutane",
+        "tert-Butyl bromide",
+        "Methyl bromide",
+        "Neopentyl bromide"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "SN2 requires backside approach; the least hindered methyl substrate reacts fastest."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An SN2 reaction at a stereogenic carbon typically gives:",
+      "choices": [
+        "Retention",
+        "A free carbocation",
+        "Equal racemization",
+        "Inversion"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "stereochemistry"
+      ],
+      "explanation": "Backside attack produces inversion of configuration at the reacting center."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which solvent often favors SN2 by leaving anionic nucleophiles relatively reactive?",
+      "choices": [
+        "Polar aprotic",
+        "Strongly protic",
+        "Nonpolar gas",
+        "Any solvent equally"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "Polar aprotic solvents solvate cations without strongly hydrogen-bonding to anionic nucleophiles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substrate is most favorable for SN1 in a polar protic solvent?",
+      "choices": [
+        "Methyl chloride",
+        "tert-Butyl chloride",
+        "Ethyl chloride",
+        "Vinyl chloride"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn1"
+      ],
+      "explanation": "Ionization gives a relatively stable tertiary carbocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In the simple SN1 model, the rate depends on:",
+      "choices": [
+        "Nucleophile only",
+        "Both substrate and nucleophile",
+        "Substrate only",
+        "Solvent volume only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "kinetics"
+      ],
+      "explanation": "The rate-determining ionization step involves the substrate alone."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substrate is least suitable for SN2?",
+      "choices": [
+        "Methyl halide",
+        "Primary halide",
+        "Secondary halide",
+        "Tertiary halide"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "Steric crowding at a tertiary carbon blocks backside approach."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "E2 elimination requires the leaving group and beta hydrogen to be aligned:",
+      "choices": [
+        "Antiperiplanar when possible",
+        "On the same atom",
+        "At 90 degrees always",
+        "In different molecules"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e2-geometry"
+      ],
+      "explanation": "Antiperiplanar bonds align for effective formation of the new pi bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Zaitsev product is generally the:",
+      "choices": [
+        "Less substituted alkene",
+        "More substituted alkene",
+        "More oxidized alcohol",
+        "Substitution product"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "regioselectivity"
+      ],
+      "explanation": "With many small bases, elimination favors the more substituted alkene, subject to substrate and condition effects."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A bulky base often increases formation of the:",
+      "choices": [
+        "More substituted Zaitsev alkene only",
+        "Ketone",
+        "Less substituted Hofmann alkene",
+        "Ether"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "regioselectivity"
+      ],
+      "explanation": "Steric hindrance can favor removal of a more accessible beta hydrogen."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which conditions commonly favor elimination over substitution?",
+      "choices": [
+        "Weak nucleophile and cold only",
+        "Neutral water only",
+        "No reagent and darkness",
+        "Bulky strong base and heat"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "reaction-conditions"
+      ],
+      "explanation": "Strong bulky base and heat often favor elimination; substrate and solvent still matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "HBr adds to propene without peroxides mainly to form:",
+      "choices": [
+        "2-bromopropane",
+        "1-bromopropane",
+        "1,2-dibromopropane",
+        "Propanol"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydrohalogenation"
+      ],
+      "explanation": "Ionic Markovnikov addition proceeds through the more stable secondary carbocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Hydroboration-oxidation of a terminal alkene places OH mainly on the:",
+      "choices": [
+        "More substituted carbon",
+        "Less substituted carbon",
+        "Both equally",
+        "Carbon with a leaving group"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydroboration"
+      ],
+      "explanation": "The net hydration is anti-Markovnikov and typically avoids a free carbocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Oxymercuration-demercuration gives Markovnikov hydration while avoiding typical:",
+      "choices": [
+        "C–O bond formation",
+        "Use of water",
+        "Carbocation rearrangements",
+        "Regioselectivity"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "oxymercuration"
+      ],
+      "explanation": "A bridged mercurinium intermediate avoids a free carbocation that could rearrange."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Addition of Br2 to an alkene through a bromonium ion gives mainly:",
+      "choices": [
+        "Syn addition",
+        "No stereochemical preference",
+        "Radical substitution",
+        "Anti addition"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "halogenation"
+      ],
+      "explanation": "Bromide attacks opposite the bridged bromonium ion, giving anti addition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Catalytic hydrogenation adds H atoms to an alkene mainly by:",
+      "choices": [
+        "Syn addition",
+        "Anti addition through a carbocation",
+        "Radical substitution",
+        "Elimination"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydrogenation"
+      ],
+      "explanation": "Both hydrogens are delivered from the catalyst surface to the same face in the standard model."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Oxidative cleavage of an alkene primarily:",
+      "choices": [
+        "Changes C=C into a single bond",
+        "Breaks C=C into carbonyl groups",
+        "Adds two atoms across the double bond",
+        "Links two alkene molecules together"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "oxidative-cleavage"
+      ],
+      "explanation": "Ozonolysis and related methods split the double-bond carbon-carbon bond; workup affects products."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which reagent commonly reduces an alkene to an alkane?",
+      "choices": [
+        "NaBH4 in water",
+        "Br2",
+        "H2 with metal catalyst",
+        "O3 only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydrogenation"
+      ],
+      "explanation": "Catalytic hydrogenation adds H2 across the double bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A terminal alkyne is more acidic than an alkane because its conjugate base has carbon that is:",
+      "choices": [
+        "sp2 hybridized",
+        "sp3 hybridized",
+        "Not hybridized",
+        "sp hybridized"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkynes",
+        "acidity"
+      ],
+      "explanation": "Greater s-character helps stabilize negative charge on the sp-hybridized carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An acetylide anion most reliably forms a C-C bond by SN2 with a:",
+      "choices": [
+        "Methyl or primary alkyl halide",
+        "Tertiary alkyl halide",
+        "Aryl fluoride in water",
+        "Noble gas"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkynes",
+        "acetylide"
+      ],
+      "explanation": "Methyl and primary electrophiles favor substitution over elimination by the strong acetylide base."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a radical chain mechanism, the step that first creates radicals is:",
+      "choices": [
+        "Propagation",
+        "Initiation",
+        "Termination",
+        "Hydrolysis"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "radicals",
+        "chain-reactions"
+      ],
+      "explanation": "Initiation generates radicals, often through homolytic bond cleavage."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which simple alkyl radical is usually most stable?",
+      "choices": [
+        "Methyl",
+        "Primary",
+        "Tertiary",
+        "Secondary"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "radicals",
+        "stability"
+      ],
+      "explanation": "Alkyl substitution stabilizes carbon radicals through hyperconjugation and inductive effects."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A strong IR absorption near 1700 cm-1 often indicates a:",
+      "choices": [
+        "C-H stretch",
+        "C-Cl stretch",
+        "C-C single bond only",
+        "C=O stretch"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Carbonyl stretches commonly occur around 1650-1800 cm-1 depending on structure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A broad IR feature around 3200-3600 cm-1 often suggests:",
+      "choices": [
+        "O-H stretch",
+        "C=O stretch",
+        "C-Cl stretch",
+        "C=C stretch only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Hydrogen-bonded alcohol O-H absorption is often broad in this region."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In proton NMR, integration is most directly related to:",
+      "choices": [
+        "Molecular mass",
+        "Relative number of H atoms",
+        "Boiling point",
+        "Number of carbon atoms only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "proton-nmr"
+      ],
+      "explanation": "Integration estimates relative numbers of protons contributing to each signal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "By the simple n+1 rule, a proton next to three equivalent hydrogens often gives a:",
+      "choices": [
+        "Singlet",
+        "Doublet",
+        "Quartet",
+        "Triplet"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "nmr-splitting"
+      ],
+      "explanation": "Three equivalent neighboring protons split a signal into 3 + 1 = 4 lines."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In mass spectrometry, m/z means:",
+      "choices": [
+        "Mole fraction",
+        "Magnetic moment",
+        "Mass times charge",
+        "Mass-to-charge ratio"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "mass-spectrometry"
+      ],
+      "explanation": "Mass spectrometers separate ions according to mass divided by charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which formula gives degree of unsaturation for a neutral formula with C,H,N and halogens X?",
+      "choices": [
+        "(2C+2+N-H-X)/2",
+        "(C+H+N+X)/2",
+        "2C+H-N",
+        "(H-2C-X)/2"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "degree-unsaturation"
+      ],
+      "explanation": "Oxygen and sulfur are omitted; each ring or pi bond contributes one degree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A C4H10 formula has how many degrees of unsaturation?",
+      "choices": [
+        "1",
+        "0",
+        "2",
+        "4"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "degree-unsaturation"
+      ],
+      "explanation": "(2×4 + 2 − 10)/2 = 0, consistent with a saturated acyclic formula."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which method separates compounds by their interaction with stationary and mobile phases?",
+      "choices": [
+        "Calorimetry",
+        "Titration",
+        "Chromatography",
+        "Centrifugation only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "chromatography"
+      ],
+      "explanation": "Chromatography separates substances through differential partitioning or adsorption."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "On polar silica TLC with a fixed solvent, which compound often travels farther?",
+      "choices": [
+        "More polar compound",
+        "They always travel equally",
+        "Neither moves",
+        "Less polar compound"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "thin-layer-chromatography"
+      ],
+      "explanation": "Less polar analytes often interact less strongly with silica and travel farther."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why add a boiling chip before heating a liquid?",
+      "choices": [
+        "Provide nucleation sites and reduce bumping",
+        "Set exact boiling temperature",
+        "Absorb all distillate",
+        "Catalyze oxidation"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "distillation"
+      ],
+      "explanation": "Boiling chips promote steady bubble formation and must be added before heating."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why can repeated small solvent portions extract more solute than one equal total portion?",
+      "choices": [
+        "They change molecular identity",
+        "Each fresh portion reestablishes partitioning",
+        "They eliminate solvent hazards",
+        "They force precipitation"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "extraction"
+      ],
+      "explanation": "Partition equilibrium makes several fresh extractions more efficient than one large extraction of equal total volume."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of recrystallization?",
+      "choices": [
+        "Separate gases by their molecular masses",
+        "Measure reaction rate as products form",
+        "Purify a solid using hot-cold solubility differences",
+        "Convert an alcohol into a new alkene"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "recrystallization"
+      ],
+      "explanation": "The desired solid dissolves hot and crystallizes as the solution cools."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which pair of factors influences SN1 versus SN2 pathway choice?",
+      "choices": [
+        "Color and molecular mass only",
+        "Solvent volume and room lighting",
+        "Oxygen atoms present in the air",
+        "Substrate and reaction conditions"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "reaction-mechanisms",
+        "substitution"
+      ],
+      "explanation": "Steric hindrance, carbocation stability, nucleophile, and solvent all matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A nucleophile is best described as an:",
+      "choices": [
+        "Electron-pair donor",
+        "Electron-pair acceptor only",
+        "Atom containing nitrogen",
+        "Always neutral species"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "reaction-mechanisms",
+        "nucleophiles"
+      ],
+      "explanation": "A nucleophile donates an electron pair to form a bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a curved-arrow mechanism, the arrow tail begins at:",
+      "choices": [
+        "A product label",
+        "An electron pair or bond",
+        "A reaction coordinate",
+        "A positive charge with no electrons"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "reaction-mechanisms",
+        "curved-arrows"
+      ],
+      "explanation": "Curved arrows track electron-pair movement from an electron source."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which feature stabilizes a carbocation?",
+      "choices": [
+        "Nearby positive charge",
+        "Loss of all alkyl groups",
+        "Resonance delocalization",
+        "Strong electron withdrawal"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "reaction-mechanisms",
+        "carbocations"
+      ],
+      "explanation": "Resonance spreads the positive charge over more than one atom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why can rearrangement occur in some SN1 reactions?",
+      "choices": [
+        "Nucleophile becomes a proton",
+        "Double bonds prevent movement",
+        "Leaving group attacks first",
+        "A carbocation can shift to a more stable position"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "carbocation-rearrangement"
+      ],
+      "explanation": "Hydride or alkyl shifts can relocate the charge to a more stable carbocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "E/Z isomerism is possible when each alkene carbon has:",
+      "choices": [
+        "Two different substituents",
+        "Two identical groups",
+        "An sp3 hybrid",
+        "A free rotation axis"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "e-z"
+      ],
+      "explanation": "Distinct substituents and restricted double-bond rotation allow E/Z forms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What prevents free rotation around a carbon-carbon double bond?",
+      "choices": [
+        "The sigma bond alone",
+        "The pi bond",
+        "A lone pair",
+        "A hydrogen bond"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "bonding",
+        "alkenes"
+      ],
+      "explanation": "Rotation would disrupt side-on overlap that forms the pi bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "If high-priority groups lie on opposite sides of C=C, the configuration is:",
+      "choices": [
+        "Z",
+        "R",
+        "E",
+        "S"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "e-z"
+      ],
+      "explanation": "E denotes opposite sides; Z denotes the same side."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A racemic mixture contains:",
+      "choices": [
+        "One pure enantiomer",
+        "Only achiral molecules",
+        "Only meso compounds",
+        "Equal amounts of two enantiomers"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "optical-activity"
+      ],
+      "explanation": "Equal enantiomer rotations cancel in bulk under the same conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which alkene reaction produces a vicinal dihalide?",
+      "choices": [
+        "Br2 addition",
+        "H2/Pd",
+        "Ozonolysis",
+        "Hydrogenation only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "halogenation"
+      ],
+      "explanation": "Each of the two formerly alkene carbons receives a halogen atom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A strong IR peak at 1715 cm-1 with no broad O-H band most supports a:",
+      "choices": [
+        "Alcohol",
+        "Ketone",
+        "Alkane",
+        "Ether"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "functional-groups"
+      ],
+      "explanation": "A saturated ketone commonly has a strong carbonyl stretch near this value."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An aldehyde proton often appears in proton NMR near:",
+      "choices": [
+        "0-1 ppm",
+        "2-3 ppm",
+        "9-10 ppm",
+        "5-6 ppm"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "proton-nmr"
+      ],
+      "explanation": "Aldehyde protons are strongly deshielded and commonly appear around 9-10 ppm."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "On a reaction coordinate diagram, a transition state is at a:",
+      "choices": [
+        "Stable starting material",
+        "Local minimum between steps",
+        "Product plateau only",
+        "Energy maximum along a step"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "energy-diagrams"
+      ],
+      "explanation": "A transition state is a maximum; an intermediate is a local minimum between steps."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An exothermic reaction has products with:",
+      "choices": [
+        "Lower enthalpy than reactants",
+        "Higher enthalpy",
+        "Always identical enthalpy",
+        "No bonds"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "thermochemistry"
+      ],
+      "explanation": "Exothermic reactions release heat and have negative enthalpy change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which alkene hydration method is most prone to carbocation rearrangement?",
+      "choices": [
+        "Hydroboration-oxidation",
+        "Acid-catalyzed hydration",
+        "Oxymercuration-demercuration",
+        "Catalytic hydrogenation"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydration"
+      ],
+      "explanation": "Acid-catalyzed hydration passes through a carbocation intermediate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Mild oxidation of a primary alcohol can stop at an:",
+      "choices": [
+        "Ketone",
+        "Ether",
+        "Aldehyde",
+        "Alkane"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "oxidation"
+      ],
+      "explanation": "With a suitable mild oxidant, a primary alcohol can be oxidized to an aldehyde."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An electrophile is an electron-pair:",
+      "choices": [
+        "Donor only",
+        "Proton only",
+        "Metal only",
+        "Acceptor"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "reaction-mechanisms",
+        "electrophiles"
+      ],
+      "explanation": "Electrophiles are electron-poor sites that accept an electron pair from a nucleophile."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A pi bond forms by side-by-side overlap of p orbitals.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "bonding",
+        "pi-bonds"
+      ],
+      "explanation": "Side-on overlap places electron density above and below the bond axis."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every molecule with a stereocenter must be chiral.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "meso"
+      ],
+      "explanation": "Internal symmetry can make a molecule with stereocenters achiral."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A cyclohexane chair flip switches axial and equatorial positions but retains up/down orientation.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "cyclohexane"
+      ],
+      "explanation": "Each substituent changes axial/equatorial status while keeping its up/down direction."
+    },
+    {
+      "type": "true_false",
+      "prompt": "SN2 proceeds through a long-lived planar carbocation.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "SN2 is concerted and does not form a discrete carbocation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Increasing steric hindrance at the reacting carbon generally slows SN2.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "Crowding blocks the nucleophile’s backside approach."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A tertiary alkyl halide usually undergoes SN2 faster than a methyl halide.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "Methyl substrates are least hindered; tertiary centers strongly block SN2."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In the simple SN1 model, the rate depends on nucleophile concentration.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn1"
+      ],
+      "explanation": "The rate-determining ionization depends on substrate concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "SN1 substitution at a stereogenic center may give a mixture of configurations.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "stereochemistry"
+      ],
+      "explanation": "A planar carbocation can be attacked from either face, often with partial racemization."
+    },
+    {
+      "type": "true_false",
+      "prompt": "E2 involves removal of a beta hydrogen as the leaving group departs in one concerted step.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e2"
+      ],
+      "explanation": "The bond changes occur together as the new pi bond forms."
+    },
+    {
+      "type": "true_false",
+      "prompt": "E2 elimination requires a beta hydrogen.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e2"
+      ],
+      "explanation": "The base removes a beta hydrogen while the leaving group departs from the adjacent carbon."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Zaitsev product means the less substituted alkene.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "regioselectivity"
+      ],
+      "explanation": "The Zaitsev product is generally the more substituted alkene."
+    },
+    {
+      "type": "true_false",
+      "prompt": "HBr addition to an alkene is always anti-Markovnikov without peroxides.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydrohalogenation"
+      ],
+      "explanation": "Ordinary ionic addition is Markovnikov; radical anti-Markovnikov addition uses peroxide conditions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Hydroboration-oxidation gives net anti-Markovnikov hydration.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydroboration"
+      ],
+      "explanation": "OH ends up on the less substituted carbon."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A bromonium ion intermediate helps explain anti addition of Br2 to an alkene.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "halogenation"
+      ],
+      "explanation": "The bridged ion is attacked from the opposite face."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Catalytic hydrogenation turns an alkene C=C into a C-C single bond.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydrogenation"
+      ],
+      "explanation": "H atoms add across the pi bond."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Carbonyl groups typically absorb only below 1000 cm-1 in an IR spectrum.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Carbonyl stretches usually occur around 1650-1800 cm-1."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In proton NMR, integration estimates relative numbers of contributing hydrogens.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "proton-nmr"
+      ],
+      "explanation": "Integrals are normalized to relative proton counts."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Two equivalent neighboring protons often split a signal into a triplet in a simple first-order spectrum.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "nmr-splitting"
+      ],
+      "explanation": "The simple n+1 rule gives 2+1 lines."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mass spectrometry separates ions according to mass-to-charge ratio.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "mass-spectrometry"
+      ],
+      "explanation": "Detected ions are distinguished by their m/z values."
+    },
+    {
+      "type": "true_false",
+      "prompt": "One ring or one pi bond contributes one degree of unsaturation.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "degree-unsaturation"
+      ],
+      "explanation": "A triple bond contributes two degrees."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Silica gel is a common polar stationary phase in TLC.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "chromatography"
+      ],
+      "explanation": "Silica’s polarity affects how strongly different analytes are retained."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A catalyst changes a reaction’s equilibrium position.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "catalysis"
+      ],
+      "explanation": "A catalyst changes rates but not the equilibrium constant or position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a sigma bond?",
+      "answer": "A covalent bond with electron density concentrated along the internuclear axis.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "bonding",
+        "sigma-bonds"
+      ],
+      "explanation": "A single bond is one sigma bond."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a pi bond?",
+      "answer": "A bond from side-by-side p-orbital overlap, with electron density above and below the internuclear axis.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "bonding",
+        "pi-bonds"
+      ],
+      "explanation": "Pi bonds accompany sigma bonds in double and triple bonds."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a curved arrow mean in an organic mechanism?",
+      "answer": "Movement of an electron pair from a source such as a lone pair or bond to a new location.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "curved-arrows"
+      ],
+      "explanation": "The tail begins at the electron source."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a nucleophile?",
+      "answer": "An electron-pair donor that forms a bond to an electrophilic site.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "nucleophiles"
+      ],
+      "explanation": "Nucleophiles may be neutral or negatively charged."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an electrophile?",
+      "answer": "An electron-pair acceptor that reacts with a nucleophile.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "electrophiles"
+      ],
+      "explanation": "Carbocations and polarized carbonyl carbons are examples."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a carbocation?",
+      "answer": "An organic species with a positively charged carbon center.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "mechanisms",
+        "carbocations"
+      ],
+      "explanation": "Resonance or alkyl substitution can stabilize a carbocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What defines SN2?",
+      "answer": "A concerted substitution where nucleophile attack and leaving-group departure occur in one step, usually with inversion.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn2"
+      ],
+      "explanation": "The simple rate law depends on both substrate and nucleophile."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What defines SN1?",
+      "answer": "Substitution through ionization to a carbocation, followed by nucleophile capture.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "substitution",
+        "sn1"
+      ],
+      "explanation": "The simple rate-determining step depends on substrate concentration."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What defines E2?",
+      "answer": "A concerted elimination where a base removes a beta hydrogen as the leaving group departs and a pi bond forms.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e2"
+      ],
+      "explanation": "Antiperiplanar geometry is often important."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does Markovnikov orientation predict for HX addition to an unsymmetrical alkene?",
+      "answer": "H generally adds to the carbon already bearing more H atoms; X adds to the more substituted carbon.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "regioselectivity"
+      ],
+      "explanation": "The pattern often follows formation of the more stable carbocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is anti-Markovnikov hydration by hydroboration-oxidation?",
+      "answer": "Alkene hydration that places OH on the less substituted carbon, with net syn addition of H and OH.",
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "hydroboration"
+      ],
+      "explanation": "The reaction avoids a free carbocation intermediate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does anti addition mean?",
+      "answer": "Two groups add to opposite faces of a double bond.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "alkenes",
+        "stereochemistry"
+      ],
+      "explanation": "Bromination through a bromonium ion is a common example."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the anti conformation of butane?",
+      "answer": "A staggered arrangement with methyl groups 180 degrees apart.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "butane"
+      ],
+      "explanation": "It is the lowest-energy staggered conformation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a meso compound?",
+      "answer": "An achiral molecule with stereocenters whose internal symmetry makes it superimposable on its mirror image.",
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "meso"
+      ],
+      "explanation": "A meso compound is one compound, not a racemic mixture."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What do E and Z describe?",
+      "answer": "The relative positions of high-priority substituents on a double bond: opposite for E and same side for Z.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "e-z"
+      ],
+      "explanation": "CIP priority rules identify the high-priority substituent on each carbon."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a racemic mixture?",
+      "answer": "An equal mixture of two enantiomers.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "optical-activity"
+      ],
+      "explanation": "Their optical rotations cancel in bulk."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does proton NMR integration show?",
+      "answer": "Relative numbers of hydrogens contributing to each signal.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "proton-nmr"
+      ],
+      "explanation": "Integration complements chemical-shift and splitting data."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the simple n+1 splitting rule?",
+      "answer": "A proton set with n equivalent neighboring hydrogens often appears as n+1 lines in a simple first-order spectrum.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "nmr-splitting"
+      ],
+      "explanation": "The rule has limits for coupled nonequivalent protons."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the degree of unsaturation?",
+      "answer": "A count of rings and pi bonds implied by a molecular formula relative to a saturated acyclic formula.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "degree-unsaturation"
+      ],
+      "explanation": "A ring or double bond contributes one; a triple bond contributes two."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is recrystallization used for?",
+      "answer": "Purifying a solid by using its temperature-dependent solubility in a suitable solvent.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "laboratory",
+        "recrystallization"
+      ],
+      "explanation": "The compound dissolves hot and crystallizes as the solution cools."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In IUPAC naming, the parent chain is generally chosen as the longest chain that:",
+      "choices": [
+        "Includes the highest-priority group and most unsaturation",
+        "Has the greatest number of branches only",
+        "Begins at the left side of the drawing",
+        "Contains only primary carbons in sequence"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "nomenclature",
+        "parent-chain"
+      ],
+      "explanation": "Parent-chain selection follows priority rules, including the principal functional group and unsaturation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the functional group in an ether?",
+      "choices": [
+        "A carbonyl bonded to nitrogen",
+        "An oxygen bonded to two carbon groups",
+        "An -OH bonded to carbon",
+        "A carbon-carbon triple bond"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "ethers"
+      ],
+      "explanation": "Ethers have the general structure R-O-R prime."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which group distinguishes an aldehyde from a ketone?",
+      "choices": [
+        "A carbonyl carbon bonded to two carbons",
+        "A hydroxyl group",
+        "A terminal carbonyl carbon bonded to hydrogen",
+        "An ether oxygen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "carbonyls"
+      ],
+      "explanation": "An aldehyde has at least one hydrogen on its carbonyl carbon; a ketone has two carbon substituents."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In an E1 reaction, the slow step usually forms a:",
+      "choices": [
+        "Pi bond by one concerted step",
+        "Radical by homolysis",
+        "C-C bond by nucleophilic attack",
+        "Carbocation by loss of the leaving group"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e1"
+      ],
+      "explanation": "The rate-determining ionization generates a carbocation before deprotonation forms the alkene."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which compound is more acidic, using typical pKa values?",
+      "choices": [
+        "A carboxylic acid with pKa near 5",
+        "An alcohol with pKa near 16",
+        "An alkane with pKa near 50",
+        "They are equally acidic"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "acids-bases",
+        "pka"
+      ],
+      "explanation": "Lower pKa corresponds to a stronger acid; carboxylate resonance stabilizes the conjugate base."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which method is used to assign R or S configuration at a tetrahedral stereocenter?",
+      "choices": [
+        "Hückel electron counting",
+        "Cahn-Ingold-Prelog priority rules",
+        "The n+1 rule",
+        "The octet rule"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "r-s"
+      ],
+      "explanation": "CIP priorities are ranked by atomic number, then the lowest-priority group is oriented away."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Newman projection looks along which bond?",
+      "choices": [
+        "A carbonyl pi bond",
+        "An O-H bond only",
+        "A carbon-carbon single bond",
+        "A ring plane"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "newman-projections"
+      ],
+      "explanation": "The front and rear atoms show the conformation around a selected single bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which IR feature is typical of a nitrile C≡N stretch?",
+      "choices": [
+        "A broad band near 3300 cm-1 only",
+        "A strong band near 1700 cm-1",
+        "No IR absorption",
+        "A sharp band near 2200-2300 cm-1"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-1",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Nitrile triple-bond stretching commonly appears around 2200-2300 cm-1."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An E1 reaction proceeds through a carbocation intermediate.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e1"
+      ],
+      "explanation": "The leaving group departs before the base removes a beta proton."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A lower pKa indicates a stronger acid.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "acids-bases",
+        "pka"
+      ],
+      "explanation": "Acid strength increases as pKa decreases."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A ketone carbonyl carbon is bonded to two carbon groups.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "carbonyls"
+      ],
+      "explanation": "This distinguishes a ketone from an aldehyde, which has at least one hydrogen at the carbonyl carbon."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How is an ether functional group written?",
+      "answer": "R-O-R prime: an oxygen bonded to two carbon groups.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "ethers"
+      ],
+      "explanation": "The oxygen is not part of a carbonyl in a simple ether."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does an aldehyde differ from a ketone?",
+      "answer": "An aldehyde has a carbonyl carbon bonded to at least one hydrogen; a ketone has two carbon substituents.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "functional-groups",
+        "carbonyls"
+      ],
+      "explanation": "Both contain a carbonyl group."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an E1 reaction?",
+      "answer": "A two-step elimination in which the leaving group first forms a carbocation, then a base removes a beta hydrogen to make an alkene.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "elimination",
+        "e1"
+      ],
+      "explanation": "Its rate in the simple model depends on substrate concentration."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a Newman projection show?",
+      "answer": "The three-dimensional arrangement of groups when looking along a selected single bond.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-1",
+        "conformations",
+        "newman-projections"
+      ],
+      "explanation": "It is used to compare eclipsed and staggered conformations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What do R and S label?",
+      "answer": "The absolute configuration at a stereogenic center using Cahn-Ingold-Prelog priorities.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-1",
+        "stereochemistry",
+        "r-s"
+      ],
+      "explanation": "R and S labels are assigned from the ranked substituent order with the lowest priority directed away."
+    }
+  ]
+}

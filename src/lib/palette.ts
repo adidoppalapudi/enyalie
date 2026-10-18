@@ -1,10 +1,13 @@
+import { writeMigratedValue } from './browserStorageMigration';
+
 /**
  * Colour palettes. Each one is a :root[data-palette] block in styles.css;
  * "classic" is the default with no attribute. index.html applies the saved
  * palette before the first paint so the page never flashes the wrong colours.
  */
 const PALETTES = ['classic', 'sycamore', 'cloud'] as const;
-const STORAGE_KEY = 'rekall.palette';
+const STORAGE_KEY = 'enyalie.palette';
+const LEGACY_STORAGE_KEY = 'rekall.palette';
 
 /** Matches the phone's browser bar to the title bar. */
 export function syncThemeColor(): void {
@@ -20,7 +23,7 @@ export function cyclePalette(): string {
   if (next === 'classic') delete root.dataset.palette;
   else root.dataset.palette = next;
   try {
-    localStorage.setItem(STORAGE_KEY, next);
+    writeMigratedValue(localStorage, STORAGE_KEY, LEGACY_STORAGE_KEY, next);
   } catch {
     // The choice just won't be remembered.
   }

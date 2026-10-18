@@ -12,10 +12,13 @@ import {
 import { nameWithSuffix, validateDeckInput, validateQuestionContent, validateQuestionList } from '../models/validation';
 import type { DataStore } from './DataStore';
 import { BY_DECK, DECKS, QUESTIONS, openDatabase, promisifyRequest, transactionDone } from './idb';
+import { migrateLegacyDatabase } from './legacyMigration';
 
 export interface IndexedDbStoreOptions {
   /** Database name. Tests use a fresh name per test. */
   name?: string;
+  /** Previous database to copy from. Defaults to the Rekall database for Enyalië. */
+  legacyName?: string | null;
   /** Clock used for timestamps (injectable for tests). */
   now?: () => number;
 }
@@ -24,7 +27,7 @@ const byName = (a: DeckSummary, b: DeckSummary) =>
   a.name.localeCompare(b.name, undefined, { sensitivity: 'base', numeric: true });
 
 export function createIndexedDbStore(options: IndexedDbStoreOptions = {}): DataStore {
-  const { name = 'rekall', now = Date.now } = options;
+  const { name = 'enyalie', legacyName = name === 'enyalie' ? 'rekall' : null, now = Date.now } = options;
   let dbPromise: Promise<IDBDatabase> | null = null;
 
   function getDb(): Promise<IDBDatabase> {
@@ -38,7 +41,12 @@ export function createIndexedDbStore(options: IndexedDbStoreOptions = {}): DataS
         db.onclose = () => {
           dbPromise = null;
         };
-        return db;
+        return migrateLegacyDatabase(db, legacyName ?? undefined)
+          .then(() => db)
+          .catch((error: unknown) => {
+            db.close();
+            throw error;
+          });
       });
       opening.catch(() => {
         if (dbPromise === opening) dbPromise = null; // allow a retry after a failure

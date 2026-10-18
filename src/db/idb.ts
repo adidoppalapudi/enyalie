@@ -7,16 +7,17 @@
  * never unrelated async work such as fetch().
  */
 
-const DB_VERSION = 1;
+const DB_VERSION = 2;
 export const DECKS = 'decks';
 export const QUESTIONS = 'questions';
+export const MIGRATIONS = 'migrations';
 /** Index on questions.deckId, used to load or delete one deck's questions. */
 export const BY_DECK = 'byDeck';
 
 export function openDatabase(name: string): Promise<IDBDatabase> {
   return new Promise((resolve, reject) => {
     if (typeof indexedDB === 'undefined') {
-      reject(new Error('This browser does not support IndexedDB, so Rekall cannot save anything.'));
+      reject(new Error('This browser does not support IndexedDB, so Enyalië cannot save anything.'));
       return;
     }
     const request = indexedDB.open(name, DB_VERSION);
@@ -31,11 +32,12 @@ export function openDatabase(name: string): Promise<IDBDatabase> {
         const questions = db.createObjectStore(QUESTIONS, { keyPath: 'id' });
         questions.createIndex(BY_DECK, 'deckId', { unique: false });
       }
+      if (event.oldVersion < 2) db.createObjectStore(MIGRATIONS, { keyPath: 'id' });
     };
     request.onsuccess = () => resolve(request.result);
     request.onerror = () => reject(request.error ?? new Error('Could not open the local database.'));
     request.onblocked = () => {
-      console.warn('Rekall: database upgrade is waiting for other open tabs to close.');
+      console.warn('Enyalië: database upgrade is waiting for other open tabs to close.');
     };
   });
 }

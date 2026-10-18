@@ -1,0 +1,775 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-vocabulary",
+    "name": "Vocabulary Builder",
+    "description": "Useful English words for reading and writing, with clear definitions."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ubiquitous\" mean?",
+      "choices": [
+        "Confined to one region",
+        "Present only for a season",
+        "Commonly found everywhere",
+        "Difficult to find anywhere"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster defines ubiquitous as existing everywhere at the same time. Example: Smartphones are ubiquitous in the city."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ephemeral\" mean?",
+      "choices": [
+        "Continuing without interruption",
+        "Recurring at regular intervals",
+        "Developing over many decades",
+        "Lasting a very short time"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"lasting a very short time\". Example: The rainbow was an ephemeral sight."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"benevolent\" mean?",
+      "choices": [
+        "Cruel and vindictive",
+        "Kind and well-meaning",
+        "Proud and self-important",
+        "Wary and distrustful"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"marked by kindness or generosity\". Example: A benevolent donor paid the fees."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"pragmatic\" mean?",
+      "choices": [
+        "Guided by idealistic theories",
+        "Practical about real situations",
+        "Concerned with social prestige",
+        "Rigid about traditional rules"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster contrasts pragmatic with idealistic. Example: They chose the cheaper repair as a pragmatic solution."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"meticulous\" mean?",
+      "choices": [
+        "Careless about small errors",
+        "Impatient with slow progress",
+        "Uncertain about basic facts",
+        "Extremely careful about details"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"showing or requiring extreme care and attention to detail\". Example: She kept meticulous records."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"laconic\" mean?",
+      "choices": [
+        "Speaking at great length",
+        "Using very few words",
+        "Avoiding direct statements",
+        "Repeating the same point"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster describes using a minimum of words. Example: His laconic reply was a single sentence.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"gregarious\" mean?",
+      "choices": [
+        "Preferring a solitary routine",
+        "Distrusting unfamiliar people",
+        "Avoiding casual conversation",
+        "Enjoying the company of others"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"enjoying the company of others\". Example: The gregarious host greeted everyone."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"obfuscate\" mean?",
+      "choices": [
+        "To make something less severe",
+        "To make something more compact",
+        "To make something more visible",
+        "To make something less clear"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster includes the sense \"to make obscure\". Example: Jargon can obfuscate a simple explanation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ameliorate\" mean?",
+      "choices": [
+        "To make a situation worse",
+        "To make a situation better",
+        "To describe a situation briefly",
+        "To avoid a situation entirely"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"to make better or more tolerable\". Example: The changes ameliorated working conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"capricious\" mean?",
+      "choices": [
+        "Following a consistent routine",
+        "Changing unpredictably with whims",
+        "Remaining calm under pressure",
+        "Acting only after careful study"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster links capricious to sudden unpredictable impulses. Example: Capricious weather disrupted the picnic."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"esoteric\" mean?",
+      "choices": [
+        "Familiar to the general public",
+        "Understood by a specialized few",
+        "Designed for outdoor activities",
+        "Available at a very high price"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster describes knowledge restricted to a small group. Example: The lecture covered esoteric mathematical ideas."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"magnanimous\" mean?",
+      "choices": [
+        "Generous toward others or rivals",
+        "Resentful toward others or rivals",
+        "Boastful about status or wealth",
+        "Anxious about risks or failure"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"showing or suggesting a generous and kind nature\". Example: The winner was magnanimous in victory."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"sycophant\".",
+      "answer": "A person who flatters someone powerful to gain an advantage.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster describes a self-seeking flatterer. Example: The sycophant praised every decision to gain favor."
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Loquacious\" and \"garrulous\" both describe a very talkative person.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "synonyms"
+      ],
+      "explanation": "Merriam-Webster defines both words in terms of talkativeness. Garrulous can suggest excessive or tedious talk."
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Enervate\" means to fill with energy.",
+      "answer": false,
+      "explanation": "Merriam-Webster includes \"to lessen the vitality or strength of\". Example: The exhausting heat enervated the hikers.",
+      "difficulty": "hard",
+      "tags": [
+        "commonly-confused"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"mitigate\" mean?",
+      "choices": [
+        "To make something less severe",
+        "To make something more severe",
+        "To make something more obscure",
+        "To make something more elaborate"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster includes making something less harsh. Example: Shade can mitigate the effects of heat."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"disparate\" mean?",
+      "choices": [
+        "Nearly identical in character",
+        "Fundamentally different in character",
+        "Closely related by origin",
+        "Equally important in a sequence"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"markedly distinct in quality or character\". Example: The report combined disparate sources."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ostentatious\" mean?",
+      "choices": [
+        "Modest in order to blend in",
+        "Secretive in order to conceal",
+        "Practical in order to save time",
+        "Showy in order to impress"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster associates ostentatious with conspicuous display. Example: The ostentatious entrance drew every eye."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "She was reticent about her private life. What does reticent mean here?",
+      "choices": [
+        "Eager to share personal opinions",
+        "Reluctant to share personal thoughts",
+        "Unable to remember recent events",
+        "Quick to judge other people"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster: \"inclined to be silent or uncommunicative in speech\". It also records a broader reluctant sense.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"pernicious\" mean?",
+      "choices": [
+        "Helpful in a lasting and reliable way",
+        "Careful in a precise and exacting way",
+        "Stubborn in a firm and determined way",
+        "Harmful in a subtle or gradual way"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster describes hidden or easily unnoticed harm. Example: The rumor had a pernicious effect on trust."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"perfunctory\" mean?",
+      "choices": [
+        "Done with little interest or care",
+        "Done with unusual skill and care",
+        "Done with clear urgency and purpose",
+        "Done with strong enthusiasm and pride"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"lacking in interest or enthusiasm\". Example: He gave the form a perfunctory glance."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"equanimity\".",
+      "answer": "Calmness and composure, especially in a difficult situation.",
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"evenness of mind especially under stress\". Example: She handled the delay with equanimity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"quixotic\" mean?",
+      "choices": [
+        "Practical but unimaginative",
+        "Cautious but indecisive",
+        "Idealistic but impractical",
+        "Cynical but perceptive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster connects quixotic with impractical pursuit of ideals. The word comes from Don Quixote.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"inchoate\" mean?",
+      "choices": [
+        "No longer fit for purpose",
+        "Not yet fully developed",
+        "Already completed in detail",
+        "Impossible to understand clearly"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"being only partly in existence or operation\". Example: The proposal was still inchoate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"sanguine\" mean?",
+      "choices": [
+        "Deeply pessimistic",
+        "Easily embarrassed",
+        "Confidently optimistic",
+        "Habitually suspicious"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"marked by eager hopefulness\". Example: She remained sanguine about their chances."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"superfluous\" mean?",
+      "choices": [
+        "Less than is sufficient",
+        "Better than was expected",
+        "More than is necessary",
+        "Earlier than was planned"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster: \"not needed\". Example: The editor removed superfluous words."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"tenacious\" mean?",
+      "choices": [
+        "Persistent and unwilling to give up",
+        "Flexible and willing to compromise",
+        "Cautious and unwilling to take risks",
+        "Careless and likely to lose interest"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster connects tenacious with persistence and holding firmly. Example: The tenacious climber kept trying."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ambivalent\" mean?",
+      "choices": [
+        "Having conflicting feelings",
+        "Having no particular feelings",
+        "Having strongly hostile feelings",
+        "Having steadily positive feelings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster describes contradictory feelings existing together. Example: She felt ambivalent about leaving home.",
+      "difficulty": "medium",
+      "tags": [
+        "commonly-confused"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "\"Candid\" means truthful and straightforward.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster records candid as honest and sincere in expression. Example: He gave a candid assessment."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define \"ameliorate\" in one word.",
+      "answer": "Improve",
+      "difficulty": "easy",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Merriam-Webster defines ameliorate as making something better or more tolerable."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"alacrity\" mean?",
+      "choices": [
+        "Cheerful readiness",
+        "Careful hesitation",
+        "Strong resentment",
+        "Complete indifference"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster: \"promptness in response\". Example: She accepted the invitation with alacrity.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"assiduous\" mean?",
+      "choices": [
+        "Persistent and careful in effort",
+        "Careless and irregular in effort",
+        "Confident without much preparation",
+        "Curious without a clear purpose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster describes sustained care and attention. Example: Assiduous practice improved his playing.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"audacious\" mean?",
+      "choices": [
+        "Bold and willing to take risks",
+        "Cautious and unwilling to act",
+        "Polite and anxious to agree",
+        "Quiet and reluctant to speak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster includes \"intrepidly daring\". Example: The audacious plan surprised the team.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"deleterious\" mean?",
+      "choices": [
+        "Helpful or restorative",
+        "Harmful or damaging",
+        "Brief or temporary",
+        "Ordinary or predictable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster describes harm that may be subtle or unexpected. Example: Pollution had deleterious effects on the stream.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"didactic\" mean?",
+      "choices": [
+        "Intended to amuse",
+        "Intended to conceal",
+        "Intended to teach",
+        "Intended to decorate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster: \"designed or intended to teach\". Example: The didactic tale ends with a moral.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"erudite\" mean?",
+      "choices": [
+        "Practical but uneducated",
+        "Learned and knowledgeable",
+        "Wealthy and influential",
+        "Reserved but friendly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster links erudite to knowledge gained by study. Example: The erudite historian answered every question.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"fastidious\" mean?",
+      "choices": [
+        "Very exacting about details",
+        "Very careless about errors",
+        "Very quick to forgive faults",
+        "Very slow to notice changes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster: \"extremely or excessively careful or detailed\". Example: She was fastidious about punctuation.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"furtive\" mean?",
+      "choices": [
+        "Confident to attract attention",
+        "Careless despite clear warnings",
+        "Generous without seeking credit",
+        "Secretive to avoid notice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merriam-Webster describes quiet secretive action. Example: He cast a furtive glance at the clock.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an \"iconoclast\" in its figurative sense?",
+      "choices": [
+        "Someone who preserves accepted customs",
+        "Someone who records religious ceremonies",
+        "Someone who restores damaged paintings",
+        "Someone who challenges accepted beliefs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merriam-Webster: \"a person who attacks settled beliefs or institutions\". Historically the word also concerns destroying religious images.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"ineffable\" mean?",
+      "choices": [
+        "Too vague to be taken seriously",
+        "Too great to express in words",
+        "Too familiar to attract attention",
+        "Too ordinary to deserve praise"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster: \"incapable of being expressed in words\". Example: The view filled her with ineffable joy.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"juxtapose\" mean?",
+      "choices": [
+        "To arrange things by importance",
+        "To separate things into groups",
+        "To combine things into a whole",
+        "To place things side by side"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merriam-Webster describes placing different things beside each other, often to compare or contrast them.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"liminal\" mean when describing a stage of life?",
+      "choices": [
+        "Permanent and fully established",
+        "Repetitive and without change",
+        "Transitional or between states",
+        "Historical and long forgotten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster includes an intermediate state or condition. Example: Graduation can feel like a liminal moment.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"mendacious\" mean?",
+      "choices": [
+        "Careless or prone to errors",
+        "Dishonest or given to lying",
+        "Forgetful or easily distracted",
+        "Secretive or slow to confide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster links mendacious to deception or falsehood. Example: The mendacious account concealed what happened.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does \"obdurate\" mean?",
+      "choices": [
+        "Easily influenced by other people",
+        "Uncertain about what to believe",
+        "Slow to understand new information",
+        "Stubbornly resistant to persuasion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merriam-Webster includes resistance to persuasion. Example: He remained obdurate despite their appeals.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Her pellucid explanation helped everyone understand. What does \"pellucid\" mean here?",
+      "choices": [
+        "Brief and lacking in examples",
+        "Clear and easy to understand",
+        "Elegant but difficult to follow",
+        "Detailed but open to interpretation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merriam-Webster includes \"easy to understand\". The word can also describe transparent clarity in a material.",
+      "difficulty": "expert",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The solution was prosaic rather than exciting. What does \"prosaic\" mean here?",
+      "choices": [
+        "Ordinary and unimaginative",
+        "Complex and sophisticated",
+        "Poetic and emotionally vivid",
+        "Unusual and unpredictable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merriam-Webster includes the senses ordinary and unimaginative. Prosaic can also mean relating to prose.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The room was redolent of cedar. What does \"redolent\" mean here?",
+      "choices": [
+        "Filled with a particular sound",
+        "Covered in a particular texture",
+        "Filled with a particular scent",
+        "Lit with a particular color"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster includes being full of a fragrance. Redolent can also mean strongly evocative of something.",
+      "difficulty": "expert",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What are the \"vicissitudes\" of life?",
+      "choices": [
+        "Consistent habits and daily routines",
+        "Deliberate rules and fixed principles",
+        "Changes of fortune or circumstances",
+        "Permanent talents and personal strengths"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster includes chance changes and hardships. Example: They faced the vicissitudes of a long career.",
+      "difficulty": "expert",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The speech was anodyne and upset no one. What does \"anodyne\" mean here?",
+      "choices": [
+        "Likely to provoke a strong dispute",
+        "Difficult to follow without preparation",
+        "Unlikely to offend or cause tension",
+        "Designed to reveal private information"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merriam-Webster: \"not likely to offend or arouse tensions\". Anodyne also has a pain-relieving sense.",
+      "difficulty": "expert",
+      "tags": [
+        "definitions"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an \"aberration\" from a usual pattern?",
+      "choices": [
+        "A repetition of what is expected",
+        "A correction of an earlier mistake",
+        "A summary of a common sequence",
+        "A departure from what is normal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merriam-Webster describes deviation from a normal state. Example: The unusually cold day was an aberration.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ]
+    }
+  ]
+}

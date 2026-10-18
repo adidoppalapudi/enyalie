@@ -1,5 +1,5 @@
 /*
- * Rekall service worker: lets the app open without a network connection
+ * Enyalië service worker: lets the app open without a network connection
  * after it has been loaded once.
  *
  * How it works:
@@ -15,8 +15,8 @@
  * Bump CACHE_VERSION if you change this file in a way that should throw away
  * everything cached by older versions.
  */
-const CACHE_VERSION = 1;
-const CACHE_NAME = `rekall-v${CACHE_VERSION}`;
+const CACHE_VERSION = 4;
+const CACHE_NAME = `enyalie-v${CACHE_VERSION}`;
 const NAVIGATION_TIMEOUT_MS = 4000;
 
 const SCOPE = self.registration.scope;
@@ -143,7 +143,9 @@ self.addEventListener('activate', (event) => {
     (async () => {
       const keys = await caches.keys();
       await Promise.all(
-        keys.filter((key) => key.startsWith('rekall-') && key !== CACHE_NAME).map((key) => caches.delete(key)),
+        keys
+          .filter((key) => (key.startsWith('rekall-') || key.startsWith('enyalie-')) && key !== CACHE_NAME)
+          .map((key) => caches.delete(key)),
       );
       await self.clients.claim();
     })(),

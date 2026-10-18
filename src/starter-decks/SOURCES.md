@@ -131,7 +131,7 @@ Question wording, scenarios, and numerical values in the AP Chemistry deck are o
 - [American Chemical Society: laboratory safety guidelines for secondary schools](https://institute.acs.org/acs-center/lab-safety/education-training/high-school-labs.html).
 - [NOAA: water cycle](https://www.noaa.gov/education/resource-collections/freshwater/water-cycle) and [EPA: overview of greenhouse gases](https://www.epa.gov/ghgemissions/overview-greenhouse-gases).
 
-Question wording and examples are original. Numerical results were recalculated; the deck was also checked with Rekall's `parseDeckFile` validator. Question IDs are not part of Rekall's current deck-file schema: the importer validates the editable question fields and assigns database IDs when saving.
+Question wording and examples are original. Numerical results were recalculated; the deck was also checked with Enyalië's `parseDeckFile` validator. Question IDs are not part of Enyalië's current deck-file schema: the importer validates the editable question fields and assigns database IDs when saving.
 
 ## General Chemistry I & II
 
@@ -139,7 +139,7 @@ Question wording and examples are original. Numerical results were recalculated;
 - [OpenStax Chemistry 2e: reaction stoichiometry](https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry), [equilibrium](https://openstax.org/books/chemistry-2e/pages/13-introduction), and [potential, free energy, and equilibrium](https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium) for quantitative and conceptual review.
 - [IUPAC Gold Book](https://goldbook.iupac.org/) for standard chemistry terminology.
 
-Question wording and examples are original. Numerical calculations in the deck were checked directly; it was validated with Rekall's `parseDeckFile`.
+Question wording and examples are original. Numerical calculations in the deck were checked directly; it was validated with Enyalië's `parseDeckFile`.
 
 ## Chemistry for Health Sciences
 
@@ -148,7 +148,7 @@ Question wording and examples are original. Numerical calculations in the deck w
 - [NHLBI: the respiratory system](https://www.nhlbi.nih.gov/health/lungs/respiratory-system) for oxygen and carbon dioxide transport context.
 - [NIDDK: how the kidneys work](https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work) for general fluid and electrolyte context.
 
-This deck teaches general chemistry concepts and does not provide patient-specific medical advice. Question wording and examples are original; the file was validated with Rekall's `parseDeckFile`.
+This deck teaches general chemistry concepts and does not provide patient-specific medical advice. Question wording and examples are original; the file was validated with Enyalië's `parseDeckFile`.
 
 ## Organic Chemistry I and II
 
@@ -156,7 +156,7 @@ This deck teaches general chemistry concepts and does not provide patient-specif
 - [OpenStax Organic Chemistry: reaction mechanisms](https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms), [aromaticity](https://openstax.org/books/organic-chemistry/pages/15-4-aromatic-ions), and [spectroscopy summary](https://openstax.org/books/organic-chemistry/pages/12-summary) for representative concepts.
 - [IUPAC Gold Book](https://goldbook.iupac.org/) for terminology.
 
-Questions and examples are original. Mechanism conditions and products were checked for the stated reaction class; both files were validated with Rekall's `parseDeckFile`.
+Questions and examples are original. Mechanism conditions and products were checked for the stated reaction class; both files were validated with Enyalië's `parseDeckFile`.
 
 ## Analytical Chemistry
 
@@ -165,7 +165,7 @@ Questions and examples are original. Mechanism conditions and products were chec
 - [NIST/SEMATECH Engineering Statistics Handbook: calibration](https://www.itl.nist.gov/div898/handbook/mpc/section3/mpc3.htm) for calibration and measurement-model context.
 - [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for titration, equilibrium, and spectroscopy fundamentals.
 
-Question wording and examples are original; calculations and core terminology were checked, and the deck was validated with Rekall's `parseDeckFile`.
+Question wording and examples are original; calculations and core terminology were checked, and the deck was validated with Enyalië's `parseDeckFile`.
 
 ## Inorganic Chemistry
 
@@ -183,7 +183,7 @@ Question wording and examples are original. The deck was checked for basic elect
 - [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for states of matter, mixtures, reactions, and basic chemical concepts.
 - [NOAA: water cycle](https://www.noaa.gov/education/resource-collections/freshwater/water-cycle) for water-cycle concepts.
 
-Questions and explanations are original and use everyday examples. Safety questions discourage tasting unknown substances, mixing household cleaners, and unsupervised handling; the file was validated with Rekall's `parseDeckFile`.
+Questions and explanations are original and use everyday examples. Safety questions discourage tasting unknown substances, mixing household cleaners, and unsupervised handling; the file was validated with Enyalië's `parseDeckFile`.
 
 ## AP World History: Modern
 
@@ -200,4 +200,4 @@ Questions and explanations are original and use everyday examples. Safety questi
 - [National Park Service: History of El Camino Real de Tierra Adentro](https://home.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm) for the Pueblo Revolt question; [USC Shoah Foundation: Nanjing Massacre testimonies](https://sfi.usc.edu/collections/nanjing-massacre) for the World War II atrocity card.
 - [OpenStax World History, Volume 2](https://openstax.org/details/books/world-history-volume-2) for cross-regional context and chronology. Question wording, scenarios, source paraphrases, answer choices, and explanations are original; no long source passages or AP exam questions are reproduced.
 
-The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Rekall's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.
+The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Enyalië's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.

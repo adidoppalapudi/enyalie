@@ -74,7 +74,7 @@ export function LibraryView() {
     body = (
       <Notice title="Couldn't open your decks." tone="error">
         <p>{errorMessage(error)}</p>
-        <p>Rekall stores decks in this browser. Private browsing or blocked site data can stop that from working.</p>
+        <p>Enyalië stores decks in this browser. Private browsing or blocked site data can stop that from working.</p>
         <button type="button" className="btn" onClick={reload}>
           try again
         </button>

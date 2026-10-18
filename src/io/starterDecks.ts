@@ -1,5 +1,5 @@
 /**
- * The decks that ship with Rekall (src/starter-decks/*.rekall.json).
+ * The decks that ship with Enyalië (src/starter-decks/*.enyalie.json).
  * Each file is bundled as a separate asset and only downloaded when the
  * starter deck list is opened, so they add nothing to the app's start-up.
  * To add one, drop a deck file into that folder.
@@ -8,7 +8,7 @@ import type { ImportedDeck } from '../models/types';
 import { parseDeckFile } from './deckFile';
 import type { PickedFile } from './files';
 
-const urls = import.meta.glob<string>('../starter-decks/*.rekall.json', {
+const urls = import.meta.glob<string>('../starter-decks/*.enyalie.json', {
   query: '?url',
   import: 'default',
   eager: true,

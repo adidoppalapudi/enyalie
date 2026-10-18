@@ -1,0 +1,1661 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-inorganic-chemistry",
+    "name": "Inorganic Chemistry",
+    "description": "A compact review of periodic chemistry, bonding, coordination complexes, organometallic cycles, redox, and solid-state materials."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which electron configuration is most characteristic of a neutral Fe atom?",
+      "choices": [
+        "[Ar] 3d6 4s2",
+        "[Ar] 3d8",
+        "[Ne] 3s2 3p6",
+        "[Kr] 4s2"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "periodic-chemistry",
+        "electron-configuration"
+      ],
+      "explanation": "Iron has atomic number 26; its ground-state configuration is [Ar] 3d6 4s2."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Across a period, effective nuclear charge generally:",
+      "choices": [
+        "Decreases to zero",
+        "Increases",
+        "Stays exactly constant",
+        "Changes sign"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "periodic-chemistry",
+        "effective-nuclear-charge"
+      ],
+      "explanation": "Nuclear charge rises across a period while shielding does not fully cancel it."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which description fits a ligand in coordination chemistry?",
+      "choices": [
+        "An electron-pair acceptor from the metal",
+        "An atom that removes electrons from a metal",
+        "An electron-pair donor to a metal",
+        "A charge that balances the metal complex"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "ligands"
+      ],
+      "explanation": "Ligands donate one or more electron pairs to a central metal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A ligand that binds through two donor atoms is called:",
+      "choices": [
+        "Monodentate",
+        "Tridentate",
+        "Unidentate only",
+        "Bidentate"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "denticity"
+      ],
+      "explanation": "“Bi” means two; ethylenediamine is a common bidentate ligand."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coordination complex with coordination number 6 is commonly:",
+      "choices": [
+        "Octahedral",
+        "Linear",
+        "Trigonal planar",
+        "T-shaped"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "geometry"
+      ],
+      "explanation": "Six donor atoms commonly occupy the vertices of an octahedron."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For an octahedral complex, which d orbitals are higher in the basic crystal-field model?",
+      "choices": [
+        "t2g (dxy, dxz, dyz)",
+        "eg (dz2 and dx2-y2)",
+        "All d orbitals equally",
+        "Only s orbitals"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "octahedral-splitting"
+      ],
+      "explanation": "The eg orbitals point toward ligands along axes and experience greater repulsion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In an octahedral field, a weak-field ligand often favors a:",
+      "choices": [
+        "Low-spin arrangement",
+        "Diamagnetic arrangement always",
+        "High-spin arrangement",
+        "No d electrons"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "spin-state"
+      ],
+      "explanation": "When splitting is small relative to pairing energy, electrons occupy higher orbitals before pairing."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ligand is typically strong-field in the spectrochemical series?",
+      "choices": [
+        "I−",
+        "Br−",
+        "Cl−",
+        "CN−"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "spectrochemical-series"
+      ],
+      "explanation": "Cyanide generally produces large splitting compared with halide ligands."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An octahedral d6 low-spin complex is expected to have how many unpaired d electrons in the simple model?",
+      "choices": [
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "magnetism"
+      ],
+      "explanation": "Low-spin d6 fills the three lower t2g orbitals with paired electrons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A tetrahedral complex is often high-spin because tetrahedral splitting is usually:",
+      "choices": [
+        "Larger than all octahedral splitting",
+        "Small compared with pairing energy",
+        "Exactly zero",
+        "Independent of ligand"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "tetrahedral-splitting"
+      ],
+      "explanation": "Tetrahedral splitting is commonly too small to overcome pairing energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which geometry is common for many four-coordinate d8 complexes such as some Ni(II), Pd(II), and Pt(II) species?",
+      "choices": [
+        "Linear",
+        "Trigonal bipyramidal",
+        "Square planar",
+        "Pentagonal planar"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "square-planar"
+      ],
+      "explanation": "Some d8 metal ions favor square-planar geometry, though ligand and metal identity matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A complex with unpaired electrons is generally:",
+      "choices": [
+        "Diamagnetic",
+        "Nonmagnetic by definition",
+        "Radioactive",
+        "Paramagnetic"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "magnetism"
+      ],
+      "explanation": "Unpaired electrons create a net magnetic response."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why are many transition-metal complexes colored?",
+      "choices": [
+        "Selected wavelengths are absorbed by electronic transitions",
+        "All visible wavelengths are reflected by the ligands",
+        "Selected wavelengths are emitted during every collision",
+        "The complex changes shape and scatters all light"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "color"
+      ],
+      "explanation": "d-d or charge-transfer transitions can absorb parts of visible light."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about coordination isomerism is correct?",
+      "choices": [
+        "The metal is bonded to different elements in each case",
+        "Ligands occupy different positions around the metal",
+        "The complex has a different total electric charge",
+        "The ligand formula changes but positions stay fixed"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "isomerism"
+      ],
+      "explanation": "Coordination compounds can have geometric, optical, and linkage isomers."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In the 18-electron rule, metal valence electrons plus ligand donation total:",
+      "choices": [
+        "Always eight electrons around each metal",
+        "Exactly 18 electrons in every complex",
+        "Often 18 metal valence electrons",
+        "Two electrons for each attached ligand"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "electron-counting"
+      ],
+      "explanation": "Many organometallic complexes follow the rule, but it is a guide, not a universal law."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A carbon monoxide ligand usually binds to a transition metal through its:",
+      "choices": [
+        "Oxygen atom only",
+        "Hydrogen atom",
+        "Both atoms as a chelate",
+        "Carbon atom"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "metal-carbonyls"
+      ],
+      "explanation": "CO commonly binds through carbon and can accept metal back-donation into pi* orbitals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Oxidative addition commonly causes a metal center’s oxidation state and coordination number to:",
+      "choices": [
+        "Increase",
+        "Both decrease",
+        "Both stay unchanged",
+        "Become negative always"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "In the formal model, two groups add to the metal, often raising oxidation state by two."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Reductive elimination commonly forms a bond between:",
+      "choices": [
+        "A metal and a solvent only",
+        "Two groups attached to a metal",
+        "Two free electrons",
+        "A ligand and an isotope"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "Two metal-bound groups couple and depart as a product."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes a three-center two-electron bond?",
+      "choices": [
+        "Three electrons are shared between two atoms",
+        "A metal-metal triple bond",
+        "Two electrons are shared over three atoms",
+        "An ionic lattice defect"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "boranes"
+      ],
+      "explanation": "Electron-deficient boranes use multicenter bonding such as B-H-B three-center two-electron bonds."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In hard-soft acid-base theory, a hard acid generally prefers a:",
+      "choices": [
+        "Soft base only",
+        "Noble gas",
+        "Radical",
+        "Hard base"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "acid-base",
+        "hsab"
+      ],
+      "explanation": "Hard-hard interactions are often favored, especially for ionic, charge-controlled bonding."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which combination is a typical hard acid-hard base interaction?",
+      "choices": [
+        "Al3+ with F−",
+        "Ag+ with I−",
+        "Pt2+ with phosphine",
+        "Hg2+ with sulfide"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "acid-base",
+        "hsab"
+      ],
+      "explanation": "Highly charged, small Al3+ and small F− are both hard species."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a redox reaction, oxidation is:",
+      "choices": [
+        "Gain of electrons",
+        "Loss of electrons",
+        "Gain of protons only",
+        "Loss of neutrons"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "oxidation-states"
+      ],
+      "explanation": "Oxidation is loss of electrons; reduction is gain."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a Latimer diagram, a species’ standard potential is shown for:",
+      "choices": [
+        "Ligand names in order of field strength",
+        "Atomic numbers beside each molecular orbital",
+        "Adjacent oxidation states and their reduction potentials",
+        "Titration volumes beside acid-base pairs"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "latimer-diagrams"
+      ],
+      "explanation": "Latimer diagrams summarize standard reduction potentials between successive oxidation states."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Frost diagram plots relative free energy against:",
+      "choices": [
+        "Atomic number only",
+        "Ligand field strength",
+        "pH only",
+        "Oxidation state"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "frost-diagrams"
+      ],
+      "explanation": "The vertical coordinate is related to nE° and represents relative thermodynamic stability."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which defect describes a missing atom or ion from its lattice site?",
+      "choices": [
+        "Vacancy",
+        "Interstitial",
+        "Substitutional dopant",
+        "Dislocation only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-defects"
+      ],
+      "explanation": "A vacancy is an empty lattice position."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A semiconductor can become more conductive when doped because doping:",
+      "choices": [
+        "Removes all electrons",
+        "Adds charge carriers or energy levels",
+        "Makes it an insulator",
+        "Stops thermal motion"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "semiconductors"
+      ],
+      "explanation": "Donor or acceptor impurities change electron or hole carrier concentrations."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which material is most likely to conduct electricity well as a solid?",
+      "choices": [
+        "A wide-gap insulator",
+        "Pure molecular crystal of methane",
+        "A metal with partially filled or overlapping bands",
+        "Dry glass"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "band-theory"
+      ],
+      "explanation": "Mobile electrons in partially filled or overlapping bands support metallic conduction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Jahn-Teller effect is especially associated with:",
+      "choices": [
+        "Radioactive decay",
+        "A ligand changing into an isotope",
+        "A gas-law deviation",
+        "Geometric distortion that removes orbital degeneracy"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "jahn-teller"
+      ],
+      "explanation": "Distortion can lower the energy of electronically degenerate states; octahedral d9 Cu(II) is a common example."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Hemoglobin’s oxygen-binding site contains which metal?",
+      "choices": [
+        "Iron",
+        "Copper",
+        "Zinc",
+        "Manganese"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metalloproteins"
+      ],
+      "explanation": "Heme iron binds oxygen reversibly in hemoglobin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which metal ion is central in chlorophyll?",
+      "choices": [
+        "Iron",
+        "Magnesium",
+        "Cobalt",
+        "Nickel"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metals-in-biology"
+      ],
+      "explanation": "Chlorophyll molecules contain a magnesium ion in the porphyrin-like ring."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which metal is a cofactor in many enzymes and also helps stabilize biological structures?",
+      "choices": [
+        "Gold",
+        "Lead",
+        "Zinc",
+        "Mercury"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metalloenzymes"
+      ],
+      "explanation": "Zinc ions function in many enzymes and structural proteins."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which property helps explain why many transition metals form multiple oxidation states?",
+      "choices": [
+        "They have no valence electrons",
+        "All d orbitals are full",
+        "They cannot bond to ligands",
+        "Similar energies of ns and (n−1)d electrons"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "periodic-chemistry",
+        "oxidation-states"
+      ],
+      "explanation": "Both s and d electrons can participate in bonding or ion formation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of reaction is oxidative addition commonly followed by in catalytic cycles to make a product bond?",
+      "choices": [
+        "Reductive elimination",
+        "Nuclear fission",
+        "Precipitation only",
+        "Acid-base neutralization only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalysis"
+      ],
+      "explanation": "Reductive elimination can couple two ligands and release product."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A ligand’s denticity describes:",
+      "choices": [
+        "How many metal atoms surround the complex",
+        "How many donor atoms the ligand uses to bind",
+        "How much total charge the ligand carries",
+        "How many atoms are in the central metal"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "denticity"
+      ],
+      "explanation": "Denticity counts donor atoms from one ligand attached to the same metal center."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which point-group symmetry operation inverts every coordinate through a center?",
+      "choices": [
+        "Rotation only",
+        "Reflection in a plane only",
+        "Inversion",
+        "Translation"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "operations"
+      ],
+      "explanation": "Inversion maps (x,y,z) to (−x,−y,−z) through a center."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A molecule with a mirror plane cannot be chiral if that plane is an exact symmetry element.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "chiral-molecules"
+      ],
+      "explanation": "A mirror plane is an improper symmetry element and makes a molecule achiral.",
+      "answer": true
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which solid-state structure type is common for NaCl?",
+      "choices": [
+        "Diamond cubic",
+        "Wurtzite only",
+        "Molecular ice",
+        "Rock-salt structure"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-structures"
+      ],
+      "explanation": "NaCl adopts the rock-salt structure, with octahedral coordination of each ion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A high-spin octahedral d5 ion has how many unpaired d electrons in the simple crystal-field model?",
+      "choices": [
+        "5",
+        "0",
+        "1",
+        "3"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "magnetism"
+      ],
+      "explanation": "High-spin d5 places one electron in each of the five d orbitals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which main-group hydride is electron deficient and commonly forms dimers?",
+      "choices": [
+        "CH4",
+        "BH3",
+        "NH3",
+        "HF"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "boranes"
+      ],
+      "explanation": "BH3 has only six electrons around boron and dimerizes to B2H6 with multicenter bonds."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the typical coordination number of each Na+ and Cl− in rock-salt NaCl?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "ionic-solids"
+      ],
+      "explanation": "Each ion has six nearest neighbors of opposite charge in the rock-salt structure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about oxidation numbers is correct?",
+      "choices": [
+        "An experimentally measured atomic charge",
+        "The number of protons in the nucleus",
+        "The number of bonds to nearby atoms",
+        "A formal electron-accounting value"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "oxidation-states"
+      ],
+      "explanation": "Oxidation numbers aid electron accounting and may differ from partial charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which coordination number and shape commonly describe [Ag(NH3)2]+?",
+      "choices": [
+        "2, linear",
+        "4, tetrahedral",
+        "6, octahedral",
+        "3, trigonal planar"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "geometry"
+      ],
+      "explanation": "Many d10 Ag(I) complexes are two-coordinate and linear."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The periodic table is organized by increasing atomic number.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "periodic-chemistry",
+        "periodic-table"
+      ],
+      "explanation": "Modern periodic order follows proton number."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Transition metals can show multiple oxidation states partly because ns and (n−1)d electron energies are similar.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "periodic-chemistry",
+        "oxidation-states"
+      ],
+      "explanation": "Both sets of electrons can participate in bonding or ion formation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A ligand donates an electron pair to a metal center in a coordinate covalent bond.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "ligands"
+      ],
+      "explanation": "The ligand acts as a Lewis base toward the metal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A bidentate ligand has two donor atoms that can bind to a metal.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "denticity"
+      ],
+      "explanation": "“Bi” refers to two donor sites."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Octahedral complexes commonly have coordination number six.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "geometry"
+      ],
+      "explanation": "Six ligand donor atoms occupy positions around the metal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In an octahedral crystal field, eg orbitals are lower in energy than t2g orbitals.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "octahedral-splitting"
+      ],
+      "explanation": "The eg orbitals point toward ligands and are higher in the basic model."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Weak-field ligands often favor high spin when the splitting is smaller than the pairing energy.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "spin-state"
+      ],
+      "explanation": "Electrons occupy higher orbitals rather than pairing in lower ones."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Tetrahedral complexes are often high spin because their splitting is relatively small.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "tetrahedral-splitting"
+      ],
+      "explanation": "Tetrahedral splitting commonly does not overcome pairing energy."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A complex with one or more unpaired electrons is paramagnetic.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "magnetism"
+      ],
+      "explanation": "Unpaired electron spins create magnetic behavior."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every transition-metal complex is colored because of d-d transitions.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "color"
+      ],
+      "explanation": "Some complexes are colorless; charge-transfer or d-d transitions depend on electronic structure."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The 18-electron rule is obeyed by every stable organometallic compound.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "electron-counting"
+      ],
+      "explanation": "It is a useful guideline for many complexes, not a universal rule."
+    },
+    {
+      "type": "true_false",
+      "prompt": "CO commonly coordinates to metals through its carbon atom.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "metal-carbonyls"
+      ],
+      "explanation": "Carbon-bound CO can also accept metal back-donation into its pi-star orbitals."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Oxidative addition usually raises the metal oxidation state in a formal organometallic description.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "It often increases oxidation state and coordination number by two units."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Reductive elimination can couple two ligands attached to the same metal.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "The product bond forms as the groups leave the metal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Boranes can use multicenter bonding to address electron deficiency.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "boranes"
+      ],
+      "explanation": "Diborane contains three-center two-electron B-H-B bonds."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Hückel aromaticity requires 4n pi electrons in a planar, cyclic, conjugated system.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "aromaticity",
+        "huckel-rule"
+      ],
+      "explanation": "The simple aromatic count is 4n+2 pi electrons; 4n is antiaromatic under the idealized conditions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A hard acid often prefers a hard base in the qualitative HSAB model.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "acid-base",
+        "hsab"
+      ],
+      "explanation": "Hard-hard interactions are often favored for small, charge-dense species."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A vacancy defect is a lattice site that is missing its expected atom or ion.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-defects"
+      ],
+      "explanation": "Vacancies are one common point defect."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Doping a semiconductor can change its number of mobile charge carriers.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "semiconductors"
+      ],
+      "explanation": "Donor and acceptor impurities can supply electrons or holes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The rock-salt form of NaCl gives each ion six nearest neighbors of opposite charge.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-structures"
+      ],
+      "explanation": "NaCl has six-coordinate environments in its common rock-salt structure."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A mirror plane is compatible with a molecule being chiral.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "chiral-molecules"
+      ],
+      "explanation": "An exact mirror plane makes the molecule achiral."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A Frost diagram is a graphical summary related to relative redox thermodynamics across oxidation states.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "frost-diagrams"
+      ],
+      "explanation": "Its vertical coordinate is related to nE° and relative free energy."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An oxidation number is always the experimentally measured charge on an atom.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "oxidation-states"
+      ],
+      "explanation": "Oxidation number is a formal electron-accounting assignment."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Iron in heme binds oxygen reversibly in hemoglobin.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metalloproteins"
+      ],
+      "explanation": "The heme iron can bind and release oxygen during transport."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Magnesium is the central metal ion in chlorophyll.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metals-in-biology"
+      ],
+      "explanation": "Mg2+ sits in the chlorophyll macrocycle."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A semiconductor generally has a smaller band gap than a good electrical insulator.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "band-theory"
+      ],
+      "explanation": "A smaller gap makes thermal or optical excitation of carriers easier."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A metal has high electrical conductivity because its electrons are completely localized to individual bonds.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "band-theory"
+      ],
+      "explanation": "Mobile or delocalized electrons in partially filled or overlapping bands support conduction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a ligand?",
+      "answer": "A species that donates one or more electron pairs to a central metal atom or ion.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "ligands"
+      ],
+      "explanation": "A ligand can be neutral or charged."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is ligand denticity?",
+      "answer": "The number of donor atoms from one ligand that bind to the same metal center.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "denticity"
+      ],
+      "explanation": "A bidentate ligand binds through two donor atoms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a chelate?",
+      "answer": "A coordination complex in which a multidentate ligand binds a metal through multiple donor atoms.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "chelation"
+      ],
+      "explanation": "Chelating ligands form one or more rings with the metal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is coordination number?",
+      "answer": "The number of ligand donor atoms directly bonded to a central metal.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "geometry"
+      ],
+      "explanation": "It is not always the same as the number of ligand molecules."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is crystal-field splitting?",
+      "answer": "The energy separation among metal d orbitals caused by the electrostatic environment of surrounding ligands.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "orbital-splitting"
+      ],
+      "explanation": "The pattern depends on coordination geometry."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are t2g orbitals in an octahedral field?",
+      "answer": "The lower-energy dxy, dxz, and dyz set in the basic octahedral crystal-field model.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "octahedral-splitting"
+      ],
+      "explanation": "The eg set points more directly toward ligands and is higher."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a high-spin complex?",
+      "answer": "A complex in which electrons occupy higher-energy d orbitals before pairing in lower orbitals when splitting is relatively small.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "spin-state"
+      ],
+      "explanation": "Spin state depends on metal, oxidation state, geometry, and ligand field."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the spectrochemical series?",
+      "answer": "An empirical ordering of ligands by the strength of the d-orbital splitting they tend to produce.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "crystal-field",
+        "spectrochemical-series"
+      ],
+      "explanation": "Strong-field ligands such as CN− often produce larger splitting than halides."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does paramagnetic mean?",
+      "answer": "Having unpaired electrons that give a net magnetic response.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "magnetism"
+      ],
+      "explanation": "Diamagnetic species have all electrons paired."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the 18-electron rule?",
+      "answer": "A guideline that many stable organometallic complexes have 18 valence electrons at the metal.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "electron-counting"
+      ],
+      "explanation": "It is not universal; some stable complexes have different counts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is hapticity?",
+      "answer": "The number of contiguous atoms of a ligand that interact with a metal, written with eta notation.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "hapticity"
+      ],
+      "explanation": "For example, eta-5 cyclopentadienyl binds through five ring atoms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is oxidative addition?",
+      "answer": "A reaction step in which a metal formally adds two groups from a bond, often raising oxidation state and coordination number.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "It is common in many transition-metal catalytic cycles."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is reductive elimination?",
+      "answer": "A step where two metal-bound groups couple to form a bond and leave as a product, usually lowering metal oxidation state.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "It is formally the reverse of oxidative addition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is hard-soft acid-base theory?",
+      "answer": "A qualitative model that predicts preferences between hard or soft Lewis acids and bases.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "acid-base",
+        "hsab"
+      ],
+      "explanation": "Hard-hard and soft-soft combinations are often favored."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Latimer diagram?",
+      "answer": "A compact listing of standard reduction potentials between adjacent oxidation states of an element.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "latimer-diagrams"
+      ],
+      "explanation": "It helps analyze relative redox stability and disproportionation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Frost diagram?",
+      "answer": "A plot of relative thermodynamic quantities for an element’s oxidation states, commonly used to assess redox stability.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "frost-diagrams"
+      ],
+      "explanation": "The vertical coordinate is related to nE° under stated conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a vacancy in a crystal?",
+      "answer": "A point defect where an expected atom or ion is missing from its lattice site.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-defects"
+      ],
+      "explanation": "Vacancies can influence diffusion and ionic conductivity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a semiconductor band gap?",
+      "answer": "The energy separation between the valence-band edge and conduction-band edge.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "band-theory"
+      ],
+      "explanation": "Thermal, optical, or doping effects can create mobile carriers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is semiconductor doping?",
+      "answer": "Adding controlled impurity atoms to alter the concentration of mobile electrons or holes.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "semiconductors"
+      ],
+      "explanation": "Donor doping tends to add electrons; acceptor doping tends to create holes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the Jahn-Teller effect?",
+      "answer": "A distortion that can lower the energy of a nonlinear molecule or complex with an electronically degenerate state.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "coordination-chemistry",
+        "jahn-teller"
+      ],
+      "explanation": "Octahedral d9 Cu(II) complexes commonly show tetragonal distortion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a three-center two-electron bond?",
+      "answer": "A bond in which one electron pair is shared over three atoms.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "boranes"
+      ],
+      "explanation": "Diborane contains B-H-B multicenter bonds."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the rock-salt structure?",
+      "answer": "A common ionic crystal arrangement exemplified by NaCl, with each ion six-coordinate to oppositely charged ions.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-structures"
+      ],
+      "explanation": "The structure consists of interpenetrating face-centered cubic sublattices."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a metalloprotein?",
+      "answer": "A protein that contains a metal ion essential to its structure or function.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "bioinorganic",
+        "metalloproteins"
+      ],
+      "explanation": "Hemoglobin and many enzymes are examples."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is back-bonding in a metal carbonyl?",
+      "answer": "Donation of metal d-electron density into an empty CO pi-star orbital.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "metal-carbonyls"
+      ],
+      "explanation": "Back-bonding strengthens metal-carbon interaction and weakens the C-O bond."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a point group?",
+      "answer": "A set of molecular symmetry operations that leave at least one point fixed.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "point-groups"
+      ],
+      "explanation": "Point-group classification helps analyze molecular symmetry and spectra."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the oxidation state of an atom used for?",
+      "answer": "Formal bookkeeping of electron ownership in a compound or redox process.",
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "redox",
+        "oxidation-states"
+      ],
+      "explanation": "It is useful for balancing reactions but may differ from actual charge distribution."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which trend is characteristic of alkali metals down Group 1?",
+      "choices": [
+        "Their atomic radius always decreases",
+        "Their first ionization energy generally decreases",
+        "They gain seven valence electrons",
+        "They become noble gases"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "alkali-metals"
+      ],
+      "explanation": "The outer electron is farther from the nucleus and more shielded down the group."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which halogen is generally the strongest oxidizing agent among F2, Cl2, Br2, and I2 in water?",
+      "choices": [
+        "Cl2",
+        "Br2",
+        "F2",
+        "I2"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "halogens"
+      ],
+      "explanation": "Fluorine has the greatest tendency to be reduced among the halogens in aqueous standard conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which noble gas is known to form stable compounds such as XeF2?",
+      "choices": [
+        "Neon",
+        "Helium",
+        "Argon only",
+        "Xenon"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "noble-gases"
+      ],
+      "explanation": "The heavier noble gases, especially xenon, form compounds with strongly oxidizing partners such as fluorine."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In an associative ligand substitution pathway, the reacting complex first:",
+      "choices": [
+        "Forms a higher-coordinate intermediate or transition state as ligand approaches",
+        "Loses a ligand before any new ligand approaches",
+        "Breaks the metal nucleus",
+        "Must change oxidation state by two"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "inorganic-mechanisms",
+        "ligand-substitution"
+      ],
+      "explanation": "The incoming ligand participates in the rate-determining association step."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An inner-sphere electron-transfer mechanism involves:",
+      "choices": [
+        "Electron transfer through vacuum only",
+        "A bridging ligand connecting the redox partners",
+        "No contact between reactants",
+        "Only proton transfer"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "inorganic-mechanisms",
+        "electron-transfer"
+      ],
+      "explanation": "A shared bridging ligand provides a pathway for electron transfer between metal centers."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about the C2 rotation axis is correct?",
+      "choices": [
+        "A reflection leaves it unchanged",
+        "Inversion changes every atom into a proton",
+        "A 180-degree rotation leaves the molecule unchanged",
+        "It is a translation through the crystal"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "symmetry-operations"
+      ],
+      "explanation": "A C2 axis is a two-fold rotation axis: rotation by 360/2 = 180 degrees reproduces the structure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Beta-hydride elimination in organometallic chemistry transfers a beta hydrogen to the metal and commonly forms a:",
+      "choices": [
+        "Metal oxide and alkane",
+        "Carboxylate and water",
+        "Metal nitride only",
+        "Metal hydride and alkene"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "beta-hydride-elimination"
+      ],
+      "explanation": "The beta carbon-hydrogen bond breaks as a metal-hydrogen bond and alkene form."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In metal-to-ligand back-bonding to CO, electron density flows from the metal into:",
+      "choices": [
+        "The CO pi-star antibonding orbital",
+        "The CO carbon nucleus",
+        "The ligand’s sigma bond only",
+        "A metal core orbital"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "metal-carbonyls"
+      ],
+      "explanation": "Back-donation weakens the C-O bond and strengthens metal-carbon interaction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which point-group feature is a center of inversion?",
+      "choices": [
+        "A 180-degree rotation reproduces the molecule",
+        "Opposite points map through a center",
+        "A plane reflection reproduces the molecule",
+        "A translation repeats the crystal pattern"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "symmetry",
+        "inversion"
+      ],
+      "explanation": "Inversion maps coordinates (x,y,z) to (-x,-y,-z)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which defect is an extra atom or ion located between normal lattice sites?",
+      "choices": [
+        "Vacancy",
+        "Schottky pair only",
+        "Interstitial",
+        "Grain boundary only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-defects"
+      ],
+      "explanation": "An interstitial defect places a particle in a normally empty site between lattice positions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Fluorine is generally a stronger oxidizing agent than iodine in aqueous standard conditions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "halogens"
+      ],
+      "explanation": "Fluorine has the most positive standard reduction potential among the halogens."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A ligand substitution mechanism can be associative or dissociative depending on how the incoming and leaving ligands participate.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "inorganic-mechanisms",
+        "ligand-substitution"
+      ],
+      "explanation": "Associative pathways involve incoming-ligand bonding; dissociative pathways begin with ligand loss."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Beta-hydride elimination is possible only when the metal alkyl has a suitable beta hydrogen and geometry.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "beta-hydride-elimination"
+      ],
+      "explanation": "A syn-coplanar arrangement is generally needed for orbital overlap."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Xenon can form compounds even though it is a noble gas.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "inorganic-chemistry",
+        "main-group",
+        "noble-gases"
+      ],
+      "explanation": "Xenon forms compounds such as xenon fluorides under suitable conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is beta-hydride elimination?",
+      "answer": "An organometallic step that forms a metal hydride and an alkene by transferring a beta hydrogen from a metal-bound alkyl group.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "organometallic",
+        "beta-hydride-elimination"
+      ],
+      "explanation": "A suitable beta hydrogen and geometry are required."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an inner-sphere electron-transfer mechanism?",
+      "answer": "Electron transfer between redox centers through a ligand that bridges both centers.",
+      "difficulty": "hard",
+      "tags": [
+        "inorganic-chemistry",
+        "inorganic-mechanisms",
+        "electron-transfer"
+      ],
+      "explanation": "The bridging ligand provides a direct pathway between the metal centers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an interstitial defect?",
+      "answer": "An extra atom or ion occupying a space between normal lattice sites in a crystal.",
+      "difficulty": "medium",
+      "tags": [
+        "inorganic-chemistry",
+        "solid-state",
+        "crystal-defects"
+      ],
+      "explanation": "Interstitials can affect diffusion and material properties."
+    }
+  ]
+}

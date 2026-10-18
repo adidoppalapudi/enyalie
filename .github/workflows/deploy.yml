@@ -1,4 +1,4 @@
-# Publishes Rekall to GitHub Pages on every push to main.
+# Publishes Enyalië to GitHub Pages on every push to main.
 # One-time setup: repository Settings > Pages > Source: "GitHub Actions".
 name: Deploy to GitHub Pages
 

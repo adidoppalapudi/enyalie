@@ -13,14 +13,14 @@ export class ErrorBoundary extends Component<{ children: ReactNode }, State> {
   }
 
   componentDidCatch(error: Error, info: ErrorInfo) {
-    console.error('Rekall hit an error while rendering:', error, info.componentStack);
+    console.error('Enyalië hit an error while rendering:', error, info.componentStack);
   }
 
   render() {
     if (!this.state.error) return this.props.children;
     return (
       <div className="crash" role="alert">
-        <p className="notice-title">Rekall hit an error and stopped drawing this screen.</p>
+        <p className="notice-title">Enyalië hit an error and stopped drawing this screen.</p>
         <p>Your decks are saved on this device. Reloading usually fixes this.</p>
         <pre className="crash-detail">{this.state.error.message}</pre>
         <button type="button" className="btn btn-primary" onClick={() => window.location.reload()}>

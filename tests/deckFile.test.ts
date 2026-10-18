@@ -34,15 +34,21 @@ describe('deck files', () => {
 
   it('writes only question content, not internal ids', () => {
     const file = createDeckFile(deck, sampleQuestions());
-    expect(file.format).toBe('rekall-deck');
+    expect(file.format).toBe('enyalie-deck');
     expect(file.version).toBe(1);
     expect(Object.keys(file.questions[0])).toEqual(['type', 'prompt', 'choices', 'correctIndex', 'difficulty', 'tags']);
   });
 
   it('names files after the deck', () => {
-    expect(deckFileName('PostgreSQL Fundamentals')).toBe('postgresql-fundamentals.rekall.json');
-    expect(deckFileName('Café & Crème brûlée!')).toBe('cafe-creme-brulee.rekall.json');
-    expect(deckFileName('???')).toBe('deck.rekall.json');
+    expect(deckFileName('PostgreSQL Fundamentals')).toBe('postgresql-fundamentals.enyalie.json');
+    expect(deckFileName('Café & Crème brûlée!')).toBe('cafe-creme-brulee.enyalie.json');
+    expect(deckFileName('???')).toBe('deck.enyalie.json');
+  });
+
+  it('imports legacy Rekall deck files', () => {
+    const legacyFile = JSON.parse(serializeDeckFile(createDeckFile(deck, sampleQuestions()))) as Record<string, unknown>;
+    legacyFile.format = 'rekall-deck';
+    expect(parseDeckFile(JSON.stringify(legacyFile)).ok).toBe(true);
   });
 
   it('accepts minimal hand-written files', () => {
@@ -75,9 +81,9 @@ describe('deck files', () => {
 
   it('explains what is wrong with a bad file', () => {
     expect(errorsOf('{ not json')[0]).toMatch(/isn't valid JSON/);
-    expect(errorsOf('[1, 2]')[0]).toMatch(/doesn't look like a Rekall deck/);
+    expect(errorsOf('[1, 2]')[0]).toMatch(/doesn't look like an Enyalië deck/);
     expect(errorsOf(JSON.stringify({ format: 'anki', name: 'x', questions: [] }))[0]).toMatch(/format is "anki"/);
-    expect(errorsOf(JSON.stringify({ version: 9, name: 'x', questions: [] }))[0]).toMatch(/newer version of Rekall/);
+    expect(errorsOf(JSON.stringify({ version: 9, name: 'x', questions: [] }))[0]).toMatch(/newer version of Enyalië/);
     expect(errorsOf(JSON.stringify({ name: 'x' }))[0]).toMatch(/"questions" list/);
     expect(errorsOf(JSON.stringify({ questions: [] }))).toEqual(['Deck name is required.']);
   });
@@ -102,7 +108,7 @@ describe('deck files', () => {
 
 describe('starter decks', () => {
   const folder = new URL('../src/starter-decks/', import.meta.url);
-  const files = readdirSync(folder).filter((name) => name.endsWith('.rekall.json'));
+  const files = readdirSync(folder).filter((name) => name.endsWith('.enyalie.json'));
 
   it('are all valid deck files with their own ids', () => {
     expect(files.length).toBeGreaterThan(0);

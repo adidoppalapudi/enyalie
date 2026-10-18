@@ -48,7 +48,7 @@ interface ImportOptions {
   onConflict: (conflict: DeckConflict) => Promise<ConflictChoice>;
 }
 
-/** "geography.rekall.json" before "us-history.rekall.json", and "deck 2" before "deck 10". */
+/** "geography.enyalie.json" before "us-history.enyalie.json", and "deck 2" before "deck 10". */
 function byName(a: PickedFile, b: PickedFile): number {
   return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
 }
@@ -102,7 +102,7 @@ function skipReason(file: SkippedFile): string {
   }
 }
 
-/** For example "Imported 9 decks. Skipped 1: geography.rekall.json (Question 4: Prompt is required)." */
+/** For example "Imported 9 decks. Skipped 1: geography.enyalie.json (Question 4: Prompt is required)." */
 export function summarizeImport(report: ImportReport): string {
   const count = report.imported.length;
   const imported = count > 0 ? `Imported ${plural(count, 'deck')}.` : 'No decks were imported.';

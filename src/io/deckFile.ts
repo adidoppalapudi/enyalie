@@ -3,7 +3,7 @@
  *
  * Example:
  * {
- *   "format": "rekall-deck",
+ *   "format": "enyalie-deck",
  *   "version": 1,
  *   "exportedAt": "2026-10-16T09:30:00.000Z",
  *   "deck": { "id": "…", "name": "PostgreSQL Fundamentals", "description": "" },
@@ -30,7 +30,8 @@ import {
   type ValidationResult,
 } from '../models/validation';
 
-const DECK_FILE_FORMAT = 'rekall-deck';
+const DECK_FILE_FORMAT = 'enyalie-deck';
+const LEGACY_DECK_FILE_FORMAT = 'rekall-deck';
 const DECK_FILE_VERSION = 1;
 
 export interface DeckFile {
@@ -55,16 +56,16 @@ export function serializeDeckFile(file: DeckFile): string {
   return `${JSON.stringify(file, null, 2)}\n`;
 }
 
-/** "PostgreSQL Fundamentals" → "postgresql-fundamentals.rekall.json" */
+/** "PostgreSQL Fundamentals" → "postgresql-fundamentals.enyalie.json" */
 export function deckFileName(deckName: string): string {
-  return `${slugify(deckName) || 'deck'}.rekall.json`;
+  return `${slugify(deckName) || 'deck'}.enyalie.json`;
 }
 
 function failure(field: string, message: string): ValidationResult<ImportedDeck> {
   return { ok: false, errors: [{ field, message }] };
 }
 
-const NOT_A_DECK = "This doesn't look like a Rekall deck file.";
+const NOT_A_DECK = "This doesn't look like an Enyalië deck file.";
 
 /** Reads a deck file's text and checks every question in it. */
 export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
@@ -76,7 +77,11 @@ export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
   }
   if (!isRecord(data)) return failure('file', NOT_A_DECK);
 
-  if (data.format !== undefined && data.format !== DECK_FILE_FORMAT) {
+  if (
+    data.format !== undefined &&
+    data.format !== DECK_FILE_FORMAT &&
+    data.format !== LEGACY_DECK_FILE_FORMAT
+  ) {
     return failure('format', `${NOT_A_DECK} (Its format is "${String(data.format)}".)`);
   }
   if (data.version !== undefined) {
@@ -86,7 +91,7 @@ export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
     if (data.version > DECK_FILE_VERSION) {
       return failure(
         'version',
-        `This deck was exported by a newer version of Rekall (file version ${data.version}). Update Rekall to import it.`,
+        `This deck was exported by a newer version of Enyalië (file version ${data.version}). Update Enyalië to import it.`,
       );
     }
   }

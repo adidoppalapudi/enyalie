@@ -55,13 +55,12 @@ export function routeToHash(route: Route): string {
   }
 }
 
-// Each history entry the app creates records how many app screens are behind
-// it, so "go back" can tell whether the previous entry is still inside Rekall.
-function depthOf(state: unknown): number {
-  if (typeof state === 'object' && state !== null && 'rekallDepth' in state) {
-    const depth = (state as { rekallDepth: unknown }).rekallDepth;
-    if (typeof depth === 'number') return depth;
-  }
+// Each app history entry tracks how many screens are behind it.
+export function depthOf(state: unknown): number {
+  if (typeof state !== 'object' || state === null) return 0;
+  const value = state as { enyalieDepth?: unknown; rekallDepth?: unknown };
+  const depth = value.enyalieDepth ?? value.rekallDepth;
+  if (typeof depth === 'number') return depth;
   return 0;
 }
 
@@ -70,8 +69,8 @@ const listeners = new Set<() => void>();
 export function navigate(to: Route, options: { replace?: boolean } = {}): void {
   const hash = routeToHash(to);
   const depth = depthOf(window.history.state);
-  if (options.replace) window.history.replaceState({ rekallDepth: depth }, '', hash);
-  else window.history.pushState({ rekallDepth: depth + 1 }, '', hash);
+  if (options.replace) window.history.replaceState({ enyalieDepth: depth }, '', hash);
+  else window.history.pushState({ enyalieDepth: depth + 1 }, '', hash);
   listeners.forEach((listener) => listener());
 }
 

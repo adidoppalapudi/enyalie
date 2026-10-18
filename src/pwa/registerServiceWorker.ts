@@ -10,7 +10,7 @@ export function registerServiceWorker(): void {
   if (!import.meta.env.PROD || !('serviceWorker' in navigator)) return;
   window.addEventListener('load', () => {
     navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch((error: unknown) => {
-      console.warn('Rekall: offline support is unavailable (service worker registration failed).', error);
+      console.warn('Enyalië: offline support is unavailable (service worker registration failed).', error);
     });
   });
 }

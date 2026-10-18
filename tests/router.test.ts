@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { parseRoute, routeToHash, type Route } from '../src/app/router';
+import { depthOf, parseRoute, routeToHash, type Route } from '../src/app/router';
 
 describe('router', () => {
   it('round-trips every screen through its URL', () => {
@@ -23,5 +23,11 @@ describe('router', () => {
     expect(parseRoute('#/nope')).toEqual({ name: 'notFound' });
     expect(parseRoute('#/deck/abc/extra/parts/here')).toEqual({ name: 'notFound' });
     expect(parseRoute('#/deck/%E0%A4%A')).toEqual({ name: 'notFound' });
+  });
+
+  it('reads legacy history depth and prefers the new history key', () => {
+    expect(depthOf({ rekallDepth: 3 })).toBe(3);
+    expect(depthOf({ enyalieDepth: 4 })).toBe(4);
+    expect(depthOf({ enyalieDepth: 4, rekallDepth: 3 })).toBe(4);
   });
 });
