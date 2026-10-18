@@ -10,8 +10,6 @@
 2. Open a deck and choose the question types, difficulty, quiz length, and timer.
 3. Answer questions, see your score, and retry the ones you missed.
 
-There are **29 starter decks with about 2,200 questions**, covering science, history, places, sports, stories, games, and words. Four mixed trivia decks range from Easy to Expert.
-
 ## Your decks stay yours
 
 Decks are saved in this browser on this device. Rekall needs no account or server, and works offline after you have opened it once. To move decks between devices, export a deck to a file, then import that file on the other device.
