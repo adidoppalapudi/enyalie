@@ -3,6 +3,7 @@ import { useQuiz } from '../app/QuizContext';
 import { navigate } from '../app/router';
 import { useStatus } from '../app/StatusContext';
 import { DeckFormDialog } from '../components/DeckFormDialog';
+import { DeckFilters } from '../components/DeckFilters';
 import type { KeyAction } from '../components/KeyBar';
 import { Link } from '../components/Link';
 import { Notice } from '../components/Notice';
@@ -10,6 +11,7 @@ import { Screen } from '../components/Screen';
 import { store } from '../db';
 import { useAsync } from '../hooks/useAsync';
 import { errorMessage } from '../lib/errors';
+import { deckCategory, filterDecks } from '../lib/deckCatalog';
 import { formatDate, plural } from '../lib/format';
 import { cyclePalette } from '../lib/palette';
 import { requestPersistentStorage } from '../lib/storage';
@@ -25,6 +27,8 @@ export function LibraryView() {
   const [creating, setCreating] = useState(false);
   const [openMenu, setOpenMenu] = useState<string | null>(null);
   const [browsingStarters, setBrowsingStarters] = useState(false);
+  const [query, setQuery] = useState('');
+  const [category, setCategory] = useState('');
 
   const deckActions = useDeckActions({ onEdited: reload, onDuplicated: reload, onDeleted: reload });
   const importer = useDeckImport({
@@ -33,6 +37,7 @@ export function LibraryView() {
   });
 
   const totalQuestions = decks?.reduce((sum, deck) => sum + deck.questionCount, 0) ?? 0;
+  const shown = filterDecks(decks ?? [], query, category);
 
   async function startQuickPlay() {
     try {
@@ -100,7 +105,7 @@ export function LibraryView() {
   } else {
     body = (
       <ul className="deck-list">
-        {decks.map((deck) => {
+        {shown.map((deck) => {
           const menuOpen = openMenu === deck.id;
           return (
             <li key={deck.id} className="deck-row">
@@ -108,7 +113,7 @@ export function LibraryView() {
                 <span className="deck-name">{deck.name}</span>
                 {deck.description && <span className="deck-description">{deck.description}</span>}
                 <span className="deck-meta">
-                  {plural(deck.questionCount, 'question')}, updated {formatDate(deck.updatedAt)}
+                  {deckCategory(deck.id)} · {plural(deck.questionCount, 'question')}, updated {formatDate(deck.updatedAt)}
                 </span>
               </Link>
               <button
@@ -164,6 +169,13 @@ export function LibraryView() {
           </p>
         )}
       </div>
+      {decks && decks.length > 0 && (
+        <>
+          <DeckFilters query={query} category={category} onQueryChange={setQuery} onCategoryChange={setCategory} />
+          {(query || category) && <p className="dim">{plural(shown.length, 'matching deck')}</p>}
+          {shown.length === 0 && <p>No decks match. Try another search or category.</p>}
+        </>
+      )}
       {body}
       {footer}
 

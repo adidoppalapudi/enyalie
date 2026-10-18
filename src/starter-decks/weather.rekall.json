@@ -275,9 +275,9 @@
       "type": "multiple_choice",
       "prompt": "El Niño refers to unusually warm surface water in which ocean region?",
       "choices": [
-        "The Arctic Ocean",
-        "The North Atlantic",
-        "The Indian Ocean",
+        "The western tropical Indian Ocean",
+        "The central equatorial Atlantic",
+        "The western tropical Pacific",
         "The central and eastern tropical Pacific"
       ],
       "correctIndex": 3,
@@ -316,16 +316,17 @@
       "type": "multiple_choice",
       "prompt": "Which unit is common for air pressure on weather maps?",
       "choices": [
-        "Kilograms",
-        "Knots",
-        "Millibars (hectopascals)",
-        "Joules"
+        "Kilometres per hour",
+        "Millimetres per hour",
+        "Hectopascals",
+        "Degrees Celsius"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "instruments"
-      ]
+      ],
+      "explanation": "One hectopascal equals one millibar. Both names are common in weather reports."
     },
     {
       "type": "flashcard",
@@ -341,12 +342,12 @@
       "prompt": "What are the white trails that aircraft leave across the sky?",
       "choices": [
         "Cirrus clouds",
-        "Contrails, or condensation trails",
-        "Smoke from the engines",
-        "Fuel being dumped"
+        "Contrails",
+        "Exhaust smoke",
+        "Dumped fuel"
       ],
       "correctIndex": 1,
-      "explanation": "Water vapour in the hot exhaust freezes into ice crystals in the cold air.",
+      "explanation": "Contrails are condensation trails. Water in aircraft exhaust forms ice crystals in cold upper air.",
       "difficulty": "easy",
       "tags": [
         "clouds"

@@ -128,9 +128,9 @@
       "prompt": "The War of 1812 was fought mainly between the United States and which country?",
       "choices": [
         "Great Britain",
-        "Mexico",
-        "Spain",
-        "France"
+        "French Empire",
+        "Spanish Empire",
+        "Russian Empire"
       ],
       "correctIndex": 0,
       "difficulty": "easy",

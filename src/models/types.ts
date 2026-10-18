@@ -9,7 +9,7 @@
 export const QUESTION_TYPES = ['multiple_choice', 'true_false', 'flashcard'] as const;
 export type QuestionType = (typeof QUESTION_TYPES)[number];
 
-export const DIFFICULTIES = ['easy', 'medium', 'hard'] as const;
+export const DIFFICULTIES = ['easy', 'medium', 'hard', 'expert'] as const;
 export type Difficulty = (typeof DIFFICULTIES)[number];
 
 export const MIN_CHOICES = 2;

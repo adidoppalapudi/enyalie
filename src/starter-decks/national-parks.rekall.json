@@ -1,0 +1,444 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-national-parks",
+    "name": "National Parks Trivia",
+    "description": "U.S. national parks, their landscapes, landmarks and natural history."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which U.S. national park was established in 1872 as the country's first national park?",
+      "choices": [
+        "Yosemite",
+        "Yellowstone",
+        "Sequoia",
+        "Glacier"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which California national park contains Half Dome and El Capitan?",
+      "choices": [
+        "Kings Canyon",
+        "Sequoia",
+        "Pinnacles",
+        "Yosemite"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river carved much of the Grand Canyon?",
+      "choices": [
+        "Columbia River",
+        "Colorado River",
+        "Rio Grande",
+        "Missouri River"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "rivers"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which state is Zion National Park?",
+      "choices": [
+        "Arizona",
+        "Colorado",
+        "Utah",
+        "Nevada"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park contains Delicate Arch?",
+      "choices": [
+        "Canyonlands",
+        "Capitol Reef",
+        "Bryce Canyon",
+        "Arches"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Utah park is especially known for its dense amphitheaters of hoodoos?",
+      "choices": [
+        "Zion",
+        "Bryce Canyon",
+        "Canyonlands",
+        "Capitol Reef"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects much of the Waterpocket Fold?",
+      "choices": [
+        "Canyonlands",
+        "Great Basin",
+        "Capitol Reef",
+        "Petrified Forest"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which state is Everglades National Park?",
+      "choices": [
+        "Louisiana",
+        "Georgia",
+        "Florida",
+        "Alabama"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects Biscayne Bay and coral reefs near Miami?",
+      "choices": [
+        "Biscayne",
+        "Dry Tortugas",
+        "Virgin Islands",
+        "Everglades"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "coasts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park contains Fort Jefferson?",
+      "choices": [
+        "Biscayne",
+        "Virgin Islands",
+        "Dry Tortugas",
+        "Gateway Arch"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which state is Acadia National Park?",
+      "choices": [
+        "Maine",
+        "Vermont",
+        "New Hampshire",
+        "Massachusetts"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park is crossed by Skyline Drive?",
+      "choices": [
+        "Great Smoky Mountains",
+        "Shenandoah",
+        "Blue Ridge Parkway",
+        "New River Gorge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blue Ridge Parkway is an NPS unit, but it is not designated a national park.",
+      "difficulty": "medium",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which pair of states shares Great Smoky Mountains National Park?",
+      "choices": [
+        "Tennessee and North Carolina",
+        "Virginia and West Virginia",
+        "Kentucky and Tennessee",
+        "Georgia and South Carolina"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which state is Mammoth Cave National Park?",
+      "choices": [
+        "Tennessee",
+        "Missouri",
+        "Arkansas",
+        "Kentucky"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Crater Lake in Oregon fills what kind of volcanic feature?",
+      "choices": [
+        "A caldera",
+        "A lava tube",
+        "A cinder cone",
+        "A fissure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The caldera formed when Mount Mazama collapsed after a major eruption.",
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Washington national park contains the Hoh Rain Forest?",
+      "choices": [
+        "Olympic",
+        "Mount Rainier",
+        "North Cascades",
+        "Glacier"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "habitats"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What type of volcano is Mount Rainier?",
+      "choices": [
+        "Shield volcano",
+        "Cinder cone",
+        "Stratovolcano",
+        "Fissure vent"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park is crossed by Going-to-the-Sun Road?",
+      "choices": [
+        "Grand Teton",
+        "Glacier",
+        "Yellowstone",
+        "Rocky Mountain"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Colorado national park contains Trail Ridge Road?",
+      "choices": [
+        "Rocky Mountain",
+        "Mesa Verde",
+        "Great Sand Dunes",
+        "Black Canyon of the Gunnison"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "landmarks"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which two deserts meet in Joshua Tree National Park?",
+      "choices": [
+        "Sonoran and Chihuahuan",
+        "Great Basin and Mojave",
+        "Colorado and Great Basin",
+        "Mojave and Colorado"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Colorado Desert is part of the larger Sonoran Desert.",
+      "difficulty": "hard",
+      "tags": [
+        "habitats"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Arizona national park protects giant cacti near Tucson?",
+      "choices": [
+        "Saguaro",
+        "Petrified Forest",
+        "Grand Canyon",
+        "Organ Pipe Cactus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organ Pipe Cactus is a national monument, not a national park.",
+      "difficulty": "easy",
+      "tags": [
+        "plants"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What gives Petrified Forest National Park its name?",
+      "choices": [
+        "Trees coated in volcanic ash",
+        "Living trees with pale bark",
+        "Roots preserved inside glaciers",
+        "Fossilized ancient wood"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park contains the General Sherman Tree?",
+      "choices": [
+        "Redwood",
+        "Sequoia",
+        "Yosemite",
+        "Kings Canyon"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "plants"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which tree species is especially associated with Redwood National and State Parks?",
+      "choices": [
+        "Giant sequoia",
+        "Coast redwood",
+        "Bristlecone pine",
+        "Douglas fir"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "plants"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which state is Denali National Park and Preserve?",
+      "choices": [
+        "Montana",
+        "Wyoming",
+        "Alaska",
+        "Colorado"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects the cliff dwellings at Cliff Palace?",
+      "choices": [
+        "Chaco Culture",
+        "Petrified Forest",
+        "Canyonlands",
+        "Mesa Verde"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chaco Culture is a national historical park, a different NPS designation.",
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Yellowstone National Park lies entirely within Wyoming.",
+      "answer": false,
+      "explanation": "Most of the park is in Wyoming, but it also extends into Montana and Idaho.",
+      "difficulty": "medium",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Some U.S. national parks are outside the contiguous 48 states.",
+      "answer": true,
+      "explanation": "National parks also exist in Alaska, Hawaii and U.S. territories.",
+      "difficulty": "easy",
+      "tags": [
+        "locations"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a hoodoo?",
+      "answer": "A tall, narrow rock spire shaped by weathering and erosion.",
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a caldera?",
+      "answer": "A large volcanic depression formed when the ground collapses after magma is withdrawn from below.",
+      "difficulty": "hard",
+      "tags": [
+        "geology"
+      ]
+    }
+  ]
+}

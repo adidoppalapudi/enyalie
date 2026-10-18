@@ -140,16 +140,17 @@
       "type": "multiple_choice",
       "prompt": "What is an AWS Availability Zone?",
       "choices": [
-        "One or more data centres with separate power and networking, inside a region",
-        "A billing account",
-        "A geographic area containing several regions",
-        "A content delivery edge location"
+        "One or more isolated data centers within a Region",
+        "A geographic area containing multiple Availability Zones",
+        "A worldwide network of edge locations serving cached content",
+        "An isolated virtual network created within a single AWS Region"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "infrastructure"
-      ]
+      ],
+      "explanation": "An Availability Zone is an isolated location within a Region, with redundant power, networking and connectivity."
     },
     {
       "type": "multiple_choice",
@@ -291,16 +292,17 @@
       "type": "multiple_choice",
       "prompt": "What durability is Amazon S3 Standard designed for?",
       "choices": [
-        "99.99%",
-        "99.9%",
-        "100%",
+        "99.9999999% (9 nines)",
+        "99.99999999% (10 nines)",
+        "99.9999999999% (12 nines)",
         "99.999999999% (11 nines)"
       ],
       "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "storage"
-      ]
+      ],
+      "explanation": "Durability describes protection against data loss. It is different from the availability of a service."
     },
     {
       "type": "true_false",
@@ -315,13 +317,13 @@
       "type": "multiple_choice",
       "prompt": "Under the shared responsibility model, what is AWS responsible for?",
       "choices": [
-        "Encrypting your data by default in every service",
-        "Your application code",
-        "Security of the cloud: hardware, facilities and the global infrastructure",
-        "Your IAM users' passwords"
+        "Configuring customer application access and account permissions",
+        "Maintaining customer operating systems on self-managed instances",
+        "Protecting physical infrastructure and the services running it",
+        "Classifying customer data and setting application security policies"
       ],
       "correctIndex": 2,
-      "explanation": "Customers are responsible for security in the cloud, such as data, access and configuration.",
+      "explanation": "AWS describes its part as security of the cloud. Customer responsibilities vary by the service used.",
       "difficulty": "medium",
       "tags": [
         "security"

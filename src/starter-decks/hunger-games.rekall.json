@@ -1,0 +1,440 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-hunger-games",
+    "name": "The Hunger Games",
+    "description": "Characters, districts and events from the original three novels. Contains trilogy spoilers."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Who wrote the original Hunger Games trilogy?",
+      "choices": [
+        "Veronica Roth",
+        "Suzanne Collins",
+        "Lois Lowry",
+        "Marie Lu"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the nation ruled by the Capitol called?",
+      "choices": [
+        "Ravka",
+        "Narnia",
+        "Westeros",
+        "Panem"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which district is Katniss Everdeen from?",
+      "choices": [
+        "District 12",
+        "District 4",
+        "District 7",
+        "District 11"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "districts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who is Katniss's younger sister?",
+      "choices": [
+        "Madge",
+        "Rue",
+        "Annie",
+        "Primrose"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who is District 12's male tribute in the 74th Hunger Games?",
+      "choices": [
+        "Gale Hawthorne",
+        "Peeta Mellark",
+        "Haymitch Abernathy",
+        "Finnick Odair"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who hunts with Katniss in the woods before her first Games?",
+      "choices": [
+        "Peeta Mellark",
+        "Cato",
+        "Finnick Odair",
+        "Gale Hawthorne"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which weapon is Katniss especially skilled with?",
+      "choices": [
+        "Spear and net",
+        "Sword and shield",
+        "Axe and knife",
+        "Bow and arrow"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the annual selection of tributes called?",
+      "choices": [
+        "The Victory Tour",
+        "The Quarter Quell",
+        "The reaping",
+        "The interviews"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How old is Katniss at the start of the first novel?",
+      "choices": [
+        "Fourteen",
+        "Fifteen",
+        "Sixteen",
+        "Seventeen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which industry is District 12 known for?",
+      "choices": [
+        "Lumber production",
+        "Coal mining",
+        "Grain farming",
+        "Textile manufacturing"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "districts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which numbered Hunger Games do Katniss and Peeta first enter?",
+      "choices": [
+        "74th",
+        "50th",
+        "73rd",
+        "75th"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who mentors Katniss and Peeta for their first Games?",
+      "choices": [
+        "Cinna",
+        "Caesar Flickerman",
+        "Plutarch Heavensbee",
+        "Haymitch Abernathy"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who escorts District 12's tributes to the Capitol in the first novel?",
+      "choices": [
+        "Portia",
+        "Tigris",
+        "Effie Trinket",
+        "Alma Coin"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who is Katniss's main stylist?",
+      "choices": [
+        "Portia",
+        "Cinna",
+        "Flavius",
+        "Venia"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which district is Rue from?",
+      "choices": [
+        "District 11",
+        "District 3",
+        "District 4",
+        "District 8"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "districts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What business does Peeta's family run?",
+      "choices": [
+        "A bakery",
+        "A butcher shop",
+        "An apothecary",
+        "A clothing shop"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What kind of creatures are tracker jackers?",
+      "choices": [
+        "Engineered snakes",
+        "Engineered wolves",
+        "Engineered wasps",
+        "Engineered spiders"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "creatures"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which poisonous berries do Katniss and Peeta threaten to eat at the end of their first Games?",
+      "choices": [
+        "Nightlock",
+        "Belladonna",
+        "Holly",
+        "Mistletoe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Their threat forces the Capitol to allow two victors.",
+      "difficulty": "medium",
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which bird becomes a symbol of the rebellion?",
+      "choices": [
+        "Jabberjay",
+        "Mockingbird",
+        "Nightingale",
+        "Mockingjay"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "rebellion"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How often is a Quarter Quell held?",
+      "choices": [
+        "Every 10 years",
+        "Every 20 years",
+        "Every 25 years",
+        "Every 50 years"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the special rule for selecting tributes in the 75th Hunger Games?",
+      "choices": [
+        "They come from living victors",
+        "They come from Capitol families",
+        "They are all younger than sixteen",
+        "They are all volunteers' siblings"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which district is Finnick Odair from?",
+      "choices": [
+        "District 1",
+        "District 4",
+        "District 7",
+        "District 10"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "districts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which district is Johanna Mason from?",
+      "choices": [
+        "District 7",
+        "District 2",
+        "District 5",
+        "District 9"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "districts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who is president of Panem during most of the original trilogy?",
+      "choices": [
+        "Alma Coin",
+        "Coriolanus Snow",
+        "Plutarch Heavensbee",
+        "Seneca Crane"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which district becomes the rebellion's main underground base?",
+      "choices": [
+        "District 2",
+        "District 13",
+        "District 8",
+        "District 12"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "rebellion"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who leads District 13 in Mockingjay?",
+      "choices": [
+        "Commander Paylor",
+        "Effie Trinket",
+        "Alma Coin",
+        "President Snow"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "rebellion"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Katniss volunteers after Prim's name is drawn at the reaping.",
+      "answer": true,
+      "explanation": "She takes her younger sister's place as District 12's female tribute.",
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "The original Hunger Games trilogy contains four novels.",
+      "answer": false,
+      "explanation": "It contains The Hunger Games, Catching Fire and Mockingjay. The last novel became two films.",
+      "difficulty": "easy",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are tesserae?",
+      "answer": "Extra food rations obtained in exchange for additional entries of a person's name in the reaping.",
+      "difficulty": "hard",
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an Avox?",
+      "answer": "A person punished by having their tongue cut out, leaving them unable to speak.",
+      "difficulty": "hard",
+      "tags": [
+        "world"
+      ]
+    }
+  ]
+}

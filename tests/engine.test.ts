@@ -51,11 +51,22 @@ function respond(session: QuizSession, correct: boolean): QuizResponse {
 /** Answers every question in order: true = right, false = wrong. */
 function play(session: QuizSession, pattern: boolean[]): QuizSession {
   let s = session;
-  for (const correct of pattern) s = advance(answerCurrent(s, respond(s, correct)), 99);
+  for (const correct of pattern) s = advance(answerCurrent(s, respond(s, correct), 99), 99);
   return s;
 }
 
 describe('choosing questions', () => {
+  it('includes expert questions by default and honors an expert-only filter', () => {
+    const questions = sampleQuestions();
+    const expert = { ...questions[0], id: 'expert-question', difficulty: 'expert' as const };
+    const all = [...questions, expert];
+    expect(buildQuizItems(all, { ...DEFAULT_SETTINGS, count: 'all' })).toHaveLength(7);
+    expect(buildQuizItems(all, { ...DEFAULT_SETTINGS, difficulties: ['expert'] }).map((item) => item.question.id))
+      .toEqual(['expert-question']);
+    expect(buildQuizItems(all, { ...DEFAULT_SETTINGS, difficulties: ['easy'] })
+      .every((item) => item.question.difficulty === 'easy')).toBe(true);
+  });
+
   it('filters by type and difficulty, with "unrated" for questions without one', () => {
     const questions = sampleQuestions();
     expect(
@@ -164,14 +175,33 @@ describe('results', () => {
     ]);
   });
 
-  it('replays the same questions from the start', () => {
-    const done = play(newSession(), [true, false, true, false, true, true]);
-    const replay = replaySession(done, seededRandom(5), 7);
-    expect(replay.items.map((i) => i.question.id)).toEqual(done.items.map((i) => i.question.id));
+  it('retries the same questions and choices in order even when shuffling is enabled', () => {
+    const done = play(newSession({ ...DEFAULT_SETTINGS, count: 'all' }), [true, false, true, false, true, true]);
+    const replay = replaySession(done, 7);
+    expect(replay.items).toEqual(done.items);
+    expect(replay.settings).toEqual(done.settings);
+    expect(replay.source).toEqual(done.source);
     expect(replay.answers.every((a) => a === null)).toBe(true);
+    expect(replay.current).toBe(0);
     expect(replay.score).toBe(0);
+    expect(replay.streak).toBe(0);
+    expect(replay.bestStreak).toBe(0);
+    expect(replay.startedAt).toBe(7);
+    expect(replay.questionStartedAt).toBe(7);
+    expect(replay.revealedAt).toBeNull();
     expect(replay.finishedAt).toBeNull();
     expect(replay.id).not.toBe(done.id);
+  });
+
+  it('keeps the source and mistake-round label when retrying a mistake round', () => {
+    const done = play(newSession(), [true, false, true, false, true, true]);
+    const mistakes = mistakesSession(done, seededRandom(5), 7)!;
+    const replay = replaySession(play(mistakes, [true, true]), 100);
+    expect(replay.items).toEqual(mistakes.items);
+    expect(replay.retry).toBe(true);
+    expect(replay.source).toEqual(done.source);
+    expect(replay.title).toBe(done.title);
+    expect(replay.deckNames).toEqual(done.deckNames);
   });
 
   it('retries only the questions that were missed', () => {
@@ -243,7 +273,7 @@ describe('timed mode', () => {
 
   it('keeps the timer for replays and mistake rounds', () => {
     const done = play(newSession(timed), [true, false, true, true, true, true]);
-    expect(deadline(replaySession(done, seededRandom(2), 500))).toBe(20_500);
+    expect(deadline(replaySession(done, 500))).toBe(20_500);
     expect(mistakesSession(done, seededRandom(2), 500)?.settings.timer).toBe(20);
   });
 });

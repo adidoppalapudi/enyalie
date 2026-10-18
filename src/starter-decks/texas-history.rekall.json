@@ -73,9 +73,9 @@
       "prompt": "Where was the Texas Declaration of Independence signed on March 2, 1836?",
       "choices": [
         "Washington-on-the-Brazos",
-        "San Antonio",
-        "Goliad",
-        "Gonzales"
+        "San Antonio de Bexar",
+        "San Felipe de Austin",
+        "Nacogdoches"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -177,16 +177,17 @@
       "type": "multiple_choice",
       "prompt": "What does Juneteenth commemorate?",
       "choices": [
-        "Texas independence from Mexico",
-        "The announcement in Galveston on June 19, 1865, that enslaved people in Texas were free",
-        "The end of the Civil War battles",
-        "Texas joining the Union"
+        "Texas declaring independence from Mexico in 1836",
+        "The 1865 announcement of emancipation in Galveston",
+        "Texas joining the United States as the 28th state in 1845",
+        "Texas returning to representation in Congress in 1870"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "civil-war"
-      ]
+      ],
+      "explanation": "On June 19, 1865, General Order No. 3 announced freedom for enslaved people in Texas. The Emancipation Proclamation dated from 1863."
     },
     {
       "type": "true_false",
@@ -279,9 +280,9 @@
       "prompt": "What is the Texas state bird?",
       "choices": [
         "Northern mockingbird",
-        "Bald eagle",
-        "Cardinal",
-        "Roadrunner"
+        "Northern cardinal",
+        "Greater roadrunner",
+        "Scissor-tailed flycatcher"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

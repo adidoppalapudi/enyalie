@@ -1,0 +1,442 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-nature",
+    "name": "Nature",
+    "description": "Animals, habitats, adaptations and the connections that keep ecosystems going."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal is the largest living species by mass?",
+      "choices": [
+        "Whale shark",
+        "Blue whale",
+        "African elephant",
+        "Colossal squid"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which living land animal is known for the highest sprinting speed?",
+      "choices": [
+        "Cheetah",
+        "Pronghorn",
+        "Lion",
+        "Ostrich"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which group includes bats?",
+      "choices": [
+        "Birds",
+        "Reptiles",
+        "Amphibians",
+        "Mammals"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mammal lays eggs?",
+      "choices": [
+        "Otter",
+        "Beaver",
+        "Platypus",
+        "Capybara"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many legs does a typical adult insect have?",
+      "choices": [
+        "Six",
+        "Four",
+        "Eight",
+        "Ten"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "invertebrates"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many legs does a typical spider have?",
+      "choices": [
+        "Eight",
+        "Six",
+        "Ten",
+        "Twelve"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "invertebrates"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which group includes octopuses?",
+      "choices": [
+        "Crustaceans",
+        "Mollusks",
+        "Echinoderms",
+        "Cnidarians"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do butterflies emerge from during complete metamorphosis?",
+      "choices": [
+        "An egg",
+        "A larva",
+        "An adult",
+        "A pupa"
+      ],
+      "correctIndex": 3,
+      "explanation": "A butterfly's pupa is often called a chrysalis.",
+      "difficulty": "medium",
+      "tags": [
+        "life-cycles"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal group has feathers?",
+      "choices": [
+        "Mammals",
+        "Reptiles",
+        "Amphibians",
+        "Birds"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do we call an animal with a backbone?",
+      "choices": [
+        "Invertebrate",
+        "Arthropod",
+        "Mollusk",
+        "Vertebrate"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does an herbivore mainly eat?",
+      "choices": [
+        "Animals",
+        "Fungi",
+        "Plants",
+        "Carrion"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do we call an animal that eats both plants and animals?",
+      "choices": [
+        "Omnivore",
+        "Herbivore",
+        "Carnivore",
+        "Detritivore"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which organisms commonly break down dead matter and recycle its nutrients?",
+      "choices": [
+        "Grasses and mosses",
+        "Hawks and falcons",
+        "Fungi and bacteria",
+        "Deer and rabbits"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a food chain, what is an organism that makes food using sunlight called?",
+      "choices": [
+        "Consumer",
+        "Scavenger",
+        "Producer",
+        "Predator"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a food web show?",
+      "choices": [
+        "Seasonal migration distances",
+        "Inherited color variations",
+        "Linked feeding relationships",
+        "Annual population totals"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which relationship benefits both participating species?",
+      "choices": [
+        "Parasitism",
+        "Mutualism",
+        "Predation",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an animal's natural place to live called?",
+      "choices": [
+        "Niche",
+        "Habitat",
+        "Territory",
+        "Population"
+      ],
+      "correctIndex": 1,
+      "explanation": "A niche describes an organism's role and requirements within its environment.",
+      "difficulty": "easy",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is camouflage?",
+      "choices": [
+        "Traveling between habitats",
+        "Producing warning sounds",
+        "Entering winter dormancy",
+        "Blending into surroundings"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "adaptations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is mimicry in biology?",
+      "choices": [
+        "Resembling another organism",
+        "Growing a replacement limb",
+        "Moving with the seasons",
+        "Producing light chemically"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does nocturnal mean?",
+      "choices": [
+        "Active mainly at night",
+        "Active mainly at dawn",
+        "Active mainly by day",
+        "Active mainly at dusk"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "behavior"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is seasonal movement between regions called?",
+      "choices": [
+        "Hibernation",
+        "Metamorphosis",
+        "Succession",
+        "Migration"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "behavior"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do many bats use to locate prey in darkness?",
+      "choices": [
+        "Photosynthesis",
+        "Echolocation",
+        "Electroreception",
+        "Bioluminescence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many bats interpret echoes from their calls. Not all bat species echolocate.",
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an animal that naturally hunts and eats other animals called?",
+      "choices": [
+        "Parasite",
+        "Predator",
+        "Scavenger",
+        "Producer"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "food-webs"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term describes a species native to and restricted to a particular region?",
+      "choices": [
+        "Endemic",
+        "Migratory",
+        "Invasive",
+        "Domesticated"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does biodiversity describe?",
+      "choices": [
+        "The age of a forest",
+        "The acidity of soil",
+        "The variety of life",
+        "The length of daylight"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What makes a species a keystone species?",
+      "choices": [
+        "A population that always grows quickly",
+        "A large effect relative to its abundance",
+        "A diet restricted to a single food",
+        "A range covering every continent"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "All mammals give birth to live young.",
+      "answer": false,
+      "explanation": "Monotremes, including platypuses and echidnas, lay eggs.",
+      "difficulty": "medium",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Penguins are birds even though they cannot fly.",
+      "answer": true,
+      "explanation": "Penguins have feathers and other bird characteristics, with wings adapted for swimming.",
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an ecosystem?",
+      "answer": "A community of organisms and the nonliving environment they interact with.",
+      "difficulty": "medium",
+      "tags": [
+        "ecology"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is natural selection?",
+      "answer": "A process in which inherited traits that improve reproductive success become more common over generations.",
+      "difficulty": "hard",
+      "tags": [
+        "evolution"
+      ]
+    }
+  ]
+}

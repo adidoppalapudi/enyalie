@@ -25,6 +25,13 @@ describe('validateDeckInput', () => {
 });
 
 describe('validateQuestionContent', () => {
+  it('accepts expert difficulty in imported or edited questions', () => {
+    const result = validateQuestionContent({
+      type: 'flashcard', prompt: 'What is a hapax legomenon?', answer: 'A single occurrence.', difficulty: 'Expert',
+    });
+    expect(result.ok && result.value.difficulty).toBe('expert');
+  });
+
   it('accepts and cleans up a multiple choice question', () => {
     const result = validateQuestionContent({
       type: 'multiple_choice',

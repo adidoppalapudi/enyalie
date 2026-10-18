@@ -1,0 +1,439 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-botany",
+    "name": "Botany",
+    "description": "Plant cells, roots, leaves, flowers, seeds and the science of how plants grow."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the scientific study of plants called?",
+      "choices": [
+        "Botany",
+        "Zoology",
+        "Mycology",
+        "Geology"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "basics"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which pigment gives many leaves their green color?",
+      "choices": [
+        "Carotene",
+        "Melanin",
+        "Chlorophyll",
+        "Hemoglobin"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "photosynthesis"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which cell structures carry out photosynthesis in green plant tissues?",
+      "choices": [
+        "Mitochondria",
+        "Ribosomes",
+        "Lysosomes",
+        "Chloroplasts"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "cells"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas supplies the carbon used to make sugars during photosynthesis?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "photosynthesis"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas is released when water is split during photosynthesis?",
+      "choices": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "photosynthesis"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which plant tissue carries water and dissolved minerals upward from roots?",
+      "choices": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Cambium"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "transport"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which plant tissue transports sugars between sources and growing or storage tissues?",
+      "choices": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Cork"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "transport"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What are the tiny pores used for gas exchange in many leaves called?",
+      "choices": [
+        "Lenticels",
+        "Trichomes",
+        "Stomata",
+        "Rhizoids"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "leaves"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which cells open and close a stoma?",
+      "choices": [
+        "Root hair cells",
+        "Guard cells",
+        "Sieve tube cells",
+        "Companion cells"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "leaves"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the loss of water vapor from a plant called?",
+      "choices": [
+        "Transpiration",
+        "Translocation",
+        "Germination",
+        "Fertilization"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a root hair's main role?",
+      "choices": [
+        "Making pollen for reproduction",
+        "Attracting insects for pollination",
+        "Increasing water and mineral uptake",
+        "Spreading seeds away from the plant"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "roots"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substance forms much of a plant cell wall?",
+      "choices": [
+        "Chitin",
+        "Cellulose",
+        "Keratin",
+        "Glycogen"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "cells"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which flower structure produces pollen?",
+      "choices": [
+        "Stigma",
+        "Ovary",
+        "Sepal",
+        "Anther"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "flowers"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which flower surface commonly receives pollen?",
+      "choices": [
+        "Anther",
+        "Stigma",
+        "Filament",
+        "Petal"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "flowers"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What usually develops into a fruit after fertilization in a flowering plant?",
+      "choices": [
+        "The anther",
+        "The sepal",
+        "The ovary",
+        "The filament"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "reproduction"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a fertilized ovule develop into?",
+      "choices": [
+        "A petal",
+        "A stamen",
+        "A seed",
+        "A sepal"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "reproduction"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which group consists of flowering plants?",
+      "choices": [
+        "Angiosperms",
+        "Gymnosperms",
+        "Bryophytes",
+        "Ferns"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What distinguishes gymnosperm seeds from angiosperm seeds?",
+      "choices": [
+        "They always lack a protective coat",
+        "They can only germinate underwater",
+        "They cannot contain a plant embryo",
+        "They are not enclosed in a fruit"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many cotyledons does a monocot embryo have?",
+      "choices": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "seeds"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which plant commonly reproduces using spores rather than seeds?",
+      "choices": [
+        "Pine",
+        "Sunflower",
+        "Oak",
+        "Fern"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which crop's edible tuber is a modified stem?",
+      "choices": [
+        "Carrot",
+        "Potato",
+        "Beet",
+        "Radish"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "plant-parts"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What are the spines of a cactus modified from?",
+      "choices": [
+        "Roots",
+        "Flowers",
+        "Leaves",
+        "Fruits"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which part of a Venus flytrap forms its snapping trap?",
+      "choices": [
+        "A root",
+        "A leaf",
+        "A flower",
+        "A fruit"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is growth toward or away from light called?",
+      "choices": [
+        "Phototropism",
+        "Gravitropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which hormone is associated with fruit ripening?",
+      "choices": [
+        "Auxin",
+        "Cytokinin",
+        "Gibberellin",
+        "Ethylene"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term describes a plant that normally completes its life cycle in one growing season?",
+      "choices": [
+        "Annual",
+        "Biennial",
+        "Perennial",
+        "Deciduous"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "life-cycles"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Fungi are classified as plants.",
+      "answer": false,
+      "explanation": "Fungi belong to their own kingdom and obtain nutrients differently from plants.",
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mosses reproduce using spores rather than flowers or fruits.",
+      "answer": true,
+      "explanation": "Mosses are nonvascular plants that reproduce using spores, not flowers or fruits.",
+      "difficulty": "medium",
+      "tags": [
+        "classification"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is pollination?",
+      "answer": "The transfer of pollen to a receptive reproductive structure, such as a flower's stigma.",
+      "difficulty": "medium",
+      "tags": [
+        "reproduction"
+      ]
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is germination?",
+      "answer": "The beginning of growth from a seed, as the embryo resumes development.",
+      "difficulty": "easy",
+      "tags": [
+        "seeds"
+      ]
+    }
+  ]
+}

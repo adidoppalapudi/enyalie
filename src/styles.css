@@ -508,6 +508,11 @@ blockquote {
   color: var(--red);
 }
 
+.difficulty-expert {
+  color: var(--red);
+  font-weight: 700;
+}
+
 .tag {
   color: var(--accent);
 }
@@ -753,6 +758,7 @@ dialog.window::backdrop {
 }
 
 .window input[type='text'],
+.window input[type='search'],
 .window textarea {
   background: var(--screen);
   color: var(--text);
@@ -812,6 +818,82 @@ dialog.window::backdrop {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.deck-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2ch;
+  margin-bottom: 1rem;
+}
+
+.deck-filters > div:first-child {
+  flex: 1 1 22ch;
+  min-width: 0;
+}
+
+.deck-filters > div:last-child {
+  flex: 1 1 19ch;
+  min-width: 0;
+}
+
+.deck-filters select {
+  width: 100%;
+  min-height: 2.75rem;
+}
+
+.starter-group + .starter-group {
+  margin-top: 1.5rem;
+}
+
+.starter-browser {
+  max-height: min(65dvh, calc(100dvh - 12rem));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+
+.starter-group h3 {
+  margin: 0 0 0.5rem;
+}
+
+.starter-list li + li {
+  margin-top: 0.75rem;
+}
+
+.starter-info {
+  display: grid;
+  grid-template-columns: 3ch minmax(0, 1fr);
+  gap: 0.15rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.starter-info::before {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.starter-info > strong,
+.starter-info > span {
+  grid-column: 2;
+}
+
+.starter-list .toggle {
+  display: flex;
+  margin-right: 0;
+}
+
+.starter-info > span {
+  font-size: 0.875rem;
+}
+
+.starter-selection {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1ch;
+  margin-bottom: 1rem;
 }
 
 .problem-list {

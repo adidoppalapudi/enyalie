@@ -1,5 +1,7 @@
+import { useEffect, useRef, useState } from 'react';
 import { sourceRoute, useQuiz } from '../app/QuizContext';
-import { goBack, navigate } from '../app/router';
+import { navigate } from '../app/router';
+import { useStatus } from '../app/StatusContext';
 import { BlockNumber } from '../components/BlockNumber';
 import { Box } from '../components/Box';
 import type { KeyAction } from '../components/KeyBar';
@@ -8,13 +10,25 @@ import { Meter } from '../components/Meter';
 import { Notice } from '../components/Notice';
 import { QuestionMeta } from '../components/QuestionMeta';
 import { Screen } from '../components/Screen';
+import { store } from '../db';
+import { errorMessage } from '../lib/errors';
 import { formatScore, plural, slugify } from '../lib/format';
 import { correctAnswerText, responseText, verdict } from '../quiz/describe';
-import { isFinished, mistakesSession, replaySession, summarize } from '../quiz/engine';
+import { buildQuizItems, createSession, isFinished, mistakesSession, replaySession, summarize } from '../quiz/engine';
 
 export function ResultsView() {
   const quiz = useQuiz();
   const { session } = quiz;
+  const { notify } = useStatus();
+  const [starting, setStarting] = useState(false);
+  const pending = useRef(false);
+
+  useEffect(
+    () => () => {
+      pending.current = false;
+    },
+    [],
+  );
 
   if (!session || !isFinished(session)) {
     return (
@@ -32,6 +46,48 @@ export function ResultsView() {
   const source = sourceRoute(session);
   const mistakeCount = summary.mistakes.length;
 
+  const newQuiz = async () => {
+    if (pending.current) return;
+    pending.current = true;
+    setStarting(true);
+    try {
+      const [questions, decks] =
+        session.source.kind === 'deck'
+          ? await Promise.all([
+              store.listQuestions(session.source.deckId),
+              store.getDeck(session.source.deckId).then((deck) => (deck ? [deck] : [])),
+            ])
+          : await Promise.all([store.listAllQuestions(), store.listDecks()]);
+      if (!pending.current) return;
+      if (session.source.kind === 'deck' && decks.length === 0) {
+        notify('This deck no longer exists.', 'info');
+        return;
+      }
+      const items = buildQuizItems(questions, session.settings);
+      if (items.length === 0) {
+        notify('No questions match these quiz settings.', 'info');
+        return;
+      }
+      quiz.start(
+        createSession({
+          title: session.source.kind === 'deck' ? decks[0].name : 'quick play',
+          source: session.source,
+          settings: session.settings,
+          items,
+          deckNames: Object.fromEntries(decks.map((deck) => [deck.id, deck.name])),
+        }),
+      );
+      navigate({ name: 'quiz' }, { replace: true });
+    } catch (failure) {
+      if (pending.current) notify(`Couldn't start a new quiz: ${errorMessage(failure)}`, 'error');
+    } finally {
+      if (pending.current) {
+        pending.current = false;
+        setStarting(false);
+      }
+    }
+  };
+
   const replay = () => {
     quiz.start(replaySession(session));
     navigate({ name: 'quiz' }, { replace: true });
@@ -44,15 +100,17 @@ export function ResultsView() {
   };
 
   const actions: KeyAction[] = [
+    { label: 'new quiz', hotkey: 'n', onAction: newQuiz, disabled: starting, primary: true },
+    { label: 'retry as is', hotkey: 'r', onAction: replay, disabled: starting },
     ...(mistakeCount > 0
-      ? [{ label: `retry ${plural(mistakeCount, 'mistake')}`, hotkey: 'm', onAction: retryMistakes, primary: true }]
+      ? [{ label: `retry ${plural(mistakeCount, 'mistake')}`, hotkey: 'm', onAction: retryMistakes, disabled: starting }]
       : []),
-    { label: 'replay', hotkey: 'r', onAction: replay, primary: mistakeCount === 0 },
     {
-      label: source.name === 'deck' ? 'back to deck' : 'library',
+      label: 'exit',
       hotkey: 'escape',
       keyLabel: 'Esc',
-      onAction: () => goBack(source),
+      onAction: () => navigate(source, { replace: true }),
+      disabled: starting,
     },
   ];
 

@@ -26,10 +26,10 @@
       "type": "multiple_choice",
       "prompt": "What was Walt Disney's first full-length animated feature film?",
       "choices": [
-        "Bambi",
-        "Pinocchio",
+        "The Three Caballeros",
+        "The Sword in the Stone",
         "Snow White and the Seven Dwarfs",
-        "Fantasia"
+        "The Rescuers Down Under"
       ],
       "correctIndex": 2,
       "explanation": "Released in 1937.",
@@ -96,10 +96,10 @@
       "type": "multiple_choice",
       "prompt": "Which film won 11 Academy Awards, tying the record held by Ben-Hur and Titanic?",
       "choices": [
-        "Avatar",
+        "Master and Commander: The Far Side of the World",
         "The Lord of the Rings: The Return of the King",
-        "Schindler's List",
-        "The Godfather Part II"
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Harry Potter and the Prisoner of Azkaban"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -285,15 +285,15 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which film is one of only three to win all five major Oscars (Picture, Director, Actor, Actress, Screenplay)?",
+      "prompt": "Which film won Best Picture, Director, Actor, Actress and Screenplay at the 1992 Academy Awards?",
       "choices": [
-        "The Godfather",
-        "Titanic",
-        "Casablanca",
+        "One Flew Over the Cuckoo's Nest",
+        "Dances with Wolves",
+        "The Remains of the Day",
         "The Silence of the Lambs"
       ],
       "correctIndex": 3,
-      "explanation": "The other two are It Happened One Night (1934) and One Flew Over the Cuckoo's Nest (1975).",
+      "explanation": "It won all five major categories for the 1991 film year. The ceremony took place in 1992.",
       "difficulty": "hard",
       "tags": [
         "oscars"

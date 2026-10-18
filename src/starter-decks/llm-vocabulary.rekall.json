@@ -9,60 +9,63 @@
   "questions": [
     {
       "type": "multiple_choice",
-      "prompt": "In an LLM, what is a \"token\"?",
+      "prompt": "In a text-based LLM, what is a token?",
       "choices": [
-        "A chunk of text, such as a word or part of a word, that the model processes",
-        "A password for the API",
-        "A single neuron",
-        "A full sentence"
+        "A text unit represented by a model token ID",
+        "A sentence encoded as a single embedding",
+        "A learned coefficient stored in the model",
+        "A hidden instruction supplied with a request"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "basics"
-      ]
+      ],
+      "explanation": "Text tokens can be words, word pieces, punctuation or other text units."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is a model's \"context window\"?",
       "choices": [
-        "The time it takes to reply",
-        "The browser window used to chat",
-        "The maximum amount of text, in tokens, it can consider at once",
-        "The training dataset"
+        "The number of model weights loaded into GPU memory",
+        "The elapsed time allowed for a response to finish",
+        "The token capacity available for one model input and response",
+        "The total number of documents in the training corpus"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "basics"
-      ]
+      ],
+      "explanation": "Context limits and how input and output share them depend on the model."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is an LLM \"hallucination\"?",
       "choices": [
-        "Confident output that is false or not supported by the input or sources",
-        "A model refusing a request",
-        "A slow response",
-        "A visual glitch"
+        "Plausible output that is incorrect or unsupported",
+        "A refusal to provide an answer to a request",
+        "A response that takes longer than expected to arrive",
+        "An answer cut short by the output token limit"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "behaviour"
-      ]
+      ],
+      "explanation": "Fluent wording does not establish factual accuracy."
     },
     {
       "type": "multiple_choice",
       "prompt": "What does raising the \"temperature\" setting usually do?",
       "choices": [
-        "Makes the model faster",
-        "Makes outputs longer",
-        "Lets the model read more text",
-        "Makes outputs more random and varied"
+        "Makes the context window larger",
+        "Makes stored model weights smaller",
+        "Makes the training dataset broader",
+        "Makes token sampling more varied"
       ],
       "correctIndex": 3,
-      "explanation": "Low temperature makes output more focused and repeatable.",
+      "explanation": "Temperature changes the token probability distribution used for sampling; it does not guarantee correctness.",
       "difficulty": "medium",
       "tags": [
         "sampling"
@@ -72,91 +75,97 @@
       "type": "multiple_choice",
       "prompt": "What is \"top-p\" (nucleus) sampling?",
       "choices": [
-        "Choosing the next token only from the smallest set whose combined probability reaches p",
-        "Limiting replies to p words",
-        "Returning the top p answers",
-        "Picking the single most likely token"
+        "Sampling from a probability-mass cutoff set of tokens",
+        "Sampling from a fixed number of top-ranked tokens",
+        "Always selecting the single highest-probability token",
+        "Rejecting replies longer than a fixed token count"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "sampling"
-      ]
+      ],
+      "explanation": "Top-p uses a cumulative probability threshold. Top-k instead limits the candidate count."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is an \"embedding\"?",
       "choices": [
-        "A list of numbers representing text so that similar meanings are close together",
-        "A compressed model file",
-        "A hidden prompt",
-        "An image inside a document"
+        "A numerical vector representing features of an input",
+        "A text sequence containing instructions for a task",
+        "A probability score for a complete generated response",
+        "A compressed copy of a trained model weight file"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "retrieval"
-      ]
+      ],
+      "explanation": "Embedding similarity can help retrieval, but similarity is not proof that a source answers a question."
     },
     {
       "type": "multiple_choice",
       "prompt": "Which 2017 paper introduced the Transformer architecture?",
       "choices": [
-        "\"ImageNet Classification with Deep CNNs\"",
-        "\"Attention Is All You Need\"",
-        "\"Deep Residual Learning\"",
-        "\"Generative Adversarial Nets\""
+        "ImageNet Classification with Deep Convolutional Neural Networks",
+        "Attention Is All You Need",
+        "Deep Residual Learning for Image Recognition",
+        "Generative Adversarial Nets"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "The 2017 paper introduced the Transformer architecture using attention without recurrent layers."
     },
     {
       "type": "multiple_choice",
       "prompt": "What does the attention mechanism let a model do?",
       "choices": [
-        "Store memories between conversations",
-        "Weigh how relevant each part of the input is to each other part",
-        "Run faster on CPUs",
-        "Browse the web"
+        "Keep permanent memories without external storage",
+        "Weight information from different token positions",
+        "Look up current information without retrieval tools",
+        "Update trained weights during every ordinary reply"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "architecture"
-      ]
+      ],
+      "explanation": "Attention combines representations using learned relevance scores. It does not itself provide web access."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is \"pretraining\"?",
       "choices": [
-        "Training on a very large general text corpus to predict the next token",
-        "Writing the system prompt",
-        "Testing the model before release",
-        "Choosing hardware"
+        "Initial training on broad data to learn general patterns",
+        "Evaluation on held-out data to compare final models",
+        "Request-time examples used to describe the task",
+        "Compression of trained weights to reduce precision"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "training"
-      ]
+      ],
+      "explanation": "Autoregressive text models commonly learn by predicting the next token. Other pretraining objectives also exist."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is \"fine-tuning\"?",
       "choices": [
-        "Compressing a model",
-        "Adjusting the temperature",
-        "Shortening a prompt",
-        "Further training a pretrained model on a smaller, task-specific dataset"
+        "Changing sampling settings for one model request",
+        "Retrieving documents to place beside a user prompt",
+        "Reducing numerical precision to store model weights",
+        "Further training of an already pretrained model"
       ],
       "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "training"
-      ]
+      ],
+      "explanation": "Fine-tuning changes learned weights. Prompting and retrieval usually leave them unchanged."
     },
     {
       "type": "flashcard",
@@ -172,28 +181,29 @@
       "type": "multiple_choice",
       "prompt": "What is a \"system prompt\"?",
       "choices": [
-        "The first user question",
-        "An error message",
-        "A hardware setting",
-        "Instructions given to the model that set its role and rules for a conversation"
+        "The first ordinary user question in a conversation",
+        "An example answer supplied for a demonstration task",
+        "The saved conversation returned by a retrieval search",
+        "High-priority instructions supplied to shape model behavior"
       ],
       "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "prompting"
-      ]
+      ],
+      "explanation": "A system prompt is an instruction mechanism, not a guarantee that every request will be followed correctly."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is \"few-shot\" prompting?",
       "choices": [
-        "Limiting the reply length",
-        "Asking the model several times",
-        "Using a smaller model",
-        "Including a few worked examples in the prompt"
+        "Training a model with a small number of new weights",
+        "Combining a small set of separately trained models",
+        "Sampling a small number of possible response tokens",
+        "Including a small set of task examples in the prompt"
       ],
       "correctIndex": 3,
-      "explanation": "Zero-shot prompting gives instructions with no examples.",
+      "explanation": "Zero-shot prompting supplies no task demonstrations. Few-shot examples guide behavior without retraining.",
       "difficulty": "easy",
       "tags": [
         "prompting"
@@ -203,88 +213,93 @@
       "type": "multiple_choice",
       "prompt": "What is \"chain-of-thought\" prompting?",
       "choices": [
-        "Summarising a long conversation",
-        "Asking the model to work through intermediate reasoning steps before answering",
-        "Repeating the same prompt",
-        "Linking several models together"
+        "Repeating the same request in several languages",
+        "Prompting for intermediate reasoning steps",
+        "Retrieving related documents before generating text",
+        "Training successive models on the same dataset"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "prompting"
-      ]
+      ],
+      "explanation": "The technique was studied in Chain-of-Thought Prompting Elicits Reasoning in Large Language Models."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is RAG (retrieval-augmented generation)?",
       "choices": [
-        "Fetching relevant documents and adding them to the prompt so the answer is grounded in them",
-        "A type of GPU",
-        "A way to compress models",
-        "Training on random data"
+        "Retrieving information to inform a generated answer",
+        "Training a model to permanently memorize new pages",
+        "Quantizing model weights before serving a response",
+        "Averaging outputs from independently trained models"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "retrieval"
-      ]
+      ],
+      "explanation": "Retrieval supplies external context. The model can still misread it or make unsupported claims."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is a vector database typically used for in LLM apps?",
       "choices": [
-        "Storing user passwords",
-        "Storing embeddings and finding the most similar ones quickly",
-        "Running the model",
-        "Rendering images"
+        "Storing model weights and executing neural layers",
+        "Storing vectors and searching for similar vectors",
+        "Storing API credentials and authenticating requests",
+        "Storing token IDs and splitting text into word pieces"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "retrieval"
-      ]
+      ],
+      "explanation": "Vector similarity supports semantic retrieval; many apps combine it with keyword search or filters."
     },
     {
       "type": "multiple_choice",
       "prompt": "What are a model's \"parameters\" (weights)?",
       "choices": [
-        "The words in the prompt",
-        "The settings in the API request",
-        "The servers that run it",
-        "The learned numbers inside the network that determine its behaviour"
+        "Request settings that control token sampling",
+        "Text examples supplied in the current prompt",
+        "Documents retrieved for the current question",
+        "Learned numerical values within the network"
       ],
       "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "basics"
-      ]
+      ],
+      "explanation": "Weights are learned during training, while settings such as temperature are chosen for inference."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is \"inference\"?",
       "choices": [
-        "Labelling data",
-        "Training a model",
-        "Running a trained model to produce outputs",
-        "Deleting old models"
+        "Updating a model from a training dataset",
+        "Assigning target labels to training examples",
+        "Using a trained model to produce an output",
+        "Scoring a model against a held-out benchmark"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "basics"
-      ]
+      ],
+      "explanation": "Ordinary inference uses trained weights without running a training update."
     },
     {
       "type": "multiple_choice",
       "prompt": "What does a tokenizer do?",
       "choices": [
-        "Counts users",
-        "Encrypts prompts",
-        "Splits text into tokens and maps them to IDs the model uses",
-        "Checks grammar"
+        "Converts a model into lower-precision weights",
+        "Converts relevant documents into search rankings",
+        "Converts text into token IDs and back",
+        "Converts user requests into authenticated API calls"
       ],
       "correctIndex": 2,
-      "explanation": "Many tokenizers use byte-pair encoding (BPE).",
+      "explanation": "The tokenizer defines text segmentation and its token vocabulary. Different models may count the same text differently.",
       "difficulty": "medium",
       "tags": [
         "basics"
@@ -294,106 +309,113 @@
       "type": "multiple_choice",
       "prompt": "What is \"quantization\"?",
       "choices": [
-        "Counting tokens",
-        "Storing weights with fewer bits to save memory and speed up inference",
-        "Adding more parameters",
-        "Measuring accuracy"
+        "Reducing the number of examples in a training batch",
+        "Representing model values at lower numerical precision",
+        "Removing repeated documents from a training corpus",
+        "Limiting the maximum length of a generated answer"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "efficiency"
-      ]
+      ],
+      "explanation": "Quantization can reduce memory use. Effects on accuracy and speed depend on the method and hardware."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is \"distillation\"?",
       "choices": [
-        "Removing harmful data",
-        "Shortening prompts",
-        "Merging two datasets",
-        "Training a smaller model to imitate a larger one"
+        "Combining several models by averaging their weights",
+        "Compressing model weights into lower-bit formats",
+        "Retrieving text from a smaller document collection",
+        "Training a student model using a teacher model"
       ],
       "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "efficiency"
-      ]
+      ],
+      "explanation": "The student learns from teacher outputs or representations; it is often smaller or cheaper to run."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is LoRA (low-rank adaptation)?",
       "choices": [
-        "A prompt format",
-        "A fine-tuning method that trains small added matrices instead of all the weights",
-        "A model family",
-        "A long-range radio protocol only"
+        "Retrieving a few documents before each model request",
+        "Training low-rank updates while freezing base weights",
+        "Lowering the precision used to store all model weights",
+        "Training every weight again on a small task dataset"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "training"
-      ]
+      ],
+      "explanation": "LoRA is parameter-efficient fine-tuning. It learns small update matrices rather than replacing every base weight."
     },
     {
       "type": "multiple_choice",
       "prompt": "In LLM apps, what is \"tool use\" (function calling)?",
       "choices": [
-        "A keyboard shortcut",
-        "The model outputs a structured request to call an external function or API",
-        "Training with tools",
-        "The model writes its own hardware drivers"
+        "Executing every proposed function without application code",
+        "Producing a structured request for an external function",
+        "Changing model weights by editing a function signature",
+        "Retrieving training examples from the model weights"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "agents"
-      ]
+      ],
+      "explanation": "The application validates and executes tool calls, then can return results to the model."
     },
     {
       "type": "multiple_choice",
       "prompt": "What is an \"agent\" in the LLM sense?",
       "choices": [
-        "A human support worker",
-        "A web browser",
-        "A database",
-        "A system where a model plans and takes actions with tools over multiple steps"
+        "A fixed template that formats one completed response",
+        "A database that stores vectors for similarity search",
+        "A tokenizer that converts user text into model IDs",
+        "A model-driven system that chooses and takes actions"
       ],
       "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "agents"
-      ]
+      ],
+      "explanation": "Agent designs vary. A common pattern uses tools and repeated steps to work toward a task."
     },
     {
       "type": "multiple_choice",
-      "prompt": "What is \"mixture of experts\" (MoE)?",
+      "prompt": "What is a sparse mixture-of-experts architecture?",
       "choices": [
-        "A panel of human reviewers",
-        "Averaging several chatbots",
-        "A type of prompt",
-        "An architecture that routes each token to a few specialised sub-networks"
+        "Averaging complete replies from several separate chatbots",
+        "Dividing a prompt into equal independent text chunks",
+        "Training one network only on expert-written examples",
+        "Routing inputs to a subset of specialized networks"
       ],
       "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "architecture"
-      ]
+      ],
+      "explanation": "Sparse mixture-of-experts activates selected experts, so total parameter count differs from parameters used per token."
     },
     {
       "type": "multiple_choice",
       "prompt": "What does \"perplexity\" measure for a language model?",
       "choices": [
-        "How confusing its answers are to users",
-        "How well it predicts text; lower is better",
-        "How many parameters it has",
-        "Its response speed"
+        "How clearly human reviewers understand its responses",
+        "How surprising evaluation text is under the model",
+        "How quickly the model produces each output token",
+        "How much GPU memory is needed to store its weights"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "evaluation"
-      ]
+      ],
+      "explanation": "Lower perplexity means better prediction on comparable data. Comparisons require compatible tokenization and evaluation."
     },
     {
       "type": "true_false",
@@ -409,16 +431,17 @@
       "type": "multiple_choice",
       "prompt": "What is \"grounding\" a model's answer?",
       "choices": [
-        "Lowering the temperature to 0",
-        "Tying it to provided sources or data so it can be checked",
-        "Turning the model off",
-        "Training it on maps"
+        "Reducing temperature to make every answer factual",
+        "Basing an answer on identifiable supporting information",
+        "Keeping a model running entirely on local hardware",
+        "Training a model only on geographical information"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "retrieval"
-      ]
+      ],
+      "explanation": "Grounding makes claims easier to check; it does not remove the need to verify that the sources support them."
     },
     {
       "type": "flashcard",

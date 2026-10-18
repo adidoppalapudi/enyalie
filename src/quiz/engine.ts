@@ -321,19 +321,15 @@ export function summarize(session: QuizSession): QuizSummary {
   };
 }
 
-/** Same questions again, reshuffled if the original quiz was shuffled. */
-export function replaySession(session: QuizSession, random: Random = Math.random, now = Date.now()): QuizSession {
+/** Same questions and choice order again, with a fresh score and clock. */
+export function replaySession(session: QuizSession, now = Date.now()): QuizSession {
   return createSession({
     title: session.title,
     source: session.source,
     settings: session.settings,
     deckNames: session.deckNames,
     retry: session.retry,
-    items: toItems(
-      session.items.map((item) => item.question),
-      session.settings,
-      random,
-    ),
+    items: session.items,
     now,
   });
 }

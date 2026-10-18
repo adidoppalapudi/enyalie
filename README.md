@@ -16,8 +16,8 @@ npm run dev
 ```
 
 Open the address it prints (usually http://localhost:5173). In the empty library, **starter decks** adds
-any of the 11 built-in decks (about 310 questions on AWS, PostgreSQL, history, geography, vocabulary and
-more).
+any of the 27 built-in decks, with about 1,100 questions across science, history, places, sports, stories,
+games, food, technology and words. Four mixed trivia decks range from Easy to Expert.
 
 | Command                | What it does                                                         |
 | ---------------------- | -------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ on a phone they are big buttons for your thumb.
 | Deck    | `S` start quiz, `A` add question, `Esc` back to the library                                                                |
 | Editor  | `Ctrl+Enter` save. **save + add another** keeps the type, difficulty and tags for the next question                        |
 | Quiz    | `1`–`4` (or `A`–`D`) to answer, `T`/`F` for true/false, `Space` to flip a flashcard then `Y`/`N`, `Enter` next, `Esc` quit |
-| Results | `M` retry your mistakes, `R` replay the same questions, `Esc` back                                                         |
+| Results | `N` new quiz, `R` retry as is, `M` retry your mistakes, `Esc` exit to the deck or library                                  |
 
 - Before a quiz you choose its length (5, 10, 20 or all), a timer (off, 10, 20 or 30 seconds), which
   question types and difficulties to include, and whether to shuffle the questions and the answer options.
@@ -76,8 +76,15 @@ on a phone they are big buttons for your thumb.
   afterwards takes as long as you like. The clock can't be paused, and a reload doesn't reset it.
   Quick play is always untimed.
 - A quiz in progress survives a page reload, and the title bar offers **resume quiz** if you wander off.
+- On the results screen, **new quiz** draws from the same deck, or all decks for quick play, with the
+  same settings and any edits you've saved. **Retry as is** repeats the exact questions and answer order.
 - Deck management (edit, duplicate, export, delete) is on the deck screen and behind **more** in the library.
 - **browse starter decks**, under the deck list, adds any built-in deck you don't have yet.
+- Search titles and descriptions or choose a category in the library and starter-deck picker. **Start here**
+  contains a curated selection, with no popularity tracking. Choose individual decks or **select shown**;
+  the add button always shows the total selected, including choices kept while changing filters.
+- Questions can be Easy, Medium, Hard or Expert. There is no fixed question-count cap on a deck;
+  imported files can be up to 5 MB. Short explanations add context after an answer.
 - `C` cycles through three colour palettes: classic blue, sycamore (green) and a light one, cloud. Each
   device remembers its choice.
 
@@ -108,7 +115,7 @@ Exports are plain JSON, so you can also write decks by hand (or have an AI draft
 
 - Every question needs `type` and `prompt`. Multiple choice also needs `choices` (2–4) and `correctIndex`
   (counting from 0). True/false and flashcards need `answer` (`true`/`false`, or the answer text).
-- `explanation`, `difficulty` (`easy`, `medium`, `hard`) and `tags` are optional.
+- `explanation`, `difficulty` (`easy`, `medium`, `hard`, `expert`) and `tags` are optional.
 - Hand-written files can leave out `format`, `version` and the deck `id`. They can also put `name` and
   `description` at the top level instead of inside `deck`, and give a multiple choice answer as text
   (`"answer": "S3"`) instead of `correctIndex`.
