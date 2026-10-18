@@ -1,0 +1,3331 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-ap-environmental-science",
+    "name": "AP Environmental Science",
+    "description": "Study ecosystems, biodiversity, populations, Earth systems, resource use, pollution, energy, and global environmental change through AP-aligned practice questions."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "A marsh contains reeds, fish, bacteria, water, and dissolved oxygen. Which listed component is abiotic?",
+      "choices": [
+        "Fish",
+        "Bacteria",
+        "Dissolved oxygen",
+        "Reeds"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "ecosystems",
+        "practice-1"
+      ],
+      "explanation": "Abiotic factors are nonliving physical or chemical parts of an ecosystem. Dissolved oxygen is a chemical condition; the other listed components are organisms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A meadow fixes 2,400 g C/m²/year by photosynthesis and producers use 900 g C/m²/year in respiration. What is its net primary productivity?",
+      "choices": [
+        "1,500 g C/m²/year",
+        "2,400 g C/m²/year",
+        "3,300 g C/m²/year",
+        "0.375 g C/m²/year"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "primary-productivity",
+        "practice-6"
+      ],
+      "explanation": "NPP = GPP − respiration = 2,400 − 900 = 1,500 g C/m²/year. NPP is the energy or carbon stored as producer biomass and available to consumers."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A legume field gains biologically available nitrogen after root-nodule bacteria become active. Which process most directly explains the change?",
+      "choices": [
+        "Denitrification converts nitrate to N₂ gas",
+        "Nitrogen fixation converts atmospheric N₂ to ammonia, which becomes ammonium",
+        "Assimilation releases nitrogen from dead tissue",
+        "Nitrification converts N₂ directly to plant protein"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "biogeochemical-cycles",
+        "practice-1"
+      ],
+      "explanation": "Nitrogen-fixing bacteria convert atmospheric N₂ into ammonia; in soil, ammonia quickly becomes ammonium that plants can use. The 2026–27 clarification emphasizes this microbial step."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best explains why less energy is available at higher trophic levels?",
+      "choices": [
+        "Energy is recycled completely by decomposers",
+        "Organisms use much of the energy they take in for metabolism and release heat",
+        "Consumers create energy as they grow",
+        "Producers absorb energy from consumers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "energy-flow",
+        "practice-1"
+      ],
+      "explanation": "Energy flows through ecosystems rather than cycling. Respiration, movement, and other metabolic processes transfer much energy to the surroundings as heat."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coastal lagoon has brackish water, high nutrient input, and strong nursery habitat use by fish. Which biome description best fits?",
+      "choices": [
+        "Open-ocean pelagic zone",
+        "Estuary",
+        "Aphotic zone of a deep lake",
+        "Coral reef far offshore"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "aquatic-biomes",
+        "practice-2"
+      ],
+      "explanation": "An estuary is a coastal area where freshwater and seawater mix. Its nutrient inputs and sheltered habitat often support high productivity and nursery functions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A producer level stores 18,000 kJ. Using the 10% rule, about how much energy is available to secondary consumers?",
+      "choices": [
+        "18 kJ",
+        "180 kJ",
+        "1,800 kJ",
+        "16,200 kJ"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "energy-flow",
+        "practice-6"
+      ],
+      "explanation": "Apply the approximate 10% transfer twice: producers to primary consumers gives 1,800 kJ; primary to secondary consumers gives 180 kJ. The rule is an approximation, not a fixed law."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a pond food web, algae → zooplankton → small fish → bass, while algae also support insect larvae eaten by small fish. If zooplankton decline sharply, which outcome is best supported?",
+      "choices": [
+        "Bass must disappear immediately",
+        "Small fish may partly compensate by eating more insect larvae",
+        "Algae must decline because fewer zooplankton graze",
+        "Energy flow from algae stops"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "food-webs",
+        "practice-2"
+      ],
+      "explanation": "The second prey pathway provides small fish with an alternative food source, so the food web can buffer some effects. The direction and size of other changes depend on interaction strengths."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A city replaces a forest with roads and rooftops. Which immediate change is most likely during a rainstorm?",
+      "choices": [
+        "More infiltration and less runoff",
+        "Less runoff because impervious surfaces store water",
+        "More surface runoff and less infiltration",
+        "No change to water movement"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "water-cycle",
+        "practice-7"
+      ],
+      "explanation": "Impervious cover reduces infiltration, so a larger share of rainfall moves quickly as surface runoff. This can also increase flooding and pollutant transport."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A freshwater lake receives phosphorus-rich runoff. A bloom follows, then dissolved oxygen falls after the bloom collapses. Which sequence best explains the change?",
+      "choices": [
+        "Phosphorus stimulates producer growth; decomposers consume oxygen while breaking down dead biomass",
+        "Phosphorus stimulates producers, and all resulting oxygen is permanently stored in the lake",
+        "Phosphorus directly removes dissolved oxygen before any organisms respond",
+        "Phosphorus causes denitrification to stop, which immediately kills fish"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "biogeochemical-cycles",
+        "practice-5"
+      ],
+      "explanation": "Phosphorus can limit production in freshwater systems. Added phosphorus can trigger eutrophication; microbial decomposition of the resulting biomass raises oxygen demand and lowers dissolved oxygen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The distribution of terrestrial biomes is strongly shaped by long-term patterns of temperature and precipitation.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "terrestrial-biomes",
+        "practice-1"
+      ],
+      "explanation": "Temperature and precipitation constrain plant growth and help determine characteristic biome structure. Local soils, disturbance, and other factors also matter."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The phosphorus cycle has a large, rapidly exchanging atmospheric reservoir comparable to the nitrogen cycle.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "biogeochemical-cycles",
+        "practice-1"
+      ],
+      "explanation": "The major phosphorus reservoirs are phosphorus-bearing rocks and ocean sediments. The cycle lacks a significant atmospheric component, as clarified for 2026–27."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is net primary productivity (NPP)?",
+      "answer": "The rate at which producers store energy or biomass after subtracting their own respiration from gross primary productivity: NPP = GPP − R.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "primary-productivity",
+        "practice-1"
+      ],
+      "explanation": "NPP represents the energy available for producer growth and, indirectly, consumers. State units as a rate per area, such as kJ/m²/year."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are the main steps of the nitrogen cycle, and what role do soil microorganisms play?",
+      "answer": "Nitrogen fixation, assimilation, ammonification, nitrification, and denitrification move nitrogen among reservoirs. Soil microorganisms carry out or enable several steps, including fixation of N₂ into ammonia.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "biogeochemical-cycles",
+        "practice-1"
+      ],
+      "explanation": "Plants can take up nitrogen compounds such as ammonium or nitrate; atmospheric N₂ is not directly available to most organisms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does a food web differ from a food chain, and what do arrows represent?",
+      "answer": "A food chain shows one pathway of energy and matter transfer; a food web links multiple chains. Arrows point from the resource eaten toward the consumer, showing energy and matter flow.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "trophic-levels",
+        "practice-2"
+      ],
+      "explanation": "Detritivores and decomposers also connect food-web pathways by processing dead matter and returning nutrients to the environment."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Why does available energy generally decrease at each higher trophic level?",
+      "answer": "Organisms use much of the energy they consume for respiration, movement, and other life processes, and much of it dissipates as heat. Only a fraction is stored as biomass available to the next trophic level.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-1",
+        "ap-environmental-science",
+        "energy-flow",
+        "practice-1"
+      ],
+      "explanation": "Energy flows through ecosystems and is not recycled; matter and nutrients can cycle."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A conservation survey finds several varieties of a native wildflower that differ in inherited drought tolerance. Which level of biodiversity is directly described?",
+      "choices": [
+        "Genetic diversity",
+        "Species richness",
+        "Ecosystem diversity",
+        "Trophic diversity"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "biodiversity",
+        "practice-1"
+      ],
+      "explanation": "Inherited variation among members of the same species is genetic diversity. Species richness counts species; ecosystem diversity describes the variety of habitats or ecosystems."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Two meadows each contain 5 plant species and 100 plants. Meadow A has 20 of each species; Meadow B has 80 of one species and 5 of each other species. Which statement is correct?",
+      "choices": [
+        "A has greater richness, B has greater evenness",
+        "Both have the same richness, and A has greater evenness",
+        "B has greater richness because one species dominates",
+        "They have identical richness and evenness"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "species-richness-evenness",
+        "practice-5"
+      ],
+      "explanation": "Both meadows contain five species, so their richness is equal. Meadow A distributes individuals more evenly among those species."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A proposed reserve plan compares two habitat patches: Patch X is large and near a source forest; Patch Y is small and isolated. Island biogeography predicts that, all else equal, X will tend to support:",
+      "choices": [
+        "Fewer species because large patches prevent immigration",
+        "More species because immigration is easier and extinction risk is lower",
+        "The same species count because patch area never matters",
+        "Fewer species because nearby sources increase competition only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "island-biogeography",
+        "practice-2"
+      ],
+      "explanation": "Island biogeography predicts higher immigration to less isolated patches and lower extinction in larger patches, tending to produce greater species richness."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is a regulating ecosystem service provided by a wetland?",
+      "choices": [
+        "Harvesting wild rice",
+        "Floodwater storage that reduces downstream flood peaks",
+        "Recreation and birdwatching",
+        "Aesthetic inspiration"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "ecosystem-services",
+        "practice-1"
+      ],
+      "explanation": "Flood regulation is a regulating service. Food is a provisioning service; recreation and aesthetic benefits are cultural services."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A stream insect survives at dissolved oxygen levels of 4–12 mg/L, grows best at 8 mg/L, and disappears below 4 mg/L. A new discharge lowers oxygen from 8 to 5 mg/L. What is the strongest inference?",
+      "choices": [
+        "The population is already outside its tolerance range",
+        "The population remains within its tolerance range but below its optimum",
+        "The population must increase because oxygen is lower",
+        "The species has genetically adapted within one generation"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "ecological-tolerance",
+        "practice-2"
+      ],
+      "explanation": "Five mg/L is within the stated 4–12 mg/L range, but below the optimum of 8 mg/L. Performance may decline without the population being outside its tolerance."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "After a low-intensity fire, a grassland regains plant cover in two growing seasons, but a nearby burned forest takes decades to recover. Which property does the grassland show?",
+      "choices": [
+        "Lower resilience",
+        "Greater resilience under the disturbance described",
+        "Primary succession",
+        "Higher species richness by definition"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "disturbance-resilience",
+        "practice-5"
+      ],
+      "explanation": "Resilience is the capacity or rate of recovery after disturbance. The grassland returned to its prior cover more quickly in this scenario."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A glacier retreats, exposing bare rock with no soil. Which process is most likely to begin community development?",
+      "choices": [
+        "Secondary succession begins because soil is already present",
+        "Primary succession begins on a surface lacking soil",
+        "A climax community forms before pioneer species arrive",
+        "The site undergoes no succession until all rock is weathered"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "ecological-succession",
+        "practice-1"
+      ],
+      "explanation": "Primary succession begins on surfaces lacking soil. Pioneer species such as lichens and mosses can contribute to soil formation, allowing later communities to establish."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A field report states: “Since highway construction divided one forest into small isolated patches, monitoring found fewer animal crossings and smaller local groups.” Which process most directly could raise extinction risk?",
+      "choices": [
+        "Increased gene flow between fragments",
+        "Reduced habitat area and reduced movement among populations",
+        "Increased interior habitat in each small fragment",
+        "Elimination of all edge effects"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "biodiversity-loss",
+        "practice-3"
+      ],
+      "explanation": "The report suggests reduced connectivity and smaller habitat patches. Both can limit gene flow and recolonization while making small populations more vulnerable."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A warming stream favors insects that mature earlier. Which evidence would best support the claim that the population adapted through natural selection?",
+      "choices": [
+        "Every individual changed its genes during its lifetime",
+        "Earlier maturation is heritable and became more common across generations",
+        "The stream warmed, so all insects immediately became earlier-maturing",
+        "The number of insect species increased after one season"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "adaptation",
+        "practice-4"
+      ],
+      "explanation": "Natural selection acts on heritable variation. Evidence of a heritable trait increasing in frequency across generations supports evolutionary adaptation, consistent with the clarified learning objective."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Species richness is the number of species present, while evenness describes how individuals are distributed among those species.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "species-richness-evenness",
+        "practice-1"
+      ],
+      "explanation": "Richness and evenness are distinct components of community diversity. A community can have high richness but low evenness if one species dominates."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Secondary succession typically begins where soil remains after a disturbance, such as on an abandoned field.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "ecological-succession",
+        "practice-1"
+      ],
+      "explanation": "Because soil and often seeds, roots, or microbes remain, secondary succession generally proceeds faster than primary succession on bare rock."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Name three levels of biodiversity and define each.",
+      "answer": "Genetic diversity is variation within and among populations of a species; species diversity concerns the variety and relative abundance of species; ecosystem diversity is the variety of ecosystems or habitats.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "biodiversity",
+        "practice-1"
+      ],
+      "explanation": "These levels are related but not interchangeable. Protecting one does not automatically preserve all three."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are the four broad categories of ecosystem services?",
+      "answer": "Provisioning (goods such as food and timber), regulating (processes such as flood control), cultural (recreation or spiritual value), and supporting services (processes such as nutrient cycling and soil formation).",
+      "difficulty": "medium",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "ecosystem-services",
+        "practice-1"
+      ],
+      "explanation": "Supporting services underpin many of the other benefits people receive from ecosystems."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do island area and isolation affect predicted species richness?",
+      "answer": "Larger islands or habitat patches tend to have lower extinction rates; less isolated ones tend to have higher immigration rates. Both factors generally raise equilibrium species richness.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "island-biogeography",
+        "practice-2"
+      ],
+      "explanation": "The model predicts patterns; habitat quality, history, species traits, and human impacts also influence actual richness."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Distinguish resistance from resilience in an ecosystem.",
+      "answer": "Resistance is how little an ecosystem changes during a disturbance; resilience is how well or quickly it recovers afterward.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-2",
+        "ap-environmental-science",
+        "disturbance-resilience",
+        "practice-1"
+      ],
+      "explanation": "An ecosystem may be resistant but recover slowly from a rare severe event, or change substantially and then recover quickly."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A raccoon eats many foods and lives in cities, forests, and wetlands. Which label best describes this species?",
+      "choices": [
+        "Specialist",
+        "Generalist",
+        "Indicator species",
+        "Keystone species"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "species-strategies",
+        "practice-1"
+      ],
+      "explanation": "A generalist uses a broad range of resources and habitats. Raccoons can exploit varied foods and environments."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A graph description shows most individuals of a species surviving to old age, followed by a steep decline late in life. Which survivorship curve is most consistent?",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "J-shaped population-growth curve"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "survivorship",
+        "practice-2"
+      ],
+      "explanation": "Type I survivorship has high survival through early and middle life with mortality rising at older ages; it is common in many large mammals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A deer population in a fenced reserve rises from 80 to 240, then fluctuates between 190 and 220 as forage becomes scarce. What is the best estimate of carrying capacity?",
+      "choices": [
+        "About 80 deer",
+        "About 200 deer",
+        "About 240 deer",
+        "It cannot be estimated from resource limits"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "carrying-capacity",
+        "practice-5"
+      ],
+      "explanation": "Carrying capacity is the population size an environment can support over time. The later fluctuations near 200 as forage becomes scarce suggest K is roughly 200."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A town’s population grows from 820,000 to 902,000 in one year. What is the percent increase?",
+      "choices": [
+        "8.2%",
+        "9.1%",
+        "10.0%",
+        "82.0%"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-calculations",
+        "practice-6"
+      ],
+      "explanation": "Percent change = (new − original) / original × 100 = (902,000 − 820,000) / 820,000 × 100 = 10.0%."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which description best identifies logistic population growth?",
+      "choices": [
+        "Growth accelerates without limit as population size rises",
+        "Growth slows as the population approaches carrying capacity",
+        "Population size declines at a constant rate",
+        "Births and deaths are absent"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-growth",
+        "practice-1"
+      ],
+      "explanation": "In logistic growth, resource limits cause the per-capita growth rate to decline as population size approaches carrying capacity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A country has a crude birth rate of 28 births per 1,000 people and a crude death rate of 10 deaths per 1,000. What is its approximate rate of natural increase?",
+      "choices": [
+        "0.18%",
+        "1.8%",
+        "18%",
+        "38%"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "human-population",
+        "practice-6"
+      ],
+      "explanation": "RNI = CBR − CDR = 28 − 10 = 18 per 1,000. Convert to percent: 18/1,000 × 100 = 1.8%. Migration is not included in RNI."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A population grows at 2% per year. Using the Rule of 70, what is its approximate doubling time?",
+      "choices": [
+        "14 years",
+        "35 years",
+        "70 years",
+        "140 years"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-calculations",
+        "practice-6"
+      ],
+      "explanation": "Doubling time ≈ 70 / annual growth rate in percent = 70 / 2 = 35 years. This is an estimate that assumes a roughly stable growth rate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A country’s age-structure diagram has a broad base and narrows quickly at older ages. If birth and death rates remain similar, what is most likely?",
+      "choices": [
+        "A large cohort of young people will enter reproductive ages, supporting future growth",
+        "The population must shrink immediately",
+        "Most people are already older than reproductive age",
+        "The diagram proves net emigration"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "age-structure",
+        "practice-2"
+      ],
+      "explanation": "A broad base indicates many young people relative to older groups. As they age into reproductive years, population momentum can sustain growth even if fertility begins to fall."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A demographic summary states: “Death rates have fallen after sanitation improved, while birth rates remain high.” Which demographic-transition stage is most consistent?",
+      "choices": [
+        "Stage 1, with high birth and death rates",
+        "Stage 2, with declining death rates and rapid growth",
+        "Stage 4, with low birth and death rates",
+        "Stage 5, with no births"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "demographic-transition",
+        "practice-3"
+      ],
+      "explanation": "The summary describes falling death rates with birth rates still high, characteristic of Stage 2 and rapid population growth."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In one year a region records 12,000 births, 8,000 deaths, 3,000 immigrants, and 5,000 emigrants. What is the net population change?",
+      "choices": [
+        "−2,000 people",
+        "+2,000 people",
+        "+4,000 people",
+        "+8,000 people"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "human-population",
+        "practice-6"
+      ],
+      "explanation": "Net change = births − deaths + immigration − emigration = 12,000 − 8,000 + 3,000 − 5,000 = +2,000 people."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Researchers test whether food supply affects reproduction in a small mammal. They randomly assign equal-age females to high- and low-food enclosures, keep temperature and enclosure size constant, and count surviving offspring. Which is the dependent variable?",
+      "choices": [
+        "Food level assigned",
+        "Temperature",
+        "Number of surviving offspring",
+        "Enclosure size"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-experiments",
+        "practice-4"
+      ],
+      "explanation": "The dependent variable is the measured outcome: surviving offspring. Food level is the independent variable; temperature and enclosure size are controlled variables. Random assignment helps reduce confounding."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Region A has 10 million residents using 5 resource units per person annually. Region B has 2 million residents using 20 units per person. Which has the larger annual resource demand by this simplified measure?",
+      "choices": [
+        "Region A, 50 million units",
+        "Region B, 40 million units",
+        "They are equal at 10 million units",
+        "Cannot compare without population density"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "resource-consumption",
+        "practice-6"
+      ],
+      "explanation": "Total demand = population × per-capita use. A: 10 million × 5 = 50 million units; B: 2 million × 20 = 40 million units. Population size and consumption per person both matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which factor can lower total fertility rates by increasing people’s ability to plan family size?",
+      "choices": [
+        "Access to education and family planning",
+        "Higher infant mortality alone",
+        "Reduced access to healthcare",
+        "A higher crude death rate"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "fertility-and-mortality",
+        "practice-1"
+      ],
+      "explanation": "Education and family-planning access are associated with lower fertility in many contexts by expanding choices, delaying childbearing, and improving access to contraception."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A severe late frost kills seedlings across a forest regardless of how crowded each plot is. The frost is best classified as:",
+      "choices": [
+        "A density-dependent factor such as competition",
+        "A density-independent factor such as a severe frost",
+        "A density-dependent factor such as disease spread in crowded plots",
+        "A density-dependent factor such as territorial behavior"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "limiting-factors",
+        "practice-1"
+      ],
+      "explanation": "A density-independent factor affects populations regardless of their density. A frost can affect sparse and dense populations alike."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An oyster releases millions of larvae; few survive the first days, but survivors may live for years. Which curve and strategy best match this pattern?",
+      "choices": [
+        "Type I; few offspring and high parental care",
+        "Type II; constant mortality and moderate parental investment",
+        "Type III; many offspring with high early mortality",
+        "Type I; high juvenile survival followed by mortality late in life"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "survivorship",
+        "practice-2"
+      ],
+      "explanation": "Type III survivorship has very high mortality early in life, often paired with many offspring and little parental care. Many marine invertebrates show this pattern."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A specialist species generally has a narrow niche and may be more vulnerable when its particular habitat or food source changes.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "species-strategies",
+        "practice-1"
+      ],
+      "explanation": "Specialists use a narrow range of resources or conditions, so environmental change can affect them strongly. Vulnerability depends on the change and species traits."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In an exponential-growth model, the population growth rate is fastest when the population is smallest.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-growth",
+        "practice-1"
+      ],
+      "explanation": "With a constant per-capita growth rate, absolute growth accelerates as population size increases. Real populations encounter limits, so exponential growth cannot continue indefinitely."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Rate of natural increase includes immigration and emigration.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "human-population",
+        "practice-1"
+      ],
+      "explanation": "RNI uses births and deaths, commonly CBR minus CDR. Total population change also depends on immigration and emigration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Carrying capacity is fixed permanently for a species in a particular location.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "carrying-capacity",
+        "practice-1"
+      ],
+      "explanation": "Carrying capacity can change when food, water, habitat, climate, disease, or human management changes. It is an estimate under specified conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do r-selected and K-selected species generally differ in reproductive strategy?",
+      "answer": "r-selected species tend to produce many small offspring, mature quickly, and provide less parental care; K-selected species tend to produce fewer, larger offspring, mature later, and provide more parental care.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "reproductive-strategies",
+        "practice-1"
+      ],
+      "explanation": "These are broad tendencies along a continuum, not rigid categories; actual strategies depend on environmental conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Give the percent-change formula for a population and define each term.",
+      "answer": "Percent change = (new population − initial population) / initial population × 100%. The result is positive for growth and negative for decline.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "population-calculations",
+        "practice-6"
+      ],
+      "explanation": "Keep the initial population in the denominator and include the percent unit in the answer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What do Type I, Type II, and Type III survivorship curves show?",
+      "answer": "Type I: high survival until old age; Type II: roughly constant mortality risk across life; Type III: very high early mortality with greater survival among those reaching adulthood.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "survivorship",
+        "practice-2"
+      ],
+      "explanation": "These curves describe patterns across a population; they do not mean every individual follows the same lifespan."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Summarize the demographic transition from early to later stages.",
+      "answer": "As sanitation, food, and health care improve, death rates often decline before birth rates, creating rapid growth; later, birth rates decline and growth slows. Some models include stable or declining population stages.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "demographic-transition",
+        "practice-1"
+      ],
+      "explanation": "The model describes a broad historical pattern; countries may differ in timing and path."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What can an age-structure diagram suggest about a population’s future growth?",
+      "answer": "A broad base often signals many young people and potential population momentum; a more rectangular shape suggests slower growth; a narrow base with larger older cohorts can signal decline.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "age-structure",
+        "practice-2"
+      ],
+      "explanation": "Use the diagram with fertility, mortality, and migration data; it is not a precise forecast by itself."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do births, deaths, immigration, and emigration determine total population change?",
+      "answer": "Population change = births − deaths + immigration − emigration. RNI considers births minus deaths, often using crude rates; it excludes migration.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-3",
+        "ap-environmental-science",
+        "human-population",
+        "practice-6"
+      ],
+      "explanation": "For growth rate as a percentage, rate units and population size must be handled consistently. Doubling time can be estimated as 70 divided by annual percent growth."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement correctly combines atmospheric composition and the layer containing most weather?",
+      "choices": [
+        "The troposphere contains most weather and water vapor, while dry air is mostly nitrogen followed by oxygen",
+        "The stratosphere contains most weather, and dry air is mostly carbon dioxide",
+        "The mesosphere contains most water vapor, and dry air is mostly hydrogen",
+        "The thermosphere contains most weather, and dry air is mostly ozone"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "atmosphere",
+        "practice-1"
+      ],
+      "explanation": "Most weather and atmospheric water vapor are in the troposphere. Dry air near Earth’s surface is about 78% nitrogen and 21% oxygen, with smaller amounts of other gases."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At which plate boundary is new oceanic crust most commonly formed?",
+      "choices": [
+        "Convergent boundary where one plate subducts",
+        "Divergent boundary where plates move apart",
+        "Transform boundary where plates slide past",
+        "Continental collision zone only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "plate-tectonics",
+        "practice-1"
+      ],
+      "explanation": "At divergent boundaries, rising magma cools as plates separate and creates new crust, such as along mid-ocean ridges."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A mineral soil sample is 40% sand, 40% silt, and 20% clay. Using the soil texture triangle, which class best fits?",
+      "choices": [
+        "Clay",
+        "Sandy loam",
+        "Loam",
+        "Silt"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-texture",
+        "practice-2"
+      ],
+      "explanation": "The percentages sum to 100%, and the 40% sand, 40% silt, 20% clay combination falls in the loam class on a standard soil texture triangle. Loam balances particle sizes and often supports crops."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A parcel of air moving northward in the Northern Hemisphere is deflected to the right relative to its direction of travel. Which effect explains this?",
+      "choices": [
+        "A pressure gradient force",
+        "The Coriolis effect from Earth’s rotation",
+        "The greenhouse effect",
+        "Convection caused by local surface heating"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "global-circulation",
+        "practice-1"
+      ],
+      "explanation": "Earth’s rotation produces the Coriolis effect: moving air and water are deflected right in the Northern Hemisphere and left in the Southern Hemisphere."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Moist air rises over a mountain, cools, and releases precipitation on the western slope. The eastern slope is much drier. What best explains the dry eastern slope?",
+      "choices": [
+        "A rain shadow as descending air warms and dries",
+        "A cold ocean current that removes precipitation on the leeward slope",
+        "A sea breeze carrying moist air away from the mountain",
+        "A temperature inversion that forces all water vapor downward"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "rain-shadow",
+        "practice-2"
+      ],
+      "explanation": "Air loses moisture as it rises and cools on the windward slope. Descending air on the leeward side warms and has lower relative humidity, creating a rain shadow."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "After a pesticide is applied on a hillside, which area is most directly connected to the receiving stream by surface runoff?",
+      "choices": [
+        "The watershed draining to that stream",
+        "The neighboring watershed separated by a topographic divide",
+        "Only the narrow riparian strip along the stream",
+        "Every watershed in the same state"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "watersheds",
+        "practice-1"
+      ],
+      "explanation": "A watershed is the land area that drains surface water to a common outlet. Runoff can carry pesticides from locations within that drainage area to the stream."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A farm leaves bare soil on a steep slope through the rainy season. Which change would most directly reduce soil erosion?",
+      "choices": [
+        "Planting cover crops and contouring rows",
+        "Increasing slope length",
+        "Removing field-edge vegetation",
+        "Tilling up and down the slope"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-erosion",
+        "practice-7"
+      ],
+      "explanation": "Cover crops protect soil from raindrop impact and bind it with roots; contour farming slows downslope water flow. Both can reduce erosion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why does a location near the equator generally receive more direct solar energy per unit area than a high-latitude location?",
+      "choices": [
+        "Sunlight arrives at a higher angle and is concentrated over a smaller surface area",
+        "Earth is closer to the Sun at the equator",
+        "The equator receives sunlight only during summer",
+        "The atmosphere is absent above the equator"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "solar-radiation",
+        "practice-1"
+      ],
+      "explanation": "More direct rays concentrate incoming solar energy over a smaller surface area. At high latitudes, sunlight arrives at a lower angle and is spread over a larger area."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A fisheries bulletin states: “During El Niño, weakened trade winds allow warm surface water to spread eastward across the tropical Pacific.” Which local change is likely off western South America?",
+      "choices": [
+        "Stronger cold-water upwelling and greater nutrient supply",
+        "Reduced upwelling and often lower nutrient supply to surface waters",
+        "No change because surface winds do not affect currents",
+        "Permanent cooling of the entire Pacific"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "el-nino-la-nina",
+        "practice-3"
+      ],
+      "explanation": "The bulletin describes weakened trade winds and eastward warm-water movement. El Niño weakens normal upwelling of cold, nutrient-rich water off South America, often reducing nutrient availability. Impacts vary by event."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coastal current brings cold, nutrient-rich deep water to the surface. Which process is being described?",
+      "choices": [
+        "Downwelling",
+        "Upwelling",
+        "Thermal inversion",
+        "Subduction of continental crust"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "ocean-currents",
+        "practice-1"
+      ],
+      "explanation": "Upwelling moves deeper water toward the surface, supplying nutrients that can support high primary productivity and fisheries."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A soil profile has a dark, organic-rich surface layer above a zone where clay and iron accumulate. Which horizons are most likely described?",
+      "choices": [
+        "O above A",
+        "A above B",
+        "B above C",
+        "C above R"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-horizons",
+        "practice-2"
+      ],
+      "explanation": "The A horizon is mineral topsoil enriched with organic matter; materials leached from upper horizons can accumulate in the B horizon below. An O horizon is mostly surface litter and organic material."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Two equal-size watersheds receive the same 25 mm storm. Forest basin runoff is 6 mm; urban basin runoff is 18 mm. What is the best interpretation?",
+      "choices": [
+        "Urban runoff was three times forest runoff, consistent with less infiltration from impervious cover",
+        "Forest runoff was three times urban runoff, suggesting greater forest infiltration",
+        "Runoff was equal because rainfall depth was equal",
+        "The data establish that the urban basin had no infiltration"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "earth-systems-data",
+        "practice-5"
+      ],
+      "explanation": "18 mm / 6 mm = 3, so recorded runoff depth in the urban basin was three times as large. Impervious surfaces can reduce infiltration; equal storm depth helps comparison but does not control all watershed differences."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A temperature profile shows air temperature decreasing with altitude from the surface to 10 km, then increasing from 10 to 50 km. Which layer and process best explain the reversal?",
+      "choices": [
+        "Tropopause; ozone absorption of ultraviolet radiation warms the stratosphere aloft",
+        "Mesopause; surface reflection warms the mesosphere",
+        "Stratopause; clouds warm the troposphere",
+        "Thermopause; ocean currents warm the stratosphere"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "atmosphere",
+        "practice-2"
+      ],
+      "explanation": "The troposphere generally cools with altitude; above the tropopause, stratospheric ozone absorbs ultraviolet radiation, producing a temperature increase with altitude through much of the stratosphere."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Water slowly dissolves limestone and enlarges cracks into caves. Which process is occurring?",
+      "choices": [
+        "Chemical weathering",
+        "Mechanical weathering only",
+        "Deposition",
+        "Plate divergence"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "geologic-processes",
+        "practice-1"
+      ],
+      "explanation": "Chemical weathering changes minerals through reactions such as dissolution. Mechanical weathering breaks material into smaller pieces without changing its chemical composition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which process returns liquid water from plant leaves to the atmosphere?",
+      "choices": [
+        "Transpiration",
+        "Infiltration",
+        "Percolation",
+        "Condensation"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "hydrologic-cycle",
+        "practice-1"
+      ],
+      "explanation": "Transpiration is water vapor released from plants, mainly through leaf stomata. It contributes to evapotranspiration along with evaporation from surfaces."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Soil forms through interactions among weathered parent material, organic matter, climate, organisms, topography, and time.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-formation",
+        "practice-1"
+      ],
+      "explanation": "These soil-forming factors influence soil development, horizons, and properties over time."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Coriolis effect deflects moving air to the left in the Northern Hemisphere and to the right in the Southern Hemisphere.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "global-circulation",
+        "practice-1"
+      ],
+      "explanation": "The deflection is to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Climate describes long-term patterns of atmospheric conditions, whereas weather describes short-term conditions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "climate",
+        "practice-1"
+      ],
+      "explanation": "Climate summarizes long-term averages and variability; weather refers to atmospheric conditions over shorter time scales."
+    },
+    {
+      "type": "true_false",
+      "prompt": "La Niña is generally associated with stronger-than-usual trade winds and enhanced upwelling in parts of the eastern tropical Pacific.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "el-nino-la-nina",
+        "practice-1"
+      ],
+      "explanation": "La Niña tends to strengthen the normal Pacific pattern, including trade winds and eastern-Pacific upwelling, though regional effects vary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are common soil horizons in a developed soil profile?",
+      "answer": "O: surface organic litter; A: topsoil with minerals and organic matter; E: eluviation or leaching layer where present; B: subsoil where materials accumulate; C: partially weathered parent material; R: bedrock.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-horizons",
+        "practice-2"
+      ],
+      "explanation": "Not every profile has every horizon, and horizon thickness and properties vary by location."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does unequal solar heating help drive global circulation?",
+      "answer": "Unequal heating creates temperature and pressure differences. Air rises in warmer regions, sinks in cooler regions, and moves between pressure zones; Earth’s rotation deflects these flows.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "global-circulation",
+        "practice-1"
+      ],
+      "explanation": "The simplified global pattern is modified by seasons, continents, topography, and ocean-atmosphere interactions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define a watershed and explain one way it links land use to water quality.",
+      "answer": "A watershed is the land area that drains to a shared outlet. Rain can carry sediments, nutrients, pesticides, and other pollutants from land uses in that area into connected streams or lakes.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "watersheds",
+        "practice-7"
+      ],
+      "explanation": "Watershed boundaries follow topography, and groundwater connections may also matter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Describe how a mountain can create a rain-shadow climate.",
+      "answer": "Moist air rises on the windward side, cools, and loses moisture as precipitation. Air descending on the leeward side warms and becomes relatively dry, producing less precipitation.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "rain-shadow",
+        "practice-1"
+      ],
+      "explanation": "The strength of the effect depends on wind direction, mountain height, and regional climate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Compare typical tropical Pacific conditions during El Niño and La Niña.",
+      "answer": "El Niño features weakened trade winds and unusually warm central/eastern tropical Pacific surface waters, often reducing eastern-Pacific upwelling. La Niña generally strengthens trade winds and cools those waters, often enhancing upwelling.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "el-nino-la-nina",
+        "practice-2"
+      ],
+      "explanation": "Both shift rainfall and climate patterns around the world, but effects vary by region and event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does the soil texture triangle classify soil, and why can loam support many crops?",
+      "answer": "The triangle uses percentages of sand, silt, and clay, which sum to 100%, to assign a texture class. Loam blends these particle sizes, often balancing drainage, aeration, and water and nutrient retention.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-4",
+        "ap-environmental-science",
+        "soil-texture",
+        "practice-2"
+      ],
+      "explanation": "Texture is only one part of soil quality; organic matter, structure, pH, and climate also affect crop suitability."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Several fishing boats harvest from an open-access bay. Each boat benefits from catching more fish, while the cost of stock decline is shared. Which concept does this illustrate?",
+      "choices": [
+        "Tragedy of the commons",
+        "Maximum sustainable yield",
+        "Privatization of a resource",
+        "A negative externality from an identifiable point source"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "tragedy-of-commons",
+        "practice-1"
+      ],
+      "explanation": "When individuals gain from using a shared resource but share the depletion costs, private incentives can lead to overuse. Access rules or collective management can reduce this pressure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A farmer cooperative report says: “High-yield seed and irrigation raised harvests, but fertilizer and pesticide use also increased.” Which conclusion is best supported?",
+      "choices": [
+        "Input-intensive methods can raise yields while creating runoff and chemical-exposure trade-offs",
+        "The report establishes that fertilizer alone caused the entire harvest increase",
+        "The report shows that every farm will have the same yield response",
+        "The increased harvest proves that pesticide use has no environmental cost"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "green-revolution",
+        "practice-3"
+      ],
+      "explanation": "The report supports a yield gain alongside increased input use, which can raise environmental risks. It does not establish the magnitude of the effect at every farm or prove a universal outcome."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which irrigation method generally delivers water directly near plant roots and can reduce evaporation compared with broad surface flooding?",
+      "choices": [
+        "Drip irrigation",
+        "Flood irrigation",
+        "Unlined canal seepage",
+        "Overhead spraying at midday"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "irrigation",
+        "practice-1"
+      ],
+      "explanation": "Drip systems deliver water near roots, often reducing evaporation and runoff. Costs, maintenance, clogging, and energy needs can limit adoption."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A farm plants one crop species across thousands of hectares. What is a common ecological risk of this monoculture?",
+      "choices": [
+        "A specialist pest may spread readily through a large area of similar host plants",
+        "The field necessarily contains more crop species as its area grows",
+        "Uniform planting prevents pests from moving between plants",
+        "The crop becomes resistant to every disease without selection"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "monoculture",
+        "practice-1"
+      ],
+      "explanation": "Monocultures reduce crop diversity, so a pest or disease specialized on that crop can spread widely. Uniform fields may also need more management inputs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A farm applies 1,000 m³ of irrigation water, and 650 m³ reaches crop roots for plant use. What is the application efficiency?",
+      "choices": [
+        "35%",
+        "65%",
+        "75%",
+        "85%"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "irrigation-calculations",
+        "practice-6"
+      ],
+      "explanation": "Efficiency = useful water / applied water × 100 = 650 m³ / 1,000 m³ × 100 = 65%. The remaining 35% is lost or unavailable to roots through runoff, evaporation, or seepage."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A dry-region field is irrigated repeatedly with salty groundwater, and evaporation is high. Why can soil salinity rise?",
+      "choices": [
+        "Water evaporates while dissolved salts remain and accumulate in the root zone",
+        "Plants convert dissolved salts into nitrogen fertilizer",
+        "Salts evaporate more quickly than water",
+        "Irrigation removes salts even when there is no drainage"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "salinization",
+        "practice-1"
+      ],
+      "explanation": "Evaporation removes water but leaves dissolved salts behind. Without sufficient drainage and leaching, salts can accumulate and make it harder for plants to take up water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A grower monitors pest abundance, sets an action threshold, encourages beneficial insects, and sprays only if needed. Which approach is being used?",
+      "choices": [
+        "Integrated pest management",
+        "Calendar-based broad-spectrum pesticide application",
+        "Biological control used as the only control method",
+        "Crop rotation used without pest monitoring"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "integrated-pest-management",
+        "practice-7"
+      ],
+      "explanation": "IPM combines monitoring, biological and cultural controls, and targeted chemical control when pest levels justify it. It aims to reduce unnecessary pesticide use, not guarantee zero pesticide use."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "After heavy rain, a stream below fertilized fields shows higher nitrate levels. Which source is most likely?",
+      "choices": [
+        "Nonpoint runoff carrying fertilizer from many field areas",
+        "A single pipe discharge from a wastewater plant",
+        "Natural weathering of bedrock within the stream channel",
+        "Atmospheric nitrogen fixation occurring in the stream"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "fertilizers",
+        "practice-5"
+      ],
+      "explanation": "Fertilizer can be transported by runoff from diffuse areas, making it nonpoint-source pollution. Vegetated buffer strips and careful nutrient timing can reduce transport."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A grazing report states: “Pasture sections were rested between grazing periods, and vegetation cover improved; runoff still increased near a stream crossing.” Which interpretation is strongest?",
+      "choices": [
+        "Rotational grazing improved cover in this case, but livestock access can still create localized runoff",
+        "The report proves rotational grazing eliminates every environmental impact",
+        "More vegetation proves no runoff occurred",
+        "A stream crossing has no relation to erosion"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "meat-production",
+        "practice-3"
+      ],
+      "explanation": "The report supports improved cover alongside a remaining runoff issue near the crossing. Management benefits can be real without eliminating all impacts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which practice is most likely to retain more habitat structure than clear-cutting an entire forest stand?",
+      "choices": [
+        "Selective harvesting of chosen trees while retaining much of the stand canopy",
+        "Clear-cutting the entire stand in one operation",
+        "Removing mature trees in a shelterwood harvest",
+        "Harvesting all trees in a small patch while leaving adjacent patches"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "forestry",
+        "practice-7"
+      ],
+      "explanation": "Selective harvest can preserve more canopy and habitat structure than clear-cutting, though outcomes depend on intensity, roads, and regeneration practices. It may cost more and reduce short-term timber yield."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A mine is proposed near a stream. Which management choice most directly reduces the risk of acid mine drainage?",
+      "choices": [
+        "Store sulfide-bearing waste in covered, lined areas and collect drainage for treatment",
+        "Allow tailings to contact air and runoff, then monitor only after fish decline",
+        "Dilute acidic drainage downstream without controlling its source",
+        "Remove riparian vegetation to speed water flow past the mine"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "mining",
+        "practice-7"
+      ],
+      "explanation": "Oxidation of sulfide minerals can generate acidic drainage that mobilizes metals. Encapsulation, water management, and treatment reduce risk, but monitoring and long-term maintenance may be needed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A fishery reports declining catch per unit effort and many juvenile fish in the catch. Which management response best addresses the likely problem?",
+      "choices": [
+        "Set evidence-based catch limits and protect nursery habitat or juvenile fish",
+        "Increase harvest quotas using a single year of high catch data",
+        "Open additional fishing grounds while keeping total effort unchanged",
+        "Use gear that targets juveniles while leaving total catch unlimited"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "fishing",
+        "practice-5"
+      ],
+      "explanation": "Declining catch per unit effort can indicate reduced stock abundance, and juvenile harvest reduces future recruitment. Catch limits, gear rules, seasonal closures, and habitat protection can help rebuild stocks."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coastal community considers intensive shrimp aquaculture in a mangrove area. Which assessment best captures a potential trade-off?",
+      "choices": [
+        "It may increase seafood production and jobs, but clearing mangroves can remove nursery habitat and coastal protection",
+        "It can avoid some wild-stock pressure if feed, effluent, and siting are managed, so those factors should be assessed",
+        "It improves biodiversity wherever ponds replace mangroves",
+        "Its only environmental concern is the visual appearance of ponds"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "aquaculture",
+        "practice-7"
+      ],
+      "explanation": "Aquaculture can produce seafood and jobs, but siting, feed, waste, disease, and habitat conversion matter. Avoiding mangrove conversion and managing effluent can reduce, not eliminate, impacts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A city of 2 million people has an average ecological footprint of 4 global hectares per person. A proposed plan lowers the average to 3.5. What is the projected reduction in total footprint?",
+      "choices": [
+        "0.5 million global hectares",
+        "1 million global hectares",
+        "7 million global hectares",
+        "8 million global hectares"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "ecological-footprints",
+        "practice-6"
+      ],
+      "explanation": "Initial total = 2 million × 4 = 8 million global hectares. Projected total = 2 million × 3.5 = 7 million; reduction = 1 million global hectares. This assumes population is unchanged."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A city compares concrete drains with permeable pavement, trees, and restored wetlands. Which evaluation is strongest?",
+      "choices": [
+        "Green infrastructure can capture and infiltrate runoff and add habitat, but needs suitable sites and maintenance",
+        "Concrete drains can move water away quickly, so they eliminate downstream flood risk",
+        "Permeable pavement works equally well on every soil and water table depth",
+        "Wetlands require no land, upkeep, or storm-capacity planning"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "urbanization",
+        "practice-7"
+      ],
+      "explanation": "Green infrastructure can increase infiltration and storage while providing co-benefits, but it has space and maintenance costs and cannot guarantee protection during every extreme event."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Crop rotation can interrupt some pest cycles and help maintain soil fertility when crops have different nutrient needs.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "sustainable-agriculture",
+        "practice-1"
+      ],
+      "explanation": "Rotating crops can disrupt specialized pests and, when legumes are included, add biologically fixed nitrogen. Benefits depend on crop choices and local conditions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Synthetic nitrogen fertilizer can increase crop production, but excess application can contribute to nitrate runoff or leaching.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "fertilizers",
+        "practice-1"
+      ],
+      "explanation": "Applying fertilizer at rates and times matched to crop uptake can lower losses while maintaining yields."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All pasture-based livestock systems use less land per unit of protein than all feedlot systems.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "meat-production",
+        "practice-1"
+      ],
+      "explanation": "Land use varies by species, stocking rate, feed, and production system. Pasture systems generally require more land, while environmental effects differ by practice and site."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Clear-cutting can increase erosion and habitat loss, although its impacts depend on site conditions and whether protective measures and regeneration are used.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "forestry",
+        "practice-1"
+      ],
+      "explanation": "Removing tree cover can expose soil and simplify habitat. Buffers, slope limits, and replanting can reduce some impacts but do not make every harvest impact-free."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What was the Green Revolution, and what practices helped raise crop yields?",
+      "answer": "The Green Revolution was a period of major increases in crop yields associated with high-yield crop varieties, expanded irrigation, synthetic fertilizers, pesticides, and mechanization.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "green-revolution",
+        "practice-1"
+      ],
+      "explanation": "Yield gains varied by region and crop, and input-intensive methods can have trade-offs such as water demand, runoff, and pesticide impacts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are the core steps or principles of integrated pest management (IPM)?",
+      "answer": "Monitor pests and beneficial organisms, identify the pest, set an action threshold, prioritize prevention and biological or cultural controls, and use targeted pesticides when needed.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "integrated-pest-management",
+        "practice-7"
+      ],
+      "explanation": "IPM manages pests while minimizing risk and unnecessary chemical use; it does not require never using pesticides."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "On a global scale, about how much human freshwater consumption goes to agriculture, and how do irrigation methods differ?",
+      "answer": "Approximately 70% is used for agriculture. Drip delivers water near roots and can reduce evaporation but costs more and may clog; spray loses water to evaporation and wind; flood is simple but may be inefficient and can cause waterlogging or salinization.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "irrigation",
+        "practice-1"
+      ],
+      "explanation": "The approximately 70% figure is the 2026–27 College Board clarification. Irrigation efficiency varies with system design, climate, crop, soil, maintenance, and water pricing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Compare environmental trade-offs of CAFOs and pasture-based or rotational grazing systems.",
+      "answer": "CAFOs can use land and feed efficiently per unit of product and lower consumer costs, but concentrated manure, nutrient pollution, and antibiotic-resistance risks require management. Pasture systems can return manure to soils and rotational grazing may reduce overgrazing, but they use more land and can still cause runoff and erosion.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "meat-production",
+        "practice-7"
+      ],
+      "explanation": "Impacts vary with livestock type and practice; not all pasture systems are antibiotic-free."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Give two ways to manage a fishery sustainably and explain how each helps.",
+      "answer": "Set catch limits using stock assessments and enforce them; protect spawning seasons or nursery habitat; use selective gear to reduce bycatch; or establish well-designed no-take areas.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "sustainable-resource-management",
+        "practice-7"
+      ],
+      "explanation": "Management must consider monitoring, compliance, community livelihoods, and how fish move beyond protected boundaries."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How can soil conservation and nutrient management reduce agricultural impacts while maintaining production?",
+      "answer": "Use practices such as cover crops, contour farming, reduced tillage, riparian buffers, crop rotation, and nutrient application matched to crop demand. These can limit erosion and nutrient loss while protecting soil, but require site-specific planning and may have cost or labor trade-offs.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-5",
+        "ap-environmental-science",
+        "sustainable-agriculture",
+        "practice-7"
+      ],
+      "explanation": "No single practice works everywhere; evaluate yield, water, soil, biodiversity, and farm economics together."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which energy resource is nonrenewable on human time scales?",
+      "choices": [
+        "Wind",
+        "Sunlight",
+        "Coal",
+        "Geothermal heat"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-resources",
+        "practice-1"
+      ],
+      "explanation": "Coal forms over geologic time and is depleted as it is extracted, so it is nonrenewable on human time scales."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which option is a renewable energy source when managed so use does not exceed regeneration?",
+      "choices": [
+        "Uranium ore",
+        "Biomass from regrowing forests",
+        "Coal",
+        "Petroleum"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-resources",
+        "practice-1"
+      ],
+      "explanation": "Biomass can be renewable if vegetation regrows at a rate that sustains harvest. Unsustainable harvest can still deplete forests and release net emissions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How much energy is equivalent to 1 kilowatt-hour (kWh)?",
+      "choices": [
+        "3.6 megajoules (MJ)",
+        "36 MJ",
+        "0.0036 MJ",
+        "1,000 MJ"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-units",
+        "practice-6"
+      ],
+      "explanation": "1 kWh = 1,000 watts × 3,600 seconds = 3,600,000 joules = 3.6 MJ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which fossil fuel generally produces the greatest carbon dioxide emissions per unit of energy when burned?",
+      "choices": [
+        "Coal",
+        "Natural gas",
+        "Hydrogen",
+        "Wind"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "fossil-fuels",
+        "practice-1"
+      ],
+      "explanation": "Coal generally releases more CO₂ per unit of energy than oil or natural gas when combusted. Mining and combustion also cause other environmental impacts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A generator converts 200 MJ of fuel energy into 70 MJ of electricity. What is its conversion efficiency?",
+      "choices": [
+        "28%",
+        "35%",
+        "70%",
+        "65%"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-efficiency",
+        "practice-6"
+      ],
+      "explanation": "Efficiency = useful output / input × 100 = 70 MJ / 200 MJ × 100 = 35%. The remaining input energy is mostly lost as heat."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A household uses 500 kWh of electricity. Using 1 kWh = 3.6 MJ, how much energy is this?",
+      "choices": [
+        "180 MJ",
+        "1,800 MJ",
+        "5,000 MJ",
+        "18,000 MJ"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-units",
+        "practice-6"
+      ],
+      "explanation": "500 kWh × 3.6 MJ/kWh = 1,800 MJ. The kWh units cancel, leaving megajoules."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which option lists all three potential environmental impacts associated with hydraulic fracturing?",
+      "choices": [
+        "Groundwater contamination or release of volatile organic compounds if operations are poorly managed",
+        "Increased methane leakage from wells and associated infrastructure",
+        "Induced seismicity associated with some wastewater disposal",
+        "All of the above are possible impacts"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "fracking",
+        "practice-7"
+      ],
+      "explanation": "Potential impacts include groundwater contamination, volatile organic compound releases, methane leakage, and induced seismicity associated with some wastewater disposal. Risks depend on practices and site conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement accurately describes nuclear fission power generation?",
+      "choices": [
+        "Fission releases heat that can make steam to turn a turbine, while producing radioactive waste that requires management",
+        "Fission burns coal without emissions",
+        "The reactor converts matter directly into electricity without heat or turbines",
+        "Nuclear power produces no waste of any kind"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "nuclear-energy",
+        "practice-1"
+      ],
+      "explanation": "Fission releases heat, which is commonly used to make steam that drives a turbine-generator. Operation has low direct greenhouse-gas emissions, but radioactive waste and accident risks require management."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A building uses south-facing windows and thermal mass to capture and store sunlight without photovoltaic panels. This is primarily:",
+      "choices": [
+        "Passive solar design",
+        "Active solar thermal collectors with pumps",
+        "Photovoltaic electricity generation",
+        "Solar hot-water panels supplying a storage tank"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "solar-energy",
+        "practice-1"
+      ],
+      "explanation": "Passive solar design uses building orientation, windows, shading, and thermal mass to manage sunlight without PV panels."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A wind farm’s output falls when wind speeds are very low. Which grid strategy can help manage this variability?",
+      "choices": [
+        "Combine wind with storage, transmission, demand response, and other generation sources",
+        "Build more wind without adding flexibility or transmission",
+        "Rely on a single storage technology sized for every possible event",
+        "Curtail all other sources whenever wind output changes"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "wind-energy",
+        "practice-7"
+      ],
+      "explanation": "Wind output varies with weather and time. Storage, grid connections, flexible demand, forecasting, and a diverse mix can help balance supply; each has costs and constraints."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A proposed dam would provide dispatchable electricity but flood a forest valley and block fish migration. Which evaluation is most complete?",
+      "choices": [
+        "Compare reliability and low operating emissions with habitat, sediment, flow, and community impacts",
+        "Count annual electricity alone and assume reservoir conditions never change",
+        "Compare only fish passage costs while ignoring displaced communities and inundated habitat",
+        "Assume hydropower has no ecological effects because it is renewable"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "hydroelectric",
+        "practice-7"
+      ],
+      "explanation": "Hydropower can provide controllable electricity and low operational emissions, but dams can alter habitats, sediment, water flow, fish migration, and communities. Impacts vary by design and location."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A forestry brief claims: “Burning harvested wood is carbon-neutral because new trees regrow.” Which evidence is most important to evaluate?",
+      "choices": [
+        "Whether regrowth timing and supply-chain emissions offset combustion and land-use emissions",
+        "Whether the wood contains carbon",
+        "Whether forest trees photosynthesize",
+        "Whether biomass can be transported"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "biomass",
+        "practice-3"
+      ],
+      "explanation": "The claim depends on the time required for regrowth, what would have happened to the land otherwise, and emissions from harvesting and processing. Carbon neutrality is not automatic."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A geothermal plant is proposed where underground heat is abundant but water is scarce. Which concern should planners evaluate?",
+      "choices": [
+        "Whether the system can meet its water needs and manage subsurface fluids at this water-limited site",
+        "Whether the plant can collect sunlight during winter",
+        "Whether geothermal heat is replenished by burning coal",
+        "Whether turbines can operate without any maintenance"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "geothermal",
+        "practice-7"
+      ],
+      "explanation": "Geothermal potential is location-specific, and some systems use substantial water or require reinjection and careful reservoir management. Designs that reduce water demand have other costs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A power plant burns 1,000 MJ of fuel at 35% efficiency. Its electricity then travels through a grid with 90% delivery efficiency. How much electrical energy reaches customers?",
+      "choices": [
+        "315 MJ",
+        "350 MJ",
+        "900 MJ",
+        "1,350 MJ"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-calculations",
+        "practice-6"
+      ],
+      "explanation": "First generation output = 1,000 MJ × 0.35 = 350 MJ. Delivered energy = 350 MJ × 0.90 = 315 MJ. Applying both efficiencies gives 1,000 × 0.35 × 0.90 = 315 MJ."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A utility planning note says: “Wind output varies by hour; demand peaks after sunset; transmission links and storage are under review.” Which portfolio choice best responds to this evidence?",
+      "choices": [
+        "Combine efficiency, suitable renewables, storage or flexible demand, transmission, and firm low-carbon generation where appropriate",
+        "Depend on one variable source without storage, transmission, or demand response",
+        "Build generation only for average demand and ignore peak periods",
+        "Increase demand so the utility can use existing equipment more often"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-solutions",
+        "practice-3"
+      ],
+      "explanation": "The note identifies a timing mismatch and grid tools under review. A diversified portfolio can support reliability while lowering fossil-fuel use, but its mix depends on costs, resources, and local constraints."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An energy source can be renewable and still create environmental impacts.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-resources",
+        "practice-1"
+      ],
+      "explanation": "Renewable sources can affect land, habitat, water, materials, and communities. Renewable describes replenishment, not absence of impact."
+    },
+    {
+      "type": "true_false",
+      "prompt": "If a device becomes more energy efficient, it always causes total energy consumption to fall.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-efficiency",
+        "practice-1"
+      ],
+      "explanation": "Efficiency lowers energy required per service, but total use may remain level or rise if people use the service more."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Natural gas combustion releases less carbon dioxide per unit of energy than coal combustion, but methane leakage can reduce its climate advantage.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "fossil-fuels",
+        "practice-1"
+      ],
+      "explanation": "Methane is a potent greenhouse gas. The climate effect of gas depends on leakage rates, infrastructure, and the time horizon used."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Solar photovoltaic panels generate electricity directly from sunlight, while solar thermal systems capture sunlight as heat.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "solar-energy",
+        "practice-1"
+      ],
+      "explanation": "PV cells convert light to electrical energy; solar thermal systems collect heat, which may be used directly or to generate electricity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Define energy efficiency and give the standard calculation.",
+      "answer": "Energy efficiency = useful energy output ÷ energy input × 100%. It is a percentage and is below 100% for real energy conversions.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-efficiency",
+        "practice-6"
+      ],
+      "explanation": "Use the same energy units for output and input so units cancel."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Convert between kilowatt-hours and megajoules.",
+      "answer": "1 kWh = 3.6 MJ. Multiply kWh by 3.6 to get MJ; divide MJ by 3.6 to get kWh.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-units",
+        "practice-6"
+      ],
+      "explanation": "For example, 250 kWh × 3.6 MJ/kWh = 900 MJ."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What factors help explain differences in energy consumption among countries and across time?",
+      "answer": "Population size, income, industrial activity, climate, access to energy, technology, energy prices, and efficiency all influence total and per-capita energy use.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "global-energy-consumption",
+        "practice-7"
+      ],
+      "explanation": "Total energy use and per-capita use answer different questions; a large population can have high total use even when use per person is moderate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Outline how a nuclear fission power plant generates electricity and name two management concerns.",
+      "answer": "Fission releases heat; the heat produces steam that turns a turbine connected to a generator. Management concerns include radioactive waste, accident risk, water use, and fuel-cycle impacts.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "nuclear-energy",
+        "practice-1"
+      ],
+      "explanation": "Nuclear power has low direct operational greenhouse-gas emissions, but it is not impact-free."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Give three ways a city can reduce energy consumption without reducing essential services.",
+      "answer": "Improve building insulation and efficient heating/cooling; expand transit, walking, and cycling; use efficient street lighting and appliances; reduce peak demand through controls and demand response.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-conservation",
+        "practice-7"
+      ],
+      "explanation": "Efficiency and conservation measures may require upfront investment but can reduce energy bills and emissions over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What factors should be compared when choosing an energy portfolio for a region?",
+      "answer": "Compare lifecycle emissions, reliability and dispatchability, cost, resource availability, land and water use, pollution, safety, storage and transmission needs, construction time, and community impacts.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-6",
+        "ap-environmental-science",
+        "energy-solutions",
+        "practice-7"
+      ],
+      "explanation": "There is no universally best source mix; trade-offs and local constraints determine a defensible portfolio."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is a primary air pollutant emitted directly from a source?",
+      "choices": [
+        "Sulfur dioxide from a power plant stack",
+        "Ground-level ozone formed in sunlight",
+        "Acid deposition formed from atmospheric reactions",
+        "Photochemical smog as a mixture"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "primary-secondary-pollutants",
+        "practice-1"
+      ],
+      "explanation": "Sulfur dioxide can be emitted directly, so it is primary. Ground-level ozone forms in the atmosphere from precursors and is secondary."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Ground-level ozone in photochemical smog forms most readily when which conditions occur together?",
+      "choices": [
+        "Nitrogen oxides and volatile organic compounds react in sunlight",
+        "Sulfur dioxide and particulate matter settle out during rain",
+        "Carbon monoxide reacts with radon in cold air",
+        "Methane reacts with water vapor in darkness"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "ground-level-ozone",
+        "practice-1"
+      ],
+      "explanation": "Sunlight drives reactions involving nitrogen oxides and volatile organic compounds that produce ground-level ozone and other photochemical smog components."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A city wants to reduce recurrent afternoon ground-level ozone peaks. Which action most directly targets the pollutant precursors?",
+      "choices": [
+        "Reduce NOx and VOC emissions from vehicles and solvent use",
+        "Reduce sulfur dioxide alone while leaving NOx and VOC emissions unchanged",
+        "Install indoor air filters in homes without changing outdoor emissions",
+        "Increase traffic flow so exhaust is diluted near roadways"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "photochemical-smog",
+        "practice-7"
+      ],
+      "explanation": "Ground-level ozone forms from NOx and VOC reactions in sunlight. Reducing these precursors through source controls can lower ozone formation; the mix of controls should reflect local atmospheric chemistry."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A valley experiences a thermal inversion overnight: cool air is trapped beneath warmer air, and winds are weak. What is a likely consequence?",
+      "choices": [
+        "Stable warm air above cooler surface air limits vertical mixing and can trap pollutants",
+        "Strong convection rapidly mixes the entire air column",
+        "An inversion removes emissions from the valley before sunrise",
+        "Warm air at the surface rises freely through cooler air above"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "thermal-inversions",
+        "practice-2"
+      ],
+      "explanation": "The warm layer above suppresses vertical mixing, and weak winds limit horizontal dispersion. Pollutants emitted near the surface can build up until conditions change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A monitor records PM₂.₅ concentrations of 12, 28, and 24 µg/m³ on three consecutive days. Which conclusion is supported?",
+      "choices": [
+        "The concentration peaked on the second day and declined on the third",
+        "The three-day mean was 24 µg/m³",
+        "The minimum concentration occurred on the second day",
+        "The values identify traffic as the source"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "particulate-matter",
+        "practice-5"
+      ],
+      "explanation": "The values show an increase from 12 to 28 µg/m³ followed by a decrease to 24 µg/m³. Concentration data alone do not identify the source."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A county air-quality plan explains: “The Clean Air Act authorizes EPA to set ambient standards for common pollutants; states develop plans to attain them.” Which conclusion follows?",
+      "choices": [
+        "The standards address outdoor air quality, with federal standards and state implementation roles",
+        "The Clean Air Act sets only indoor radon standards",
+        "NAAQS regulate vehicle emissions but not ambient concentrations",
+        "The same numeric standard applies worldwide to all greenhouse gases"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "air-quality-regulation",
+        "practice-3"
+      ],
+      "explanation": "The plan accurately describes a shared federal and state role: EPA sets NAAQS, and states develop implementation plans. The standards cover criteria pollutants and protect public health or welfare."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A lake’s pH declines near a region that burns sulfur-rich coal. Which atmospheric pathway most directly contributes?",
+      "choices": [
+        "SO₂ can form sulfuric acid compounds that return in wet or dry deposition",
+        "CO₂ dissolves in seawater and lowers ocean pH",
+        "NOx and VOCs react in sunlight to form ground-level ozone",
+        "CFCs release chlorine that destroys stratospheric ozone"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "acid-deposition",
+        "practice-1"
+      ],
+      "explanation": "Sulfur dioxide can react in the atmosphere to form sulfuric acid compounds that return as acid deposition. Nitrogen oxides also contribute to acid deposition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An airtight home has elevated radon, a radioactive gas that can enter from soil through foundation gaps. Which action most directly reduces exposure?",
+      "choices": [
+        "Test for radon and install a system that vents soil gas outdoors",
+        "Use a HEPA filter to remove radon gas from room air",
+        "Open a window once and assume long-term levels are controlled",
+        "Seal foundation cracks without testing or checking whether pressure changes"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "indoor-air-pollution",
+        "practice-7"
+      ],
+      "explanation": "Testing identifies elevated radon. A mitigation system commonly depressurizes soil beneath the building and vents radon outdoors; sealing alone may not solve the problem."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A facility emits 800 kg of SO₂ per day. A scrubber removes 75% of the SO₂ entering it. If all emissions pass through the scrubber, how much SO₂ remains emitted per day?",
+      "choices": [
+        "200 kg/day",
+        "600 kg/day",
+        "750 kg/day",
+        "800 kg/day"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "emissions-calculations",
+        "practice-6"
+      ],
+      "explanation": "Removed mass = 800 kg/day × 0.75 = 600 kg/day. Remaining emissions = 800 − 600 = 200 kg/day, or 25% of the original."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A thermal inversion can trap pollutants near the ground by limiting vertical air mixing.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "thermal-inversions",
+        "practice-1"
+      ],
+      "explanation": "During an inversion, temperature increases with height through a layer, inhibiting the upward movement of cooler surface air and slowing pollutant dispersion."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ground-level ozone is emitted directly from vehicle tailpipes as a primary pollutant.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "primary-secondary-pollutants",
+        "practice-1"
+      ],
+      "explanation": "Tailpipes emit ozone precursors such as NOx and VOCs; ground-level ozone forms secondarily through atmospheric reactions in sunlight."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is radon, and why can it be a health concern indoors?",
+      "answer": "Radon is a naturally occurring radioactive gas that can move from soil into buildings through openings in foundations. Long-term inhalation increases lung-cancer risk; testing and mitigation reduce exposure.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "indoor-air-pollution",
+        "practice-1"
+      ],
+      "explanation": "Radon is odorless, so measurement is needed to identify elevated indoor concentrations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does acid deposition form, and name one environmental effect.",
+      "answer": "Sulfur dioxide and nitrogen oxides react in the atmosphere to form acidic compounds that return in precipitation or as dry deposition. It can acidify lakes and soils and damage forests or aquatic organisms.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "acid-deposition",
+        "practice-1"
+      ],
+      "explanation": "Effects depend on deposition rates and the buffering capacity of local soils and waters."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Compare PM₂.₅ and ground-level ozone as air pollutants.",
+      "answer": "PM₂.₅ is fine particulate matter that can penetrate deep into the lungs and is emitted or formed through atmospheric reactions. Ground-level ozone is a secondary gas formed when NOx and VOCs react in sunlight.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "particulate-matter",
+        "practice-1"
+      ],
+      "explanation": "Both can harm respiratory and cardiovascular health; ozone is not emitted directly from tailpipes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is noise pollution, and give two ways communities can reduce harmful exposure.",
+      "answer": "Noise pollution is unwanted or excessive sound that can disrupt sleep, communication, health, or wildlife. Communities can use quieter equipment, traffic controls, sound barriers, zoning, insulation, or green buffers.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-7",
+        "ap-environmental-science",
+        "noise-pollution",
+        "practice-7"
+      ],
+      "explanation": "Controls should target the source and affected receptors; barriers do not eliminate every low-frequency or indoor exposure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is a point source of water pollution?",
+      "choices": [
+        "A wastewater pipe discharging into a river",
+        "Fertilizer washed from many fields",
+        "Sediment runoff from scattered construction sites",
+        "Oil residues washed from many streets"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "pollution-sources",
+        "practice-1"
+      ],
+      "explanation": "A point source is a single, identifiable discharge such as a pipe. Runoff from broad areas is generally nonpoint pollution."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which measurement directly reports the amount of oxygen dissolved in a water sample?",
+      "choices": [
+        "Dissolved oxygen concentration",
+        "Biochemical oxygen demand",
+        "Turbidity only",
+        "Fecal coliform count"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "water-quality",
+        "practice-1"
+      ],
+      "explanation": "Dissolved oxygen (DO) is the oxygen present in water, often reported in mg/L. It supports aquatic organisms and can be affected by temperature and decomposition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which action follows the most preferred levels of the waste hierarchy?",
+      "choices": [
+        "Reduce unnecessary packaging before relying on disposal",
+        "Recycle materials after they have become waste",
+        "Incinerate waste before considering material recovery",
+        "Landfill usable items rather than preventing waste"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "solid-waste",
+        "practice-1"
+      ],
+      "explanation": "Source reduction prevents waste from being created, generally avoiding more impacts than disposal. Reuse and recycling also reduce waste but require materials and energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Two stream samples start at 8 mg/L dissolved oxygen. After five days, Sample A has 2 mg/L and Sample B has 6 mg/L. Which sample had the greater approximate BOD over the test period?",
+      "choices": [
+        "Sample A, about 6 mg/L oxygen consumed",
+        "Sample B, about 2 mg/L oxygen consumed",
+        "Both samples, about 6 mg/L because initial oxygen was equal",
+        "Cannot compare because starting oxygen is unknown"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "biochemical-oxygen-demand",
+        "practice-5"
+      ],
+      "explanation": "Approximate oxygen consumed = initial DO − final DO. A: 8 − 2 = 6 mg/L; B: 8 − 6 = 2 mg/L. Greater BOD indicates more oxygen was used by microbes decomposing organic matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A lake receives excess phosphorus fertilizer runoff. Which sequence most directly leads to a fish kill?",
+      "choices": [
+        "Nutrient input → algal growth → decomposition → dissolved oxygen decline",
+        "Nutrient input → increased plant growth → permanent increase in dissolved oxygen",
+        "Nutrient input → lower algal growth → decomposition stops",
+        "Nutrient input → water clarification → immediate fish mortality"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "eutrophication",
+        "practice-1"
+      ],
+      "explanation": "Excess nutrients can stimulate algal blooms. When algae die, microbial decomposition consumes oxygen, and low dissolved oxygen can stress or kill aquatic organisms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which wastewater-treatment step primarily uses microorganisms to break down dissolved organic matter?",
+      "choices": [
+        "Secondary treatment",
+        "Screening in preliminary treatment",
+        "Primary sedimentation only",
+        "Chlorine disinfection only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "wastewater-treatment",
+        "practice-1"
+      ],
+      "explanation": "Secondary treatment uses biological processes, often microbes, to reduce biodegradable organic matter. Primary treatment removes settleable solids; advanced treatment can remove nutrients or contaminants."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A power plant releases warmed cooling water into a stream. Which effect is most likely downstream?",
+      "choices": [
+        "Warmer water holds less dissolved oxygen and can increase metabolic demand",
+        "Warmer water holds more dissolved oxygen and lowers metabolic demand",
+        "Temperature changes affect only water density, not organisms",
+        "All aquatic species have identical temperature tolerances"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "thermal-pollution",
+        "practice-7"
+      ],
+      "explanation": "Warm water holds less oxygen, and temperature also affects metabolism and species distributions. Effects depend on the magnitude and timing of warming and local conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A response log states: “Skimmers recovered surface oil, while dispersant use reduced slick size but increased oil in the water column.” Which decision approach best evaluates the response?",
+      "choices": [
+        "Compare oil recovery, toxicity, habitat sensitivity, and where dispersed oil may move",
+        "Use dispersants whenever a slick shrinks, without monitoring water-column effects",
+        "Choose skimming in every case, regardless of waves or habitat access",
+        "End response once surface oil is less visible"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "oil-spills",
+        "practice-3"
+      ],
+      "explanation": "The log describes trade-offs. Dispersants can reduce surface slicks but move oil into the water column; skimming can recover oil but depends on sea conditions and may disturb habitat."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A city bans some single-use plastic bags. Which additional action most directly addresses plastic entering a river from storm drains?",
+      "choices": [
+        "Capture litter at storm drains and improve collection before plastic reaches waterways",
+        "Rely on beach cleanups after plastic has moved downstream",
+        "Replace bags with a different single-use item that is not collected",
+        "Assume all plastic entering rivers breaks down rapidly into harmless compounds"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "plastic-pollution",
+        "practice-7"
+      ],
+      "explanation": "Preventing litter and capturing trash before it enters waterways can reduce plastic inputs. Product redesign, reuse systems, collection, and disposal also matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A persistent pollutant has concentrations of 0.02 ppm in plankton, 0.2 ppm in small fish, 1.5 ppm in large fish, and 4.0 ppm in fish-eating birds. Which pattern is shown?",
+      "choices": [
+        "Biomagnification across trophic levels",
+        "Biodegradation",
+        "Dilution at higher trophic levels",
+        "Nutrient cycling"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "biomagnification",
+        "practice-5"
+      ],
+      "explanation": "Concentration increases from plankton to top consumers, demonstrating biomagnification. Persistent pollutants can become more concentrated in organisms at higher trophic levels."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a controlled toxicity study with the same test species and exposure period, Substance X has an LD₅₀ of 5 mg/kg and Substance Y has an LD₅₀ of 50 mg/kg. What does this suggest?",
+      "choices": [
+        "X is more acutely toxic under the tested conditions",
+        "Y is ten times more toxic",
+        "Both have identical toxicity",
+        "The values show chronic effects only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "toxic-substances",
+        "practice-5"
+      ],
+      "explanation": "LD₅₀ is the dose that kills 50% of a test population. A lower dose producing the same endpoint indicates greater acute toxicity under those study conditions; it does not describe all risks."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A team tests whether a constructed wetland removes nitrate from farm runoff. Which design best isolates the wetland’s effect?",
+      "choices": [
+        "Measure nitrate entering and leaving the wetland and compare with a similar untreated channel over the same period",
+        "Measure nitrate only once downstream after a storm",
+        "Change nitrate input, flow, and sampling time together with no control",
+        "Use a different watershed for each measurement without matching conditions"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "pollution-experiments",
+        "practice-4"
+      ],
+      "explanation": "Paired inlet-outlet measurements plus a comparable untreated channel help separate wetland removal from dilution or changing inputs. Repeated sampling and similar flow conditions further strengthen inference."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Runoff carrying pesticides from many lawns and fields is generally classified as nonpoint-source pollution.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "pollution-sources",
+        "practice-1"
+      ],
+      "explanation": "The pollutant arrives from diffuse areas rather than a single identifiable discharge point."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A high biochemical oxygen demand usually means microorganisms may consume more dissolved oxygen while decomposing organic matter.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "biochemical-oxygen-demand",
+        "practice-1"
+      ],
+      "explanation": "BOD estimates oxygen use during microbial breakdown of organic matter. High BOD can contribute to oxygen depletion."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Bioaccumulation describes a chemical becoming more concentrated in organisms at each successive trophic level.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "bioaccumulation",
+        "practice-1"
+      ],
+      "explanation": "Bioaccumulation is buildup within an organism over time. Biomagnification is increasing concentration across trophic levels in a food chain."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is biochemical oxygen demand (BOD), and what does a high value suggest?",
+      "answer": "BOD is the amount of dissolved oxygen microorganisms use while decomposing organic matter in a water sample over a defined period. A high value suggests substantial biodegradable organic matter and potential oxygen depletion.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "biochemical-oxygen-demand",
+        "practice-1"
+      ],
+      "explanation": "BOD depends on test conditions such as duration and temperature; report those when comparing measurements."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What are the main stages of conventional municipal wastewater treatment?",
+      "answer": "Preliminary treatment screens large debris; primary treatment settles solids; secondary biological treatment removes much biodegradable organic matter; tertiary or advanced treatment can remove nutrients or additional contaminants; disinfection reduces pathogens before discharge or reuse.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "wastewater-treatment",
+        "practice-1"
+      ],
+      "explanation": "Treatment stages vary by facility and permit; not all plants use the same advanced processes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Distinguish bioaccumulation from biomagnification.",
+      "answer": "Bioaccumulation is a chemical building up in one organism over time when uptake exceeds elimination. Biomagnification is a rise in pollutant concentration across trophic levels in a food chain.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "bioaccumulation",
+        "practice-1"
+      ],
+      "explanation": "Persistent substances are more likely to bioaccumulate and biomagnify, though chemical properties and food-web structure matter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does hazardous waste differ from ordinary solid waste, and name one management approach.",
+      "answer": "Hazardous waste poses risks such as toxicity, corrosivity, reactivity, or ignitability. It may require specialized containment, treatment, tracking, or secure disposal to prevent exposure and environmental release.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "hazardous-waste",
+        "practice-7"
+      ],
+      "explanation": "The right management method depends on the waste properties and applicable regulations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How can water and sanitation interventions reduce infectious disease, and what limitation should planners consider?",
+      "answer": "Treating drinking water, safely managing sewage, handwashing, and controlling vectors can interrupt pathogen transmission. Planners must consider infrastructure, maintenance, equitable access, behavior, and the specific transmission route.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-8",
+        "ap-environmental-science",
+        "infectious-disease",
+        "practice-7"
+      ],
+      "explanation": "Some diseases spread through contaminated water; others use vectors, droplets, food, or direct contact, so interventions must match the pathway."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an important consequence of stratospheric ozone depletion?",
+      "choices": [
+        "More ultraviolet-B radiation can reach Earth’s surface, increasing exposure for organisms",
+        "Less ultraviolet-B radiation reaches the surface because ozone absorbs less",
+        "Ground-level ozone immediately disappears when stratospheric ozone declines",
+        "The effect is limited to human health and does not affect ecosystems"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ozone-depletion",
+        "practice-1"
+      ],
+      "explanation": "Stratospheric ozone absorbs much UV-B radiation. Depletion can increase UV-B reaching the surface, affecting people, plants, and aquatic organisms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A science bulletin reports: “After countries phased out many CFC uses under the Montreal Protocol, emissions of ozone-depleting substances fell; recovery of the ozone layer takes time.” Which claim is supported?",
+      "choices": [
+        "Coordinated phaseout reduced a major cause of ozone depletion, but recovery is gradual",
+        "The agreement immediately removed ozone-depleting chemicals already in the atmosphere",
+        "The agreement primarily phased out carbon dioxide from power plants",
+        "The agreement replaced ozone monitoring with climate monitoring"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "montreal-protocol",
+        "practice-3"
+      ],
+      "explanation": "The bulletin supports a link between the phaseout and lower emissions while recognizing atmospheric persistence and gradual recovery. The treaty targeted ozone-depleting substances."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes the natural greenhouse effect?",
+      "choices": [
+        "Atmospheric gases absorb and re-emit outgoing infrared radiation, warming the surface and lower atmosphere",
+        "Greenhouse gases mainly reflect incoming visible sunlight back to space",
+        "The ozone layer traps all incoming solar energy near the surface",
+        "Clouds absorb all ultraviolet radiation before it reaches Earth"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "greenhouse-effect",
+        "practice-1"
+      ],
+      "explanation": "Greenhouse gases absorb and re-emit infrared energy, warming the lower atmosphere and surface. Human activities increase concentrations of several greenhouse gases and strengthen this effect."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which activity is a major human source of carbon dioxide?",
+      "choices": [
+        "Burning coal or petroleum for electricity and transportation",
+        "Generating electricity with wind turbines",
+        "Photosynthesis in a recovering forest",
+        "Generating electricity through nuclear fission"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "greenhouse-gases",
+        "practice-1"
+      ],
+      "explanation": "Combustion of fossil fuels transfers geologic carbon to the atmosphere as CO₂. Deforestation and cement production are also important human sources."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Corals commonly bleach when stressed by unusually warm water because they:",
+      "choices": [
+        "They lose or expel symbiotic algae that normally provide much of their energy",
+        "They convert their calcium carbonate skeleton into oxygen",
+        "They develop chlorophyll to replace their symbiotic algae",
+        "They stop exchanging dissolved substances with seawater"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "coral-bleaching",
+        "practice-1"
+      ],
+      "explanation": "Heat stress can disrupt the coral-algae relationship, causing corals to lose symbiotic algae and appear white. Bleaching can be reversible if conditions improve, but prolonged stress can cause mortality."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which action is an example of climate adaptation?",
+      "choices": [
+        "Raising critical equipment above projected flood levels",
+        "Replacing coal generation with wind power",
+        "Capturing carbon dioxide from a smokestack",
+        "Reducing methane leakage from pipelines"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-solutions",
+        "practice-1"
+      ],
+      "explanation": "Adaptation adjusts systems to reduce harm from climate impacts. The other options reduce greenhouse-gas emissions and are mitigation measures."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A study reports annual mean temperature anomalies of 0.2°C in 1990, 0.5°C in 2000, 0.8°C in 2010, and 1.1°C in 2020 relative to the same baseline. What trend is supported?",
+      "choices": [
+        "The anomaly increased by about 0.3°C per decade in these observations",
+        "The mean anomaly across the four observations was 0.5°C",
+        "The anomaly increased by 0.9°C in each decade",
+        "The data establish an identical trend at every location"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-data",
+        "practice-5"
+      ],
+      "explanation": "Each decade increases by 0.3°C in the supplied values. This is a trend in the stated dataset, not proof that every location changes at the same rate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coastal gauge records sea level relative to land rising from 0 cm to 6 cm over 20 years. What is the average rate of relative sea-level rise?",
+      "choices": [
+        "0.03 cm/year",
+        "0.3 cm/year",
+        "3 cm/year",
+        "12 cm/year"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "sea-level-change",
+        "practice-6"
+      ],
+      "explanation": "Average rate = change / time = 6 cm / 20 years = 0.3 cm/year. Relative sea level also reflects local land movement, not only ocean volume."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "As more atmospheric CO₂ dissolves in seawater, which chemical change contributes to lower ocean pH?",
+      "choices": [
+        "More hydrogen ions are released, lowering pH and reducing carbonate availability",
+        "Hydrogen-ion concentration declines, raising pH and reducing carbonate availability",
+        "Seawater pH rises because carbonic acid is a base",
+        "Dissolved CO₂ removes all calcium ions from seawater"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ocean-acidification",
+        "practice-1"
+      ],
+      "explanation": "Dissolved CO₂ reacts with water to form carbonic acid, which can release hydrogen ions and lower pH. This reduces carbonate ion availability for some shell-building organisms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "As Arctic sea ice melts, darker ocean water absorbs more solar energy than reflective ice. What type of feedback can this create?",
+      "choices": [
+        "Positive feedback that amplifies initial warming",
+        "Negative feedback that counteracts the initial warming",
+        "No feedback because melting ice does not change reflectivity",
+        "A feedback that changes ocean salinity but not energy absorption"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-feedbacks",
+        "practice-2"
+      ],
+      "explanation": "Lower albedo means more solar energy is absorbed, contributing to additional warming and ice melt. The loop amplifies the initial change, so it is a positive feedback."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A mountain species is observed at progressively higher elevations during warmer decades, while suitable habitat shrinks near the summit. Which risk is most directly suggested?",
+      "choices": [
+        "Habitat loss as the species runs out of cooler high-elevation area",
+        "Unlimited expansion of its range",
+        "No relationship between temperature and distribution",
+        "Reduced extinction risk for every species"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-impacts",
+        "practice-5"
+      ],
+      "explanation": "Some species shift ranges as climate changes, but mountaintop species may lose habitat because they cannot move higher indefinitely. Dispersal barriers and other stressors also matter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A nonnative plant spreads rapidly along a road corridor, displacing native plants and changing fire frequency. Which response is most likely to be effective?",
+      "choices": [
+        "Combine early detection, targeted removal, prevention of seed spread, and follow-up monitoring",
+        "Wait until the species is widespread before assessing control options",
+        "Apply the same broad-spectrum herbicide across all habitats",
+        "Remove native vegetation first and monitor only the invasive plant"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "invasive-species",
+        "practice-7"
+      ],
+      "explanation": "Invasive-species management often works best when detected early and paired with targeted control and monitoring. Methods should account for non-target species, cost, and reinvasion risk."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A highway divides two habitat patches used by a wide-ranging mammal. Which design may improve movement while maintaining nearby development?",
+      "choices": [
+        "A wildlife crossing placed along a movement route and linked to suitable habitat",
+        "A crossing placed far from habitat with no approach cover",
+        "More fencing without any crossing where animals already attempt to cross",
+        "A narrow vegetated strip ending at the highway barrier"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "biodiversity-conservation",
+        "practice-7"
+      ],
+      "explanation": "Corridors and wildlife crossings can reconnect fragmented habitat and support movement. Their success depends on placement, species behavior, maintenance, and road-safety design."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An analyst writes: “Because greenhouse gases mix in the atmosphere, a country’s emissions affect people beyond its borders.” Which rationale for international agreements does this statement support?",
+      "choices": [
+        "Countries can coordinate reductions and assistance for a shared global problem",
+        "Countries can prevent greenhouse gases from crossing national borders",
+        "An agreement automatically enforces every national target",
+        "International agreements remove all economic trade-offs"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "international-cooperation",
+        "practice-3"
+      ],
+      "explanation": "The statement supports collective action because emissions have cross-border effects. Agreements can coordinate goals and support, although participation and implementation vary."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A transit agency report states: “New electric buses use electricity from a lower-carbon grid mix than the diesel buses they replaced.” Which climate benefit is intended?",
+      "choices": [
+        "Reduce lifecycle greenhouse-gas emissions from transportation",
+        "Reduce tailpipe emissions of nitrogen oxides and particulate matter",
+        "Reduce fuel use per passenger trip",
+        "Reduce traffic noise along the bus route"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-mitigation",
+        "practice-3"
+      ],
+      "explanation": "Using lower-carbon electricity can reduce lifecycle greenhouse-gas emissions from transport. Battery production, electricity generation, and vehicle use still have environmental impacts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Researchers test whether elevated seawater temperature increases coral bleaching. Which design best supports a causal conclusion?",
+      "choices": [
+        "Randomly assign similar coral fragments to replicated control and warmer tanks, hold other conditions constant, and measure bleaching",
+        "Compare one naturally warm reef with one different reef and assume temperature is the only difference",
+        "Change temperature, pH, light, and salinity together in one tank",
+        "Measure bleaching only after the experiment without a baseline"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-experiments",
+        "practice-4"
+      ],
+      "explanation": "Replicated randomized treatments, controlled conditions, and a measured bleaching response help isolate the temperature effect. A laboratory study may not capture all reef conditions or long-term processes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A campus emits 400 metric tons of CO₂-equivalent per year. An efficiency project is expected to reduce emissions by 15%. What annual emissions remain?",
+      "choices": [
+        "60 metric tons CO₂e",
+        "340 metric tons CO₂e",
+        "385 metric tons CO₂e",
+        "460 metric tons CO₂e"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-mitigation",
+        "practice-6"
+      ],
+      "explanation": "Reduction = 400 × 0.15 = 60 metric tons CO₂e. Remaining emissions = 400 − 60 = 340 metric tons CO₂e/year."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A small endemic frog population occupies one wetland that is being drained and also faces a newly introduced pathogen. Why is extinction risk especially high?",
+      "choices": [
+        "Its narrow range and small population make it vulnerable to habitat loss and disease",
+        "Its large range makes it vulnerable only to competition",
+        "The pathogen increases population size by reducing competition",
+        "Wetland protection guarantees the population cannot become extinct"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "extinction",
+        "practice-5"
+      ],
+      "explanation": "A narrow range and small population increase vulnerability to habitat change and stochastic events. Multiple stressors can interact and reduce recovery options."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A marine heat wave raises water temperature for several weeks. Which combination of effects is plausible?",
+      "choices": [
+        "Heat stress may cause bleaching and shifts in species distributions",
+        "Higher temperature guarantees greater dissolved oxygen at every depth",
+        "A brief heat wave reverses ocean acidification globally",
+        "Ocean thermal inertia prevents organisms from responding"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ocean-warming",
+        "practice-1"
+      ],
+      "explanation": "Marine heat waves can stress organisms, contribute to bleaching, and shift distributions. Ocean thermal inertia slows some changes but does not prevent ecological responses."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A conservation plan protects a large reserve but ignores the surrounding agricultural landscape. Which addition may improve persistence for wide-ranging species?",
+      "choices": [
+        "Add habitat connections and wildlife-friendly practices beyond the reserve boundary",
+        "Remove buffer habitat to reduce edge length",
+        "Increase isolation to prevent all species movement",
+        "Focus only on visitor access while leaving habitat links unchanged"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "biodiversity-conservation",
+        "practice-7"
+      ],
+      "explanation": "Protected areas are important, but connectivity, buffer zones, land-use practices, and community engagement can support movement and reduce edge pressures."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A coastal city compares a seawall and restored wetlands for flood risk. The wall protects dense infrastructure but may shift erosion; wetlands can store surge water and support habitat but need space and time to establish. What is the strongest recommendation?",
+      "choices": [
+        "Compare site-specific flood projections, costs, habitat, maintenance, equity, and hybrid options before selecting measures",
+        "Choose a seawall because it eliminates all future flood risk",
+        "Choose wetlands because they never need land or maintenance",
+        "Reject both because sea level cannot affect local flooding"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-solutions",
+        "practice-7"
+      ],
+      "explanation": "Both measures have benefits and limitations. A defensible plan uses local evidence, considers who is protected or displaced, and may combine gray and nature-based approaches."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The greenhouse effect is a natural process, and rising greenhouse-gas concentrations from human activities can strengthen it.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "greenhouse-effect",
+        "practice-1"
+      ],
+      "explanation": "The natural greenhouse effect keeps Earth warmer than it would otherwise be; anthropogenic increases in greenhouse gases add radiative forcing."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ocean acidification means ocean pH is decreasing; it does not mean seawater has become acidic everywhere.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ocean-acidification",
+        "practice-1"
+      ],
+      "explanation": "Ocean pH has declined relative to preindustrial conditions, but average seawater remains slightly alkaline. Local conditions vary."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mitigation reduces the causes of climate change, while adaptation reduces harm from climate impacts.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-solutions",
+        "practice-1"
+      ],
+      "explanation": "Emissions reduction and carbon removal are mitigation; flood defenses and heat-health plans are adaptation. Some actions can support both."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every nonnative species becomes invasive and harms every ecosystem it enters.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "invasive-species",
+        "practice-1"
+      ],
+      "explanation": "Many nonnative species do not become invasive. Impacts depend on species traits, ecosystem context, and interactions; invasive species are those that spread and cause harm."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A positive climate feedback amplifies an initial climate change, while a negative feedback counteracts it.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-feedbacks",
+        "practice-1"
+      ],
+      "explanation": "Positive and negative describe the direction of the feedback effect, not whether the effect is beneficial or harmful to people."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Distinguish climate mitigation from climate adaptation and give one example of each.",
+      "answer": "Mitigation reduces greenhouse-gas emissions or increases removals, such as clean electricity or forest restoration. Adaptation reduces harm from impacts, such as heat-health plans or flood-resilient infrastructure.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-solutions",
+        "practice-1"
+      ],
+      "explanation": "Some actions provide both benefits, but classify them by their primary purpose."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do CFCs deplete stratospheric ozone, and what did the Montreal Protocol do?",
+      "answer": "UV radiation breaks down CFCs and releases chlorine that catalytically destroys ozone. The Montreal Protocol coordinated a phaseout of ozone-depleting substances.",
+      "difficulty": "easy",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ozone-depletion",
+        "practice-1"
+      ],
+      "explanation": "The treaty addresses stratospheric ozone depletion; it is distinct from climate agreements focused on greenhouse gases."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Name four important greenhouse gases and one major human source for each.",
+      "answer": "Carbon dioxide: fossil-fuel combustion or deforestation; methane: fossil-fuel systems, livestock, or landfills; nitrous oxide: fertilized soils and some industrial processes; fluorinated gases: refrigeration and industrial uses.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "greenhouse-gases",
+        "practice-1"
+      ],
+      "explanation": "Greenhouse gases differ in atmospheric lifetime and heat-trapping strength. Water vapor is also a greenhouse gas but is primarily a feedback in climate discussions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Name two major contributors to global mean sea-level rise and one reason local relative sea level may differ.",
+      "answer": "Warming causes seawater thermal expansion and melting land ice adds water to oceans. Local relative sea level also depends on land subsidence or uplift, currents, and gravity-related effects.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "sea-level-change",
+        "practice-1"
+      ],
+      "explanation": "Sea-level rise is not spatially uniform; local planning should use relative sea-level projections."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Explain how rising atmospheric CO₂ can affect shell-building marine organisms.",
+      "answer": "More CO₂ dissolves into seawater, forming carbonic acid and increasing hydrogen ions. This reduces carbonate ion availability, which can make it harder for some organisms to build or maintain calcium carbonate shells.",
+      "difficulty": "medium",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "ocean-acidification",
+        "practice-1"
+      ],
+      "explanation": "Organism responses vary by species and can also be influenced by temperature, food, and local chemistry."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Describe the ice-albedo feedback as a cause-and-effect loop.",
+      "answer": "Initial warming melts reflective snow or ice; darker land or ocean is exposed and absorbs more solar energy; added absorption causes further warming and additional melting.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-feedbacks",
+        "practice-2"
+      ],
+      "explanation": "This is a positive feedback because it amplifies the initial change."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Compare in situ and ex situ conservation.",
+      "answer": "In situ conservation protects species in their natural habitats through reserves, habitat restoration, and connectivity. Ex situ conservation protects organisms outside their habitats, such as in seed banks, botanical gardens, or captive-breeding programs.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "biodiversity-conservation",
+        "practice-1"
+      ],
+      "explanation": "Ex situ methods can serve as a backup but do not preserve all ecological interactions or solve habitat loss on their own."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Name one benefit and one limitation of international environmental agreements.",
+      "answer": "Agreements can coordinate shared goals, monitoring, funding, and action across borders. Limits include uneven participation, national implementation, enforcement, costs, and differences in responsibility or capacity.",
+      "difficulty": "hard",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "international-cooperation",
+        "practice-1"
+      ],
+      "explanation": "The Montreal Protocol demonstrates coordinated action on ozone-depleting substances; climate agreements face different sources and economic trade-offs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How should a student evaluate a claim that a climate trend in one region proves the global climate is changing?",
+      "answer": "Check the time span, measurement methods, baseline, uncertainty, and whether the data represent one location or a global dataset. Compare multiple independent observations and distinguish short-term variability from long-term trends.",
+      "difficulty": "expert",
+      "tags": [
+        "unit-9",
+        "ap-environmental-science",
+        "climate-data",
+        "practice-5"
+      ],
+      "explanation": "A single regional record can be evidence about that region but cannot alone establish a global trend or attribute its cause."
+    }
+  ]
+}
