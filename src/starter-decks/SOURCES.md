@@ -12,7 +12,6 @@ These references support the new decks and the revised vocabulary and distractor
 - The Hunger Games uses the original trilogy, with spoilers.
 - Marvel Comics uses comics identities and origins, with alternate characters named where needed.
 - Minecraft uses established vanilla Survival mechanics shared by Java and Bedrock.
-- Chipotle uses documented U.S. menu staples and restaurant history. Prices and temporary offers are excluded.
 - Mixed trivia uses original questions. It is not a reproduction of Jackbox questions.
 
 ## Anatomy, nature and botany
@@ -84,14 +83,6 @@ Use the National Park Service's own descriptions and maps for each named park.
 - [Mojang: Nether portals](https://www.minecraft.net/en-us/article/jazz-up-your-nether-portal)
 - [Minecraft Help: enchantments](https://help.minecraft.net/hc/en-us/articles/360058730912)
 
-## Chipotle
-
-- [Chipotle: first restaurant, founder and inspiration](https://newsroom.chipotle.com/2017-09-07-chipotle-reopens-doors-to-restaurant-no-1-following-first-renovation-in-24-years)
-- [Published U.S. menu](https://www.chipotle.com/content/dam/chipotle/menu/nutrition/US-Nutrition-Facts-Paper-Menu-3-2025.pdf)
-- [Chipotle: Monterey Jack](https://www.chipotle.com/ingredients/monterey-jack-cheese)
-- [Chipotle: guacamole ingredients](https://www.chipotle.com/avocado-day)
-- [Chipotle: chips and guacamole ingredients](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
-
 ## Vocabulary and language
 
 Merriam-Webster entries checked for the definitions and examples:
@@ -141,3 +132,72 @@ Question wording, scenarios, and numerical values in the AP Chemistry deck are o
 - [NOAA: water cycle](https://www.noaa.gov/education/resource-collections/freshwater/water-cycle) and [EPA: overview of greenhouse gases](https://www.epa.gov/ghgemissions/overview-greenhouse-gases).
 
 Question wording and examples are original. Numerical results were recalculated; the deck was also checked with Rekall's `parseDeckFile` validator. Question IDs are not part of Rekall's current deck-file schema: the importer validates the editable question fields and assigns database IDs when saving.
+
+## General Chemistry I & II
+
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for atomic structure, bonding, stoichiometry, gases, thermochemistry, solutions, kinetics, equilibrium, acids and bases, and electrochemistry.
+- [OpenStax Chemistry 2e: reaction stoichiometry](https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry), [equilibrium](https://openstax.org/books/chemistry-2e/pages/13-introduction), and [potential, free energy, and equilibrium](https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium) for quantitative and conceptual review.
+- [IUPAC Gold Book](https://goldbook.iupac.org/) for standard chemistry terminology.
+
+Question wording and examples are original. Numerical calculations in the deck were checked directly; it was validated with Rekall's `parseDeckFile`.
+
+## Chemistry for Health Sciences
+
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for solutions, concentration, acids and bases, bonding, and reaction principles.
+- [NIDDK: how the digestive system works](https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works) for general digestion context.
+- [NHLBI: the respiratory system](https://www.nhlbi.nih.gov/health/lungs/respiratory-system) for oxygen and carbon dioxide transport context.
+- [NIDDK: how the kidneys work](https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work) for general fluid and electrolyte context.
+
+This deck teaches general chemistry concepts and does not provide patient-specific medical advice. Question wording and examples are original; the file was validated with Rekall's `parseDeckFile`.
+
+## Organic Chemistry I and II
+
+- [OpenStax Organic Chemistry](https://openstax.org/books/organic-chemistry/pages/index) for structure, stereochemistry, mechanisms, functional groups, substitution, elimination, aromaticity, carbonyl chemistry, synthesis, and spectroscopy.
+- [OpenStax Organic Chemistry: reaction mechanisms](https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms), [aromaticity](https://openstax.org/books/organic-chemistry/pages/15-4-aromatic-ions), and [spectroscopy summary](https://openstax.org/books/organic-chemistry/pages/12-summary) for representative concepts.
+- [IUPAC Gold Book](https://goldbook.iupac.org/) for terminology.
+
+Questions and examples are original. Mechanism conditions and products were checked for the stated reaction class; both files were validated with Rekall's `parseDeckFile`.
+
+## Analytical Chemistry
+
+- [NIST: guidelines for calibration in analytical chemistry](https://www.nist.gov/publications/guidelines-calibration-analytical-chemistry-part-i-fundatmentals-and-single-component) for calibration terminology and models.
+- [NIST Chemical Metrology](https://www.nist.gov/mml/csd/primary-focus-areas/chemical-metrology) for analytical measurement, reference materials, uncertainty, mass spectrometry, separations, and electroanalytical chemistry.
+- [NIST/SEMATECH Engineering Statistics Handbook: calibration](https://www.itl.nist.gov/div898/handbook/mpc/section3/mpc3.htm) for calibration and measurement-model context.
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for titration, equilibrium, and spectroscopy fundamentals.
+
+Question wording and examples are original; calculations and core terminology were checked, and the deck was validated with Rekall's `parseDeckFile`.
+
+## Inorganic Chemistry
+
+- [OpenStax Chemistry 2e: coordination chemistry of transition metals](https://openstax.org/books/chemistry-2e/pages/19-2-coordination-chemistry-of-transition-metals) for ligands, coordination compounds, and transition-metal properties.
+- [Royal Society of Chemistry periodic table](https://www.rsc.org/periodic-table) for element properties and periodic trends.
+- [IUPAC Gold Book](https://goldbook.iupac.org/) for coordination and inorganic chemistry terminology.
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for bonding, redox, and solid-state fundamentals.
+
+Question wording and examples are original. The deck was checked for basic electron counts, charge balance, coordination geometry, and schema compatibility with `parseDeckFile`.
+
+## Fun Chemistry for Kids
+
+- [American Chemical Society: elementary and middle school chemistry education](https://www.acs.org/education/elementary-middle-school.html) for age-appropriate chemistry topics and safety guidance.
+- [ACS: science safety tips](https://www.acs.org/education/celebrating-chemistry-editions/2024-ncw/safety-tips.html) for child-facing safety principles.
+- [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for states of matter, mixtures, reactions, and basic chemical concepts.
+- [NOAA: water cycle](https://www.noaa.gov/education/resource-collections/freshwater/water-cycle) for water-cycle concepts.
+
+Questions and explanations are original and use everyday examples. Safety questions discourage tasting unknown substances, mixing household cleaners, and unsupervised handling; the file was validated with Rekall's `parseDeckFile`.
+
+## AP World History: Modern
+
+- [College Board AP World History: Modern Course and Exam Description, effective Fall 2026](https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description-effective-fall-2026.pdf) for the nine-unit framework, learning objectives, historical thinking skills, themes, and course content.
+- [College Board AP World History: Modern course page](https://apcentral.collegeboard.org/courses/ap-world-history?course=ap-world-history) for the current unit framework, exam weighting, and historical-thinking skill descriptions.
+- [College Board AP World History: Modern exam overview](https://apcentral.collegeboard.org/courses/ap-world-history/exam?course=ap-world-history) for the 2027 exam format and current exam expectations. This deck supports review and source reasoning; it does not replace SAQ, DBQ, or long-essay writing practice.
+- [National Archives: Declaration of Independence transcript](https://www.archives.gov/founding-docs/declaration-transcript) for the U.S. independence source paraphrase.
+- [Yale Avalon Project: Wilson's Fourteen Points](https://avalon.law.yale.edu/20th_century/wilson14.asp) for the postwar-order source paraphrase.
+- [French National Assembly: Jules Ferry's 28 July 1885 speech](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/jules-ferry-28-juillet-1885) for the imperial-advocacy source paraphrase.
+- [Bandung Conference final communique](https://www.asj.upd.edu.ph/mediabox/archive/ASJ-02-01-1964/Asian%20African%20Con.pdf) for the sovereignty and anticolonialism source paraphrase.
+- [United Nations: Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) for the human-rights source paraphrase.
+- [Al-Umari's account of Mansa Musa's Cairo visit](https://my.aui.ma/ICS/icsfs/Arab_Sources_on_Medieval_West_Africa.pdf%3Ftarget%3Db1046592-a60d-4640-b35a-661239617e49) for the later, secondhand account of the 1324 pilgrimage; the question makes clear it is not eyewitness testimony.
+- [UNESCO: Great Zimbabwe National Monument](https://whc.unesco.org/en/list/364/), [The Metropolitan Museum of Art: Maya Area, 1400–1600](https://82nd-and-fifth.metmuseum.org/toah/ht/08/cana.html), and [Smithsonian National Museum of the American Indian: Woodlands](https://americanindian.si.edu/exhibitions/infinityofnations/woodlands.html) for the African, Maya, and North American society cards.
+- [National Park Service: History of El Camino Real de Tierra Adentro](https://home.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm) for the Pueblo Revolt question; [USC Shoah Foundation: Nanjing Massacre testimonies](https://sfi.usc.edu/collections/nanjing-massacre) for the World War II atrocity card.
+- [OpenStax World History, Volume 2](https://openstax.org/details/books/world-history-volume-2) for cross-regional context and chronology. Question wording, scenarios, source paraphrases, answer choices, and explanations are original; no long source passages or AP exam questions are reproduced.
+
+The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Rekall's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.

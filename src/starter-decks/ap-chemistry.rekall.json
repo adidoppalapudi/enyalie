@@ -29,12 +29,12 @@
       "type": "multiple_choice",
       "prompt": "An element has isotopes of mass 10 u (20%) and 11 u (80%). What is its average atomic mass?",
       "choices": [
-        "10.8 u",
         "10.5 u",
+        "10.8 u",
         "10.2 u",
         "11.0 u"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -49,10 +49,10 @@
       "choices": [
         "CHO",
         "C2H2O",
-        "C2H4O",
-        "CH2O"
+        "CH2O",
+        "C2H4O"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -66,11 +66,11 @@
       "prompt": "A solution contains 5.0 g of sugar and 95.0 g of water. What is the sugar mass percent?",
       "choices": [
         "5.3%",
-        "5.0%",
+        "95%",
         "19%",
-        "95%"
+        "5.0%"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -83,12 +83,12 @@
       "type": "multiple_choice",
       "prompt": "Which electron configuration represents a ground-state chlorine atom?",
       "choices": [
+        "1s2 2s2 2p6 3s2 3p5",
         "1s2 2s2 2p6 3s1 3p6",
         "1s2 2s2 2p6 3s2 3p6",
-        "1s2 2s2 2p5 3s2 3p6",
-        "1s2 2s2 2p6 3s2 3p5"
+        "1s2 2s2 2p5 3s2 3p6"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -102,11 +102,11 @@
       "prompt": "In a photoelectron spectrum, what does a peak at higher binding energy indicate about those electrons?",
       "choices": [
         "They are less tightly held by the nucleus",
+        "They are more tightly held by the nucleus",
         "They occupy a larger volume",
-        "They have greater mass",
-        "They are more tightly held by the nucleus"
+        "They have greater mass"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -120,11 +120,11 @@
       "prompt": "Which atom has the largest atomic radius?",
       "choices": [
         "Mg",
+        "Si",
         "Na",
-        "Al",
-        "Si"
+        "Al"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -155,12 +155,12 @@
       "type": "multiple_choice",
       "prompt": "How many electrons are in an O2- ion?",
       "choices": [
-        "6",
         "10",
+        "6",
         "8",
         "12"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -269,12 +269,12 @@
       "type": "multiple_choice",
       "prompt": "Which change generally makes the lattice energy of an ionic solid larger in magnitude?",
       "choices": [
+        "Adding more water molecules between the ions",
         "Using ions with larger charges and smaller radii",
         "Using ions with smaller charges and larger radii",
-        "Adding more water molecules between the ions",
         "Reducing the number of ions in each formula unit"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -288,11 +288,11 @@
       "prompt": "Why can a copper wire conduct electricity as a solid?",
       "choices": [
         "Copper atoms release all their electrons into the air",
-        "Some electrons are delocalized and can move through the metal",
         "Copper ions move freely through the solid lattice",
+        "Some electrons are delocalized and can move through the metal",
         "The bonds between copper atoms continually break and reform"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -306,11 +306,11 @@
       "prompt": "Brass is harder than pure copper partly because zinc atoms in its structure...",
       "choices": [
         "form separate liquid droplets between copper atoms",
-        "replace some copper atoms and disrupt the regular layers",
         "remove all mobile electrons from the metal",
-        "make the copper atoms larger without changing the lattice"
+        "make the copper atoms larger without changing the lattice",
+        "replace some copper atoms and disrupt the regular layers"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -323,12 +323,12 @@
       "type": "multiple_choice",
       "prompt": "Which Lewis diagram best represents CO2?",
       "choices": [
-        "O-C-O with one single bond to each O",
         "O=C=O with two lone pairs on each O",
+        "O-C-O with one single bond to each O",
         "C=O with one oxygen atom omitted",
         "O-C-O with a lone pair on carbon and two single bonds"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -341,12 +341,12 @@
       "type": "multiple_choice",
       "prompt": "What is the formal charge on nitrogen in NH4+?",
       "choices": [
-        "+1",
         "0",
+        "+1",
         "-1",
         "+2"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -360,11 +360,11 @@
       "prompt": "What do the resonance structures of NO3- represent?",
       "choices": [
         "Nitrate rapidly switching between different atom arrangements",
-        "Different valid electron placements for the same fixed atom arrangement",
         "Different compounds with the same formula",
+        "Different valid electron placements for the same fixed atom arrangement",
         "A mixture of nitrate ions with different numbers of oxygen atoms"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -378,11 +378,11 @@
       "prompt": "What is the molecular shape of NH3?",
       "choices": [
         "Trigonal planar",
-        "Trigonal pyramidal",
         "Tetrahedral",
-        "Linear"
+        "Linear",
+        "Trigonal pyramidal"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -396,9 +396,9 @@
       "prompt": "Which molecule is nonpolar even though it contains polar bonds?",
       "choices": [
         "CO2",
+        "HCl",
         "NH3",
-        "H2O",
-        "HCl"
+        "H2O"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -527,12 +527,12 @@
       "type": "multiple_choice",
       "prompt": "At the same pressure, which pure substance is expected to have the highest boiling point?",
       "choices": [
-        "C4H10",
         "C2H6",
         "C3H8",
+        "C4H10",
         "CH4"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -546,11 +546,11 @@
       "prompt": "Why does solid NaCl have a much higher melting point than solid CO2?",
       "choices": [
         "CO2's molecular attractions are stronger than the ionic lattice attractions in solid NaCl",
-        "NaCl's ionic lattice has stronger attractions than forces between solid CO2 molecules",
         "Melting NaCl breaks covalent bonds inside its separate molecules",
-        "Solid CO2 forms an ionic lattice, while NaCl consists of separate neutral molecules"
+        "Solid CO2 forms an ionic lattice, while NaCl consists of separate neutral molecules",
+        "NaCl's ionic lattice has stronger attractions than forces between solid CO2 molecules"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -563,12 +563,12 @@
       "type": "multiple_choice",
       "prompt": "A pure substance is melting at constant pressure. What happens to its temperature while the solid and liquid coexist?",
       "choices": [
-        "It rises steadily as each particle melts",
-        "It falls because melting is exothermic",
         "It remains nearly constant while energy changes phase",
+        "It falls because melting is exothermic",
+        "It rises steadily as each particle melts",
         "It alternates between two temperatures"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -581,12 +581,12 @@
       "type": "multiple_choice",
       "prompt": "A gas has volume 2.0 L at 300 K. At constant pressure, what volume will it occupy at 450 K?",
       "choices": [
-        "1.3 L",
         "2.0 L",
+        "3.0 L",
         "4.5 L",
-        "3.0 L"
+        "1.3 L"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -618,11 +618,11 @@
       "prompt": "At the same temperature, which statement about helium and xenon gas samples is correct?",
       "choices": [
         "Helium atoms have greater average kinetic energy",
-        "Both samples have the same average kinetic energy per atom",
         "Xenon atoms have greater average kinetic energy",
-        "Their average kinetic energies depend only on pressure"
+        "Their average kinetic energies depend only on pressure",
+        "Both samples have the same average kinetic energy per atom"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -635,12 +635,12 @@
       "type": "multiple_choice",
       "prompt": "Under which conditions does a real gas usually deviate most from ideal behavior?",
       "choices": [
+        "High pressure and low temperature",
         "Low pressure and high temperature",
-        "Low pressure and low temperature",
         "High pressure and high temperature",
-        "High pressure and low temperature"
+        "Low pressure and low temperature"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -673,10 +673,10 @@
       "choices": [
         "It doubles",
         "It becomes zero",
-        "It stays the same",
-        "It is cut in half"
+        "It is cut in half",
+        "It stays the same"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -691,10 +691,10 @@
       "choices": [
         "It has a stronger attraction to the paper",
         "It has a larger molar mass",
-        "It has a greater attraction to the mobile solvent relative to the paper",
-        "It has a higher boiling point"
+        "It has a higher boiling point",
+        "It has a greater attraction to the mobile solvent relative to the paper"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -707,12 +707,12 @@
       "type": "multiple_choice",
       "prompt": "What generally happens to the solubility of a gas in water as the water temperature rises?",
       "choices": [
-        "It increases because gas particles move faster",
         "It decreases because dissolved gas escapes more readily",
+        "It increases because gas particles move faster",
         "It stays constant for every gas",
         "It becomes equal to the gas pressure"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -797,12 +797,12 @@
       "type": "multiple_choice",
       "prompt": "Which is the net ionic equation when aqueous AgNO3 and NaCl are mixed?",
       "choices": [
+        "AgNO3(aq) + NaCl(aq) -> AgCl(aq) + NaNO3(aq)",
         "Ag+ + Cl- -> AgCl(s)",
         "Na+ + Cl- -> NaCl(s)",
-        "Ag+ + NO3- -> AgNO3(s)",
-        "AgNO3(aq) + NaCl(aq) -> AgCl(aq) + NaNO3(aq)"
+        "Ag+ + NO3- -> AgNO3(s)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -816,11 +816,11 @@
       "prompt": "For 2H2 + O2 -> 2H2O, 3.0 mol H2 reacts with 2.0 mol O2. Which reactant is limiting, and how much H2O can form?",
       "choices": [
         "H2; 6.0 mol",
-        "H2; 3.0 mol",
         "O2; 2.0 mol",
+        "H2; 3.0 mol",
         "O2; 4.0 mol"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -835,10 +835,10 @@
       "choices": [
         "12.5 mL",
         "50.0 mL",
-        "25.0 mL",
-        "100. mL"
+        "100. mL",
+        "25.0 mL"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -851,12 +851,12 @@
       "type": "multiple_choice",
       "prompt": "Which is the net ionic equation for a strong acid reacting with a strong base?",
       "choices": [
+        "H+ + OH- -> H2O",
         "H2O -> H+ + OH-",
         "Na+ + Cl- -> NaCl(s)",
-        "HCl + NaOH -> NaCl + H2O",
-        "H+ + OH- -> H2O"
+        "HCl + NaOH -> NaCl + H2O"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -869,12 +869,12 @@
       "type": "multiple_choice",
       "prompt": "Which equation represents a decomposition reaction?",
       "choices": [
-        "2KClO3 -> 2KCl + 3O2",
         "2Mg + O2 -> 2MgO",
+        "2KClO3 -> 2KCl + 3O2",
         "CH4 + 2O2 -> CO2 + 2H2O",
         "Ag+ + Cl- -> AgCl"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -887,12 +887,12 @@
       "type": "multiple_choice",
       "prompt": "In the change Fe2+ -> Fe3+ + e-, what happens to iron?",
       "choices": [
-        "It is oxidized because it loses an electron",
         "It is reduced because it gains an electron",
         "It is reduced because its oxidation state rises",
+        "It is oxidized because it loses an electron",
         "It is neither oxidized nor reduced"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -905,9 +905,9 @@
       "type": "multiple_choice",
       "prompt": "A student records too large a titrant volume by adding past the endpoint. What happens to the calculated concentration of the analyte?",
       "choices": [
-        "It is underestimated",
         "It becomes zero",
         "It is unchanged",
+        "It is underestimated",
         "It is overestimated"
       ],
       "correctIndex": 3,
@@ -924,9 +924,9 @@
       "prompt": "A balanced particle equation is 2A + B -> A2B. If 8 A particles and 5 B particles are mixed, how many A2B particles can form?",
       "choices": [
         "4",
+        "8",
         "2",
-        "5",
-        "8"
+        "5"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -941,12 +941,12 @@
       "type": "multiple_choice",
       "prompt": "Why should a chemical equation be balanced before using its coefficients for stoichiometry?",
       "choices": [
-        "To conserve each type of atom and give valid mole ratios",
         "To make the reaction faster",
+        "To conserve each type of atom and give valid mole ratios",
         "To make the product side contain more mass",
         "To ensure every reaction has equal numbers of molecules on both sides"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -1073,9 +1073,9 @@
       "type": "multiple_choice",
       "prompt": "For rate = k[A][B]^2, what is the overall reaction order?",
       "choices": [
-        "1",
         "2",
         "4",
+        "1",
         "3"
       ],
       "correctIndex": 3,
@@ -1091,12 +1091,12 @@
       "type": "multiple_choice",
       "prompt": "A first-order reactant starts at 0.80 M and has a half-life of 20 s. What is its concentration after 60 s?",
       "choices": [
-        "0.40 M",
         "0.10 M",
+        "0.40 M",
         "0.20 M",
         "0.025 M"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1110,11 +1110,11 @@
       "prompt": "For the elementary step NO + O3 -> NO2 + O2, which rate law follows from the step's molecularity?",
       "choices": [
         "rate = k[NO]^2[O3]",
-        "rate = k[NO2][O2]",
         "rate = k[NO][O3]",
+        "rate = k[NO2][O2]",
         "rate = k[NO][O3]^2"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1129,10 +1129,10 @@
       "choices": [
         "The activation energy becomes zero",
         "Reactant particles stop colliding with one another",
-        "The equilibrium constant must increase",
-        "A larger fraction of collisions has energy at least equal to the activation energy"
+        "A larger fraction of collisions has energy at least equal to the activation energy",
+        "The equilibrium constant must increase"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1145,12 +1145,12 @@
       "type": "multiple_choice",
       "prompt": "A reaction-energy diagram has an uncatalyzed activation energy of 80 kJ/mol and a catalyzed activation energy of 45 kJ/mol. What changes?",
       "choices": [
-        "The catalyst lowers the activation energy but leaves the reaction enthalpy unchanged",
+        "The catalyst raises the energy of the products by 35 kJ/mol",
         "The catalyst makes the reaction enthalpy 35 kJ/mol more negative",
         "The catalyst changes the identities of reactants and products",
-        "The catalyst raises the energy of the products by 35 kJ/mol"
+        "The catalyst lowers the activation energy but leaves the reaction enthalpy unchanged"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1163,12 +1163,12 @@
       "type": "multiple_choice",
       "prompt": "For a proposed mechanism, which step most directly controls the observed rate when it is much slower than the others?",
       "choices": [
+        "The rate-determining slow step",
         "The fastest step",
         "The step with the largest coefficient in the overall equation",
-        "The final product's decomposition",
-        "The rate-determining slow step"
+        "The final product's decomposition"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1179,14 +1179,32 @@
     },
     {
       "type": "multiple_choice",
+      "prompt": "A proposed mechanism for NO2 + CO -> NO + CO2 is: (1) 2NO2 -> NO3 + NO (slow), (2) NO3 + CO -> NO2 + CO2 (fast). Which rate law and intermediate are predicted?",
+      "choices": [
+        "rate = k[NO2][CO]; NO3 is an intermediate",
+        "rate = k[NO2]2; NO3 is an intermediate",
+        "rate = k[NO2]2; CO2 is an intermediate",
+        "rate = k[NO3][CO]; NO2 is an intermediate"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "ap-chemistry",
+        "unit-5",
+        "reaction-mechanisms"
+      ],
+      "explanation": "The slow first elementary step predicts rate = k[NO2]2. NO3 is produced in step 1 and consumed in step 2, so it is an intermediate. Adding the steps gives the stated overall reaction."
+    },
+    {
+      "type": "multiple_choice",
       "prompt": "A catalyst is added to a system already at chemical equilibrium. What is the immediate effect?",
       "choices": [
-        "Equilibrium is reached faster, but K is unchanged",
-        "K decreases",
-        "K increases",
-        "The equilibrium shifts toward products"
+        "The forward reaction speeds up but the reverse rate stays fixed",
+        "The equilibrium shifts right as products begin to form",
+        "A catalyst speeds both directions while K stays constant",
+        "K changes because activation energy becomes lower"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1200,11 +1218,11 @@
       "prompt": "For a second-order reaction with rate = k[A]2, what are the units of k when concentration is in mol/L and time in seconds?",
       "choices": [
         "s-1",
-        "L mol-1 s-1",
+        "L2 mol-2 s-1",
         "mol L-1 s-1",
-        "L2 mol-2 s-1"
+        "L mol-1 s-1"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1313,12 +1331,12 @@
       "type": "multiple_choice",
       "prompt": "A reaction releases heat to its surroundings at constant pressure. What is true about the system?",
       "choices": [
+        "Its enthalpy change is negative",
         "Its entropy must be zero",
-        "Its enthalpy change is positive",
         "Its temperature must decrease",
-        "Its enthalpy change is negative"
+        "Its enthalpy change is positive"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -1332,11 +1350,11 @@
       "prompt": "On a reaction-energy diagram, how is the forward activation energy measured?",
       "choices": [
         "From the products up to the reactants",
-        "From the transition-state peak down to the products",
         "From the reactants up to the transition-state peak",
+        "From the transition-state peak down to the products",
         "From the products down to the reactants"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1349,8 +1367,8 @@
       "type": "multiple_choice",
       "prompt": "How much heat is absorbed by 50.0 g of water when it warms from 20.0 C to 25.0 C? Use c = 4.18 J g-1 C-1.",
       "choices": [
-        "209 J",
         "4.18 kJ",
+        "209 J",
         "1.05 kJ",
         "20.9 kJ"
       ],
@@ -1385,12 +1403,12 @@
       "type": "multiple_choice",
       "prompt": "During the melting of a pure solid at constant pressure, added heat primarily...",
       "choices": [
-        "increases the average kinetic energy while the temperature rises",
-        "increases potential energy as particles separate, while temperature stays constant",
-        "changes the chemical identity of each particle",
-        "decreases the enthalpy of the system"
+        "Potential energy rises while temperature stays constant",
+        "Kinetic energy rises along with the temperature",
+        "Chemical identity changes as particles melt",
+        "System enthalpy falls as heat is added"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1404,11 +1422,11 @@
       "prompt": "Use these reactions: C(s) + O2(g) -> CO2(g), Delta H = -394 kJ; C(s) + 1/2 O2(g) -> CO(g), Delta H = -111 kJ. What is Delta H for CO(g) + 1/2 O2(g) -> CO2(g)?",
       "choices": [
         "-505 kJ",
-        "+283 kJ",
         "-283 kJ",
+        "+283 kJ",
         "+505 kJ"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1421,12 +1439,12 @@
       "type": "multiple_choice",
       "prompt": "Estimate Delta H for 2H2(g) + O2(g) -> 2H2O(g) using bond enthalpies H-H = 436, O=O = 498, and O-H = 463 kJ/mol.",
       "choices": [
-        "-482 kJ",
-        "-1,852 kJ",
         "+482 kJ",
+        "-1,852 kJ",
+        "-482 kJ",
         "+1,852 kJ"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1439,12 +1457,12 @@
       "type": "multiple_choice",
       "prompt": "How is the standard enthalpy change of a reaction calculated from standard enthalpies of formation?",
       "choices": [
-        "Sum for products minus sum for reactants, each weighted by its coefficient",
-        "Sum for reactants minus sum for products",
-        "Average of all formation enthalpies",
-        "Products' formation enthalpies multiplied by reactants' formation enthalpies"
+        "Subtract the product formation sum from the reactant formation sum",
+        "Multiply product and reactant formation sums together",
+        "Average formation enthalpies without using coefficients",
+        "Subtract the reactant formation sum from the product formation sum"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1457,12 +1475,12 @@
       "type": "multiple_choice",
       "prompt": "A hot metal block and cool water are placed in an insulated container. At thermal equilibrium, what is true?",
       "choices": [
+        "Both have the same temperature with no net heat flow",
         "The metal has transferred all its energy to the water",
-        "They have the same thermal energy",
-        "The water must have a higher temperature because it has more mass",
-        "They have the same temperature, and heat transfer between them has ceased"
+        "Water must be hotter because it has more mass",
+        "Both contain exactly the same thermal energy"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -1625,12 +1643,12 @@
       "type": "multiple_choice",
       "prompt": "For N2O4(g) <=> 2NO2(g), Kc = 0.20 at 300 K. What is Kp? Use R = 0.0821 L atm mol-1 K-1.",
       "choices": [
+        "4.9",
         "0.0081",
         "0.20",
-        "24.6",
-        "4.9"
+        "24.6"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1643,12 +1661,12 @@
       "type": "multiple_choice",
       "prompt": "A very large equilibrium constant for a reaction indicates that, at equilibrium...",
       "choices": [
-        "products are strongly favored",
         "reactants are strongly favored",
+        "products are strongly favored",
         "reactants and products must have equal concentrations",
         "the forward and reverse rates are unequal"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -1661,12 +1679,12 @@
       "type": "multiple_choice",
       "prompt": "For A <=> B, a mixture begins with [A] = 1.00 M and [B] = 0. At equilibrium Kc = [B]/[A] = 4.0. What is [B] at equilibrium?",
       "choices": [
-        "0.80 M",
         "0.50 M",
         "0.20 M",
+        "0.80 M",
         "1.25 M"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1680,11 +1698,11 @@
       "prompt": "For N2(g) + 3H2(g) <=> 2NH3(g), what is the effect of decreasing the container volume at constant temperature?",
       "choices": [
         "The system shifts toward N2 and H2, where there are more gas particles",
-        "The system shifts toward NH3, where there are fewer gas particles",
         "K increases",
-        "There is no change because temperature is constant"
+        "There is no change because temperature is constant",
+        "The system shifts toward NH3, where there are fewer gas particles"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1697,12 +1715,12 @@
       "type": "multiple_choice",
       "prompt": "For an exothermic forward reaction at equilibrium, what happens when temperature increases?",
       "choices": [
+        "The system shifts toward reactants and K decreases",
         "The system shifts toward products and K increases",
         "The system shifts toward reactants and K increases",
-        "The system shifts toward reactants and K decreases",
         "Neither the position nor K changes"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1716,11 +1734,11 @@
       "prompt": "AgCl(s) <=> Ag+(aq) + Cl-(aq) has Ksp = 1.8 x 10^-10 in pure water. What is its approximate molar solubility?",
       "choices": [
         "1.8 x 10^-10 M",
-        "9.0 x 10^-11 M",
         "1.3 x 10^-5 M",
+        "9.0 x 10^-11 M",
         "1.8 x 10^-5 M"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1848,11 +1866,11 @@
       "prompt": "A 0.10 M solution of a monoprotic weak acid HA has Ka = 1.0 x 10^-5. What is its approximate pH?",
       "choices": [
         "1",
-        "3",
         "5",
-        "10"
+        "10",
+        "3"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1865,12 +1883,12 @@
       "type": "multiple_choice",
       "prompt": "A solution has [OH-] = 1.0 x 10^-4 M at 25 C. What is its pH?",
       "choices": [
+        "10",
         "4",
         "7",
-        "10",
         "14"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1883,12 +1901,12 @@
       "type": "multiple_choice",
       "prompt": "Which pair can form a buffer when mixed in suitable amounts?",
       "choices": [
+        "NaOH and NaCl",
         "CH3COOH and CH3COO-",
         "HCl and NaCl",
-        "NaOH and NaCl",
         "HNO3 and KNO3"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1937,12 +1955,12 @@
       "type": "multiple_choice",
       "prompt": "What happens to the solubility of Mg(OH)2(s) when acid is added to the solution?",
       "choices": [
-        "It decreases because H+ adds more OH-",
-        "It is unchanged because Mg(OH)2 is a solid",
         "It increases because H+ removes OH- from solution",
+        "It is unchanged because Mg(OH)2 is a solid",
+        "It decreases because H+ adds more OH-",
         "It becomes zero because the acid is consumed"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -1956,11 +1974,11 @@
       "prompt": "At 25 C, what is the approximate pH at the equivalence point for titrating a strong acid with a strong base?",
       "choices": [
         "Below 7",
-        "Above 7",
         "7",
+        "Above 7",
         "It depends only on the indicator"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -1975,10 +1993,10 @@
       "choices": [
         "HF, because fluorine is more electronegative",
         "HF, because the H-F bond is shorter",
-        "They are equally strong because both are hydrogen halides",
-        "HCl, because the H-Cl bond is weaker and breaks more readily"
+        "HCl, because the H-Cl bond is weaker and breaks more readily",
+        "They are equally strong because both are hydrogen halides"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2088,11 +2106,11 @@
       "prompt": "Which change is generally associated with an increase in entropy for the system?",
       "choices": [
         "Water vapor condenses to liquid water",
-        "A gas expands into a larger volume",
         "A dissolved salt crystallizes from solution",
-        "A liquid freezes into an ordered solid"
+        "A liquid freezes into an ordered solid",
+        "A gas expands into a larger volume"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -2124,11 +2142,11 @@
       "prompt": "A reaction has Delta H = +20 kJ/mol and Delta S = +100 J mol-1 K-1 at 300 K. What is Delta G at this temperature?",
       "choices": [
         "+20 kJ/mol",
-        "+10 kJ/mol",
         "-10 kJ/mol",
+        "+10 kJ/mol",
         "+50 kJ/mol"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2141,12 +2159,12 @@
       "type": "multiple_choice",
       "prompt": "A reaction has negative Delta G under specified conditions but proceeds very slowly. What best explains this?",
       "choices": [
-        "Thermodynamic favorability does not guarantee a small activation barrier",
         "Negative Delta G means the reaction is at equilibrium",
         "A slow reaction must have positive Delta G",
+        "Thermodynamic favorability does not guarantee a small activation barrier",
         "The reaction must absorb heat"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2157,14 +2175,32 @@
     },
     {
       "type": "multiple_choice",
+      "prompt": "Products P and Q form reversibly from the same reactant. P forms faster because its pathway has a lower activation barrier, but Q has lower Gibbs free energy. If the mixture reaches equilibrium, which product is favored?",
+      "choices": [
+        "P, because a lower activation barrier determines the equilibrium mixture",
+        "P and Q equally, because they form from the same reactant",
+        "Neither product, because a reversible reaction cannot favor either side",
+        "Q, because equilibrium favors the lower-free-energy product; P may form faster at first"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "ap-chemistry",
+        "unit-9",
+        "thermodynamic-and-kinetic-control"
+      ],
+      "explanation": "The lower barrier gives P kinetic control at early times. At equilibrium, thermodynamic control favors Q because it has lower Gibbs free energy."
+    },
+    {
+      "type": "multiple_choice",
       "prompt": "For a reaction at a given temperature, Delta G degree = -RT ln K. If K is greater than 1, what is true?",
       "choices": [
-        "Delta G degree is positive and reactants are favored at equilibrium",
         "Delta G degree is negative and products are favored at equilibrium",
+        "Delta G degree is positive and reactants are favored at equilibrium",
         "Delta G degree is zero and the reaction has stopped",
         "Delta G degree must equal the activation energy"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",
@@ -2178,11 +2214,11 @@
       "prompt": "A nonspontaneous reaction with Delta G = +15 kJ/mol is coupled to a reaction with Delta G = -22 kJ/mol. What is Delta G for the combined process?",
       "choices": [
         "-37 kJ/mol",
-        "+7 kJ/mol",
         "-7 kJ/mol",
+        "+7 kJ/mol",
         "+37 kJ/mol"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2197,10 +2233,10 @@
       "choices": [
         "Reduction",
         "Precipitation",
-        "Neutralization",
-        "Oxidation"
+        "Oxidation",
+        "Neutralization"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "ap-chemistry",
@@ -2213,12 +2249,12 @@
       "type": "multiple_choice",
       "prompt": "Using standard reduction potentials E degree(Cu2+/Cu) = +0.80 V and E degree(Zn2+/Zn) = -0.76 V, what is E degree cell for Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)?",
       "choices": [
-        "+1.56 V",
         "-0.04 V",
         "+0.04 V",
-        "-1.56 V"
+        "-1.56 V",
+        "+1.56 V"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2231,12 +2267,12 @@
       "type": "multiple_choice",
       "prompt": "For Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s), what happens to cell potential if [Zn2+] increases while [Cu2+] stays fixed?",
       "choices": [
+        "It decreases because Q increases",
         "It increases because Q decreases",
         "It becomes equal to E degree regardless of concentration",
-        "It remains unchanged because temperature is fixed",
-        "It decreases because Q increases"
+        "It remains unchanged because temperature is fixed"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2249,12 +2285,12 @@
       "type": "multiple_choice",
       "prompt": "A charge of 96,500 C passes through a solution containing Cu2+. How much copper can be deposited? Use F = 96,500 C/mol e-.",
       "choices": [
-        "0.25 mol",
         "1.0 mol",
         "0.50 mol",
+        "0.25 mol",
         "2.0 mol"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "ap-chemistry",
@@ -2370,12 +2406,12 @@
       "type": "multiple_choice",
       "prompt": "To test how the initial concentration of A affects the rate of A + B -> products, which comparison is best controlled?",
       "choices": [
-        "Change [A] while keeping [B], temperature, and total volume the same",
-        "Change [A] and [B] together while keeping temperature the same",
-        "Change temperature and [A] together while keeping total volume the same",
-        "Change the catalyst and [A] together while keeping [B] the same"
+        "Change [A] and [B] together at the same temperature",
+        "Change temperature and [A] while holding volume fixed",
+        "Change the catalyst and [A] while holding [B] fixed",
+        "Vary [A] only and keep the other stated conditions fixed"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "ap-chemistry",

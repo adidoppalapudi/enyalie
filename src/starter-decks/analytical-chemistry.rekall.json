@@ -1,0 +1,1661 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-analytical-chemistry",
+    "name": "Analytical Chemistry",
+    "description": "A practical review of measurement quality, calibration, titrations, electroanalysis, spectroscopy, and separations."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main difference between qualitative and quantitative analysis?",
+      "choices": [
+        "Identity versus amount",
+        "Acid versus base",
+        "Solid versus liquid",
+        "Accuracy versus precision"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "foundations",
+        "analysis-types"
+      ],
+      "explanation": "Qualitative analysis asks what is present; quantitative analysis measures how much is present."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A measurement series is tightly clustered but far from a reference value. It is:",
+      "choices": [
+        "Accurate but imprecise",
+        "Precise but inaccurate",
+        "Both accurate and precise",
+        "Neither by definition"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "accuracy-precision"
+      ],
+      "explanation": "Precision concerns repeatability; accuracy concerns agreement with a reference."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which calibration approach adds known analyte amounts directly to portions of the sample?",
+      "choices": [
+        "External standards only",
+        "Blank subtraction only",
+        "Standard additions",
+        "Isotope dilution only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "standard-additions"
+      ],
+      "explanation": "Standard additions can help compensate for matrix effects because standards are added to the sample itself."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An internal standard is most useful when it:",
+      "choices": [
+        "Has a known concentration but behaves differently",
+        "Reacts away before the measurement begins",
+        "Is added only after the sample is measured",
+        "Responds similarly and undergoes similar handling"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "internal-standard"
+      ],
+      "explanation": "A known amount of a suitable internal standard can correct for variations in sample preparation or injection."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The slope of a linear calibration curve of signal versus concentration is related to analytical:",
+      "choices": [
+        "Sensitivity",
+        "Selectivity only",
+        "Sample mass",
+        "Uncertainty alone"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "sensitivity"
+      ],
+      "explanation": "A larger signal change per concentration change corresponds to greater sensitivity over that range."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A method’s limit of detection is the lowest amount that can be:",
+      "choices": [
+        "Quantified with a known uncertainty",
+        "Distinguished from background reliably",
+        "Measured with perfect accuracy",
+        "Separated from every matrix component"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "detection-limit"
+      ],
+      "explanation": "LOD is associated with reliable detection above background, not necessarily accurate quantification."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement best distinguishes LOD from LOQ?",
+      "choices": [
+        "LOD quantifies; LOQ detects background",
+        "LOD applies to gases; LOQ applies to liquids",
+        "LOD detects; LOQ quantifies reliably",
+        "LOD and LOQ have identical meanings"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "quantification-limit"
+      ],
+      "explanation": "A detected signal may be too small for reliable quantitative reporting."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Beer-Lambert law A = εbc, which quantity is the optical path length?",
+      "choices": [
+        "A",
+        "ε",
+        "c",
+        "b"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "beer-lambert"
+      ],
+      "explanation": "b is the path length through the sample, often expressed in centimeters."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "If a sample’s absorbance is outside a validated linear calibration range, the best next step is often to:",
+      "choices": [
+        "Dilute appropriately and remeasure",
+        "Extrapolate far beyond standards",
+        "Ignore the result",
+        "Change the blank after measuring"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "working-range"
+      ],
+      "explanation": "Dilution can place the sample within the calibrated response range, with the dilution factor applied afterward."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why are procedural blanks used?",
+      "choices": [
+        "Improve recovery during sample preparation",
+        "Reveal background from reagents and handling",
+        "Set sample pH before measurement",
+        "Replace the need for calibration standards"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "blanks"
+      ],
+      "explanation": "A blank processed through the method reveals background and contamination sources."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A certified reference material is useful because it has:",
+      "choices": [
+        "No assigned value",
+        "Only an unknown concentration",
+        "A characterized property value and stated uncertainty",
+        "A signal identical to every sample"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "reference-materials"
+      ],
+      "explanation": "Reference materials help assess method trueness and comparability."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a gravimetric analysis, the analyte amount is inferred mainly from:",
+      "choices": [
+        "Color alone",
+        "Electrical potential alone",
+        "Boiling point only",
+        "Mass of a suitably isolated compound"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "gravimetry"
+      ],
+      "explanation": "A known stoichiometric relationship links precipitate mass to analyte amount."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the equivalence point of a titration:",
+      "choices": [
+        "Titrant and analyte react in stoichiometric amounts",
+        "An indicator changes color in its transition range",
+        "The solution reaches exactly neutral pH",
+        "The burette delivers its calibrated volume"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "titration"
+      ],
+      "explanation": "Equivalence is defined by reaction stoichiometry, not by a visual color change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The endpoint of a titration is:",
+      "choices": [
+        "Always exactly the equivalence point",
+        "The observed signal used to stop titrant addition",
+        "The analyte’s starting volume",
+        "The blank reading"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "titration"
+      ],
+      "explanation": "A well-chosen indicator makes the endpoint close to the equivalence point."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A primary standard should generally be:",
+      "choices": [
+        "Volatile and mixed with several impurities",
+        "Reactive with air and difficult to weigh",
+        "Pure and stable with known composition",
+        "Of unknown purity but constant color"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "standards"
+      ],
+      "explanation": "These properties support accurate preparation of a standard solution."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "EDTA commonly complexes many metal ions in a:",
+      "choices": [
+        "1:2 ratio only",
+        "2:1 ratio only",
+        "Random ratio",
+        "1:1 mole ratio"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "complexometric-titration"
+      ],
+      "explanation": "EDTA is typically hexadentate and forms a 1:1 complex with a metal ion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a weak acid titrated with a strong base, at half-equivalence:",
+      "choices": [
+        "pH equals pKa approximately",
+        "pH is always 7",
+        "All acid is neutralized",
+        "The solution contains only water"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "acid-base-titration"
+      ],
+      "explanation": "At half-equivalence, acid and conjugate base concentrations are equal, so Henderson-Hasselbalch gives pH = pKa."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Nernst equation relates electrode potential to:",
+      "choices": [
+        "Only electrode color",
+        "Reaction composition and temperature",
+        "Sample density only",
+        "Boiling point"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "nernst-equation"
+      ],
+      "explanation": "The Nernst relation adjusts potential from standard conditions using reaction activities or concentrations."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A pH electrode is an example of a:",
+      "choices": [
+        "A charge meter for total electrical coulombs",
+        "A mass analyzer that separates ions by m/z",
+        "A potentiometric sensor for one selected ion",
+        "A light detector for fluorescence emission"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "potentiometry"
+      ],
+      "explanation": "A glass pH electrode develops a potential related to hydrogen-ion activity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Voltammetry typically measures current while:",
+      "choices": [
+        "The sample is weighed repeatedly",
+        "The solution is distilled",
+        "The wavelength is fixed",
+        "The applied potential is varied"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "voltammetry"
+      ],
+      "explanation": "Current as a function of applied potential can reveal redox processes and analyte concentration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Coulometry determines amount of analyte by measuring total:",
+      "choices": [
+        "Electrical charge passed",
+        "Absorbance at one wavelength",
+        "Mass of solvent",
+        "Column length"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "coulometry"
+      ],
+      "explanation": "Charge relates to electron amount through Faraday’s constant and reaction stoichiometry."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In chromatography, retention time is the time between injection and:",
+      "choices": [
+        "Solvent preparation",
+        "Detection of a compound’s peak",
+        "Column washing only",
+        "Sample weighing"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "chromatography"
+      ],
+      "explanation": "Retention time reflects analyte interaction with mobile and stationary phases under specified conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Chromatographic resolution describes how well two peaks are:",
+      "choices": [
+        "Detected from the blank only",
+        "Converted to mass",
+        "Separated from each other",
+        "Kept at the column inlet"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "resolution"
+      ],
+      "explanation": "Resolution depends on retention difference, efficiency, and peak broadening."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Van Deemter relationship is used to understand how column efficiency depends on:",
+      "choices": [
+        "Detector color",
+        "Sample pH only",
+        "Molecular formula only",
+        "Mobile-phase linear velocity"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "van-deemter"
+      ],
+      "explanation": "The relationship combines eddy diffusion, longitudinal diffusion, and mass-transfer broadening."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which technique is often suitable for volatile, thermally stable compounds?",
+      "choices": [
+        "Gas chromatography",
+        "Ion chromatography only",
+        "Gravimetry",
+        "Potentiometry"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "gas-chromatography"
+      ],
+      "explanation": "GC vaporizes analytes and separates them in a gas mobile phase."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which method is often used for nonvolatile or thermally fragile dissolved compounds?",
+      "choices": [
+        "Gas chromatography without derivatization always",
+        "HPLC",
+        "Flame test",
+        "Effusion"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "hplc"
+      ],
+      "explanation": "Liquid mobile phases and varied stationary phases make HPLC broadly useful for such analytes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In mass spectrometry, the mass analyzer separates ions primarily by:",
+      "choices": [
+        "Boiling point",
+        "Optical rotation",
+        "m/z",
+        "pH"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "mass-spectrometry",
+        "analyzers"
+      ],
+      "explanation": "Different analyzers use electric or magnetic fields or time-of-flight to distinguish m/z."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An isotope pattern can help identify elements such as chlorine because chlorine has:",
+      "choices": [
+        "No isotopes",
+        "Only one stable isotope",
+        "A mass that changes during ionization",
+        "Two abundant isotopes with distinct masses"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "mass-spectrometry",
+        "isotopes"
+      ],
+      "explanation": "Chlorine-containing ions often show M and M+2 peaks from 35Cl and 37Cl."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A matrix effect occurs when:",
+      "choices": [
+        "Other sample components alter analyte response",
+        "The analyte is weighed twice",
+        "A blank is colorless",
+        "A standard has known concentration"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "matrix-effects"
+      ],
+      "explanation": "Coexisting components can suppress or enhance instrument response."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sampling plan best supports a representative result from a heterogeneous bulk material?",
+      "choices": [
+        "Take only the easiest surface portion",
+        "Collect a suitable composite or representative set of increments",
+        "Use the smallest visible fragment always",
+        "Measure the empty container"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "sampling",
+        "representativeness"
+      ],
+      "explanation": "A representative sample captures relevant spatial variation in the material."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why are replicate measurements useful?",
+      "choices": [
+        "They remove every systematic error",
+        "They make standards unnecessary",
+        "They help estimate random variability and precision",
+        "They guarantee accuracy"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "replicates"
+      ],
+      "explanation": "Replicates reveal random scatter but do not by themselves remove systematic bias."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A standard deviation describes:",
+      "choices": [
+        "Bias from a reference only",
+        "The calibration slope",
+        "The number of analytes",
+        "Spread of observations around their mean"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "standard-deviation"
+      ],
+      "explanation": "Standard deviation summarizes dispersion in the measurement set."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A confidence interval for a mean generally becomes narrower when:",
+      "choices": [
+        "More independent measurements are collected",
+        "Measurement scatter becomes larger",
+        "Fewer measurements are collected",
+        "The confidence level is set higher"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "confidence-interval"
+      ],
+      "explanation": "More independent observations usually reduce uncertainty in the estimated mean."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A systematic error typically shifts measurements:",
+      "choices": [
+        "Randomly around the true value only",
+        "In a consistent direction",
+        "Only toward zero",
+        "Without affecting the result"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "systematic-error"
+      ],
+      "explanation": "Bias from calibration or method flaws can move repeated results consistently high or low."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is an appropriate reason to use a matrix-matched calibration?",
+      "choices": [
+        "The analyte is absent",
+        "The instrument is unplugged",
+        "Sample matrix changes analyte response",
+        "The standard concentration is unknown"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "matrix-effects"
+      ],
+      "explanation": "Matching the matrix can reduce response differences between standards and samples."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a chromatographic peak area often represent under validated conditions?",
+      "choices": [
+        "Molecular shape directly",
+        "Column temperature only",
+        "Sample pH",
+        "Amount or concentration of detected analyte"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "quantitation"
+      ],
+      "explanation": "Peak area is commonly related to analyte amount through calibration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument is used to quantify light absorption as a function of wavelength?",
+      "choices": [
+        "UV-visible spectrophotometer",
+        "Burette",
+        "pH paper only",
+        "Analytical balance"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "uv-visible"
+      ],
+      "explanation": "A UV-visible instrument measures absorbance or transmittance across selected wavelengths."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which method detects emitted light after excitation and can be very sensitive?",
+      "choices": [
+        "Infrared spectroscopy",
+        "Fluorescence spectroscopy",
+        "Atomic absorption spectroscopy",
+        "Raman spectroscopy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "fluorescence"
+      ],
+      "explanation": "Fluorescence measures light emitted by an excited species as it returns to a lower energy state."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which technique is particularly useful for measuring trace metals after atomization?",
+      "choices": [
+        "TLC",
+        "Acid-base indicator",
+        "Atomic absorption spectroscopy",
+        "Polarimetry only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "atomic-absorption"
+      ],
+      "explanation": "Atomic absorption measures element-specific light absorption by free atoms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Inductively coupled plasma mass spectrometry can provide:",
+      "choices": [
+        "Only protein sequencing",
+        "Only acid strength",
+        "Only melting points",
+        "Elemental analysis at trace levels"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "icp-ms"
+      ],
+      "explanation": "ICP-MS ionizes elements in plasma and separates ions by m/z."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why is chain of custody important for some analytical samples?",
+      "choices": [
+        "It documents handling and identity across transfers",
+        "It changes the analyte concentration",
+        "It calibrates a detector",
+        "It eliminates all uncertainty"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "laboratory",
+        "data-integrity"
+      ],
+      "explanation": "Documented custody helps establish sample identity and handling history."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Accuracy and precision describe the same property.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "accuracy-precision"
+      ],
+      "explanation": "Accuracy is closeness to a reference; precision is repeatability."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A calibration curve should be used within its validated working range.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "working-range"
+      ],
+      "explanation": "Extrapolation can produce unreliable concentration estimates."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A blank can reveal signal contributed by reagents or the measurement system.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "blanks"
+      ],
+      "explanation": "Blank correction helps identify background signal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A high correlation coefficient alone proves that a calibration model is accurate and appropriate.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "regression"
+      ],
+      "explanation": "Fit diagnostics, residuals, standards, range, and uncertainty also matter."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The limit of quantification is generally at or above the limit of detection.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "quantification-limit"
+      ],
+      "explanation": "Reliable quantification usually requires a larger signal than detection alone."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Standard additions can help address matrix effects.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "standard-additions"
+      ],
+      "explanation": "Added analyte is measured within the sample matrix."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A primary standard should have known purity and stable composition.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "standards"
+      ],
+      "explanation": "These properties support accurate preparation and titration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Titration endpoint and equivalence point mean exactly the same thing.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "titration"
+      ],
+      "explanation": "Equivalence is stoichiometric; endpoint is the observed stopping signal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At the half-equivalence point for a weak acid titrated by strong base, pH is approximately pKa.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "acid-base-titration"
+      ],
+      "explanation": "At half-equivalence, acid and conjugate-base concentrations are equal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "EDTA commonly forms 1:1 complexes with metal ions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "complexometric-titration"
+      ],
+      "explanation": "One EDTA molecule chelates one metal ion in the common analytical complex."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Gravimetric methods infer analyte amount from the mass of an isolated compound of known stoichiometry.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "gravimetry"
+      ],
+      "explanation": "Precipitation and careful weighing are common steps."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An ion-selective electrode can produce a potential related to a particular ion’s activity.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "ion-selective-electrode"
+      ],
+      "explanation": "The response is selective but may include interferences and calibration needs."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Voltammetry measures current as a function of applied potential.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "voltammetry"
+      ],
+      "explanation": "Potential is varied to drive redox reactions at an electrode."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Coulometry relates analyte amount to total electrical charge for a defined electrode reaction.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "coulometry"
+      ],
+      "explanation": "Faraday’s law links charge to electron amount."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Chromatographic resolution improves when peaks become more separated and narrower.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "resolution"
+      ],
+      "explanation": "Greater retention difference and less peak broadening improve separation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Van Deemter equation relates plate height to mobile-phase velocity.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "van-deemter"
+      ],
+      "explanation": "Its terms describe multiple sources of band broadening."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Gas chromatography is routinely ideal for nonvolatile, heat-sensitive compounds without modification.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "gas-chromatography"
+      ],
+      "explanation": "GC commonly requires analytes to vaporize and withstand heat."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mass spectrometry distinguishes ions by mass-to-charge ratio.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "mass-spectrometry",
+        "analyzers"
+      ],
+      "explanation": "The analyzer separates ions according to m/z."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Replicate measurements can help estimate random variation.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "replicates"
+      ],
+      "explanation": "Repeated measurements reveal precision and random scatter."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Repeating an analysis automatically removes systematic bias.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "systematic-error"
+      ],
+      "explanation": "Replicates may reproduce the same biased result."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A representative sample is essential if the source material is heterogeneous.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "sampling",
+        "representativeness"
+      ],
+      "explanation": "A poorly chosen subsample cannot reliably represent the whole material."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An internal standard can correct for some variations in sample preparation or injection.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "internal-standard"
+      ],
+      "explanation": "The standard must be chosen and validated to behave suitably."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In Beer-Lambert law, absorbance is proportional to path length and concentration under suitable conditions.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "beer-lambert"
+      ],
+      "explanation": "A = εbc for an appropriate wavelength and linear regime."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A standard reference material can support method accuracy checks.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "reference-materials"
+      ],
+      "explanation": "Its characterized values allow comparison with measured results."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A sample matrix can suppress or enhance an analytical signal.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "matrix-effects"
+      ],
+      "explanation": "Coexisting components can affect analyte response."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a calibration curve?",
+      "answer": "A relationship between instrument response and known analyte concentrations used to estimate unknowns.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "curve"
+      ],
+      "explanation": "It should be appropriate for the sample range and method."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is analytical sensitivity?",
+      "answer": "How strongly an instrument response changes as analyte concentration changes, often represented by calibration slope.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "sensitivity"
+      ],
+      "explanation": "Sensitivity is distinct from selectivity and detection limit."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the limit of detection?",
+      "answer": "The lowest analyte level that a method can reliably distinguish from background under stated conditions.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "detection-limit"
+      ],
+      "explanation": "Detection does not necessarily mean precise quantification."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the limit of quantification?",
+      "answer": "The lowest level at which an analyte can be quantified with specified acceptable performance.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "quantification-limit"
+      ],
+      "explanation": "LOQ is usually higher than LOD."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is standard addition?",
+      "answer": "A calibration method where known analyte increments are added directly to sample aliquots.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "standard-additions"
+      ],
+      "explanation": "It can compensate for some matrix effects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an internal standard?",
+      "answer": "A known compound added to samples and standards to normalize response variations.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "internal-standard"
+      ],
+      "explanation": "It should behave similarly to the analyte during preparation and measurement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a method blank?",
+      "answer": "A blank carried through the analytical procedure to reveal contamination or background from reagents and handling.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "blanks"
+      ],
+      "explanation": "It is more informative than measuring pure solvent alone when preparation matters."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a certified reference material?",
+      "answer": "A material with one or more characterized property values and associated uncertainty, used to evaluate measurements.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "reference-materials"
+      ],
+      "explanation": "It helps check bias, traceability, or method performance."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the equivalence point of a titration?",
+      "answer": "The point where titrant and analyte have reacted in their stoichiometric proportions.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "titration"
+      ],
+      "explanation": "An indicator endpoint is an experimental signal chosen to approximate it."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the endpoint of a titration?",
+      "answer": "The observed signal, such as an indicator color change, used to stop titrant addition.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "titration"
+      ],
+      "explanation": "A good indicator changes near the equivalence point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a primary standard provide?",
+      "answer": "A stable, pure substance of known composition for preparing or standardizing a solution.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "standards"
+      ],
+      "explanation": "It supports traceable concentration determination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is gravimetric analysis?",
+      "answer": "Quantitative analysis that relates analyte amount to the mass of an isolated compound.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "gravimetry"
+      ],
+      "explanation": "The isolated material must have known composition and be sufficiently pure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an ion-selective electrode?",
+      "answer": "A potentiometric sensor whose membrane responds preferentially to a particular ion.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "ion-selective-electrode"
+      ],
+      "explanation": "A pH glass electrode is a familiar example."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the Nernst equation used for?",
+      "answer": "Relating electrode potential to standard potential and reaction composition at a given temperature.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "nernst-equation"
+      ],
+      "explanation": "It accounts for nonstandard concentrations or activities."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does voltammetry measure?",
+      "answer": "Current as a function of controlled electrode potential.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "voltammetry"
+      ],
+      "explanation": "The response can identify redox behavior and quantify analytes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is coulometry?",
+      "answer": "An electroanalytical method that determines amount from the total charge consumed or produced in a defined reaction.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "coulometry"
+      ],
+      "explanation": "Faraday’s law connects charge and moles of electrons."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is chromatographic resolution?",
+      "answer": "A measure of how well two adjacent chromatographic peaks are separated.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "resolution"
+      ],
+      "explanation": "Narrow, distinct peaks are easier to quantify independently."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the Van Deemter equation describe?",
+      "answer": "How chromatographic plate height and band broadening depend on mobile-phase linear velocity.",
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "van-deemter"
+      ],
+      "explanation": "It helps identify an efficient flow-rate region."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the purpose of a mass analyzer?",
+      "answer": "To separate ions according to mass-to-charge ratio.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "mass-spectrometry",
+        "analyzers"
+      ],
+      "explanation": "Quadrupole, time-of-flight, and magnetic-sector instruments use different principles."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a matrix effect?",
+      "answer": "A change in analyte signal caused by other components of the sample.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "matrix-effects"
+      ],
+      "explanation": "Matrix effects may enhance or suppress response."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a representative sample?",
+      "answer": "A sample that reflects the relevant composition and variation of the material being studied.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "sampling",
+        "representativeness"
+      ],
+      "explanation": "Sampling design matters especially for heterogeneous materials."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the difference between random and systematic error?",
+      "answer": "Random error causes unpredictable scatter; systematic error shifts results consistently in a direction.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "measurement-error"
+      ],
+      "explanation": "Replicates help estimate random variation but may not reveal systematic bias."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a calibration residual?",
+      "answer": "The difference between an observed standard response and the response predicted by a fitted calibration model.",
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "regression"
+      ],
+      "explanation": "Residual patterns can reveal nonlinearity or model problems."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does Beer-Lambert law relate?",
+      "answer": "Absorbance to molar absorptivity, path length, and concentration: A = εbc under suitable conditions.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "beer-lambert"
+      ],
+      "explanation": "The relationship is most useful within a validated linear range."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is quality control in an analytical lab?",
+      "answer": "Procedures and checks used to monitor whether measurements remain reliable and fit for purpose.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "quality-control",
+        "qa-qc"
+      ],
+      "explanation": "Blanks, standards, replicates, and control samples are common tools."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Analytical selectivity describes a method’s ability to:",
+      "choices": [
+        "Produce a large signal for any compound",
+        "Measure an analyte in the presence of other components",
+        "Measure only high concentrations",
+        "Avoid calibration"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "foundations",
+        "selectivity"
+      ],
+      "explanation": "Selectivity concerns distinguishing the analyte from interferents, while sensitivity concerns signal change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A t-test is commonly used to compare:",
+      "choices": [
+        "Two molecular structures",
+        "Two chromatographic solvents only",
+        "A sample mean with a reference mean or another mean",
+        "Atomic numbers"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "t-test"
+      ],
+      "explanation": "A t-test evaluates mean differences relative to estimated variability under its assumptions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An F-test is commonly associated with comparing:",
+      "choices": [
+        "Molecular masses",
+        "Boiling points only",
+        "Absorbance wavelengths",
+        "Variances"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "f-test"
+      ],
+      "explanation": "The F statistic is a ratio of variance estimates and is used in specific comparison tests."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A curved pattern in calibration residuals suggests that:",
+      "choices": [
+        "A linear model may not describe the response well",
+        "The standards are always perfect",
+        "The blank is unnecessary",
+        "The analyte is absent"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "regression"
+      ],
+      "explanation": "Structured residuals can indicate nonlinearity or a poor model choice."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Ion-exchange chromatography separates analytes mainly by differences in:",
+      "choices": [
+        "Molecular size interactions with pore surfaces",
+        "Charge interactions with the stationary phase",
+        "Boiling point differences in a gas phase",
+        "Optical rotation through a chiral solvent"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "ion-exchange"
+      ],
+      "explanation": "Charged analytes interact with oppositely charged groups on the stationary phase."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Size-exclusion chromatography separates molecules mainly by:",
+      "choices": [
+        "Acid strength",
+        "Oxidation state only",
+        "Effective size in solution",
+        "Optical rotation"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "size-exclusion"
+      ],
+      "explanation": "Larger species are often excluded from more pores and elute earlier than smaller species."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In amperometry, current is measured while the electrode potential is often:",
+      "choices": [
+        "Swept across all wavelengths",
+        "Changed by weighing the sample",
+        "Set by boiling the solution",
+        "Held at a selected value"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "amperometry"
+      ],
+      "explanation": "Amperometric methods measure current at a controlled potential."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Conductometry measures a solution’s ability to:",
+      "choices": [
+        "Conduct electrical current",
+        "Absorb infrared light",
+        "Emit fluorescence",
+        "Separate compounds by size"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "conductometry"
+      ],
+      "explanation": "Ions in solution carry current; conductivity can change during a reaction or titration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In atomic emission spectroscopy, analyte atoms or ions are measured by their:",
+      "choices": [
+        "Mass after precipitation",
+        "Emitted characteristic light",
+        "Color in a burette",
+        "Vapor pressure"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "spectroscopy",
+        "atomic-emission"
+      ],
+      "explanation": "Excited atoms or ions emit wavelengths characteristic of the elements."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which property best describes analytical sensitivity?",
+      "choices": [
+        "Ability to ignore every interferent",
+        "Agreement with a reference value only",
+        "Change in signal per change in analyte concentration",
+        "Repeatability alone"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "sensitivity"
+      ],
+      "explanation": "Sensitivity is often represented by the slope of a calibration curve."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why use a redox indicator in a titration?",
+      "choices": [
+        "Its mass change marks completion of the titration",
+        "Its odor change identifies the analyte",
+        "Its boiling point signals when titrant is used up",
+        "Its color change signals redox progress near endpoint"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "classical-analysis",
+        "redox-titration"
+      ],
+      "explanation": "A redox indicator changes color over a potential range near the titration endpoint."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why can ionic strength matter in equilibrium calculations?",
+      "choices": [
+        "Activities can differ from concentrations in nonideal ionic solutions",
+        "It changes atomic numbers",
+        "It removes all dissolved ions",
+        "It makes every equilibrium constant zero"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "analytical-chemistry",
+        "equilibria",
+        "ionic-strength"
+      ],
+      "explanation": "Activity corrections account for nonideal interactions among ions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sensitivity and selectivity describe different analytical method properties.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "foundations",
+        "selectivity"
+      ],
+      "explanation": "Sensitivity is signal response; selectivity is discrimination against interferents."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A residual is the difference between an observed value and a model-predicted value.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "calibration",
+        "regression"
+      ],
+      "explanation": "Residuals help assess model fit and assumptions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Conductivity in an electrolyte solution is related to mobile ions.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "conductometry"
+      ],
+      "explanation": "Dissolved ions carry electric current through the solution."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In size-exclusion chromatography, large molecules can elute before small ones because they enter fewer pores.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "size-exclusion"
+      ],
+      "explanation": "Smaller molecules access more pore volume and are retained longer in many size-exclusion columns."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is analytical selectivity?",
+      "answer": "The ability of a method to measure an analyte in the presence of other sample components.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "foundations",
+        "selectivity"
+      ],
+      "explanation": "Selectivity is not the same as sensitivity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a t-test assess?",
+      "answer": "Whether a difference between means is large relative to variability under a specified statistical model.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "statistics",
+        "t-test"
+      ],
+      "explanation": "The test’s assumptions and significance level must be considered."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a chromatographic stationary phase?",
+      "answer": "The phase that remains fixed in place while the mobile phase carries sample components through or across it.",
+      "difficulty": "easy",
+      "tags": [
+        "analytical-chemistry",
+        "separations",
+        "chromatography"
+      ],
+      "explanation": "Different analyte interactions with the phases produce separation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is amperometry?",
+      "answer": "An electroanalytical method that measures current at a controlled electrode potential.",
+      "difficulty": "medium",
+      "tags": [
+        "analytical-chemistry",
+        "electroanalysis",
+        "amperometry"
+      ],
+      "explanation": "The measured current can relate to analyte concentration under calibrated conditions."
+    }
+  ]
+}

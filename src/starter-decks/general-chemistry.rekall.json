@@ -1,0 +1,1769 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-general-chemistry",
+    "name": "General Chemistry I & II",
+    "description": "A compact two-semester review of general chemistry, quantitative reasoning, equilibria, electrochemistry, and laboratory practice."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "A 12.0 g sample has a volume of 4.0 mL. What is its density?",
+      "choices": [
+        "3.0 g/mL",
+        "0.33 g/mL",
+        "8.0 g/mL",
+        "48 g/mL"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "measurement",
+        "density"
+      ],
+      "explanation": "Density is mass divided by volume: 12.0 g / 4.0 mL = 3.0 g/mL, to two significant figures."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A sample contains 2.0 mol of particles in 0.50 L. What is its molarity?",
+      "choices": [
+        "0.25 M",
+        "4.0 M",
+        "1.0 M",
+        "2.5 M"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "molarity"
+      ],
+      "explanation": "Molarity is moles of solute per liter of solution: 2.0 / 0.50 = 4.0 mol/L."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which isotope has 17 protons and 20 neutrons?",
+      "choices": [
+        "chlorine-17",
+        "chlorine-20",
+        "chlorine-37",
+        "argon-37"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "isotopes"
+      ],
+      "explanation": "The element is chlorine because it has 17 protons. Its mass number is 17 + 20 = 37."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the ground-state electron configuration of oxygen?",
+      "choices": [
+        "1s2 2s2 2p6",
+        "1s2 2s2 2p2",
+        "1s2 2s2 2p3",
+        "1s2 2s2 2p4"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "electron-configuration"
+      ],
+      "explanation": "Oxygen has eight electrons: two fill 1s, two fill 2s, and four occupy 2p."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which atom has the largest atomic radius?",
+      "choices": [
+        "Rb",
+        "Li",
+        "Na",
+        "K"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "periodic-trends",
+        "atomic-radius"
+      ],
+      "explanation": "Atomic radius generally increases down a group as additional electron shells are occupied; rubidium is lowest here."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which species is isoelectronic with Ne?",
+      "choices": [
+        "Na",
+        "Na+",
+        "Mg",
+        "F"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "ions"
+      ],
+      "explanation": "Ne has 10 electrons. Na+ has 11 protons but has lost one electron, leaving 10."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Lewis structure feature most often indicates a double bond between two atoms?",
+      "choices": [
+        "One shared electron pair",
+        "A lone pair on each atom",
+        "Two shared electron pairs",
+        "An ionic charge on both atoms"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "lewis-structures"
+      ],
+      "explanation": "A double bond consists of two shared electron pairs between the bonded atoms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the molecular geometry of CO??",
+      "choices": [
+        "Bent",
+        "Trigonal pyramidal",
+        "Tetrahedral",
+        "Linear"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "vsepr"
+      ],
+      "explanation": "Carbon has two electron domains in CO2 and no lone pairs, so the molecule is linear."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which molecule has polar bonds but is nonpolar overall?",
+      "choices": [
+        "CO2",
+        "H2O",
+        "NH3",
+        "HCl"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "polarity"
+      ],
+      "explanation": "Each C=O bond is polar, but the linear molecule is symmetric, so the bond dipoles cancel."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of FeCl??",
+      "choices": [
+        "Iron chloride",
+        "Iron(III) chloride",
+        "Iron(I) chloride",
+        "Iron(II) chloride"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "nomenclature",
+        "ionic-compounds"
+      ],
+      "explanation": "Three chloride ions contribute a total -3 charge, so iron must be +3; the Roman numeral states that charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the formula of aluminum sulfate?",
+      "choices": [
+        "AlSO4",
+        "Al2SO4",
+        "Al2(SO4)3",
+        "Al3(SO4)2"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "nomenclature",
+        "ionic-compounds"
+      ],
+      "explanation": "Two Al3+ ions balance three SO4 2- ions, giving Al2(SO4)3."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many moles are in 11.0 g of CO2? Use 44.0 g/mol.",
+      "choices": [
+        "2.00 mol",
+        "4.00 mol",
+        "484 mol",
+        "0.250 mol"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "mole"
+      ],
+      "explanation": "Moles equal mass divided by molar mass: 11.0 / 44.0 = 0.250 mol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For 2H? + O? ? 2H'O, how many moles of water form from 3 mol O? with excess H??",
+      "choices": [
+        "6 mol",
+        "2 mol",
+        "3 mol",
+        "9 mol"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "reaction-ratios"
+      ],
+      "explanation": "The balanced equation gives a 1:2 ratio of O2 to H2O, so 3 mol O2 forms 6 mol H2O."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For N? + 3H? ? 2NH?, a mixture has 1 mol N? and 2 mol H?. Which reactant limits product formation?",
+      "choices": [
+        "N2",
+        "H2",
+        "Neither; exact amounts",
+        "NH3"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "limiting-reactant"
+      ],
+      "explanation": "One mole N2 needs 3 mol H2, but only 2 mol H2 is present, so H2 is limiting."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction has a theoretical yield of 10.0 g and produces 8.0 g. What is the percent yield?",
+      "choices": [
+        "20%",
+        "100%",
+        "80%",
+        "125%"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "yield"
+      ],
+      "explanation": "Percent yield is actual divided by theoretical yield times 100: 8.0 / 10.0 * 100 = 80%."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At constant temperature, a gas is compressed to half its initial volume. What happens to its pressure if the amount of gas is unchanged?",
+      "choices": [
+        "It halves",
+        "It stays the same",
+        "It becomes zero",
+        "It doubles"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "gas-laws"
+      ],
+      "explanation": "Boyle's law gives inverse pressure-volume dependence at fixed temperature: halving volume doubles pressure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A gas mixture has total pressure 1.00 atm. If oxygen contributes 0.21 atm, what fraction of the mixture is oxygen by mole?",
+      "choices": [
+        "0.21",
+        "0.021",
+        "0.79",
+        "4.76"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "partial-pressure"
+      ],
+      "explanation": "For an ideal gas mixture, mole fraction equals partial pressure divided by total pressure: 0.21 / 1.00 = 0.21."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How much heat warms 100 g water by 10 degrees C? Use c = 4.18 J/(g degree C).",
+      "choices": [
+        "41.8 J",
+        "4,180 J",
+        "418 J",
+        "41,800 J"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "calorimetry"
+      ],
+      "explanation": "q = m c delta T = 100 * 4.18 * 10 = 4,180 J."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction has ?H = ?50 kJ. Which description fits the reaction at constant pressure?",
+      "choices": [
+        "It absorbs 50 kJ of heat",
+        "Its temperature must fall",
+        "It releases 50 kJ of heat",
+        "It cannot occur spontaneously"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "enthalpy"
+      ],
+      "explanation": "A negative enthalpy change means the system releases heat to its surroundings at constant pressure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which intermolecular force is especially important between water molecules?",
+      "choices": [
+        "Ion-dipole only",
+        "Metallic bonding",
+        "Covalent bonding between molecules",
+        "Hydrogen bonding"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "intermolecular-forces",
+        "hydrogen-bonding"
+      ],
+      "explanation": "Water has O-H bonds and lone pairs on oxygen, allowing strong hydrogen bonding between molecules."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substance is expected to have the highest boiling point?",
+      "choices": [
+        "C4H10",
+        "CH4",
+        "C2H6",
+        "C3H8"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "intermolecular-forces",
+        "boiling-point"
+      ],
+      "explanation": "These nonpolar molecules rely mainly on dispersion forces, which grow stronger with molecular size; butane is largest."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many grams of NaCl are needed for 0.50 L of 0.20 M solution? Use 58.5 g/mol.",
+      "choices": [
+        "2.9 g",
+        "5.9 g",
+        "11.7 g",
+        "29.3 g"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "concentration"
+      ],
+      "explanation": "First find moles: 0.20 mol/L * 0.50 L = 0.10 mol. Multiplying by 58.5 g/mol gives 5.85 g, or 5.9 g."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A 2.0 M solution is diluted from 100 mL to 500 mL. What is the new concentration?",
+      "choices": [
+        "0.20 M",
+        "2.0 M",
+        "0.40 M",
+        "10 M"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "dilution"
+      ],
+      "explanation": "The solute amount stays constant: M1V1 = M2V2, so M2 = 2.0 * 100 / 500 = 0.40 M."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A reaction rate doubles when [A] doubles, while other conditions are fixed. What order in A does this observation suggest?",
+      "choices": [
+        "Zero order",
+        "Second order",
+        "It cannot be inferred",
+        "First order"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "rate-laws"
+      ],
+      "explanation": "For a first-order dependence, rate is proportional to [A], so doubling [A] doubles the rate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A catalyst speeds a reaction by providing a pathway with lower:",
+      "choices": [
+        "Activation energy",
+        "Product energy",
+        "Reaction enthalpy",
+        "Equilibrium constant"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "catalysis"
+      ],
+      "explanation": "A catalyst offers an alternate mechanism with a lower activation-energy barrier. It does not change enthalpy or the equilibrium constant."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a reaction at equilibrium, what does Q = K indicate?",
+      "choices": [
+        "The forward reaction has stopped permanently",
+        "There is no net change in composition",
+        "The reverse reaction is faster",
+        "All reactant has become product"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "reaction-quotient"
+      ],
+      "explanation": "When Q equals K, forward and reverse rates are equal and concentrations have no net change, though both reactions continue."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "If K is much greater than 1, which mixture is favored at equilibrium?",
+      "choices": [
+        "Mostly reactants",
+        "Equal reactants and products always",
+        "Mostly products",
+        "Only catalysts"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "equilibrium-constant"
+      ],
+      "explanation": "A large K means the product-to-reactant ratio at equilibrium is large under the stated reaction convention."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For N?(g) + 3H?(g) ? 2NH?(g), increasing pressure by decreasing volume favors which side?",
+      "choices": [
+        "The reactant side with more gas moles",
+        "Neither side under any conditions",
+        "The side with more solids",
+        "The product side with fewer gas moles"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "le-chatelier"
+      ],
+      "explanation": "Decreasing volume favors the side with fewer moles of gas; the product side has two versus four gas moles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the pH of a solution with [H'O?] = 1 ? 10?? M?",
+      "choices": [
+        "3",
+        "-3",
+        "11",
+        "7"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "pH = -log10[H3O+], so pH = 3."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mixture is a buffer?",
+      "choices": [
+        "HCl and NaCl",
+        "HF and NaF",
+        "NaOH and KOH",
+        "HNO3 and KNO3"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "A weak acid and its conjugate base (HF/F-) can consume added base and acid, resisting pH change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the equivalence point of a strong-acid/strong-base titration at 25 degrees C, the solution is approximately:",
+      "choices": [
+        "pH 1",
+        "pH 5",
+        "pH 7",
+        "pH 14"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "titration"
+      ],
+      "explanation": "At equivalence, acid and base have neutralized in stoichiometric amounts; the resulting salt does not appreciably hydrolyze, giving pH near 7 at 25 degrees C."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For AgCl(s) ? Ag? + Cl?, adding NaCl generally does what to AgCl solubility?",
+      "choices": [
+        "Increases it",
+        "Does not affect it",
+        "Turns AgCl into gas",
+        "Decreases it"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solubility",
+        "common-ion"
+      ],
+      "explanation": "Added Cl- is a common ion and shifts the dissolution equilibrium toward solid AgCl, decreasing its solubility."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A process is spontaneous at constant temperature and pressure when its Gibbs free-energy change is:",
+      "choices": [
+        "Negative",
+        "Positive",
+        "Exactly equal to enthalpy change",
+        "Always zero"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermodynamics",
+        "gibbs-free-energy"
+      ],
+      "explanation": "A negative Gibbs free-energy change indicates thermodynamic favorability under the stated conditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about a galvanic cell is correct?",
+      "choices": [
+        "It requires electrical energy to drive a nonspontaneous reaction",
+        "It uses a spontaneous redox reaction to produce electrical energy",
+        "Oxidation occurs at the cathode",
+        "Electrons flow through the salt bridge"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "galvanic-cells"
+      ],
+      "explanation": "A galvanic cell converts energy from a spontaneous redox reaction into electrical work. Oxidation occurs at the anode."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A radioactive sample falls to one-quarter its initial amount. How many half-lives have passed?",
+      "choices": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "nuclear-chemistry",
+        "half-life"
+      ],
+      "explanation": "After one half-life one-half remains; after two, one-quarter remains."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a spectrophotometric calibration plot of absorbance versus concentration, what does a steeper linear slope usually mean?",
+      "choices": [
+        "Lower sensitivity",
+        "Higher sample density",
+        "No relationship to response",
+        "Greater sensitivity"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "spectroscopy"
+      ],
+      "explanation": "A steeper slope means absorbance changes more for each concentration change, indicating greater analytical sensitivity over that range."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A student overshoots a burette endpoint by adding too much titrant. If they use the recorded volume, the calculated analyte amount will usually be:",
+      "choices": [
+        "Too high",
+        "Too low",
+        "Unchanged",
+        "Exactly zero"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "titration"
+      ],
+      "explanation": "The recorded titrant volume is too large, so the stoichiometric calculation overestimates the amount of analyte."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which change would increase the rate of most reactions by increasing the frequency of effective collisions?",
+      "choices": [
+        "Lowering concentration",
+        "Increasing reactant concentration",
+        "Cooling the reactants",
+        "Removing all solvent"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "collision-theory"
+      ],
+      "explanation": "Higher reactant concentration usually increases collision frequency and therefore the rate, all else equal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a first-order process, which quantity is constant over equal time intervals?",
+      "choices": [
+        "Amount consumed",
+        "Concentration lost",
+        "Fraction remaining",
+        "Reaction rate"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "integrated-rate-laws"
+      ],
+      "explanation": "First-order decay has a constant half-life, so the same fraction (one-half) remains after each equal half-life interval."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "When a reaction is at dynamic equilibrium in a closed system:",
+      "choices": [
+        "Reactant and product concentrations must be equal",
+        "All molecular motion stops",
+        "The reaction quotient is zero",
+        "Forward and reverse rates are equal"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "dynamic-equilibrium"
+      ],
+      "explanation": "Dynamic equilibrium means forward and reverse reaction rates are equal; concentrations are constant but need not be equal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is a conjugate acid of NH??",
+      "choices": [
+        "NH4+",
+        "NH2-",
+        "NO3-",
+        "N2H4"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "conjugate-pairs"
+      ],
+      "explanation": "A conjugate acid forms when a base accepts H+. Adding H+ to NH3 gives NH4+."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which description best fits an electrolyte solution?",
+      "choices": [
+        "It contains only neutral molecules",
+        "It contains mobile ions and can conduct electricity",
+        "It cannot contain water",
+        "It always has pH 7"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "electrolytes"
+      ],
+      "explanation": "Mobile ions carry electric charge through an electrolyte solution. Strong and weak electrolytes differ in the extent of ion formation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A calibration standard has a known concentration. Why is it useful?",
+      "choices": [
+        "It identifies the unknown by color alone",
+        "It prevents all measurement error",
+        "It relates instrument response to analyte concentration",
+        "It changes the unknown chemically"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "calibration"
+      ],
+      "explanation": "Known standards establish the response-concentration relationship used to estimate the concentration of an unknown."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The number of protons determines an atom's element identity.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "atomic-number"
+      ],
+      "explanation": "Every atom of a given element has the same number of protons; changing that number makes a different element."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Isotopes of one element have different numbers of protons.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "isotopes"
+      ],
+      "explanation": "Isotopes share the same proton number but differ in neutron number."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A neutral atom has equal numbers of protons and electrons.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "ions"
+      ],
+      "explanation": "Equal positive and negative charges make a neutral atom; ions have gained or lost electrons."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A p orbital can hold up to six electrons.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "orbitals"
+      ],
+      "explanation": "A p subshell contains three orbitals, each holding at most two electrons."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Ionization energy generally increases from left to right across a period, with some exceptions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "periodic-trends",
+        "ionization-energy"
+      ],
+      "explanation": "Effective nuclear attraction generally grows across a period, though subshell structure and electron pairing cause exceptions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A polar covalent bond always makes the entire molecule polar.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "molecular-polarity"
+      ],
+      "explanation": "Molecular shape matters: symmetric bond dipoles can cancel, as in CO2."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a balanced chemical equation, coefficients change the identity of the substances.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "reactions",
+        "balancing-equations"
+      ],
+      "explanation": "Coefficients change the relative amounts; changing subscripts would change a substance's chemical formula."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A limiting reactant is the reactant that is used up first and limits product amount.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "limiting-reactant"
+      ],
+      "explanation": "The limiting reactant determines the maximum product possible from the starting mixture."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Theoretical yield is the amount actually collected in an experiment.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "yield"
+      ],
+      "explanation": "Theoretical yield is the calculated maximum; actual yield is what is recovered experimentally."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At constant pressure, heat exchanged by a system equals its enthalpy change.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "enthalpy"
+      ],
+      "explanation": "For a process at constant pressure with only pressure-volume work, heat at constant pressure equals enthalpy change."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An ideal gas's particles are assumed to have negligible volume and no intermolecular attractions.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "kinetic-molecular-theory"
+      ],
+      "explanation": "These are central ideal-gas model assumptions; real gases can deviate, especially at high pressure and low temperature."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Molarity is defined using liters of solvent rather than liters of solution.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "molarity"
+      ],
+      "explanation": "Molarity is moles of solute per liter of total solution."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A catalyst changes the equilibrium constant of a reaction.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "catalysis"
+      ],
+      "explanation": "A catalyst speeds both forward and reverse pathways and helps equilibrium be reached sooner, but K is unchanged at a given temperature."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At equilibrium, the concentrations of reactants and products are always equal.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "dynamic-equilibrium"
+      ],
+      "explanation": "Equilibrium concentrations are constant, but their values depend on the reaction and K."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A weak acid is only partially ionized in water.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "weak-acids"
+      ],
+      "explanation": "Weak acids establish an equilibrium in which only some acid molecules donate protons."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At 25 degrees C, a solution with pH 4 has ten times the hydronium concentration of a solution with pH 5.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "ph"
+      ],
+      "explanation": "Each one-unit pH decrease corresponds to a tenfold increase in hydronium concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Adding a common ion usually increases the solubility of a sparingly soluble salt.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solubility",
+        "common-ion"
+      ],
+      "explanation": "A common ion shifts the dissolution equilibrium toward the undissolved solid and usually lowers solubility."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A negative Gibbs free-energy change guarantees that a reaction is fast.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermodynamics",
+        "kinetics"
+      ],
+      "explanation": "Gibbs free-energy change concerns thermodynamic favorability, not rate; a favorable reaction may be slow because of a high activation barrier."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a galvanic cell, reduction occurs at the cathode.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "electrodes"
+      ],
+      "explanation": "The mnemonic Red Cat recalls that reduction occurs at the cathode in both galvanic and electrolytic cells."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Electrons travel through the external wire from anode to cathode in a galvanic cell.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "electron-flow"
+      ],
+      "explanation": "Oxidation at the anode releases electrons; reduction at the cathode consumes them."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A buffer can resist every possible pH change regardless of how much acid or base is added.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "Buffer capacity is finite; sufficiently large additions overwhelm the conjugate acid-base pair."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A strong acid and a concentrated acid mean the same thing.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "acid-strength"
+      ],
+      "explanation": "Strength describes ionization extent; concentration describes amount per volume. A strong acid can be dilute."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The half-life of a first-order reaction is independent of its starting concentration.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "half-life"
+      ],
+      "explanation": "For first-order kinetics, the half-life is 0.693/k and does not depend on initial concentration."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Increasing temperature changes the value of an equilibrium constant for a reaction.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "temperature"
+      ],
+      "explanation": "Temperature changes K; whether it rises or falls depends on whether the forward reaction absorbs or releases heat."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A blank measurement can help reveal instrument or reagent background signal.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "quality-control"
+      ],
+      "explanation": "A blank contains the measurement setup without the analyte and helps identify background contributions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Random error is reduced by taking repeated measurements and averaging them.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "measurement-error"
+      ],
+      "explanation": "Averaging independent measurements can reduce random scatter; it does not automatically remove systematic bias."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Nernst equation relates electrode potential to conditions such as concentration.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "nernst-equation"
+      ],
+      "explanation": "The Nernst equation adjusts cell potential from standard conditions using the reaction quotient."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is dimensional analysis?",
+      "answer": "Using units as conversion factors to cancel unwanted units and track a calculation.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "measurement",
+        "unit-conversion"
+      ],
+      "explanation": "If units do not cancel to the desired unit, the setup needs correction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an empirical formula?",
+      "answer": "The simplest whole-number ratio of atoms of each element in a compound.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "formulas"
+      ],
+      "explanation": "A molecular formula may be a whole-number multiple of an empirical formula."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does effective nuclear charge describe?",
+      "answer": "The net positive attraction felt by an electron after shielding by other electrons.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "periodic-trends"
+      ],
+      "explanation": "It helps explain trends in atomic size and ionization energy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is resonance in a Lewis description?",
+      "answer": "A way to represent electron delocalization using multiple valid structures that differ in electron placement.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "resonance"
+      ],
+      "explanation": "The real molecule is not rapidly switching; its electron distribution is described by a resonance hybrid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is formal charge used for?",
+      "answer": "A bookkeeping estimate of charge assigned to atoms in a Lewis structure.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "formal-charge"
+      ],
+      "explanation": "Formal charge helps compare plausible Lewis structures; it is not always the same as measured partial charge."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a net ionic equation?",
+      "answer": "An equation that shows only the species that undergo chemical change, omitting spectator ions.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "reactions",
+        "net-ionic-equations"
+      ],
+      "explanation": "Spectator ions appear unchanged on both sides of the complete ionic equation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a stoichiometric coefficient represent?",
+      "answer": "The relative amount, in molecules or moles, of a substance in a balanced equation.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "reaction-ratios"
+      ],
+      "explanation": "Balanced coefficients express mole ratios, not mass ratios."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a limiting reactant?",
+      "answer": "The reactant consumed first, which sets the maximum amount of product.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "stoichiometry",
+        "limiting-reactant"
+      ],
+      "explanation": "Any other reactant is in excess when the limiting reactant is exhausted."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is specific heat capacity?",
+      "answer": "The heat required to raise one unit of mass of a substance by one degree of temperature.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "specific-heat"
+      ],
+      "explanation": "In q = m c delta T, c is the specific heat capacity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is Hess's law?",
+      "answer": "The total enthalpy change is the sum of enthalpy changes for steps that add to the overall reaction.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "hess-law"
+      ],
+      "explanation": "Enthalpy is a state function, so the path taken does not change the overall enthalpy change."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an ideal gas?",
+      "answer": "A model gas whose particles have negligible volume and no intermolecular attractions.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "ideal-gas"
+      ],
+      "explanation": "The model works best at relatively low pressure and high temperature for many real gases."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is partial pressure?",
+      "answer": "The pressure a gas in a mixture would exert if it alone occupied the container at the same temperature.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "partial-pressure"
+      ],
+      "explanation": "For ideal mixtures, total pressure is the sum of partial pressures."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is vapor pressure?",
+      "answer": "The pressure of vapor in dynamic equilibrium with its liquid in a closed container at a given temperature.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "intermolecular-forces",
+        "vapor-pressure"
+      ],
+      "explanation": "A liquid boils when its vapor pressure equals the external pressure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a colligative property?",
+      "answer": "A solution property that depends mainly on the number of dissolved particles, not their chemical identity.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "colligative-properties"
+      ],
+      "explanation": "Boiling-point elevation and freezing-point depression are examples for dilute solutions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a rate law?",
+      "answer": "An experimentally determined equation relating reaction rate to reactant concentrations.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "rate-laws"
+      ],
+      "explanation": "Rate-law exponents cannot generally be read from the balanced equation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is activation energy?",
+      "answer": "The energy barrier reactants must overcome to reach a transition state along a reaction pathway.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "activation-energy"
+      ],
+      "explanation": "A catalyst can lower the barrier through a different mechanism."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the reaction quotient Q tell you?",
+      "answer": "The current product-to-reactant ratio in the form used for K, evaluated at the present composition.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "reaction-quotient"
+      ],
+      "explanation": "Comparing Q with K predicts the direction of net change toward equilibrium."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a conjugate acid-base pair?",
+      "answer": "Two species that differ by one proton, H+.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "conjugate-pairs"
+      ],
+      "explanation": "An acid loses H+ to form its conjugate base; a base gains H+ to form its conjugate acid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is buffer capacity?",
+      "answer": "The amount of added acid or base a buffer can absorb before its pH changes substantially.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "acids-bases",
+        "buffers"
+      ],
+      "explanation": "Capacity increases with the total concentrations of the buffer components, within practical limits."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is Ksp?",
+      "answer": "The equilibrium constant expression for dissolution of a sparingly soluble ionic solid.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solubility",
+        "solubility-product"
+      ],
+      "explanation": "The pure solid is omitted from the expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is Gibbs free energy used to assess?",
+      "answer": "Thermodynamic favorability at specified temperature and pressure; a negative Gibbs free-energy change indicates a spontaneous direction.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermodynamics",
+        "gibbs-free-energy"
+      ],
+      "explanation": "It does not specify how quickly a process occurs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Where does oxidation occur in an electrochemical cell?",
+      "answer": "At the anode.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "electrodes"
+      ],
+      "explanation": "Reduction occurs at the cathode; the electrode signs depend on cell type."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the purpose of a salt bridge in a galvanic cell?",
+      "answer": "It allows ions to move between half-cells and maintain electrical neutrality while limiting direct mixing.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "salt-bridge"
+      ],
+      "explanation": "Electrons flow through the external circuit, while ions move through the salt bridge."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a standard reduction potential?",
+      "answer": "A measured or tabulated potential for a reduction half-reaction relative to the standard hydrogen electrode under standard conditions.",
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "reduction-potential"
+      ],
+      "explanation": "More positive standard reduction potentials indicate greater tendency for reduction under those conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a radioactive half-life mean?",
+      "answer": "The time required for half of the radioactive nuclei in a sample to decay, on average.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "nuclear-chemistry",
+        "half-life"
+      ],
+      "explanation": "It is a statistical property of a large population of nuclei."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a calibration curve?",
+      "answer": "A graph or model connecting instrument response to known analyte concentrations.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "calibration"
+      ],
+      "explanation": "The unknown concentration is inferred from its measured response within the validated range."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the difference between precision and accuracy?",
+      "answer": "Precision describes agreement among repeated results; accuracy describes closeness to an accepted value.",
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "measurement-error"
+      ],
+      "explanation": "A measurement series can be precise but systematically inaccurate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a complex ion?",
+      "answer": "A charged species with a central metal ion bonded to surrounding ligands.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "coordination-chemistry",
+        "complex-ions"
+      ],
+      "explanation": "Ligands donate electron pairs to the metal center."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which quantum-number value identifies a p subshell?",
+      "choices": [
+        "l = 0",
+        "l = 2",
+        "l = 3",
+        "l = 1"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "atomic-structure",
+        "quantum-numbers"
+      ],
+      "explanation": "The angular-momentum quantum number l is 1 for a p subshell."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why is ground-state O2 paramagnetic in molecular orbital theory?",
+      "choices": [
+        "It has two unpaired electrons in pi-star orbitals",
+        "It has no electrons in antibonding orbitals",
+        "Its sigma bonds are ionic",
+        "Its nuclei carry magnetic charges"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "molecular-orbital"
+      ],
+      "explanation": "The two highest-energy electrons occupy separate degenerate pi-star antibonding orbitals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ionic solid is expected to have greater lattice-energy magnitude, MgO or NaCl, with similar ion separations?",
+      "choices": [
+        "NaCl",
+        "MgO",
+        "They must be identical",
+        "Neither has lattice energy"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "lattice-energy"
+      ],
+      "explanation": "Mg2+ and O2- have larger charge magnitudes than Na+ and Cl-, strengthening electrostatic attraction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "When does a real gas most often deviate more from ideal-gas behavior?",
+      "choices": [
+        "Low pressure and high temperature",
+        "Any temperature at zero pressure",
+        "High pressure and low temperature",
+        "Only when the gas is colored"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "real-gases"
+      ],
+      "explanation": "At high pressure particles are crowded; at low temperature attractions matter more."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the same temperature, which gas effuses faster through a tiny opening?",
+      "choices": [
+        "The gas with higher molar mass",
+        "Both always at the same rate",
+        "The gas with higher density only",
+        "The gas with lower molar mass"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "gases",
+        "effusion"
+      ],
+      "explanation": "Graham’s law predicts faster effusion for gases with lower molar mass."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Using the chemistry sign convention, the first law can be written as:",
+      "choices": [
+        "Delta E = q + w",
+        "Delta E = q - w in every convention",
+        "Delta E = q times w",
+        "Delta E = 0 for every reaction"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "first-law"
+      ],
+      "explanation": "Here q is heat added to the system and w is work done on the system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At fixed temperature, Henry’s law says that dissolving gas concentration generally rises when its:",
+      "choices": [
+        "Molar mass falls to zero",
+        "Partial pressure above the liquid rises",
+        "Container is opened to vacuum",
+        "Color becomes darker"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "henrys-law"
+      ],
+      "explanation": "For a dilute solution and fixed conditions, dissolved gas concentration is proportional to its partial pressure."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For an ideal solution with a nonvolatile solute, adding more solute usually makes the solvent vapor pressure:",
+      "choices": [
+        "Higher than pure solvent",
+        "Exactly zero",
+        "Lower",
+        "Unchanged under all conditions"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "solutions",
+        "raoults-law"
+      ],
+      "explanation": "Raoult’s law relates solvent vapor pressure to its mole fraction; adding nonvolatile solute lowers that fraction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Arrhenius equation predicts that a rate constant usually increases as:",
+      "choices": [
+        "Activation energy increases",
+        "All reactants are removed",
+        "The reaction is made colder",
+        "Temperature increases"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "arrhenius-equation"
+      ],
+      "explanation": "At higher temperature, a larger fraction of molecules can overcome the activation barrier."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At a substance’s triple point, which phases coexist in equilibrium?",
+      "choices": [
+        "Solid liquid and gas coexist",
+        "Only solid and liquid coexist",
+        "Only liquid and gas coexist",
+        "Two solid forms coexist"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "phases",
+        "phase-diagrams"
+      ],
+      "explanation": "The triple point is the unique pressure and temperature at which all three phases coexist."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "During electrolysis, a nonspontaneous redox reaction is driven by:",
+      "choices": [
+        "A catalyst changing the equilibrium constant",
+        "Electrical energy supplied from outside",
+        "Heat alone in every case",
+        "A salt bridge producing electrons"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "electrolysis"
+      ],
+      "explanation": "An external power source drives the nonspontaneous chemical change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which piece of volumetric glassware is designed to deliver one calibrated fixed volume accurately?",
+      "choices": [
+        "Beaker",
+        "Watch glass",
+        "Volumetric pipette",
+        "Erlenmeyer flask"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "laboratory",
+        "glassware"
+      ],
+      "explanation": "A volumetric pipette is calibrated to deliver a specified volume."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Increasing temperature usually increases a reaction rate constant when activation energy is positive.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "kinetics",
+        "arrhenius-equation"
+      ],
+      "explanation": "The Arrhenius relation predicts a larger rate constant at higher temperature."
+    },
+    {
+      "type": "true_false",
+      "prompt": "At the critical point, the liquid-gas boundary ends.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "phases",
+        "phase-diagrams"
+      ],
+      "explanation": "Above the critical point there is no distinct liquid-gas phase boundary."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Electrolysis uses external electrical work to drive a nonspontaneous reaction.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "electrolysis"
+      ],
+      "explanation": "The applied potential supplies energy for the chemical change."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A Born-Haber cycle applies Hess’s law to relate ionic solid formation to steps such as atomization and ionization.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "born-haber-cycle"
+      ],
+      "explanation": "The cycle is a thermochemical path used to estimate lattice enthalpy and related quantities."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Born-Haber cycle?",
+      "answer": "A Hess-law thermochemical cycle that relates formation of an ionic solid to steps such as atomization, ionization, and electron affinity.",
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "born-haber-cycle"
+      ],
+      "explanation": "It can be used to determine lattice enthalpy indirectly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the first law of thermodynamics in chemistry?",
+      "answer": "The system energy change equals heat added plus work done on the system: Delta E = q + w.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "thermochemistry",
+        "first-law"
+      ],
+      "explanation": "The signs depend on the stated chemistry convention."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the common-ion effect?",
+      "answer": "A reduction in the solubility or ionization of an equilibrium system after adding an ion already present in that system.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "equilibrium",
+        "common-ion"
+      ],
+      "explanation": "The added ion shifts the equilibrium according to Le Châtelier’s principle."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the Faraday constant used for in electrolysis calculations?",
+      "answer": "It converts moles of electrons into electrical charge, about 96,485 coulombs per mole of electrons.",
+      "difficulty": "medium",
+      "tags": [
+        "general-chemistry",
+        "electrochemistry",
+        "faradays-law"
+      ],
+      "explanation": "Charge equals moles of electrons times the Faraday constant."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does molecular orbital bond order estimate?",
+      "answer": "Net bonding from one-half the number of bonding electrons minus antibonding electrons.",
+      "difficulty": "hard",
+      "tags": [
+        "general-chemistry",
+        "bonding",
+        "molecular-orbital"
+      ],
+      "explanation": "A higher bond order generally corresponds to a stronger, shorter bond in simple comparisons."
+    }
+  ]
+}

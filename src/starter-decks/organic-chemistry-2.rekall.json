@@ -1,0 +1,1259 @@
+{
+  "format": "rekall-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-organic-chemistry-2",
+    "name": "Organic Chemistry II",
+    "description": "An advanced review of aromaticity, carbonyl and enolate chemistry, synthesis, organometallic reactions, and structure analysis."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Aromaticity in the simple Hückel model requires a planar, cyclic, conjugated system with:",
+      "choices": [
+        "4n+2 pi electrons",
+        "4n pi electrons",
+        "2n+1 pi electrons",
+        "Exactly 6 atoms"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "aromaticity",
+        "huckel-rule"
+      ],
+      "explanation": "Hückel aromatic systems have 4n+2 pi electrons, where n is a nonnegative integer."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many pi electrons does benzene have?",
+      "choices": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "aromaticity",
+        "benzene"
+      ],
+      "explanation": "Benzene has three pi bonds and six delocalized pi electrons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which substituent is generally activating and ortho/para directing in electrophilic aromatic substitution?",
+      "choices": [
+        "-NO2",
+        "-CF3",
+        "-OCH3",
+        "-CO2H"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "A methoxy group donates electron density by resonance and activates ortho/para positions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A nitro group on benzene is generally:",
+      "choices": [
+        "Strongly activating, ortho/para directing",
+        "Activating, meta directing",
+        "Neutral and nondirecting",
+        "Deactivating, meta directing"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "Nitro withdraws electron density and generally directs new substitution meta."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which reagent set commonly nitrates benzene?",
+      "choices": [
+        "HNO3 and H2SO4",
+        "Br2 and light",
+        "H2/Pd",
+        "NaBH4"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "nitration"
+      ],
+      "explanation": "Sulfuric acid helps generate the nitronium electrophile used in nitration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Friedel-Crafts acylation introduces which group onto an aromatic ring?",
+      "choices": [
+        "-NO2",
+        "-COR",
+        "-SO3H",
+        "-NH2"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "friedel-crafts"
+      ],
+      "explanation": "An acylium electrophile installs an acyl group, Ar-C(O)R."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is a common limitation of Friedel-Crafts alkylation?",
+      "choices": [
+        "It never forms C-C bonds",
+        "It only works on strongly deactivated rings",
+        "Polyalkylation and carbocation rearrangement",
+        "It requires a diazonium salt"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "friedel-crafts"
+      ],
+      "explanation": "Alkyl groups activate the ring, promoting multiple substitutions; carbocation rearrangement may occur."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Why does a strongly deactivated aromatic ring often resist Friedel-Crafts reactions?",
+      "choices": [
+        "Lone pairs bind the catalyst too strongly",
+        "The ring cannot form any pi bonds",
+        "The reaction requires a radical initiator",
+        "Low electron density makes electrophile attack difficult"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "reactivity"
+      ],
+      "explanation": "Friedel-Crafts reactions require an electron-rich aromatic ring to form the sigma complex."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Nucleophilic aromatic substitution by an addition-elimination pathway is favored by an electron-withdrawing group:",
+      "choices": [
+        "Ortho or para to the leaving group",
+        "Only meta to the leaving group",
+        "At any distance equally",
+        "Only on a side chain"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "snar"
+      ],
+      "explanation": "Ortho/para electron-withdrawing groups stabilize the anionic intermediate by resonance."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An epoxide is best described as:",
+      "choices": [
+        "A five-membered ester",
+        "A three-membered cyclic ether",
+        "A carbonyl oxide",
+        "An aromatic ring"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxides"
+      ],
+      "explanation": "An epoxide is an ether in a strained three-membered ring."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Under acidic conditions, a nucleophile opening an unsymmetrical epoxide often attacks the:",
+      "choices": [
+        "Less substituted carbon",
+        "Oxygen only",
+        "More substituted carbon",
+        "Either carbon with no preference ever"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxide-opening"
+      ],
+      "explanation": "Acid activation gives greater partial positive character at the more substituted carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Under basic conditions, nucleophilic epoxide opening usually attacks the:",
+      "choices": [
+        "More substituted carbon through a carbocation",
+        "Oxygen only",
+        "Carbonyl carbon",
+        "Less substituted carbon by SN2-like attack"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxide-opening"
+      ],
+      "explanation": "Strong nucleophiles generally attack the less hindered carbon in an SN2-like step."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A hydride reagent such as NaBH4 typically converts an aldehyde into a:",
+      "choices": [
+        "Primary alcohol",
+        "Ketone",
+        "Carboxylic acid chloride",
+        "Alkene"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "reduction"
+      ],
+      "explanation": "Hydride addition followed by protonation reduces an aldehyde to a primary alcohol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Hydride reduction of a ketone typically gives a:",
+      "choices": [
+        "Primary alcohol",
+        "Secondary alcohol",
+        "Carboxylate",
+        "Nitrile"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "reduction"
+      ],
+      "explanation": "The carbonyl carbon in a ketone is bonded to two carbon groups; reduction gives a secondary alcohol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Grignard reagent adds to formaldehyde, then undergoes acidic workup. The carbon skeleton gains a:",
+      "choices": [
+        "Secondary alcohol with no new carbon",
+        "Tertiary alcohol",
+        "Primary alcohol with one new carbon",
+        "Carboxylic acid only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "grignard"
+      ],
+      "explanation": "The Grignard carbon adds to formaldehyde; protonation gives a primary alcohol with one additional carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Grignard reagent reacts with water mainly by:",
+      "choices": [
+        "Forming an ester",
+        "Oxidizing water to oxygen",
+        "Making an amide",
+        "Being protonated and quenched"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "grignard"
+      ],
+      "explanation": "Grignard reagents are strong bases and are destroyed by protic substances such as water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Aldehydes and ketones undergo nucleophilic addition primarily because the carbonyl carbon is:",
+      "choices": [
+        "Electrophilic",
+        "Strongly nucleophilic",
+        "A stable carbocation",
+        "A leaving group"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "nucleophilic-addition"
+      ],
+      "explanation": "The polarized C=O bond leaves carbon partially positive and susceptible to nucleophilic attack."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Formation of an imine from a primary amine and an aldehyde generally involves:",
+      "choices": [
+        "Radicals replace hydrogens on the carbonyl",
+        "Addition followed by dehydration forms a C=N bond",
+        "A diene adds across the carbonyl in one step",
+        "The amine oxidizes the carbonyl carbon"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "imines"
+      ],
+      "explanation": "The amine adds to the carbonyl and dehydration forms the C=N bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "An acetal is commonly formed from a carbonyl compound and:",
+      "choices": [
+        "Two alkene molecules under heating",
+        "An amide under basic conditions",
+        "Two alcohol molecules under acid catalysis",
+        "Hydrogen gas with a metal catalyst"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "acetals"
+      ],
+      "explanation": "Acid-catalyzed reaction with alcohol produces an acetal through hemiacetal formation and dehydration."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which carboxylic acid derivative is usually most reactive toward nucleophilic acyl substitution?",
+      "choices": [
+        "Amide",
+        "Carboxylate",
+        "Ester",
+        "Acid chloride"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "reactivity"
+      ],
+      "explanation": "Acid chlorides have a good leaving group and strong electrophilic acyl carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The basic sequence in nucleophilic acyl substitution is:",
+      "choices": [
+        "Addition then elimination",
+        "Elimination then radical addition",
+        "Oxidation then reduction",
+        "Proton transfer only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "mechanism"
+      ],
+      "explanation": "Nucleophile adds to the carbonyl, then the tetrahedral intermediate eliminates a leaving group."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Fischer esterification combines a carboxylic acid with an alcohol to form an ester and:",
+      "choices": [
+        "Hydrogen gas",
+        "Water",
+        "Ammonia",
+        "Carbon monoxide"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "esterification"
+      ],
+      "explanation": "The acid-catalyzed equilibrium produces an ester and water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At the alpha carbon of a carbonyl compound, an enolate has nucleophilic character because:",
+      "choices": [
+        "Positive charge is shared by two carbon atoms",
+        "The carbonyl oxygen is removed as water",
+        "Negative charge is shared by oxygen and alpha carbon",
+        "The alpha carbon loses all its electrons"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "resonance"
+      ],
+      "explanation": "Enolate resonance forms place electron density on oxygen and the alpha carbon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Aldol addition requires a carbonyl compound that can form an:",
+      "choices": [
+        "Acyl radical only",
+        "Aromatic cation",
+        "Epoxide",
+        "Enolate or enol"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "aldol"
+      ],
+      "explanation": "An alpha hydrogen allows formation of an enolate nucleophile that adds to another carbonyl."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Claisen condensation most directly forms a beta-keto ester from:",
+      "choices": [
+        "Esters with alpha hydrogens plus matching alkoxide base",
+        "Two aldehydes reacting in acid",
+        "An alkene adding bromine under light",
+        "An amine adding to an acid chloride"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "claisen"
+      ],
+      "explanation": "An ester enolate attacks another ester and eliminates alkoxide, yielding a beta-keto ester after workup."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A Michael addition is a conjugate addition to the:",
+      "choices": [
+        "The carbonyl oxygen only",
+        "The beta carbon in an enone",
+        "The aromatic para carbon",
+        "A terminal alkyne hydrogen"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "michael-addition"
+      ],
+      "explanation": "A stabilized nucleophile adds at the beta position of a conjugated carbonyl system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statement about amine basicity is generally true in water?",
+      "choices": [
+        "Amines cannot interact with acids",
+        "All amines are strong bases",
+        "Amine lone pairs can accept a proton",
+        "Amines donate only electrons to metals"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "basicity"
+      ],
+      "explanation": "The nitrogen lone pair can accept H+, although basicity varies with structure and solvation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Reductive amination converts a carbonyl compound and an amine into an amine by:",
+      "choices": [
+        "Oxidizing the amine to a nitrile",
+        "Adding Br2 then eliminating",
+        "Hydrolyzing an ester",
+        "Forming an imine/iminium then reducing it"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "reductive-amination"
+      ],
+      "explanation": "Condensation forms an imine or iminium species, which is then reduced."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A diazonium salt from an aromatic primary amine can be useful because it can be replaced by:",
+      "choices": [
+        "Several groups such as halogens or hydroxyl",
+        "Only a hydrogen atom in every reaction",
+        "Only an amino group under all conditions",
+        "No group because the intermediate is inert"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "diazonium"
+      ],
+      "explanation": "Arenediazonium groups are versatile leaving groups for substitution and coupling reactions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In the Diels-Alder reaction, a conjugated diene reacts with a dienophile to form a:",
+      "choices": [
+        "Three-membered ring",
+        "Six-membered ring with one new C=C",
+        "Linear alkane only",
+        "Five-membered aromatic ring always"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "conjugated-systems",
+        "diels-alder"
+      ],
+      "explanation": "A [4+2] cycloaddition forms a six-membered ring and one remaining double bond."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A conjugated diene has alternating:",
+      "choices": [
+        "Two triple bonds",
+        "Ionic and metallic bonds",
+        "Single and double bonds",
+        "Carbonyl and ether groups only"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "conjugated-systems",
+        "dienes"
+      ],
+      "explanation": "Adjacent p orbitals allow pi-electron delocalization across the conjugated system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Oxidative addition at a transition-metal center typically increases its oxidation state by:",
+      "choices": [
+        "One unit",
+        "No amount ever",
+        "Four units always",
+        "Two units"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "In the standard formal description, the metal gains two ligands and its oxidation state rises by two."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Reductive elimination typically forms a bond between:",
+      "choices": [
+        "Two ligands on a metal and lowers the metal oxidation state",
+        "Two free solvents only",
+        "A catalyst and water only",
+        "Two unrelated molecules without metal contact"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "Two metal-bound groups couple as a product dissociates, usually lowering metal oxidation state by two."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which technique is especially useful for identifying carbonyl and O-H functional groups?",
+      "choices": [
+        "Mass spectrometry alone",
+        "IR spectroscopy",
+        "Polarimetry only",
+        "TLC alone"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Characteristic vibrational absorptions make IR useful for functional-group analysis."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In proton NMR, a signal around 9-10 ppm often suggests:",
+      "choices": [
+        "Simple alkyl methyl",
+        "Cyclohexane methylene only",
+        "Aldehyde proton",
+        "Alcohol methyl"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "proton-nmr"
+      ],
+      "explanation": "Aldehyde protons are deshielded by the adjacent carbonyl."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which spectral method commonly gives a molecular mass estimate and fragmentation pattern?",
+      "choices": [
+        "IR only",
+        "UV-visible only",
+        "TLC",
+        "Mass spectrometry"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "mass-spectrometry"
+      ],
+      "explanation": "Mass spectra report m/z values and fragment ions that help infer structure."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Benzene is aromatic because it is planar, cyclic, conjugated, and has six pi electrons.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromaticity",
+        "benzene"
+      ],
+      "explanation": "Six pi electrons satisfy 4n+2 with n=1."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Aromaticity can stabilize a ring beyond what isolated double bonds would predict.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromaticity",
+        "stabilization"
+      ],
+      "explanation": "Delocalization gives aromatic systems extra stability."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A nitro substituent generally activates benzene toward electrophilic substitution.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "Nitro is strongly deactivating and generally meta directing."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A methoxy substituent generally directs electrophilic aromatic substitution ortho and para.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "Resonance donation stabilizes ortho/para sigma complexes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Friedel-Crafts alkylation can produce polyalkylation.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "friedel-crafts"
+      ],
+      "explanation": "An installed alkyl group activates the ring, making further substitution possible."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Electron-withdrawing groups ortho or para to a leaving group can favor addition-elimination SNAr.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "snar"
+      ],
+      "explanation": "They stabilize negative charge in the intermediate."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Epoxides are unreactive because their three-membered rings are strain-free.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxides"
+      ],
+      "explanation": "Their ring strain makes ring opening favorable under suitable conditions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Under basic conditions, an epoxide nucleophile commonly attacks its less substituted carbon.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxide-opening"
+      ],
+      "explanation": "The reaction is usually SN2-like and favors the less hindered site."
+    },
+    {
+      "type": "true_false",
+      "prompt": "NaBH4 commonly reduces aldehydes and ketones to alcohols.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "reduction"
+      ],
+      "explanation": "Hydride addition followed by protonation gives an alcohol."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A Grignard reagent can be stored in water without reacting.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "grignard"
+      ],
+      "explanation": "Water protonates and destroys the organomagnesium reagent."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A ketone carbonyl carbon is electrophilic because the C=O bond is polarized.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "nucleophilic-addition"
+      ],
+      "explanation": "Oxygen withdraws electron density, leaving carbon partially positive."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Acetal formation is generally acid-catalyzed and reversible in water.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "acetals"
+      ],
+      "explanation": "Water can hydrolyze acetals back to carbonyl compounds."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Amides are generally more reactive toward acyl substitution than acid chlorides.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "reactivity"
+      ],
+      "explanation": "Amides are resonance-stabilized and have a poor leaving group; acid chlorides are more reactive."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Fischer esterification is an equilibrium reaction.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "esterification"
+      ],
+      "explanation": "Removing water or using excess reactant can shift the equilibrium toward ester."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Enolates can act as carbon nucleophiles at the alpha carbon.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "resonance"
+      ],
+      "explanation": "Resonance places electron density at the alpha carbon as well as oxygen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Aldol condensation may include dehydration after the initial aldol addition.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "aldol"
+      ],
+      "explanation": "The beta-hydroxy carbonyl can lose water to form a conjugated enone or enal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Amines can accept a proton through the nitrogen lone pair.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "basicity"
+      ],
+      "explanation": "Proton acceptance is the Brønsted-Lowry base behavior of an amine."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A Diels-Alder reaction is a [4+2] cycloaddition.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "conjugated-systems",
+        "diels-alder"
+      ],
+      "explanation": "Four pi electrons from the diene and two from the dienophile form a six-membered ring."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Oxidative addition usually lowers a metal center’s formal oxidation state.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "The standard oxidative-addition step raises formal oxidation state, often by two."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Reductive elimination can form a new bond between two ligands attached to one metal.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "Coupling of metal-bound groups releases the product."
+    },
+    {
+      "type": "true_false",
+      "prompt": "IR spectroscopy can help identify functional groups from vibrational absorption bands.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "Different bonds and environments absorb in characteristic regions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mass spectrometry separates ions by their mass-to-charge ratio.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "mass-spectrometry"
+      ],
+      "explanation": "The measured m/z and fragment pattern help identify molecular structures."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Protecting groups can temporarily mask a functional group during a multistep synthesis.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "synthesis",
+        "protecting-groups"
+      ],
+      "explanation": "A protecting group is installed and later removed to control chemoselectivity."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Retrosynthetic analysis starts with a target molecule and works backward to simpler precursors.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "synthesis",
+        "retrosynthesis"
+      ],
+      "explanation": "Strategic bond disconnections suggest feasible forward reactions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A more substituted carbocation is always more stable regardless of resonance or neighboring groups.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "mechanisms",
+        "carbocations"
+      ],
+      "explanation": "Resonance and other structural effects can outweigh simple substitution trends."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is aromaticity in the Hückel model?",
+      "answer": "Extra stabilization in a planar cyclic conjugated system with 4n+2 pi electrons.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromaticity",
+        "huckel-rule"
+      ],
+      "explanation": "Benzene has six pi electrons and is aromatic."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is electrophilic aromatic substitution?",
+      "answer": "A reaction where an aromatic ring replaces a hydrogen with an electrophile while restoring aromaticity.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "eas"
+      ],
+      "explanation": "Nitration and halogenation are common examples."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does an ortho/para director do?",
+      "answer": "It favors new substitution at positions adjacent to or opposite an existing substituent on a benzene ring.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "Electron donors commonly activate and direct ortho/para."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a meta director?",
+      "answer": "A substituent that generally favors electrophilic substitution at the meta position.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "directing-effects"
+      ],
+      "explanation": "Many electron-withdrawing groups are deactivating meta directors."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is nucleophilic aromatic substitution?",
+      "answer": "Replacement of an aromatic leaving group by a nucleophile, often enabled by nearby electron-withdrawing groups.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "aromatic-reactions",
+        "snar"
+      ],
+      "explanation": "Ortho/para nitro groups can stabilize the anionic intermediate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an epoxide?",
+      "answer": "A strained three-membered cyclic ether.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "alcohols-ethers-epoxides",
+        "epoxides"
+      ],
+      "explanation": "Its ring strain makes nucleophilic ring opening possible."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How does a Grignard reagent behave toward a carbonyl?",
+      "answer": "Its carbon acts as a nucleophile, forming a C-C bond; workup protonates the alkoxide to an alcohol.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "grignard"
+      ],
+      "explanation": "Grignard reagents must be protected from water and other proton donors."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Why must Grignard reagents be kept dry?",
+      "answer": "Water protonates the carbon-magnesium bond and consumes the reagent.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "grignard"
+      ],
+      "explanation": "Anhydrous conditions preserve the nucleophilic organomagnesium reagent."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is reductive amination?",
+      "answer": "Conversion of a carbonyl compound and amine to an amine by forming an imine/iminium and reducing it.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "reductive-amination"
+      ],
+      "explanation": "It is a useful carbon-nitrogen bond-forming method."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is nucleophilic addition to a carbonyl?",
+      "answer": "Attack of a nucleophile at the electrophilic carbonyl carbon, followed by protonation or related steps.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "nucleophilic-addition"
+      ],
+      "explanation": "The C=O pi electrons shift toward oxygen during attack."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an acetal?",
+      "answer": "A carbon bearing two -OR groups, commonly made from a carbonyl compound and alcohol under acid catalysis.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carbonyls",
+        "acetals"
+      ],
+      "explanation": "Acetals can protect carbonyls and are hydrolyzed under acidic aqueous conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is nucleophilic acyl substitution?",
+      "answer": "Addition of a nucleophile to an acyl carbonyl followed by elimination of a leaving group.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "carboxylic-derivatives",
+        "mechanism"
+      ],
+      "explanation": "The reaction proceeds through a tetrahedral intermediate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an enolate?",
+      "answer": "A resonance-stabilized anion formed by deprotonating an alpha hydrogen next to a carbonyl.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "resonance"
+      ],
+      "explanation": "It can react through oxygen or alpha carbon depending on conditions and electrophile."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an aldol reaction?",
+      "answer": "Enolate or enol addition to another carbonyl compound, forming a beta-hydroxy carbonyl product.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "aldol"
+      ],
+      "explanation": "Dehydration may follow to give a conjugated carbonyl."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Michael addition?",
+      "answer": "Conjugate nucleophilic addition at the beta carbon of an alpha,beta-unsaturated carbonyl.",
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "enolates",
+        "michael-addition"
+      ],
+      "explanation": "It forms a new carbon-carbon bond in many synthesis sequences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Diels-Alder reaction?",
+      "answer": "A [4+2] cycloaddition of a conjugated diene and dienophile that forms a six-membered ring.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "conjugated-systems",
+        "diels-alder"
+      ],
+      "explanation": "The product retains one alkene."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is oxidative addition in organometallic chemistry?",
+      "answer": "A metal inserts formally into a bond, typically increasing its oxidation state and coordination number.",
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "It is a common step in catalytic cycles."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is reductive elimination?",
+      "answer": "Coupling of two groups bound to a metal to form a product bond as the metal oxidation state decreases.",
+      "difficulty": "hard",
+      "tags": [
+        "organic-chemistry-2",
+        "organometallic",
+        "catalytic-cycles"
+      ],
+      "explanation": "It is formally the reverse of oxidative addition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is chemoselectivity?",
+      "answer": "Preferential reaction of one functional group when several different groups are present.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "synthesis",
+        "chemoselectivity"
+      ],
+      "explanation": "Reagents and conditions can help control which group reacts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a protecting group?",
+      "answer": "A temporary group that masks a reactive functional group during other synthetic steps.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "synthesis",
+        "protecting-groups"
+      ],
+      "explanation": "It is later removed to restore the original functionality."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is retrosynthetic analysis?",
+      "answer": "Planning a synthesis backward from the target by identifying simpler precursor structures.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "synthesis",
+        "retrosynthesis"
+      ],
+      "explanation": "A retrosynthetic disconnection suggests a forward bond-forming reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does an IR spectrum primarily report?",
+      "answer": "Absorption associated with molecular vibrations, useful for identifying functional groups.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "infrared"
+      ],
+      "explanation": "A strong carbonyl stretch often appears near 1700 cm-1."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What information can mass spectrometry provide?",
+      "answer": "Ion mass-to-charge ratios and fragmentation patterns that help infer molecular mass and structure.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "spectroscopy",
+        "mass-spectrometry"
+      ],
+      "explanation": "The molecular ion and fragments are interpreted together."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a diazonium group useful for in aromatic synthesis?",
+      "answer": "It can be replaced by various groups under suitable conditions, enabling substitutions on an aromatic ring.",
+      "difficulty": "medium",
+      "tags": [
+        "organic-chemistry-2",
+        "amines",
+        "diazonium"
+      ],
+      "explanation": "Arenediazonium salts are versatile intermediates."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the purpose of a synthesis workup?",
+      "answer": "To quench reagents, adjust protonation states, and separate the desired product from the reaction mixture.",
+      "difficulty": "easy",
+      "tags": [
+        "organic-chemistry-2",
+        "laboratory",
+        "workup"
+      ],
+      "explanation": "Workup is distinct from the bond-forming reaction itself."
+    }
+  ]
+}

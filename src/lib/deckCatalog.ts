@@ -8,9 +8,11 @@ const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
   Science: [
     'deck-human-body', 'deck-nature', 'deck-botany', 'deck-oceans-water-bodies',
-    'deck-chemistry-foundations', 'deck-ap-chemistry',
+    'deck-chemistry-foundations', 'deck-ap-chemistry', 'deck-general-chemistry',
+    'deck-health-sciences-chemistry', 'deck-organic-chemistry-1', 'deck-organic-chemistry-2',
+    'deck-analytical-chemistry', 'deck-inorganic-chemistry', 'deck-fun-chemistry-for-kids',
   ],
-  History: ['deck-us-history'],
+  History: ['deck-ap-world-history'],
   Places: ['deck-geography', 'deck-national-parks'],
   'Stories & games': [
     'deck-harry-potter', 'deck-hunger-games', 'deck-marvel-comics',
@@ -18,7 +20,6 @@ const categoryDecks: Record<string, readonly string[]> = {
   ],
   Words: ['deck-vocabulary'],
   Sports: ['deck-nba'],
-  Food: ['deck-chipotle'],
   Other: [],
 };
 
@@ -30,7 +31,7 @@ const categoriesById = new Map(
 
 const featuredIds = new Set([
   'deck-trivia-easy', 'deck-human-body', 'deck-chemistry-foundations', 'deck-geography',
-  'deck-nba', 'deck-harry-potter', 'deck-minecraft',
+  'deck-nba', 'deck-harry-potter', 'deck-minecraft', 'deck-ap-world-history',
 ]);
 
 export function deckCategory(id?: string): string {

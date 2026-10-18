@@ -12,9 +12,9 @@
       "prompt": "What does chemistry mainly study?",
       "choices": [
         "Matter, its properties, and how it changes",
-        "The motion of planets only",
-        "The history of living organisms only",
-        "The shape of landforms only"
+        "Energy, its transfer, and how it changes",
+        "Living things, their parts, and how they grow",
+        "Earth features, their motion, and how they form"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -383,10 +383,10 @@
       "type": "multiple_choice",
       "prompt": "Which is a homogeneous mixture?",
       "choices": [
-        "Granite with visible mineral grains",
-        "Oil and water in separate layers",
+        "Granite, with minerals spread through the solid",
+        "Oil and water after settling into separate layers",
         "Vinegar, with acetic acid evenly mixed in water",
-        "A bowl of cereal and milk"
+        "Cereal pieces suspended in milk before settling"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -473,10 +473,10 @@
       "type": "multiple_choice",
       "prompt": "What happens to a pure substance at its melting point as it melts at constant pressure?",
       "choices": [
-        "Its temperature must keep rising",
-        "Its particles stop moving",
-        "It changes into a different element",
-        "Energy is used for the phase change while the temperature stays constant"
+        "Added heat raises temperature without changing phase",
+        "Particles stop moving until melting has finished",
+        "Atoms rearrange into a different chemical element",
+        "Added heat changes phase while temperature stays steady"
       ],
       "correctIndex": 3,
       "difficulty": "medium",
@@ -719,10 +719,10 @@
       "type": "multiple_choice",
       "prompt": "What did Rutherford’s gold-foil experiment support?",
       "choices": [
-        "Electrons occupy fixed circular paths with quantized energies",
-        "Atoms are solid spheres with no internal structure",
-        "Atoms have a tiny, dense, positively charged nucleus",
-        "Neutrons orbit outside the atom"
+        "Negative charge and most mass lie in a tiny nucleus",
+        "Positive charge is spread evenly through the atom",
+        "Positive charge and most mass lie in a tiny nucleus",
+        "Electrons travel in fixed circular paths around it"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1043,10 +1043,10 @@
       "type": "multiple_choice",
       "prompt": "Why are alkali metals such as sodium stored away from water?",
       "choices": [
-        "They dissolve into harmless noble gases",
-        "They absorb all water without reacting",
-        "They react vigorously with water, producing heat and hydrogen gas",
-        "They become less dense than air and float away"
+        "They absorb water without changing chemically",
+        "They become lighter gases when water touches them",
+        "They react with water and release heat and hydrogen",
+        "Water makes them brittle by rapidly cooling them"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1621,10 +1621,10 @@
       "choices": [
         "Iron(I) chloride",
         "Iron(II) chloride",
-        "Iron trichloride",
-        "Iron(III) chloride"
+        "Iron(III) chloride",
+        "Iron trichloride"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1745,12 +1745,12 @@
       "type": "multiple_choice",
       "prompt": "In a chemical equation, what are reactants?",
       "choices": [
-        "The starting substances that undergo a reaction",
         "The substances formed by the reaction",
         "The numbers written below element symbols",
-        "The energy released by every reaction"
+        "The energy released by every reaction",
+        "The starting substances that undergo a reaction"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -1763,12 +1763,12 @@
       "type": "multiple_choice",
       "prompt": "Why must a chemical equation be balanced?",
       "choices": [
-        "Balancing makes every reaction release heat",
-        "Atoms are rearranged, so each element must have the same atom count on both sides",
-        "The products must always have the same molecules as reactants",
-        "It makes all coefficients equal to one"
+        "Each element has the same atom count on both sides",
+        "Every reaction releases heat to the surroundings",
+        "The same molecules appear before and after reaction",
+        "All coefficients become equal to one in the equation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -1782,11 +1782,11 @@
       "prompt": "What coefficients balance H₂ + O₂ → H₂O using the smallest whole numbers?",
       "choices": [
         "1, 1, 1",
-        "1, 2, 2",
         "2, 1, 2",
+        "1, 2, 2",
         "2, 2, 1"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1801,10 +1801,10 @@
       "choices": [
         "Decomposition",
         "Single replacement",
-        "Double replacement",
-        "Synthesis (combination)"
+        "Synthesis (combination)",
+        "Double replacement"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1817,12 +1817,12 @@
       "type": "multiple_choice",
       "prompt": "What type of reaction is CaCO₃ → CaO + CO₂?",
       "choices": [
-        "Decomposition",
         "Synthesis",
         "Combustion",
-        "Neutralization"
+        "Neutralization",
+        "Decomposition"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1835,12 +1835,12 @@
       "type": "multiple_choice",
       "prompt": "Complete combustion of a hydrocarbon in plentiful oxygen produces mainly:",
       "choices": [
-        "Carbon monoxide and hydrogen",
         "Carbon dioxide and water",
+        "Carbon monoxide and hydrogen",
         "Carbon and oxygen gas",
         "Methane and nitrogen"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1854,11 +1854,11 @@
       "prompt": "When a solid forms after two aqueous solutions are mixed, the solid is called a:",
       "choices": [
         "Solvent",
-        "Catalyst",
         "Precipitate",
+        "Catalyst",
         "Distillate"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1873,10 +1873,10 @@
       "choices": [
         "Copper(II) ion, Cu²⁺",
         "Copper metal, Cu",
-        "No species; this is not redox",
-        "Zinc, Zn"
+        "Zinc, Zn",
+        "No species; this is not redox"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -1889,12 +1889,12 @@
       "type": "multiple_choice",
       "prompt": "A reaction transfers heat from the reacting system to its surroundings. The reaction is:",
       "choices": [
-        "Exothermic",
         "Endothermic",
         "At equilibrium by definition",
-        "A phase change only"
+        "A phase change only",
+        "Exothermic"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -1907,12 +1907,12 @@
       "type": "multiple_choice",
       "prompt": "In a single-replacement reaction, what happens?",
       "choices": [
-        "Two compounds exchange all their atoms randomly",
         "One element replaces another in a compound if the reaction is favorable",
+        "Two compounds exchange all their atoms randomly",
         "One compound splits only into its elements",
         "Two gases always form a liquid"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2065,10 +2065,10 @@
       "choices": [
         "10.0 g/mol",
         "16.0 g/mol",
-        "20.0 g/mol",
-        "18.0 g/mol"
+        "18.0 g/mol",
+        "20.0 g/mol"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2081,12 +2081,12 @@
       "type": "multiple_choice",
       "prompt": "How many moles are in 36.0 g of water if its molar mass is 18.0 g/mol?",
       "choices": [
-        "2.00 mol",
         "0.500 mol",
         "18.0 mol",
-        "648 mol"
+        "648 mol",
+        "2.00 mol"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2099,12 +2099,12 @@
       "type": "multiple_choice",
       "prompt": "How many molecules are in 2.00 mol of a substance?",
       "choices": [
-        "6.022 × 10²³ molecules",
         "1.204 × 10²⁴ molecules",
+        "6.022 × 10²³ molecules",
         "3.011 × 10²³ molecules",
         "2.00 × 10²³ molecules"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2118,11 +2118,11 @@
       "prompt": "For N₂ + 3H₂ → 2NH₃, how many moles of NH₃ can form from 3 mol H₂ with excess N₂?",
       "choices": [
         "1 mol",
-        "3 mol",
         "2 mol",
+        "3 mol",
         "6 mol"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2137,10 +2137,10 @@
       "choices": [
         "H₂",
         "H₂O",
-        "Neither; both are exactly used up",
-        "O₂"
+        "O₂",
+        "Neither; both are exactly used up"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -2153,12 +2153,12 @@
       "type": "multiple_choice",
       "prompt": "A reaction has a theoretical yield of 10 g and actual yield of 8 g. What is the percent yield?",
       "choices": [
-        "80%",
         "20%",
         "80 g",
-        "125%"
+        "125%",
+        "80%"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2171,12 +2171,12 @@
       "type": "multiple_choice",
       "prompt": "What is the molarity of 0.50 mol solute in 2.0 L of solution?",
       "choices": [
-        "1.0 mol/L",
         "0.25 mol/L",
+        "1.0 mol/L",
         "2.5 mol/L",
         "4.0 mol/L"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2190,11 +2190,11 @@
       "prompt": "A 2.0 mol/L solution is diluted from 100 mL to 400 mL. What is its new concentration?",
       "choices": [
         "0.25 mol/L",
-        "1.0 mol/L",
         "0.50 mol/L",
+        "1.0 mol/L",
         "8.0 mol/L"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -2209,10 +2209,10 @@
       "choices": [
         "C₂H₄O₂",
         "CHO₂",
-        "C₂H₂O",
-        "CH₂O"
+        "CH₂O",
+        "C₂H₂O"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -2345,12 +2345,12 @@
       "type": "multiple_choice",
       "prompt": "Why can a gas be compressed much more than a liquid?",
       "choices": [
-        "Gas particles are separated by large amounts of empty space",
         "Gas particles have no mass",
         "Liquids are made of rigid crystals",
-        "Gas particles are smaller atoms"
+        "Gas particles are smaller atoms",
+        "Gas particles are separated by large amounts of empty space"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2363,12 +2363,12 @@
       "type": "multiple_choice",
       "prompt": "At constant temperature, what happens to gas volume when pressure increases?",
       "choices": [
-        "It increases by the same factor",
         "It decreases",
+        "It increases by the same factor",
         "It stays fixed in every case",
         "Its particles disappear"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2382,11 +2382,11 @@
       "prompt": "A sealed flexible balloon is warmed at constant external pressure. What generally happens to its volume?",
       "choices": [
         "It decreases to zero",
-        "It stays exactly constant",
         "It increases",
+        "It stays exactly constant",
         "The gas turns into liquid immediately"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2401,10 +2401,10 @@
       "choices": [
         "Salt",
         "The container",
-        "The dissolved sodium and chloride ions",
-        "Water"
+        "Water",
+        "The dissolved sodium and chloride ions"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2417,12 +2417,12 @@
       "type": "multiple_choice",
       "prompt": "Why does oil form a separate layer from water under ordinary conditions?",
       "choices": [
-        "Their molecules have different polarity and do not mix favorably",
         "Water is always denser than oil, so it cannot dissolve it",
         "Oil molecules are too cold to move",
-        "Water chemically changes oil into a metal"
+        "Water chemically changes oil into a metal",
+        "Their molecules have different polarity and do not mix favorably"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2435,12 +2435,12 @@
       "type": "multiple_choice",
       "prompt": "In water, what ion concentration is associated with an acidic solution?",
       "choices": [
-        "More hydroxide ions than hydronium ions",
         "A greater hydronium-ion concentration than hydroxide-ion concentration",
+        "More hydroxide ions than hydronium ions",
         "No ions at all",
         "Only neutral atoms"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2454,11 +2454,11 @@
       "prompt": "At 25 °C, what does pH 3 indicate compared with pH 5?",
       "choices": [
         "It is 2 times greater",
-        "It is 100 times smaller",
         "The hydrogen-ion concentration is 100 times greater",
+        "It is 100 times smaller",
         "It has exactly 2 more hydrogen ions total"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2473,10 +2473,10 @@
       "choices": [
         "Hydrogen gas and oxygen gas",
         "A pure metal and carbon dioxide",
-        "Two new acids",
-        "Water and a salt"
+        "Water and a salt",
+        "Two new acids"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2489,12 +2489,12 @@
       "type": "multiple_choice",
       "prompt": "What does an acid-base indicator do?",
       "choices": [
-        "Changes color over a range of pH values",
         "Measures the mass of every dissolved substance",
         "Makes any solution neutral",
-        "Removes all ions from water"
+        "Removes all ions from water",
+        "Changes color over a range of pH values"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2507,12 +2507,12 @@
       "type": "multiple_choice",
       "prompt": "In an acid-base titration, what does the equivalence point mean?",
       "choices": [
-        "The indicator has changed color before any reaction",
         "Reactants have been mixed in stoichiometrically equivalent amounts",
+        "The indicator has changed color before any reaction",
         "The solution has necessarily reached pH 7",
         "All water has evaporated"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -2646,11 +2646,11 @@
       "prompt": "What does temperature measure at the particle level?",
       "choices": [
         "The total amount of heat in an object",
-        "The number of atoms in a sample",
         "A measure related to the average kinetic energy of particles",
+        "The number of atoms in a sample",
         "How quickly a chemical reaction occurs"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2665,10 +2665,10 @@
       "choices": [
         "The cooler object becomes heavier",
         "All particles stop moving",
-        "The warmer object turns into a chemical element",
-        "They reach thermal equilibrium"
+        "They reach thermal equilibrium",
+        "The warmer object turns into a chemical element"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2681,12 +2681,12 @@
       "type": "multiple_choice",
       "prompt": "Which needs more heat to warm 1 g by 1 °C: c = 4 J/(g·°C) or c = 1 J/(g·°C)?",
       "choices": [
-        "The material with 4 J/(g·°C)",
         "The material with 1 J/(g·°C)",
         "They require the same heat because masses match",
-        "Neither can change temperature"
+        "Neither can change temperature",
+        "The material with 4 J/(g·°C)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2699,12 +2699,12 @@
       "type": "multiple_choice",
       "prompt": "How much heat is absorbed when 10.0 g water (c = 4.18 J/g·°C) warms by 2.0 °C?",
       "choices": [
-        "8.4 J",
         "84 J",
+        "8.4 J",
         "21 J",
         "418 J"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2717,12 +2717,12 @@
       "type": "multiple_choice",
       "prompt": "What is the transition state in a reaction pathway?",
       "choices": [
-        "A short-lived, high-energy arrangement at the top of an energy barrier",
-        "A stable mixture of reactants before they collide",
-        "A catalyst that is used up during a reaction",
+        "A stable mixture formed before reactants collide",
+        "A high-energy arrangement at the top of an energy barrier",
+        "A catalyst used up during the reaction step",
         "The final mixture after equilibrium is reached"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2737,10 +2737,10 @@
       "choices": [
         "It increases the amount of product allowed by equilibrium",
         "It is permanently used up as a reactant",
-        "It makes every collision successful",
-        "It provides a pathway with a lower activation-energy barrier"
+        "It provides a pathway with a lower activation-energy barrier",
+        "It makes every collision successful"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2753,12 +2753,12 @@
       "type": "multiple_choice",
       "prompt": "Which change often increases the rate of reaction between particles in solution?",
       "choices": [
-        "Increasing the temperature",
         "Removing all reactant particles",
         "Lowering the temperature",
-        "Reducing concentration to zero"
+        "Reducing concentration to zero",
+        "Increasing the temperature"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2771,12 +2771,12 @@
       "type": "multiple_choice",
       "prompt": "At dynamic equilibrium in a reversible reaction, what is true?",
       "choices": [
-        "The reaction has stopped at molecular level",
         "Forward and reverse reaction rates are equal",
+        "The reaction has stopped at molecular level",
         "Reactant and product concentrations must be equal",
         "Only products remain"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -2790,11 +2790,11 @@
       "prompt": "On a reaction energy diagram, what does the energy difference between products and reactants represent?",
       "choices": [
         "The reaction rate",
-        "The number of molecules in the sample",
         "The reaction’s energy change for the stated process",
+        "The number of molecules in the sample",
         "The catalyst concentration"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2809,10 +2809,10 @@
       "choices": [
         "The heater stops transferring energy",
         "Water molecules stop moving",
-        "Water changes into oxygen",
-        "Added energy separates particles during vaporization"
+        "Added energy separates particles during vaporization",
+        "Water changes into oxygen"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2933,12 +2933,12 @@
       "type": "multiple_choice",
       "prompt": "Why can carbon form many different compounds?",
       "choices": [
-        "A carbon atom can form four covalent bonds and bond to other carbon atoms",
         "Carbon atoms have no electrons",
         "Carbon is the only element that forms bonds",
-        "Carbon always forms four ionic bonds"
+        "Carbon always forms four ionic bonds",
+        "A carbon atom can form four covalent bonds and bond to other carbon atoms"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2951,12 +2951,12 @@
       "type": "multiple_choice",
       "prompt": "What elements are present in a hydrocarbon?",
       "choices": [
-        "Carbon and oxygen only",
         "Carbon and hydrogen",
+        "Carbon and oxygen only",
         "Hydrogen and nitrogen only",
         "Carbon, hydrogen, and chlorine only"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -2970,11 +2970,11 @@
       "prompt": "Which functional group defines an alcohol in introductory organic chemistry?",
       "choices": [
         "A carboxyl group, −COOH",
-        "An amino group, −NH₂",
         "A hydroxyl group, −OH, attached to carbon",
+        "An amino group, −NH₂",
         "A carbonyl group between two carbon atoms only"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -2989,10 +2989,10 @@
       "choices": [
         "A single atom with a very large nucleus",
         "A mixture that must contain metals",
-        "A gas composed only of noble gases",
-        "A large molecule made from many repeating or related smaller units"
+        "A large molecule made from many repeating or related smaller units",
+        "A gas composed only of noble gases"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3005,12 +3005,12 @@
       "type": "multiple_choice",
       "prompt": "What is a major product of complete combustion of a fossil-fuel hydrocarbon?",
       "choices": [
-        "Carbon dioxide",
         "Ozone as the only product",
         "Elemental carbon in every case",
-        "Chlorine gas"
+        "Chlorine gas",
+        "Carbon dioxide"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3023,12 +3023,12 @@
       "type": "multiple_choice",
       "prompt": "How do greenhouse gases warm Earth’s lower atmosphere?",
       "choices": [
-        "They block all sunlight from reaching the surface",
         "They absorb and re-emit some outgoing infrared radiation",
+        "They block all sunlight from reaching the surface",
         "They create heat by stopping Earth’s rotation",
         "They turn oxygen directly into sunlight"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3041,12 +3041,12 @@
       "type": "multiple_choice",
       "prompt": "Why does soap help remove oily dirt from skin or dishes?",
       "choices": [
-        "Soap turns oil into a metal",
-        "Soap makes water nonpolar",
-        "Soap permanently destroys every dirt molecule",
-        "Soap molecules have water-attracting and oil-attracting regions that help disperse grease in water"
+        "Soap turns oily molecules into metal particles",
+        "Soap has oil-loving and water-loving parts that disperse grease",
+        "Soap changes water into a nonpolar liquid",
+        "Soap permanently destroys every dirt molecule"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3059,12 +3059,12 @@
       "type": "multiple_choice",
       "prompt": "Which statement about ozone is accurate?",
       "choices": [
-        "Ozone high in the stratosphere absorbs harmful ultraviolet radiation; near the ground it is a pollutant",
-        "Ozone is always helpful wherever it occurs",
-        "Ozone is the main gas in clean air",
-        "Ozone is liquid oxygen at room temperature"
+        "Ozone is helpful in every layer and harmless everywhere",
+        "Ozone is the main gas that makes up clean air",
+        "Stratospheric ozone absorbs UV; ground-level ozone pollutes",
+        "Ozone is liquid oxygen at ordinary room conditions"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -3078,11 +3078,11 @@
       "prompt": "Which is a chemical change during cooking?",
       "choices": [
         "Ice melting in a drink",
-        "Proteins in an egg changing structure as it cooks",
         "Sugar crystals dissolving in tea",
-        "Cutting a carrot into smaller pieces"
+        "Cutting a carrot into smaller pieces",
+        "Proteins in an egg changing structure as it cooks"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3215,12 +3215,12 @@
       "type": "multiple_choice",
       "prompt": "What should you do if a chemical splashes into your eyes in a laboratory?",
       "choices": [
+        "Use the eyewash immediately and alert the instructor or supervisor",
         "Rub your eyes with a paper towel",
         "Wait to see if irritation goes away",
-        "Use the eyewash immediately and alert the instructor or supervisor",
         "Neutralize it with another chemical before rinsing"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3234,11 +3234,11 @@
       "prompt": "What does a flame pictogram on a chemical label generally warn about?",
       "choices": [
         "A radioactivity hazard",
+        "A flammability hazard",
         "A corrosive-only hazard",
-        "A biological specimen",
-        "A flammability hazard"
+        "A biological specimen"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3251,12 +3251,12 @@
       "type": "multiple_choice",
       "prompt": "Which instrument is designed to deliver a measured, variable liquid volume accurately during a titration?",
       "choices": [
-        "Burette",
         "Evaporating dish",
         "Test-tube rack",
+        "Burette",
         "Watch glass"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3270,11 +3270,11 @@
       "prompt": "Which tool is generally best for measuring the mass of a solid sample?",
       "choices": [
         "Graduated cylinder",
-        "Balance",
         "Thermometer",
-        "Pipette"
+        "Pipette",
+        "Balance"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3287,12 +3287,12 @@
       "type": "multiple_choice",
       "prompt": "Where should you read the water level in a graduated cylinder?",
       "choices": [
-        "At the top edge while looking down",
-        "At the rim from above",
-        "At the bottom of the meniscus, at eye level",
-        "Where the glass looks thickest"
+        "Read the bottom of the curve at eye level",
+        "Read the top of the curve from above",
+        "Read the liquid at the cylinder rim",
+        "Read where the glass looks thickest"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3305,12 +3305,12 @@
       "type": "multiple_choice",
       "prompt": "A student tests whether fertilizer affects plant growth. What is a sensible control group?",
       "choices": [
-        "Plants receiving twice as much fertilizer",
-        "Plants kept in darkness and given no water",
-        "Only the tallest plant at the end",
-        "Similar plants grown without fertilizer but under otherwise matching conditions"
+        "Plants given twice the fertilizer in matching light",
+        "Similar plants without fertilizer under the same conditions",
+        "Plants kept dark and dry without any fertilizer",
+        "Only the tallest plant after the test ends"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3323,12 +3323,12 @@
       "type": "multiple_choice",
       "prompt": "When should observations and measurements be recorded?",
       "choices": [
-        "As they are collected, with units and clear labels",
         "Only after the experiment, from memory",
         "Only if they match the prediction",
+        "As they are collected, with units and clear labels",
         "After deleting unusual measurements"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3341,12 +3341,12 @@
       "type": "multiple_choice",
       "prompt": "A graph shows a plant’s height measured over four weeks. Which variable belongs on the vertical axis?",
       "choices": [
-        "Plant height, the measured result",
         "Week number, the independent variable",
         "The type of ruler used to measure height",
-        "The color of the plant pot"
+        "The color of the plant pot",
+        "Plant height, the measured result"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3359,12 +3359,12 @@
       "type": "multiple_choice",
       "prompt": "Which glassware is usually most appropriate for preparing a solution to one exact final volume?",
       "choices": [
+        "Volumetric flask",
         "Beaker",
         "Erlenmeyer flask",
-        "Volumetric flask",
         "Watch glass"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3377,12 +3377,12 @@
       "type": "multiple_choice",
       "prompt": "What should you do before using an unfamiliar chemical?",
       "choices": [
-        "Taste a tiny amount to identify it",
-        "Mix it with water immediately",
-        "Smell it directly from the container",
-        "Read its label and safety instructions and follow the supervisor’s directions"
+        "Taste a tiny amount to check how it reacts",
+        "Read the label and follow the supervisor's safety directions",
+        "Mix it with a familiar cleaner before use",
+        "Smell it closely to learn what it contains"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "chemistry-foundations",
@@ -3503,12 +3503,12 @@
       "type": "multiple_choice",
       "prompt": "What is 3.24 × 2.1 rounded to the correct number of significant figures?",
       "choices": [
-        "6.8",
         "6.804",
         "6.80",
+        "6.8",
         "7"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -3522,11 +3522,11 @@
       "prompt": "A balance repeatedly reads 0.20 g too high. What kind of measurement problem is this?",
       "choices": [
         "Random error only",
-        "A systematic error",
         "A chemical property",
-        "A unit conversion"
+        "A unit conversion",
+        "A systematic error"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3575,12 +3575,12 @@
       "type": "multiple_choice",
       "prompt": "A black marker ink separates into several colored bands on paper using a solvent. Which method is this?",
       "choices": [
+        "Paper chromatography",
         "Filtration",
         "Distillation",
-        "Paper chromatography",
         "Crystallization"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3629,12 +3629,12 @@
       "type": "multiple_choice",
       "prompt": "Which scientist’s cathode-ray experiments provided evidence for the electron?",
       "choices": [
-        "J. J. Thomson",
         "John Dalton",
+        "J. J. Thomson",
         "Ernest Rutherford",
         "James Chadwick"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3648,11 +3648,11 @@
       "prompt": "How many neutrons are in a neutral chlorine-37 atom? Chlorine has atomic number 17.",
       "choices": [
         "17",
-        "20",
         "37",
+        "20",
         "54"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -3679,10 +3679,10 @@
       "choices": [
         "6",
         "10",
-        "8",
-        "16"
+        "16",
+        "8"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "chemistry-foundations",
@@ -3707,12 +3707,12 @@
       "type": "multiple_choice",
       "prompt": "How many valence electrons do neutral alkali-metal atoms typically have?",
       "choices": [
+        "One",
         "Two",
         "Seven",
-        "Eight",
-        "One"
+        "Eight"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3725,12 +3725,12 @@
       "type": "multiple_choice",
       "prompt": "Compared with its neutral atom, a typical positive ion (cation) is usually:",
       "choices": [
-        "Smaller, because it has lost electron density and may lose an outer shell",
         "Larger, because removing electrons expands the electron cloud",
+        "Smaller, because it has lost electron density and may lose an outer shell",
         "Exactly the same size",
         "Larger because it has gained a proton"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "expert",
       "tags": [
         "chemistry-foundations",
@@ -3780,11 +3780,11 @@
       "prompt": "What is the molecular shape of water, H₂O, when its two lone pairs are included in the electron-group arrangement?",
       "choices": [
         "Linear",
-        "Bent",
         "Trigonal planar",
+        "Bent",
         "Tetrahedral"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -3797,12 +3797,12 @@
       "type": "multiple_choice",
       "prompt": "Why does water have a higher boiling point than similarly small methane molecules?",
       "choices": [
-        "Methane forms stronger ionic bonds",
-        "Water has no intermolecular attractions",
-        "Water molecules form strong hydrogen bonds, while methane molecules mainly attract through dispersion forces",
-        "Water molecules are much heavier than methane molecules"
+        "Methane forms strong ionic bonds; water has none",
+        "Water has no attractions, but methane forms dipoles",
+        "Water molecules are much heavier than methane molecules",
+        "Water forms hydrogen bonds; methane mainly has dispersion forces"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "expert",
       "tags": [
         "chemistry-foundations",
@@ -3851,12 +3851,12 @@
       "type": "multiple_choice",
       "prompt": "What is the formula of ammonium phosphate?",
       "choices": [
+        "(NH₄)₃PO₄",
         "NH₄PO₄",
         "(NH₄)₂PO₄",
-        "NH₄(PO₄)₃",
-        "(NH₄)₃PO₄"
+        "NH₄(PO₄)₃"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "chemistry-foundations",
@@ -4115,9 +4115,9 @@
       "type": "multiple_choice",
       "prompt": "A catalyst is added to a reaction mixture at equilibrium. What happens immediately to the equilibrium composition?",
       "choices": [
-        "It does not change; the system remains at the same equilibrium composition",
-        "Products instantly double",
-        "Reactants are converted completely",
+        "The equilibrium composition stays the same",
+        "Products instantly double when catalyst is added",
+        "Reactants convert completely into products",
         "The equilibrium constant becomes zero"
       ],
       "correctIndex": 0,
