@@ -2,6 +2,7 @@
   "name": "rekall",
   "private": true,
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Local-first flashcards and quizzes: Anki-style decks with a quick, game-like quiz player.",
   "type": "module",
   "scripts": {
