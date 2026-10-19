@@ -1,0 +1,1749 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-b2-part-2",
+    "name": "German B2 — Part 2",
+    "description": "B2 German: professional, academic, governmental, scientific, technological, climate, and formal correspondence language with register control."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Bewerbung einreichen” mean in English?",
+      "answer": "to submit an application",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einreichen is a formal verb used for documents submitted to an institution."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to submit an application” in German?",
+      "answer": "eine Bewerbung einreichen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einreichen is a formal verb used for documents submitted to an institution."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Stelle ausschreiben” mean in English?",
+      "answer": "to advertise a position",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "Ausschreiben is used by an employer publishing a vacancy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to advertise a position” in German?",
+      "answer": "eine Stelle ausschreiben",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "Ausschreiben is used by an employer publishing a vacancy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “berufliche Qualifikationen” mean in English?",
+      "answer": "professional qualifications",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "Qualifikationen are skills or credentials relevant to a job."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “professional qualifications” in German?",
+      "answer": "berufliche Qualifikationen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "Qualifikationen are skills or credentials relevant to a job."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Verhandlung führen” mean in English?",
+      "answer": "to conduct a negotiation",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business"
+      ],
+      "explanation": "Führen forms a common noun-verb collocation with Verhandlung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to conduct a negotiation” in German?",
+      "answer": "eine Verhandlung führen",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "business"
+      ],
+      "explanation": "Führen forms a common noun-verb collocation with Verhandlung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Frist verlängern” mean in English?",
+      "answer": "to extend a deadline",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "work",
+        "formal"
+      ],
+      "explanation": "Verlängern means to make a period longer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to extend a deadline” in German?",
+      "answer": "eine Frist verlängern",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "work",
+        "formal"
+      ],
+      "explanation": "Verlängern means to make a period longer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Vereinbarung treffen” mean in English?",
+      "answer": "to reach an agreement",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business"
+      ],
+      "explanation": "Treffen is the standard verb with Vereinbarung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reach an agreement” in German?",
+      "answer": "eine Vereinbarung treffen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "business"
+      ],
+      "explanation": "Treffen is the standard verb with Vereinbarung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Einnahmen steigern” mean in English?",
+      "answer": "to increase revenue",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "Einnahmen are money received by a person, company, or government."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to increase revenue” in German?",
+      "answer": "die Einnahmen steigern",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "Einnahmen are money received by a person, company, or government."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Nachfrage nach Produkten” mean in English?",
+      "answer": "demand for products",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "Nachfrage nach takes nach plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “demand for products” in German?",
+      "answer": "die Nachfrage nach Produkten",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "Nachfrage nach takes nach plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “in den Wettbewerb treten” mean in English?",
+      "answer": "to enter into competition",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "This formal phrase describes competing in a market."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to enter into competition” in German?",
+      "answer": "in den Wettbewerb treten",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "This formal phrase describes competing in a market."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Steuer erheben” mean in English?",
+      "answer": "to levy a tax",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "government",
+        "economics"
+      ],
+      "explanation": "Erheben is the formal verb used by authorities for imposing a tax."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to levy a tax” in German?",
+      "answer": "eine Steuer erheben",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "government",
+        "economics"
+      ],
+      "explanation": "Erheben is the formal verb used by authorities for imposing a tax."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Antrag genehmigen” mean in English?",
+      "answer": "to approve an application",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "government",
+        "formal"
+      ],
+      "explanation": "Genehmigen means to officially approve or authorize."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to approve an application” in German?",
+      "answer": "einen Antrag genehmigen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "government",
+        "formal"
+      ],
+      "explanation": "Genehmigen means to officially approve or authorize."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Widerspruch einlegen” mean in English?",
+      "answer": "to lodge an objection / appeal",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law",
+        "government"
+      ],
+      "explanation": "Einlegen is used in formal legal and administrative language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to lodge an objection / appeal” in German?",
+      "answer": "Widerspruch einlegen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law",
+        "government"
+      ],
+      "explanation": "Einlegen is used in formal legal and administrative language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “gesetzliche Bestimmungen” mean in English?",
+      "answer": "statutory provisions",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "Bestimmungen are official rules or provisions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “statutory provisions” in German?",
+      "answer": "gesetzliche Bestimmungen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "Bestimmungen are official rules or provisions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Verordnung erlassen” mean in English?",
+      "answer": "to issue a regulation",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law",
+        "government"
+      ],
+      "explanation": "Erlassen is a formal verb used for laws and regulations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to issue a regulation” in German?",
+      "answer": "eine Verordnung erlassen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law",
+        "government"
+      ],
+      "explanation": "Erlassen is a formal verb used for laws and regulations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “wissenschaftliche Erkenntnisse” mean in English?",
+      "answer": "scientific findings",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Erkenntnisse are conclusions gained through research or analysis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “scientific findings” in German?",
+      "answer": "wissenschaftliche Erkenntnisse",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Erkenntnisse are conclusions gained through research or analysis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Hypothese überprüfen” mean in English?",
+      "answer": "to test a hypothesis",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Überprüfen means to check systematically."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to test a hypothesis” in German?",
+      "answer": "eine Hypothese überprüfen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Überprüfen means to check systematically."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zu einem Ergebnis gelangen” mean in English?",
+      "answer": "to arrive at a result",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "science",
+        "formal"
+      ],
+      "explanation": "Gelangen is formal and often occurs with zu plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to arrive at a result” in German?",
+      "answer": "zu einem Ergebnis gelangen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "science",
+        "formal"
+      ],
+      "explanation": "Gelangen is formal and often occurs with zu plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Studie durchführen” mean in English?",
+      "answer": "to conduct a study",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Durchführen is a separable verb; the prefix is final in a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to conduct a study” in German?",
+      "answer": "eine Studie durchführen",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Durchführen is a separable verb; the prefix is final in a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Daten auswerten” mean in English?",
+      "answer": "to evaluate data",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science",
+        "technology"
+      ],
+      "explanation": "Auswerten means to analyze information for results."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to evaluate data” in German?",
+      "answer": "Daten auswerten",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science",
+        "technology"
+      ],
+      "explanation": "Auswerten means to analyze information for results."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schnittstelle entwickeln” mean in English?",
+      "answer": "to develop an interface",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Schnittstelle is used in software and systems contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to develop an interface” in German?",
+      "answer": "eine Schnittstelle entwickeln",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Schnittstelle is used in software and systems contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Daten verschlüsseln” mean in English?",
+      "answer": "to encrypt data",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Verschlüsseln means to encode data to protect access."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to encrypt data” in German?",
+      "answer": "Daten verschlüsseln",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Verschlüsseln means to encode data to protect access."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Sicherheitslücke schließen” mean in English?",
+      "answer": "to close a security vulnerability",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Sicherheitslücke is a common cybersecurity term."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to close a security vulnerability” in German?",
+      "answer": "eine Sicherheitslücke schließen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Sicherheitslücke is a common cybersecurity term."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “künstliche Intelligenz einsetzen” mean in English?",
+      "answer": "to deploy artificial intelligence",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Einsetzen can mean to use something for a purpose."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to deploy artificial intelligence” in German?",
+      "answer": "künstliche Intelligenz einsetzen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Einsetzen can mean to use something for a purpose."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Energie effizient nutzen” mean in English?",
+      "answer": "to use energy efficiently",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "energy"
+      ],
+      "explanation": "Effizient describes achieving a result with little waste."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to use energy efficiently” in German?",
+      "answer": "Energie effizient nutzen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "energy"
+      ],
+      "explanation": "Effizient describes achieving a result with little waste."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Treibhausgasemissionen senken” mean in English?",
+      "answer": "to lower greenhouse-gas emissions",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "Senken means to reduce a level or quantity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to lower greenhouse-gas emissions” in German?",
+      "answer": "Treibhausgasemissionen senken",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "Senken means to reduce a level or quantity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der ökologische Fußabdruck” mean in English?",
+      "answer": "ecological footprint",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "This term describes the environmental impact of an activity or person."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “ecological footprint” in German?",
+      "answer": "der ökologische Fußabdruck",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "This term describes the environmental impact of an activity or person."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine nachhaltige Lösung” mean in English?",
+      "answer": "a sustainable solution",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "policy"
+      ],
+      "explanation": "Nachhaltig describes something designed to remain viable without exhausting resources."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a sustainable solution” in German?",
+      "answer": "eine nachhaltige Lösung",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "policy"
+      ],
+      "explanation": "Nachhaltig describes something designed to remain viable without exhausting resources."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine öffentliche Anhörung” mean in English?",
+      "answer": "a public hearing",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "government",
+        "law"
+      ],
+      "explanation": "Anhörung is a formal event where views or evidence are heard."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a public hearing” in German?",
+      "answer": "eine öffentliche Anhörung",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "government",
+        "law"
+      ],
+      "explanation": "Anhörung is a formal event where views or evidence are heard."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Stellungnahme veröffentlichen” mean in English?",
+      "answer": "to publish a statement",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "public-debate",
+        "formal"
+      ],
+      "explanation": "Stellungnahme is a considered formal position on an issue."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to publish a statement” in German?",
+      "answer": "eine Stellungnahme veröffentlichen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "public-debate",
+        "formal"
+      ],
+      "explanation": "Stellungnahme is a considered formal position on an issue."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Kontroverse auslösen” mean in English?",
+      "answer": "to trigger a controversy",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate"
+      ],
+      "explanation": "Auslösen means to cause an event or reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to trigger a controversy” in German?",
+      "answer": "eine Kontroverse auslösen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate"
+      ],
+      "explanation": "Auslösen means to cause an event or reaction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Behörde kontaktieren” mean in English?",
+      "answer": "to contact an authority",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Behörde refers to an administrative government office."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to contact an authority” in German?",
+      "answer": "eine Behörde kontaktieren",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Behörde refers to an administrative government office."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Bescheid erhalten” mean in English?",
+      "answer": "to receive an official notice",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Bescheid is an official administrative decision or notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to receive an official notice” in German?",
+      "answer": "einen Bescheid erhalten",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Bescheid is an official administrative decision or notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Unterlagen nachreichen” mean in English?",
+      "answer": "to submit additional documents later",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Nachreichen is common in administrative correspondence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to submit additional documents later” in German?",
+      "answer": "Unterlagen nachreichen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Nachreichen is common in administrative correspondence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Angelegenheit klären” mean in English?",
+      "answer": "to clarify a matter",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "Klären means to resolve uncertainty or establish the facts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to clarify a matter” in German?",
+      "answer": "eine Angelegenheit klären",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "Klären means to resolve uncertainty or establish the facts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “bezugnehmend auf Ihr Schreiben” mean in English?",
+      "answer": "with reference to your letter",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This is a conventional formal-letter opening."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with reference to your letter” in German?",
+      "answer": "bezugnehmend auf Ihr Schreiben",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This is a conventional formal-letter opening."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “für Rückfragen zur Verfügung stehen” mean in English?",
+      "answer": "to be available for questions",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This polite closing is common in formal correspondence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to be available for questions” in German?",
+      "answer": "für Rückfragen zur Verfügung stehen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This polite closing is common in formal correspondence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Wir bitten um Verständnis.” mean in English?",
+      "answer": "We ask for your understanding.",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This is a conventional polite phrase in official notices."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “We ask for your understanding.” in German?",
+      "answer": "Wir bitten um Verständnis.",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "This is a conventional polite phrase in official notices."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich möchte darauf hinweisen, dass ...” mean in English?",
+      "answer": "I would like to point out that ...",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "Darauf hinweisen introduces information the reader should notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to point out that ...” in German?",
+      "answer": "Ich möchte darauf hinweisen, dass ...",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "Darauf hinweisen introduces information the reader should notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es ist davon auszugehen, dass ...” mean in English?",
+      "answer": "It can be assumed that ...",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal",
+        "hedging"
+      ],
+      "explanation": "This impersonal construction hedges a formal prediction or inference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “It can be assumed that ...” in German?",
+      "answer": "Es ist davon auszugehen, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal",
+        "hedging"
+      ],
+      "explanation": "This impersonal construction hedges a formal prediction or inference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unter diesen Umständen” mean in English?",
+      "answer": "under these circumstances",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "This phrase links a conclusion to the situation just described."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “under these circumstances” in German?",
+      "answer": "unter diesen Umständen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "This phrase links a conclusion to the situation just described."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “in Anbetracht der Lage” mean in English?",
+      "answer": "in view of the situation",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "Anbetracht is a formal genitive preposition-like expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in view of the situation” in German?",
+      "answer": "in Anbetracht der Lage",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "formal"
+      ],
+      "explanation": "Anbetracht is a formal genitive preposition-like expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Priorität setzen” mean in English?",
+      "answer": "to set a priority",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "This formal phrase describes deciding what should come first."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to set a priority” in German?",
+      "answer": "eine Priorität setzen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "work"
+      ],
+      "explanation": "This formal phrase describes deciding what should come first."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ressourcen bereitstellen” mean in English?",
+      "answer": "to provide resources",
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "policy",
+        "work"
+      ],
+      "explanation": "Bereitstellen is separable and common in policy and business contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to provide resources” in German?",
+      "answer": "Ressourcen bereitstellen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "policy",
+        "work"
+      ],
+      "explanation": "Bereitstellen is separable and common in policy and business contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Lösung favorisieren” mean in English?",
+      "answer": "to favor a solution",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "argumentation"
+      ],
+      "explanation": "Favorisieren means to prefer or support one option."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to favor a solution” in German?",
+      "answer": "eine Lösung favorisieren",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "argumentation"
+      ],
+      "explanation": "Favorisieren means to prefer or support one option."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung nachvollziehen können” mean in English?",
+      "answer": "to be able to understand a decision",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "argumentation"
+      ],
+      "explanation": "Nachvollziehbar means understandable when the reasoning is followed."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to be able to understand a decision” in German?",
+      "answer": "eine Entscheidung nachvollziehen können",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "argumentation"
+      ],
+      "explanation": "Nachvollziehbar means understandable when the reasoning is followed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase belongs in a formal letter?",
+      "choices": [
+        "Bezugnehmend auf Ihr Schreiben",
+        "Hey, was geht?",
+        "Bis später, Kumpel"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "Bezugnehmend auf Ihr Schreiben is a conventional formal opening."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does Widerspruch einlegen mean?",
+      "choices": [
+        "to lodge an objection",
+        "to encrypt data",
+        "to advertise a job"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "It is a formal legal or administrative phrase."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb means “to conduct a study”?",
+      "choices": [
+        "eine Studie durchführen",
+        "eine Studie auslösen",
+        "eine Studie erheben"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "science"
+      ],
+      "explanation": "Durchführen is the standard collocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Complete: Die Nachfrage ___ nachhaltigen Produkten steigt.",
+      "choices": [
+        "nach",
+        "für den",
+        "über die"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "economics"
+      ],
+      "explanation": "Nachfrage nach takes nach plus dative: nach nachhaltigen Produkten."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to submit additional documents later”?",
+      "choices": [
+        "Unterlagen nachreichen",
+        "Unterlagen verschlüsseln",
+        "Unterlagen auslösen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Nachreichen is used when documents are provided after an initial submission."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does eine Sicherheitslücke schließen mean?",
+      "choices": [
+        "to close a security vulnerability",
+        "to open a bank account",
+        "to issue a regulation"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Sicherheitslücke is a security gap or vulnerability."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase cautiously states an assumption?",
+      "choices": [
+        "Es ist davon auszugehen, dass ...",
+        "Es ist absolut bewiesen, dass ...",
+        "Ich befehle, dass ..."
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "hedging"
+      ],
+      "explanation": "The impersonal construction creates a formal hedge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which noun means “official notice”?",
+      "choices": [
+        "Bescheid",
+        "Beitrag",
+        "Bedarf"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Ein Bescheid is an official administrative notice or decision."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term refers to environmental impact?",
+      "choices": [
+        "ökologischer Fußabdruck",
+        "wissenschaftliche Erkenntnis",
+        "öffentliche Anhörung"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "The ecological footprint measures environmental impact."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb means “to provide resources”?",
+      "choices": [
+        "bereitstellen",
+        "nachvollziehen",
+        "favorisieren"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "policy"
+      ],
+      "explanation": "Bereitstellen means to make something available or provide it."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An official notice can be called ein Bescheid.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy"
+      ],
+      "explanation": "Bescheid is a standard administrative term."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Bezugnehmend auf Ihr Schreiben is informal slang.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "It is formal correspondence language."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Durchführen is separable in a main clause.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "separable-verbs"
+      ],
+      "explanation": "Man führt eine Studie durch; the prefix moves to the end."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Nachhaltig refers only to short-term financial profit.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "It broadly means sustainable, including environmental and long-term considerations."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Erlassen can be used for issuing a regulation.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "Authorities can eine Verordnung erlassen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Eine Kontroverse auslösen means to prevent a controversy.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "b2",
+        "public-debate"
+      ],
+      "explanation": "Auslösen means to trigger or cause it."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Für Rückfragen zur Verfügung stehen is common in formal closings.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "correspondence"
+      ],
+      "explanation": "It offers availability for follow-up questions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Treibhausgasemissionen senken means to increase emissions.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate"
+      ],
+      "explanation": "Senken means to lower or reduce."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Bilanz ziehen” mean in English?",
+      "answer": "to take stock / draw up a balance sheet",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "idioms"
+      ],
+      "explanation": "Bilanz ziehen can mean evaluating results or preparing financial accounts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take stock / draw up a balance sheet” in German?",
+      "answer": "eine Bilanz ziehen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "idioms"
+      ],
+      "explanation": "Bilanz ziehen can mean evaluating results or preparing financial accounts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Kosten in Rechnung stellen” mean in English?",
+      "answer": "to charge costs",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business",
+        "formal"
+      ],
+      "explanation": "In Rechnung stellen is a formal billing expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to charge costs” in German?",
+      "answer": "Kosten in Rechnung stellen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business",
+        "formal"
+      ],
+      "explanation": "In Rechnung stellen is a formal billing expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Investition tätigen” mean in English?",
+      "answer": "to make an investment",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "collocations"
+      ],
+      "explanation": "Tätigen is a formal verb used with financial transactions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make an investment” in German?",
+      "answer": "eine Investition tätigen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "collocations"
+      ],
+      "explanation": "Tätigen is a formal verb used with financial transactions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Wachstum fördern” mean in English?",
+      "answer": "to promote growth",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "policy"
+      ],
+      "explanation": "Fördern means to support or encourage development."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to promote growth” in German?",
+      "answer": "Wachstum fördern",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "economics",
+        "policy"
+      ],
+      "explanation": "Fördern means to support or encourage development."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ausschreibung veröffentlichen” mean in English?",
+      "answer": "to publish a tender",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business",
+        "government"
+      ],
+      "explanation": "Ausschreibung is a formal invitation for offers or bids."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to publish a tender” in German?",
+      "answer": "eine Ausschreibung veröffentlichen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "business",
+        "government"
+      ],
+      "explanation": "Ausschreibung is a formal invitation for offers or bids."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Vertrag kündigen” mean in English?",
+      "answer": "to terminate a contract",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law",
+        "business"
+      ],
+      "explanation": "Kündigen is used for ending a contract or employment relationship."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to terminate a contract” in German?",
+      "answer": "einen Vertrag kündigen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "law",
+        "business"
+      ],
+      "explanation": "Kündigen is used for ending a contract or employment relationship."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “rechtliche Schritte einleiten” mean in English?",
+      "answer": "to initiate legal action",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law",
+        "formal"
+      ],
+      "explanation": "Einleiten means to set a formal process in motion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to initiate legal action” in German?",
+      "answer": "rechtliche Schritte einleiten",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law",
+        "formal"
+      ],
+      "explanation": "Einleiten means to set a formal process in motion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Bestimmung auslegen” mean in English?",
+      "answer": "to interpret a provision",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law",
+        "argumentation"
+      ],
+      "explanation": "Auslegen means to interpret a rule or legal text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to interpret a provision” in German?",
+      "answer": "eine Bestimmung auslegen",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law",
+        "argumentation"
+      ],
+      "explanation": "Auslegen means to interpret a rule or legal text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Datenschutz gewährleisten” mean in English?",
+      "answer": "to ensure data protection",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology",
+        "law"
+      ],
+      "explanation": "Gewährleisten is a formal verb meaning to guarantee or ensure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to ensure data protection” in German?",
+      "answer": "den Datenschutz gewährleisten",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology",
+        "law"
+      ],
+      "explanation": "Gewährleisten is a formal verb meaning to guarantee or ensure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Software aktualisieren” mean in English?",
+      "answer": "to update software",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Aktualisieren means to bring software or information up to date."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to update software” in German?",
+      "answer": "eine Software aktualisieren",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Aktualisieren means to bring software or information up to date."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Fehler reproduzieren” mean in English?",
+      "answer": "to reproduce an error",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Reproduzieren is used in technical testing when an error can be made to occur again."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reproduce an error” in German?",
+      "answer": "einen Fehler reproduzieren",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Reproduzieren is used in technical testing when an error can be made to occur again."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Rechenleistung steigern” mean in English?",
+      "answer": "to increase computing power",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Rechenleistung describes the processing capacity of a system."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to increase computing power” in German?",
+      "answer": "die Rechenleistung steigern",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "technology"
+      ],
+      "explanation": "Rechenleistung describes the processing capacity of a system."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Klimastrategie umsetzen” mean in English?",
+      "answer": "to implement a climate strategy",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "policy"
+      ],
+      "explanation": "Umsetzen means to put a plan or policy into practice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to implement a climate strategy” in German?",
+      "answer": "eine Klimastrategie umsetzen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "policy"
+      ],
+      "explanation": "Umsetzen means to put a plan or policy into practice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Energiebedarf decken” mean in English?",
+      "answer": "to meet energy demand",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "economics"
+      ],
+      "explanation": "Bedarf is the amount needed; decken means to cover or meet it."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to meet energy demand” in German?",
+      "answer": "den Energiebedarf decken",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "climate",
+        "economics"
+      ],
+      "explanation": "Bedarf is the amount needed; decken means to cover or meet it."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In public correspondence, what does “eine Stellungnahme abgeben” mean in English?",
+      "answer": "to submit a statement",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate",
+        "correspondence"
+      ],
+      "explanation": "Abgeben is formal and commonly used for official statements."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to submit a statement” in German?",
+      "answer": "eine Stellungnahme abgeben",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate",
+        "correspondence"
+      ],
+      "explanation": "Abgeben is formal and commonly used for official statements."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Konsens erzielen” mean in English?",
+      "answer": "to reach a consensus",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate",
+        "politics"
+      ],
+      "explanation": "Erzielen means to achieve a result through effort or negotiation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reach a consensus” in German?",
+      "answer": "einen Konsens erzielen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "public-debate",
+        "politics"
+      ],
+      "explanation": "Erzielen means to achieve a result through effort or negotiation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Reform verabschieden” mean in English?",
+      "answer": "to pass a reform",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "government",
+        "politics"
+      ],
+      "explanation": "Verabschieden is used when a parliament formally adopts a law or reform."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to pass a reform” in German?",
+      "answer": "eine Reform verabschieden",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "government",
+        "politics"
+      ],
+      "explanation": "Verabschieden is used when a parliament formally adopts a law or reform."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung anfechten” mean in English?",
+      "answer": "to challenge a decision",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "Anfechten is a formal legal verb for contesting a decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to challenge a decision” in German?",
+      "answer": "eine Entscheidung anfechten",
+      "difficulty": "hard",
+      "tags": [
+        "b2",
+        "law"
+      ],
+      "explanation": "Anfechten is a formal legal verb for contesting a decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Frist verstreichen lassen” mean in English?",
+      "answer": "to let a deadline expire",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy",
+        "formal"
+      ],
+      "explanation": "Verstreichen lassen means to allow a period to pass without action."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to let a deadline expire” in German?",
+      "answer": "eine Frist verstreichen lassen",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "bureaucracy",
+        "formal"
+      ],
+      "explanation": "Verstreichen lassen means to allow a period to pass without action."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Angelegenheit abschließend klären” mean in English?",
+      "answer": "to settle a matter conclusively",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "formal",
+        "correspondence"
+      ],
+      "explanation": "Abschließend signals that no further clarification is expected."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to settle a matter conclusively” in German?",
+      "answer": "eine Angelegenheit abschließend klären",
+      "difficulty": "medium",
+      "tags": [
+        "b2",
+        "formal",
+        "correspondence"
+      ],
+      "explanation": "Abschließend signals that no further clarification is expected."
+    }
+  ]
+}

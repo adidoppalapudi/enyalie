@@ -1,0 +1,2743 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-a1-part-2",
+    "name": "German A1 — Part 2",
+    "description": "A1 German for everyday situations: travel, shopping, health, work, directions, separable verbs, prepositions, imperatives, and practical sentences."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Bahnhof” mean in English?",
+      "answer": "the train station",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "transport",
+        "places"
+      ],
+      "explanation": "“der Bahnhof” is a common German expression meaning “the train station.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the train station” in German?",
+      "answer": "der Bahnhof",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport",
+        "places"
+      ],
+      "explanation": "The German expression for “the train station” is “der Bahnhof.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Flughafen” mean in English?",
+      "answer": "the airport",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport",
+        "places"
+      ],
+      "explanation": "“der Flughafen” is a common German expression meaning “the airport.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the airport” in German?",
+      "answer": "der Flughafen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport",
+        "places"
+      ],
+      "explanation": "The German expression for “the airport” is “der Flughafen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Bus” mean in English?",
+      "answer": "the bus",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "“der Bus” is a common German expression meaning “the bus.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the bus” in German?",
+      "answer": "der Bus",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "The German expression for “the bus” is “der Bus.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Straßenbahn” mean in English?",
+      "answer": "the tram",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "“die Straßenbahn” is a common German expression meaning “the tram.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the tram” in German?",
+      "answer": "die Straßenbahn",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "The German expression for “the tram” is “die Straßenbahn.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Fahrkarte” mean in English?",
+      "answer": "the ticket",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "“die Fahrkarte” is a common German expression meaning “the ticket.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the ticket” in German?",
+      "answer": "die Fahrkarte",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "The German expression for “the ticket” is “die Fahrkarte.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Fahrplan” mean in English?",
+      "answer": "the timetable",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "“der Fahrplan” is a common German expression meaning “the timetable.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the timetable” in German?",
+      "answer": "der Fahrplan",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "transport"
+      ],
+      "explanation": "The German expression for “the timetable” is “der Fahrplan.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “links” mean in English?",
+      "answer": "left",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“links” is a common German expression meaning “left.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “left” in German?",
+      "answer": "links",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “left” is “links.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “rechts” mean in English?",
+      "answer": "right",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“rechts” is a common German expression meaning “right.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “right” in German?",
+      "answer": "rechts",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “right” is “rechts.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “geradeaus” mean in English?",
+      "answer": "straight ahead",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“geradeaus” is a common German expression meaning “straight ahead.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “straight ahead” in German?",
+      "answer": "geradeaus",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “straight ahead” is “geradeaus.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Kreuzung” mean in English?",
+      "answer": "the intersection",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“die Kreuzung” is a common German expression meaning “the intersection.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the intersection” in German?",
+      "answer": "die Kreuzung",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “the intersection” is “die Kreuzung.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Ampel” mean in English?",
+      "answer": "the traffic light",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“die Ampel” is a common German expression meaning “the traffic light.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the traffic light” in German?",
+      "answer": "die Ampel",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “the traffic light” is “die Ampel.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Straße” mean in English?",
+      "answer": "the street",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "“die Straße” is a common German expression meaning “the street.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the street” in German?",
+      "answer": "die Straße",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "directions"
+      ],
+      "explanation": "The German expression for “the street” is “die Straße.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Supermarkt” mean in English?",
+      "answer": "the supermarket",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "“der Supermarkt” is a common German expression meaning “the supermarket.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the supermarket” in German?",
+      "answer": "der Supermarkt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "The German expression for “the supermarket” is “der Supermarkt.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Preis” mean in English?",
+      "answer": "the price",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "“der Preis” is a common German expression meaning “the price.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the price” in German?",
+      "answer": "der Preis",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "The German expression for “the price” is “der Preis.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “billig” mean in English?",
+      "answer": "cheap",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "shopping",
+        "adjectives"
+      ],
+      "explanation": "“billig” is a common German expression meaning “cheap.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “cheap” in German?",
+      "answer": "billig",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping",
+        "adjectives"
+      ],
+      "explanation": "The German expression for “cheap” is “billig.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “teuer” mean in English?",
+      "answer": "expensive",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping",
+        "adjectives"
+      ],
+      "explanation": "“teuer” is a common German expression meaning “expensive.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “expensive” in German?",
+      "answer": "teuer",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping",
+        "adjectives"
+      ],
+      "explanation": "The German expression for “expensive” is “teuer.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “bezahlen” mean in English?",
+      "answer": "to pay",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "“bezahlen” is a common German expression meaning “to pay.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to pay” in German?",
+      "answer": "bezahlen",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "The German expression for “to pay” is “bezahlen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “brauchen” mean in English?",
+      "answer": "to need",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "“brauchen” is a common German expression meaning “to need.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to need” in German?",
+      "answer": "brauchen",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "shopping"
+      ],
+      "explanation": "The German expression for “to need” is “brauchen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Gemüse” mean in English?",
+      "answer": "the vegetables",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "“das Gemüse” is a common German expression meaning “the vegetables.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the vegetables” in German?",
+      "answer": "das Gemüse",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "The German expression for “the vegetables” is “das Gemüse.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Obst” mean in English?",
+      "answer": "the fruit",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "“das Obst” is a common German expression meaning “the fruit.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the fruit” in German?",
+      "answer": "das Obst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "The German expression for “the fruit” is “das Obst.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Käse” mean in English?",
+      "answer": "the cheese",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "“der Käse” is a common German expression meaning “the cheese.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the cheese” in German?",
+      "answer": "der Käse",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "The German expression for “the cheese” is “der Käse.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Fleisch” mean in English?",
+      "answer": "the meat",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "“das Fleisch” is a common German expression meaning “the meat.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the meat” in German?",
+      "answer": "das Fleisch",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food"
+      ],
+      "explanation": "The German expression for “the meat” is “das Fleisch.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Speisekarte” mean in English?",
+      "answer": "the menu",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "“die Speisekarte” is a common German expression meaning “the menu.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the menu” in German?",
+      "answer": "die Speisekarte",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "The German expression for “the menu” is “die Speisekarte.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Rechnung” mean in English?",
+      "answer": "the bill",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "“die Rechnung” is a common German expression meaning “the bill.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the bill” in German?",
+      "answer": "die Rechnung",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "The German expression for “the bill” is “die Rechnung.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “bestellen” mean in English?",
+      "answer": "to order",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "“bestellen” is a common German expression meaning “to order.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to order” in German?",
+      "answer": "bestellen",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "food",
+        "restaurant"
+      ],
+      "explanation": "The German expression for “to order” is “bestellen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Beruf” mean in English?",
+      "answer": "the occupation",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "“der Beruf” is a common German expression meaning “the occupation.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the occupation” in German?",
+      "answer": "der Beruf",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "The German expression for “the occupation” is “der Beruf.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Arbeit” mean in English?",
+      "answer": "the work",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "“die Arbeit” is a common German expression meaning “the work.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the work” in German?",
+      "answer": "die Arbeit",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "The German expression for “the work” is “die Arbeit.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Büro” mean in English?",
+      "answer": "the office",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "“das Büro” is a common German expression meaning “the office.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the office” in German?",
+      "answer": "das Büro",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "The German expression for “the office” is “das Büro.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Pause” mean in English?",
+      "answer": "the break",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "“die Pause” is a common German expression meaning “the break.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the break” in German?",
+      "answer": "die Pause",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work"
+      ],
+      "explanation": "The German expression for “the break” is “die Pause.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Termin” mean in English?",
+      "answer": "the appointment",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work",
+        "time"
+      ],
+      "explanation": "“der Termin” is a common German expression meaning “the appointment.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the appointment” in German?",
+      "answer": "der Termin",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "work",
+        "time"
+      ],
+      "explanation": "The German expression for “the appointment” is “der Termin.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Schule” mean in English?",
+      "answer": "the school",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "“die Schule” is a common German expression meaning “the school.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the school” in German?",
+      "answer": "die Schule",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "The German expression for “the school” is “die Schule.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Klasse” mean in English?",
+      "answer": "the class",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "“die Klasse” is a common German expression meaning “the class.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the class” in German?",
+      "answer": "die Klasse",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "The German expression for “the class” is “die Klasse.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Prüfung” mean in English?",
+      "answer": "the exam",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "“die Prüfung” is a common German expression meaning “the exam.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the exam” in German?",
+      "answer": "die Prüfung",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "The German expression for “the exam” is “die Prüfung.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “lernen” mean in English?",
+      "answer": "to learn / study",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "“lernen” is a common German expression meaning “to learn / study.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to learn / study” in German?",
+      "answer": "lernen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "education"
+      ],
+      "explanation": "The German expression for “to learn / study” is “lernen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Wetter” mean in English?",
+      "answer": "the weather",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "“das Wetter” is a common German expression meaning “the weather.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the weather” in German?",
+      "answer": "das Wetter",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "The German expression for “the weather” is “das Wetter.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Sonne” mean in English?",
+      "answer": "the sun",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "“die Sonne” is a common German expression meaning “the sun.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the sun” in German?",
+      "answer": "die Sonne",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "The German expression for “the sun” is “die Sonne.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Regen” mean in English?",
+      "answer": "the rain",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "“der Regen” is a common German expression meaning “the rain.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the rain” in German?",
+      "answer": "der Regen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather"
+      ],
+      "explanation": "The German expression for “the rain” is “der Regen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “kalt” mean in English?",
+      "answer": "cold",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather",
+        "adjectives"
+      ],
+      "explanation": "“kalt” is a common German expression meaning “cold.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “cold” in German?",
+      "answer": "kalt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather",
+        "adjectives"
+      ],
+      "explanation": "The German expression for “cold” is “kalt.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “warm” mean in English?",
+      "answer": "warm",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "weather",
+        "adjectives"
+      ],
+      "explanation": "“warm” is a common German expression meaning “warm.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “warm” in German?",
+      "answer": "warm",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "weather",
+        "adjectives"
+      ],
+      "explanation": "The German expression for “warm” is “warm.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “krank” mean in English?",
+      "answer": "ill",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“krank” is a common German expression meaning “ill.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “ill” in German?",
+      "answer": "krank",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “ill” is “krank.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “gesund” mean in English?",
+      "answer": "healthy",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“gesund” is a common German expression meaning “healthy.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “healthy” in German?",
+      "answer": "gesund",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “healthy” is “gesund.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Arzt” mean in English?",
+      "answer": "the doctor",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“der Arzt” is a common German expression meaning “the doctor.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the doctor” in German?",
+      "answer": "der Arzt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “the doctor” is “der Arzt.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Ärztin” mean in English?",
+      "answer": "the female doctor",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“die Ärztin” is a common German expression meaning “the female doctor.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the female doctor” in German?",
+      "answer": "die Ärztin",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “the female doctor” is “die Ärztin.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Apotheke” mean in English?",
+      "answer": "the pharmacy",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“die Apotheke” is a common German expression meaning “the pharmacy.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the pharmacy” in German?",
+      "answer": "die Apotheke",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “the pharmacy” is “die Apotheke.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Kopf” mean in English?",
+      "answer": "the head",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "“der Kopf” is a common German expression meaning “the head.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the head” in German?",
+      "answer": "der Kopf",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "The German expression for “the head” is “der Kopf.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Bauch” mean in English?",
+      "answer": "the stomach / belly",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "“der Bauch” is a common German expression meaning “the stomach / belly.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the stomach / belly” in German?",
+      "answer": "der Bauch",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "The German expression for “the stomach / belly” is “der Bauch.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Hand” mean in English?",
+      "answer": "the hand",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "“die Hand” is a common German expression meaning “the hand.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the hand” in German?",
+      "answer": "die Hand",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "The German expression for “the hand” is “die Hand.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Fuß” mean in English?",
+      "answer": "the foot",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "“der Fuß” is a common German expression meaning “the foot.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the foot” in German?",
+      "answer": "der Fuß",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "body"
+      ],
+      "explanation": "The German expression for “the foot” is “der Fuß.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “wehtun” mean in English?",
+      "answer": "to hurt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "“wehtun” is a common German expression meaning “to hurt.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to hurt” in German?",
+      "answer": "wehtun",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "health"
+      ],
+      "explanation": "The German expression for “to hurt” is “wehtun.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Hemd” mean in English?",
+      "answer": "the shirt",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "“das Hemd” is a common German expression meaning “the shirt.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the shirt” in German?",
+      "answer": "das Hemd",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "The German expression for “the shirt” is “das Hemd.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Hose” mean in English?",
+      "answer": "the trousers",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "“die Hose” is a common German expression meaning “the trousers.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the trousers” in German?",
+      "answer": "die Hose",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "The German expression for “the trousers” is “die Hose.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Schuh” mean in English?",
+      "answer": "the shoe",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "“der Schuh” is a common German expression meaning “the shoe.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the shoe” in German?",
+      "answer": "der Schuh",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "The German expression for “the shoe” is “der Schuh.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Jacke” mean in English?",
+      "answer": "the jacket",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "“die Jacke” is a common German expression meaning “the jacket.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the jacket” in German?",
+      "answer": "die Jacke",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "The German expression for “the jacket” is “die Jacke.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “anziehen” mean in English?",
+      "answer": "to put on",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "“anziehen” is a common German expression meaning “to put on.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to put on” in German?",
+      "answer": "anziehen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "clothing"
+      ],
+      "explanation": "The German expression for “to put on” is “anziehen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Freizeit” mean in English?",
+      "answer": "free time",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "“die Freizeit” is a common German expression meaning “free time.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “free time” in German?",
+      "answer": "die Freizeit",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "The German expression for “free time” is “die Freizeit.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “lesen” mean in English?",
+      "answer": "to read",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "“lesen” is a common German expression meaning “to read.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to read” in German?",
+      "answer": "lesen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "The German expression for “to read” is “lesen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “schwimmen” mean in English?",
+      "answer": "to swim",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "“schwimmen” is a common German expression meaning “to swim.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to swim” in German?",
+      "answer": "schwimmen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "The German expression for “to swim” is “schwimmen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Musik hören” mean in English?",
+      "answer": "to listen to music",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "“Musik hören” is a common German expression meaning “to listen to music.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to listen to music” in German?",
+      "answer": "Musik hören",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "The German expression for “to listen to music” is “Musik hören.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “spazieren gehen” mean in English?",
+      "answer": "to go for a walk",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "“spazieren gehen” is a common German expression meaning “to go for a walk.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to go for a walk” in German?",
+      "answer": "spazieren gehen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "hobbies"
+      ],
+      "explanation": "The German expression for “to go for a walk” is “spazieren gehen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Geburtstag” mean in English?",
+      "answer": "the birthday",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "“der Geburtstag” is a common German expression meaning “the birthday.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the birthday” in German?",
+      "answer": "der Geburtstag",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "The German expression for “the birthday” is “der Geburtstag.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Einladung” mean in English?",
+      "answer": "the invitation",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "“die Einladung” is a common German expression meaning “the invitation.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the invitation” in German?",
+      "answer": "die Einladung",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "The German expression for “the invitation” is “die Einladung.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “feiern” mean in English?",
+      "answer": "to celebrate",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "“feiern” is a common German expression meaning “to celebrate.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to celebrate” in German?",
+      "answer": "feiern",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "The German expression for “to celebrate” is “feiern.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “mitbringen” mean in English?",
+      "answer": "to bring along",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "“mitbringen” is a common German expression meaning “to bring along.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to bring along” in German?",
+      "answer": "mitbringen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "The German expression for “to bring along” is “mitbringen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “sich treffen” mean in English?",
+      "answer": "to meet up",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "“sich treffen” is a common German expression meaning “to meet up.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to meet up” in German?",
+      "answer": "sich treffen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "social"
+      ],
+      "explanation": "The German expression for “to meet up” is “sich treffen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Das ist ___ Bruder. (ich)",
+      "answer": "mein",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Masculine nominative Bruder takes mein from the first-person possessive stem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Das ist ___ Schwester. (ich)",
+      "answer": "meine",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Feminine nominative Schwester takes meine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Das ist ___ Kind. (ich)",
+      "answer": "mein",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Neuter nominative Kind takes mein."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Das sind ___ Eltern. (ich)",
+      "answer": "meine",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Plural Eltern takes meine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Ist das ___ Tasche? (du)",
+      "answer": "deine",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Feminine nominative Tasche takes deine from the du possessive stem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Ich sehe ___ Vater. (du)",
+      "answer": "deinen",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Masculine accusative Vater takes deinen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Wir besuchen ___ Freunde. (er)",
+      "answer": "seine",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Plural Freunde takes seine from the er possessive stem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Sie sucht ___ Schlüssel. (sie)",
+      "answer": "ihren",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "Masculine accusative Schlüssel takes ihren from the feminine singular possessive stem ihr-."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Wir sprechen mit ___ Lehrerin. (wir)",
+      "answer": "unserer",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "mit governs the dative, and feminine dative uses unserer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Choose the correct possessive form: Kommt ihr mit ___ Auto? (ihr)",
+      "answer": "eurem",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "possessives",
+        "cases"
+      ],
+      "explanation": "mit governs the dative, and neuter dative Auto uses eurem."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses aufstehen?",
+      "choices": [
+        "Ich stehe um sieben auf.",
+        "Ich aufstehe um sieben.",
+        "Ich stehe auf um sieben.",
+        "Aufstehe ich um sieben."
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "In a main clause, aufstehen separates: the finite form stehe is second and auf goes to the end."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses einkaufen?",
+      "choices": [
+        "Sie kauft im Supermarkt ein.",
+        "Sie einkauft im Supermarkt.",
+        "Sie kauft ein im Supermarkt.",
+        "Einkauft sie im Supermarkt."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "The separable prefix ein moves to the end in the main clause: Sie kauft … ein."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses fernsehen?",
+      "choices": [
+        "Wir sehen am Abend fern.",
+        "Wir fernsehen am Abend.",
+        "Wir sehen fern am Abend.",
+        "Fern wir sehen am Abend."
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "The verb fernsehen separates in a main clause: Wir sehen … fern."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses anrufen in the imperative?",
+      "choices": [
+        "Ruf mich bitte an!",
+        "Anruf mich bitte!",
+        "Ruf an mich bitte!",
+        "Du ruf mich an!"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "The informal imperative of anrufen is Ruf … an, with the prefix at the end."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses anfangen?",
+      "choices": [
+        "Ich fange um neun an.",
+        "Ich anfange um neun.",
+        "Ich fange an um neun.",
+        "Anfange ich um neun."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "The prefix of anfangen separates in a main clause."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which infinitive is separable?",
+      "choices": [
+        "besuchen",
+        "verstehen",
+        "aufstehen",
+        "bekommen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "aufstehen contains the separable prefix auf; many inseparable prefixes include be- and ver-."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which prefix is commonly inseparable?",
+      "choices": [
+        "auf-",
+        "ein-",
+        "an-",
+        "ver-"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "ver- is a commonly inseparable prefix, while auf-, ein- and an- are common separable prefixes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How does aufstehen appear after a modal?",
+      "choices": [
+        "Ich muss um sechs aufstehen.",
+        "Ich muss auf um sechs stehen.",
+        "Ich aufstehen muss um sechs.",
+        "Ich muss aufstehe um sechs."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "separable-verbs",
+        "word-order"
+      ],
+      "explanation": "After a modal, the complete infinitive aufstehen remains together at the end."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition means “with” and takes the dative?",
+      "choices": [
+        "für",
+        "mit",
+        "ohne",
+        "durch"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "mit means “with” and governs the dative: mit dem Bus."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition means “for” and takes the accusative?",
+      "choices": [
+        "für",
+        "mit",
+        "bei",
+        "nach"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "für governs the accusative: ein Geschenk für meinen Bruder."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition means “without” and takes the accusative?",
+      "choices": [
+        "ohne",
+        "aus",
+        "von",
+        "zu"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "ohne governs the accusative: Kaffee ohne Zucker."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition means “from / out of” and takes the dative?",
+      "choices": [
+        "durch",
+        "gegen",
+        "aus",
+        "um"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "aus governs the dative and often marks origin or movement out of an enclosed place."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition means “at / near” and takes the dative?",
+      "choices": [
+        "bei",
+        "für",
+        "ohne",
+        "gegen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "bei governs the dative: Sie arbeitet bei einer Firma."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition normally introduces a destination city?",
+      "choices": [
+        "nach",
+        "mit",
+        "seit",
+        "aus"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "nach is commonly used with cities and most countries without an article: nach Berlin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which preposition normally introduces origin from a city?",
+      "choices": [
+        "nach",
+        "aus",
+        "zu",
+        "gegen"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "aus is used for origin from a city or country: Ich komme aus Berlin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “at the doctor’s”?",
+      "choices": [
+        "beim Arzt",
+        "für den Arzt",
+        "nach Arzt",
+        "ohne Arzt"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "beim is the contraction of bei dem, and bei dem Arzt means at the doctor’s / with the doctor."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to the station”?",
+      "choices": [
+        "zum Bahnhof",
+        "im Bahnhof",
+        "aus Bahnhof",
+        "bei Bahnhof"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "zum is the contraction of zu dem; zum Bahnhof means to the station."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “in the city”?",
+      "choices": [
+        "in die Stadt",
+        "in der Stadt",
+        "aus die Stadt",
+        "mit der Stadt"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "prepositions",
+        "cases"
+      ],
+      "explanation": "A stationary location uses the dative: in der Stadt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the informal singular imperative of kommen?",
+      "answer": "Komm!",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "The informal singular imperative of kommen is Komm!"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the informal singular imperative of machen?",
+      "answer": "Mach!",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "The informal singular imperative of machen is Mach!"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the informal singular imperative of lesen?",
+      "answer": "Lies!",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "lesen has the stem-vowel change e to ie in the informal singular imperative: Lies!"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the formal imperative of sprechen?",
+      "answer": "Sprechen Sie!",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "The formal imperative uses the infinitive plus Sie: Sprechen Sie!"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural informal imperative of warten?",
+      "answer": "Wartet!",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "The ihr imperative uses the second-person plural present form without the pronoun: Wartet!"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Seien Sie bitte ruhig!” mean?",
+      "answer": "Please be quiet!",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "imperative",
+        "commands"
+      ],
+      "explanation": "Seien Sie is the formal imperative of sein, and ruhig means quiet."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the comparative of klein?",
+      "answer": "kleiner",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "The regular comparative adds -er: klein becomes kleiner."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the comparative of groß?",
+      "answer": "größer",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "The comparative of groß is größer, with an umlaut and -er."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the superlative form used after a definite article for schnell?",
+      "answer": "der schnellste",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "Attributive superlatives use -st- plus the appropriate adjective ending: der schnellste."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Das Wetter ist kalt.” mean?",
+      "answer": "The weather is cold.",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "kalt is the predicate adjective meaning cold."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “ein gutes Buch” mean?",
+      "answer": "a good book",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "Buch is neuter and the indefinite article plus attributive adjective gives ein gutes Buch in the nominative/accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “eine kleine Wohnung” mean?",
+      "answer": "a small apartment",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "Wohnung is feminine and the attributive adjective after eine takes -e: eine kleine Wohnung."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which adjective means “new”?",
+      "choices": [
+        "alt",
+        "neu",
+        "teuer",
+        "langsam"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "neu means new; alt means old."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which adjective means “slow”?",
+      "choices": [
+        "schnell",
+        "langsam",
+        "warm",
+        "leicht"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "adjectives"
+      ],
+      "explanation": "langsam means slow."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich hätte gern einen Kaffee.” mean in English?",
+      "answer": "I would like a coffee.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich hätte gern einen Kaffee.” is a common German expression meaning “I would like a coffee..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like a coffee.” in German?",
+      "answer": "Ich hätte gern einen Kaffee.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I would like a coffee.” is “Ich hätte gern einen Kaffee..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Was kostet das?” mean in English?",
+      "answer": "How much does that cost?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Was kostet das?” is a common German expression meaning “How much does that cost?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “How much does that cost?” in German?",
+      "answer": "Was kostet das?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “How much does that cost?” is “Was kostet das?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Kann ich mit Karte bezahlen?” mean in English?",
+      "answer": "Can I pay by card?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Kann ich mit Karte bezahlen?” is a common German expression meaning “Can I pay by card?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Can I pay by card?” in German?",
+      "answer": "Kann ich mit Karte bezahlen?",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Can I pay by card?” is “Kann ich mit Karte bezahlen?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Die Rechnung, bitte.” mean in English?",
+      "answer": "The bill, please.",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Die Rechnung, bitte.” is a common German expression meaning “The bill, please..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The bill, please.” in German?",
+      "answer": "Die Rechnung, bitte.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “The bill, please.” is “Die Rechnung, bitte..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich habe einen Termin.” mean in English?",
+      "answer": "I have an appointment.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich habe einen Termin.” is a common German expression meaning “I have an appointment..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I have an appointment.” in German?",
+      "answer": "Ich habe einen Termin.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I have an appointment.” is “Ich habe einen Termin..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich brauche einen Arzt.” mean in English?",
+      "answer": "I need a doctor.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich brauche einen Arzt.” is a common German expression meaning “I need a doctor..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I need a doctor.” in German?",
+      "answer": "Ich brauche einen Arzt.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I need a doctor.” is “Ich brauche einen Arzt..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Wo ist die nächste Apotheke?” mean in English?",
+      "answer": "Where is the nearest pharmacy?",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Wo ist die nächste Apotheke?” is a common German expression meaning “Where is the nearest pharmacy?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Where is the nearest pharmacy?” in German?",
+      "answer": "Wo ist die nächste Apotheke?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Where is the nearest pharmacy?” is “Wo ist die nächste Apotheke?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Mir tut der Kopf weh.” mean in English?",
+      "answer": "My head hurts.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Mir tut der Kopf weh.” is a common German expression meaning “My head hurts..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “My head hurts.” in German?",
+      "answer": "Mir tut der Kopf weh.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “My head hurts.” is “Mir tut der Kopf weh..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Wie komme ich zum Bahnhof?” mean in English?",
+      "answer": "How do I get to the station?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Wie komme ich zum Bahnhof?” is a common German expression meaning “How do I get to the station?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “How do I get to the station?” in German?",
+      "answer": "Wie komme ich zum Bahnhof?",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “How do I get to the station?” is “Wie komme ich zum Bahnhof?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Nehmen Sie die erste Straße links.” mean in English?",
+      "answer": "Take the first street on the left.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Nehmen Sie die erste Straße links.” is a common German expression meaning “Take the first street on the left..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Take the first street on the left.” in German?",
+      "answer": "Nehmen Sie die erste Straße links.",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Take the first street on the left.” is “Nehmen Sie die erste Straße links..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Der Bus kommt um zehn Uhr.” mean in English?",
+      "answer": "The bus arrives at ten o’clock.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Der Bus kommt um zehn Uhr.” is a common German expression meaning “The bus arrives at ten o’clock..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The bus arrives at ten o’clock.” in German?",
+      "answer": "Der Bus kommt um zehn Uhr.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “The bus arrives at ten o’clock.” is “Der Bus kommt um zehn Uhr..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Eine Fahrkarte nach Köln, bitte.” mean in English?",
+      "answer": "A ticket to Cologne, please.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Eine Fahrkarte nach Köln, bitte.” is a common German expression meaning “A ticket to Cologne, please..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “A ticket to Cologne, please.” in German?",
+      "answer": "Eine Fahrkarte nach Köln, bitte.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “A ticket to Cologne, please.” is “Eine Fahrkarte nach Köln, bitte..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich möchte ein Zimmer reservieren.” mean in English?",
+      "answer": "I would like to reserve a room.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich möchte ein Zimmer reservieren.” is a common German expression meaning “I would like to reserve a room..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to reserve a room.” in German?",
+      "answer": "Ich möchte ein Zimmer reservieren.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I would like to reserve a room.” is “Ich möchte ein Zimmer reservieren..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Haben Sie ein Einzelzimmer?” mean in English?",
+      "answer": "Do you have a single room?",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Haben Sie ein Einzelzimmer?” is a common German expression meaning “Do you have a single room?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Do you have a single room?” in German?",
+      "answer": "Haben Sie ein Einzelzimmer?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Do you have a single room?” is “Haben Sie ein Einzelzimmer?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Wann fährt der Zug ab?” mean in English?",
+      "answer": "When does the train leave?",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Wann fährt der Zug ab?” is a common German expression meaning “When does the train leave?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “When does the train leave?” in German?",
+      "answer": "Wann fährt der Zug ab?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “When does the train leave?” is “Wann fährt der Zug ab?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich bin heute krank.” mean in English?",
+      "answer": "I am ill today.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich bin heute krank.” is a common German expression meaning “I am ill today..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am ill today.” in German?",
+      "answer": "Ich bin heute krank.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I am ill today.” is “Ich bin heute krank..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Bitte füllen Sie dieses Formular aus.” mean in English?",
+      "answer": "Please fill out this form.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Bitte füllen Sie dieses Formular aus.” is a common German expression meaning “Please fill out this form..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Please fill out this form.” in German?",
+      "answer": "Bitte füllen Sie dieses Formular aus.",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Please fill out this form.” is “Bitte füllen Sie dieses Formular aus..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich suche eine Wohnung.” mean in English?",
+      "answer": "I am looking for an apartment.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich suche eine Wohnung.” is a common German expression meaning “I am looking for an apartment..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am looking for an apartment.” in German?",
+      "answer": "Ich suche eine Wohnung.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I am looking for an apartment.” is “Ich suche eine Wohnung..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Am Wochenende treffe ich Freunde.” mean in English?",
+      "answer": "At the weekend I meet friends.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Am Wochenende treffe ich Freunde.” is a common German expression meaning “At the weekend I meet friends..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “At the weekend I meet friends.” in German?",
+      "answer": "Am Wochenende treffe ich Freunde.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “At the weekend I meet friends.” is “Am Wochenende treffe ich Freunde..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Was machst du gern in deiner Freizeit?” mean in English?",
+      "answer": "What do you like doing in your free time?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Was machst du gern in deiner Freizeit?” is a common German expression meaning “What do you like doing in your free time?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “What do you like doing in your free time?” in German?",
+      "answer": "Was machst du gern in deiner Freizeit?",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “What do you like doing in your free time?” is “Was machst du gern in deiner Freizeit?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich kann heute nicht kommen.” mean in English?",
+      "answer": "I cannot come today.",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich kann heute nicht kommen.” is a common German expression meaning “I cannot come today..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I cannot come today.” in German?",
+      "answer": "Ich kann heute nicht kommen.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I cannot come today.” is “Ich kann heute nicht kommen..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Wir müssen morgen arbeiten.” mean in English?",
+      "answer": "We have to work tomorrow.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Wir müssen morgen arbeiten.” is a common German expression meaning “We have to work tomorrow..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “We have to work tomorrow.” in German?",
+      "answer": "Wir müssen morgen arbeiten.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “We have to work tomorrow.” is “Wir müssen morgen arbeiten..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Darf ich hereinkommen?” mean in English?",
+      "answer": "May I come in?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Darf ich hereinkommen?” is a common German expression meaning “May I come in?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “May I come in?” in German?",
+      "answer": "Darf ich hereinkommen?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “May I come in?” is “Darf ich hereinkommen?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Ich möchte einen Termin vereinbaren.” mean in English?",
+      "answer": "I would like to arrange an appointment.",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Ich möchte einen Termin vereinbaren.” is a common German expression meaning “I would like to arrange an appointment..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to arrange an appointment.” in German?",
+      "answer": "Ich möchte einen Termin vereinbaren.",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “I would like to arrange an appointment.” is “Ich möchte einen Termin vereinbaren..”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “Können Sie das bitte wiederholen?” mean in English?",
+      "answer": "Can you repeat that, please?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "“Können Sie das bitte wiederholen?” is a common German expression meaning “Can you repeat that, please?.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Can you repeat that, please?” in German?",
+      "answer": "Können Sie das bitte wiederholen?",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "situations",
+        "output"
+      ],
+      "explanation": "The German expression for “Can you repeat that, please?” is “Können Sie das bitte wiederholen?.”"
+    },
+    {
+      "type": "true_false",
+      "prompt": "A separable prefix stays attached to the verb after a modal.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "After a modal, the complete infinitive remains together: Ich muss aufstehen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The preposition mit takes the accusative.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "mit governs the dative: mit dem Bus, mit meiner Freundin."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The preposition für takes the accusative.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "für is an accusative preposition: für den Kurs, für meine Schwester."
+    },
+    {
+      "type": "true_false",
+      "prompt": "German uses the same imperative form for informal singular and formal address.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "The informal and formal imperatives differ: Komm! versus Kommen Sie!"
+    },
+    {
+      "type": "true_false",
+      "prompt": "In “in der Stadt,” the location is expressed with the dative.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "A stationary location with the two-way preposition in uses the dative: in der Stadt."
+    },
+    {
+      "type": "true_false",
+      "prompt": "“Ich hätte gern …” is a polite way to order or request something.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "The phrase literally uses a conditional form of haben and functions as a polite request."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The adjective “neu” means old.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "neu means new; alt means old."
+    },
+    {
+      "type": "true_false",
+      "prompt": "German nouns remain lowercase after a possessive adjective.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "Nouns are capitalized regardless of the determiner before them: mein Bruder, unsere Wohnung."
+    }
+  ]
+}

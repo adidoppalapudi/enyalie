@@ -1,0 +1,2323 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-a1-part-1",
+    "name": "German A1 — Part 1",
+    "description": "A1 German core grammar: pronouns, present tense, articles, gender, cases, negation, modal verbs, and basic word order."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “I”?",
+      "answer": "ich",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for informal singular “you”?",
+      "answer": "du",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for formal “you”?",
+      "answer": "Sie",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “he”?",
+      "answer": "er",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “she”?",
+      "answer": "sie",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “it”?",
+      "answer": "es",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “we”?",
+      "answer": "wir",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for informal plural “you”?",
+      "answer": "ihr",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the nominative pronoun for “they”?",
+      "answer": "sie",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "pronouns",
+        "grammar"
+      ],
+      "explanation": "This is a nominative personal pronoun; the form must agree with the person and number of the subject."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “ich ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: ich takes bin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “du ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: du takes bist."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “er/sie/es ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: er/sie/es takes ist."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “wir ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: wir takes sind."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “ihr ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: ihr takes seid."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of sein completes “sie/Sie ___ müde”?",
+      "choices": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "sein",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of sein must agree with the subject: sie/Sie takes sind."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “ich ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: ich takes habe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “du ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: du takes hast."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “er/sie/es ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: er/sie/es takes hat."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “wir ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: wir takes haben."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “ihr ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: ihr takes habt."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form of haben completes “sie/Sie ___ Zeit”?",
+      "choices": [
+        "habe",
+        "hast",
+        "hat",
+        "haben"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "haben",
+        "conjugation"
+      ],
+      "explanation": "The present-tense form of haben must agree with the subject: sie/Sie takes haben."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of lernen with ich?",
+      "answer": "lerne",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; ich takes the ending shown in lerne."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of lernen with du?",
+      "answer": "lernst",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; du takes the ending shown in lernst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of lernen with er?",
+      "answer": "lernt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; er takes the ending shown in lernt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of machen with wir?",
+      "answer": "machen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; wir takes the ending shown in machen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of machen with ihr?",
+      "answer": "macht",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; ihr takes the ending shown in macht."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of machen with sie?",
+      "answer": "machen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; sie takes the ending shown in machen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of wohnen with ich?",
+      "answer": "wohne",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; ich takes the ending shown in wohne."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of wohnen with du?",
+      "answer": "wohnst",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; du takes the ending shown in wohnst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of arbeiten with er?",
+      "answer": "arbeitet",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; er takes the ending shown in arbeitet."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of spielen with wir?",
+      "answer": "spielen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; wir takes the ending shown in spielen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of fragen with ihr?",
+      "answer": "fragt",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; ihr takes the ending shown in fragt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of kommen with sie?",
+      "answer": "kommen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "verbs"
+      ],
+      "explanation": "Regular German verbs use a stem plus a person ending; sie takes the ending shown in kommen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of fahren with du?",
+      "answer": "fährst",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "The stem vowel changes in the second- and third-person singular of many strong verbs; fahren becomes fährst with du."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of lesen with er?",
+      "answer": "liest",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "lesen changes e to ie in the third-person singular: er liest."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of sprechen with du?",
+      "answer": "sprichst",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "sprechen changes e to i in the second- and third-person singular: du sprichst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of essen with er?",
+      "answer": "isst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "essen changes e to i and drops the stem s pattern in the third-person singular: er isst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of nehmen with du?",
+      "answer": "nimmst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "nehmen changes e to i in the second-person singular: du nimmst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of sehen with er?",
+      "answer": "sieht",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "sehen changes e to ie in the third-person singular: er sieht."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of geben with du?",
+      "answer": "gibst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "geben changes e to i in the second-person singular: du gibst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of schlafen with er?",
+      "answer": "schläft",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "schlafen changes a to ä in the third-person singular: er schläft."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of laufen with du?",
+      "answer": "läufst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "laufen changes au to äu in the second-person singular: du läufst."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of tragen with er?",
+      "answer": "trägt",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "tragen changes a to ä in the third-person singular: er trägt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of lesen with du?",
+      "answer": "liest",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "lesen changes e to ie in the second-person singular: du liest."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of helfen with er?",
+      "answer": "hilft",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "helfen changes e to i in the third-person singular: er hilft."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of wissen with ich?",
+      "answer": "weiß",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "wissen has the irregular first-person form ich weiß."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of sein with wir?",
+      "answer": "sind",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "sein is highly irregular; the first-person plural is wir sind."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the present-tense form of werden with du?",
+      "answer": "wirst",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "present-tense",
+        "irregular-verbs"
+      ],
+      "explanation": "werden has the irregular second-person singular form du wirst."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Mann”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Mann has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Frau”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Frau has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Kind”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Kind has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Tisch”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Tisch has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Lampe”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Lampe has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Fenster”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "gender"
+      ],
+      "explanation": "The noun Fenster has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Kaffee”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Kaffee has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Milch”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Milch has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Brot”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Brot has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Bruder”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "family"
+      ],
+      "explanation": "The noun Bruder has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Schwester”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "family"
+      ],
+      "explanation": "The noun Schwester has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Baby”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "family"
+      ],
+      "explanation": "The noun Baby has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Stadt”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "places"
+      ],
+      "explanation": "The noun Stadt has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Bahnhof”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "places"
+      ],
+      "explanation": "The noun Bahnhof has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Hotel”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "places"
+      ],
+      "explanation": "The noun Hotel has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Apfel”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Apfel has grammatical gender der in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Orange”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Orange has grammatical gender die in standard German; article and noun must agree."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which definite article completes “___ Ei”?",
+      "choices": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "food"
+      ],
+      "explanation": "The noun Ei has grammatical gender das in standard German; article and noun must agree."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “___ Mann kommt.”?",
+      "answer": "Ein",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "articles",
+        "nominative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: Ein is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “___ Frau kommt.”?",
+      "answer": "Eine",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "nominative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: Eine is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “___ Kind kommt.”?",
+      "answer": "Ein",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "nominative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: Ein is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich sehe ___ Mann.”?",
+      "answer": "einen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "accusative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: einen is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich sehe ___ Frau.”?",
+      "answer": "eine",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "articles",
+        "accusative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: eine is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich sehe ___ Kind.”?",
+      "answer": "ein",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "accusative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: ein is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich helfe ___ Mann.”?",
+      "answer": "einem",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "dative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: einem is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich helfe ___ Frau.”?",
+      "answer": "einer",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "dative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: einer is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which indefinite article completes “Ich helfe ___ Kind.”?",
+      "answer": "einem",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "articles",
+        "dative"
+      ],
+      "explanation": "The article form reflects the noun’s gender and the case required by the sentence: einem is the correct form here."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “das Buch”?",
+      "answer": "die Bücher",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Bücher; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “der Tisch”?",
+      "answer": "die Tische",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Tische; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “die Lampe”?",
+      "answer": "die Lampen",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Lampen; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “das Kind”?",
+      "answer": "die Kinder",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Kinder; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “der Apfel”?",
+      "answer": "die Äpfel",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Äpfel; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “die Stadt”?",
+      "answer": "die Städte",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Städte; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “das Auto”?",
+      "answer": "die Autos",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Autos; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “die Frau”?",
+      "answer": "die Frauen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Frauen; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “der Freund”?",
+      "answer": "die Freunde",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Freunde; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “das Fenster”?",
+      "answer": "die Fenster",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Fenster; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “der Name”?",
+      "answer": "die Namen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Namen; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the plural of “die Mutter”?",
+      "answer": "die Mütter",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "nouns",
+        "plural"
+      ],
+      "explanation": "The plural form is die Mütter; German plural patterns vary, so the article and plural should be learned with the noun."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Ich sehe ___ Hund.",
+      "choices": [
+        "der",
+        "den",
+        "dem",
+        "des"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "The direct object is accusative masculine, so der changes to den."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Wir kaufen ___ Apfel.",
+      "choices": [
+        "der",
+        "den",
+        "dem",
+        "die"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "The direct object is accusative masculine, so the article is den."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Ich gebe ___ Kind ein Buch.",
+      "choices": [
+        "der",
+        "den",
+        "dem",
+        "das"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "The recipient is a dative neuter noun, so das changes to dem."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Sie hilft ___ Frau.",
+      "choices": [
+        "der",
+        "die",
+        "dem",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "helfen governs the dative; feminine die becomes der in the dative."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Das Geschenk ist für ___.",
+      "choices": [
+        "ich",
+        "mich",
+        "mir",
+        "mein"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "für governs the accusative, so the first-person pronoun is mich."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Kommst du mit ___?",
+      "choices": [
+        "ich",
+        "mich",
+        "mir",
+        "mein"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "mit governs the dative, so the first-person pronoun is mir."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Wir fahren ___ Berlin.",
+      "choices": [
+        "in",
+        "nach",
+        "zu",
+        "bei"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "With a city name and no article, movement to Berlin normally uses nach."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Ich bin ___ Hause.",
+      "choices": [
+        "nach",
+        "zu",
+        "im",
+        "an"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "The fixed expression zu Hause means “at home,” so zu is the correct preposition here."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Sie geht ___ Schule.",
+      "choices": [
+        "in die",
+        "an der",
+        "mit die",
+        "zu den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "Movement into the school as a destination uses the accusative phrase in die Schule."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Wir sind ___ Bahnhof.",
+      "choices": [
+        "am",
+        "in den",
+        "zum",
+        "auf die"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "cases",
+        "prepositions"
+      ],
+      "explanation": "am is the contraction of an dem and is commonly used for a location at the station."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly negates “Ich habe ein Auto”?",
+      "choices": [
+        "Ich habe nicht Auto.",
+        "Ich habe kein Auto.",
+        "Ich kein habe Auto.",
+        "Ich habe ein nicht Auto."
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "kein negates an indefinite noun phrase, so ein Auto becomes kein Auto."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly negates “Ich komme heute”?",
+      "choices": [
+        "Ich komme kein heute.",
+        "Ich nicht komme heute.",
+        "Ich komme heute nicht.",
+        "Ich komme nicht heute bin."
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "nicht negates the adverbial or verbal statement here and normally follows the time phrase."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form is the negative article for feminine singular?",
+      "choices": [
+        "kein",
+        "keine",
+        "keinen",
+        "keinem"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "The feminine nominative and accusative negative article is keine."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which modal verb means “can / be able to”?",
+      "choices": [
+        "müssen",
+        "können",
+        "wollen",
+        "sollen"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "können expresses ability or possibility."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which modal verb means “must / have to”?",
+      "choices": [
+        "dürfen",
+        "mögen",
+        "müssen",
+        "können"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "müssen expresses necessity or obligation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a modal verb correctly?",
+      "choices": [
+        "Ich kann Deutsch sprechen.",
+        "Ich kann spreche Deutsch.",
+        "Ich kann Deutsch spricht.",
+        "Ich kann Deutsch gesprochen."
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "A modal verb is conjugated and the second verb remains an infinitive at the end: Ich kann Deutsch sprechen."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence means “You may sit down” formally?",
+      "choices": [
+        "Sie dürfen sich setzen.",
+        "Sie müssen sich setzen.",
+        "Sie können setzt sich.",
+        "Sie darf sich setzen."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "negation",
+        "modal-verbs"
+      ],
+      "explanation": "dürfen expresses permission, and the formal subject Sie takes dürfen."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the normal statement order?",
+      "choices": [
+        "Heute ich arbeite.",
+        "Heute arbeite ich.",
+        "Arbeite heute ich.",
+        "Ich heute arbeite."
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "In a German main-clause statement, the finite verb is normally in second position; Heute occupies the first position and arbeite follows."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the normal yes/no question?",
+      "choices": [
+        "Du kommst heute?",
+        "Kommst du heute?",
+        "Heute du kommst?",
+        "Kommst heute du?"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "A yes/no question normally puts the finite verb first: Kommst du heute?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the normal W-question?",
+      "choices": [
+        "Wo du wohnst?",
+        "Wohnst wo du?",
+        "Wo wohnst du?",
+        "Du wohnst wo?"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "A W-question begins with the question word, followed by the finite verb and subject."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly places a separable prefix?",
+      "choices": [
+        "Ich stehe um sieben auf.",
+        "Ich aufstehe um sieben.",
+        "Ich stehe auf um sieben.",
+        "Auf ich stehe um sieben."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "In a simple main clause, the finite verb is second and the separable prefix moves to the end."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly places the infinitive after a modal?",
+      "choices": [
+        "Ich will Deutsch lernen.",
+        "Ich lernen will Deutsch.",
+        "Ich will lernen Deutsch.",
+        "Ich Deutsch will lernen."
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "With a modal in a main clause, the infinitive normally goes to the end."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly places nicht in “I do not live in Berlin”?",
+      "choices": [
+        "Ich nicht wohne in Berlin.",
+        "Ich wohne nicht in Berlin.",
+        "Nicht ich wohne Berlin.",
+        "Ich wohne in nicht Berlin."
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "The sentence-level negator nicht follows the finite verb and normally precedes the final phrase being negated."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence is the correct formal question “Where do you live?”",
+      "choices": [
+        "Wo wohnen Sie?",
+        "Wo Sie wohnen?",
+        "Wohnen wo Sie?",
+        "Sie wohnen wo?"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "The formal pronoun Sie follows the finite verb in a W-question: Wo wohnen Sie?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence is a correct command to one person?",
+      "choices": [
+        "Komm bitte!",
+        "Bitte du kommst!",
+        "Kommen du bitte!",
+        "Du komm bitte!"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "word-order",
+        "questions"
+      ],
+      "explanation": "The informal singular imperative of kommen is Komm; bitte softens the command."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Familie” mean in English?",
+      "answer": "the family",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Familie” is a common German expression meaning “the family.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the family” in German?",
+      "answer": "die Familie",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the family” is “die Familie.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Mutter” mean in English?",
+      "answer": "the mother",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Mutter” is a common German expression meaning “the mother.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the mother” in German?",
+      "answer": "die Mutter",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the mother” is “die Mutter.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Vater” mean in English?",
+      "answer": "the father",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Vater” is a common German expression meaning “the father.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the father” in German?",
+      "answer": "der Vater",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the father” is “der Vater.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Bruder” mean in English?",
+      "answer": "the brother",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Bruder” is a common German expression meaning “the brother.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the brother” in German?",
+      "answer": "der Bruder",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the brother” is “der Bruder.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Schwester” mean in English?",
+      "answer": "the sister",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Schwester” is a common German expression meaning “the sister.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the sister” in German?",
+      "answer": "die Schwester",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the sister” is “die Schwester.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Freund” mean in English?",
+      "answer": "the friend / boyfriend",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Freund” is a common German expression meaning “the friend / boyfriend.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the friend / boyfriend” in German?",
+      "answer": "der Freund",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the friend / boyfriend” is “der Freund.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Freundin” mean in English?",
+      "answer": "the friend / girlfriend",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Freundin” is a common German expression meaning “the friend / girlfriend.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the friend / girlfriend” in German?",
+      "answer": "die Freundin",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the friend / girlfriend” is “die Freundin.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Haus” mean in English?",
+      "answer": "the house",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“das Haus” is a common German expression meaning “the house.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the house” in German?",
+      "answer": "das Haus",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the house” is “das Haus.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Wohnung” mean in English?",
+      "answer": "the apartment",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Wohnung” is a common German expression meaning “the apartment.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the apartment” in German?",
+      "answer": "die Wohnung",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the apartment” is “die Wohnung.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Zimmer” mean in English?",
+      "answer": "the room",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“das Zimmer” is a common German expression meaning “the room.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the room” in German?",
+      "answer": "das Zimmer",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the room” is “das Zimmer.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Küche” mean in English?",
+      "answer": "the kitchen",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Küche” is a common German expression meaning “the kitchen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the kitchen” in German?",
+      "answer": "die Küche",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the kitchen” is “die Küche.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Bad” mean in English?",
+      "answer": "the bathroom",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“das Bad” is a common German expression meaning “the bathroom.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the bathroom” in German?",
+      "answer": "das Bad",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the bathroom” is “das Bad.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Tisch” mean in English?",
+      "answer": "the table",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Tisch” is a common German expression meaning “the table.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the table” in German?",
+      "answer": "der Tisch",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the table” is “der Tisch.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Stuhl” mean in English?",
+      "answer": "the chair",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Stuhl” is a common German expression meaning “the chair.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the chair” in German?",
+      "answer": "der Stuhl",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the chair” is “der Stuhl.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Tür” mean in English?",
+      "answer": "the door",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Tür” is a common German expression meaning “the door.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the door” in German?",
+      "answer": "die Tür",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the door” is “die Tür.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Wasser” mean in English?",
+      "answer": "the water",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“das Wasser” is a common German expression meaning “the water.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the water” in German?",
+      "answer": "das Wasser",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the water” is “das Wasser.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “das Brot” mean in English?",
+      "answer": "the bread",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“das Brot” is a common German expression meaning “the bread.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the bread” in German?",
+      "answer": "das Brot",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the bread” is “das Brot.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Kaffee” mean in English?",
+      "answer": "the coffee",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Kaffee” is a common German expression meaning “the coffee.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the coffee” in German?",
+      "answer": "der Kaffee",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the coffee” is “der Kaffee.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “die Milch” mean in English?",
+      "answer": "the milk",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“die Milch” is a common German expression meaning “the milk.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the milk” in German?",
+      "answer": "die Milch",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the milk” is “die Milch.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “der Apfel” mean in English?",
+      "answer": "the apple",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“der Apfel” is a common German expression meaning “the apple.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the apple” in German?",
+      "answer": "der Apfel",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “the apple” is “der Apfel.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “kaufen” mean in English?",
+      "answer": "to buy",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“kaufen” is a common German expression meaning “to buy.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to buy” in German?",
+      "answer": "kaufen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “to buy” is “kaufen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “verkaufen” mean in English?",
+      "answer": "to sell",
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“verkaufen” is a common German expression meaning “to sell.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to sell” in German?",
+      "answer": "verkaufen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “to sell” is “verkaufen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “essen” mean in English?",
+      "answer": "to eat",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“essen” is a common German expression meaning “to eat.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to eat” in German?",
+      "answer": "essen",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “to eat” is “essen.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “trinken” mean in English?",
+      "answer": "to drink",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“trinken” is a common German expression meaning “to drink.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to drink” in German?",
+      "answer": "trinken",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “to drink” is “trinken.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “schlafen” mean in English?",
+      "answer": "to sleep",
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "“schlafen” is a common German expression meaning “to sleep.”"
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to sleep” in German?",
+      "answer": "schlafen",
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "core-vocabulary"
+      ],
+      "explanation": "The German expression for “to sleep” is “schlafen.”"
+    },
+    {
+      "type": "true_false",
+      "prompt": "The German infinitive usually ends in -en.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "Most regular German infinitives end in -en, although a small number end in -n, such as sein."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The finite verb is normally in second position in a German main-clause statement.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "German main clauses normally use verb-second order, even when another element such as Heute begins the sentence."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The accusative marks the direct object.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "The direct object is commonly marked by the accusative case, which is especially visible in masculine articles."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The dative is commonly used for a recipient or indirect object.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "A recipient such as dem Kind in Ich gebe dem Kind ein Buch is marked with the dative."
+    },
+    {
+      "type": "true_false",
+      "prompt": "German articles never change with case.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "Articles change with gender, number and case: der can become den, dem or des."
+    },
+    {
+      "type": "true_false",
+      "prompt": "kein negates a noun phrase without a definite article.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "kein behaves like an indefinite article and negates nouns such as ein Auto or bare nouns."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A modal verb normally sends the second verb to the end of a main clause.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "Ich kann Deutsch sprechen places the infinitive sprechen at the end."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All German nouns have grammatical gender that always matches biological sex.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a1",
+        "grammar"
+      ],
+      "explanation": "Grammatical gender is a noun-class property; it often differs from natural gender and must be learned."
+    }
+  ]
+}

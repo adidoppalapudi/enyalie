@@ -1,0 +1,1767 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-c1-part-2",
+    "name": "German C1 — Part 2",
+    "description": "C1 German: academic, professional, journalistic, philosophical, psychological, political, literary, idiomatic, and register-sensitive language."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Fragestellung entwickeln” mean in English?",
+      "answer": "to develop a research question",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Fragestellung is a focused question guiding an academic investigation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to develop a research question” in German?",
+      "answer": "eine Fragestellung entwickeln",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Fragestellung is a focused question guiding an academic investigation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Untersuchung anlegen” mean in English?",
+      "answer": "to design a study",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Anlegen can mean to design or set up a systematic investigation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to design a study” in German?",
+      "answer": "eine Untersuchung anlegen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Anlegen can mean to design or set up a systematic investigation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die methodische Vorgehensweise” mean in English?",
+      "answer": "the methodological approach",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Vorgehensweise names the way a task or investigation is carried out."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the methodological approach” in German?",
+      "answer": "die methodische Vorgehensweise",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Vorgehensweise names the way a task or investigation is carried out."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ergebnisse kritisch einordnen” mean in English?",
+      "answer": "to critically contextualize findings",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Einordnen means to assess something within a broader context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to critically contextualize findings” in German?",
+      "answer": "Ergebnisse kritisch einordnen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Einordnen means to assess something within a broader context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Forschungslücke schließen” mean in English?",
+      "answer": "to fill a research gap",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "The phrase describes work that adds knowledge where evidence is missing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to fill a research gap” in German?",
+      "answer": "eine Forschungslücke schließen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "The phrase describes work that adds knowledge where evidence is missing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In research writing, what does “eine These untermauern” mean in English?",
+      "answer": "to substantiate a thesis",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Untermauern means to support a claim with strong evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In research writing, how do you say “to substantiate a thesis” in German?",
+      "answer": "eine These untermauern",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Untermauern means to support a claim with strong evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine ethische Abwägung” mean in English?",
+      "answer": "an ethical weighing of considerations",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics"
+      ],
+      "explanation": "Abwägung describes careful comparison of competing values or effects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “an ethical weighing of considerations” in German?",
+      "answer": "eine ethische Abwägung",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics"
+      ],
+      "explanation": "Abwägung describes careful comparison of competing values or effects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “moralische Verantwortung tragen” mean in English?",
+      "answer": "to bear moral responsibility",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "ethics"
+      ],
+      "explanation": "Tragen forms a fixed collocation with Verantwortung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to bear moral responsibility” in German?",
+      "answer": "moralische Verantwortung tragen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics"
+      ],
+      "explanation": "Tragen forms a fixed collocation with Verantwortung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Dilemma auflösen” mean in English?",
+      "answer": "to resolve a dilemma",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "philosophy",
+        "ethics"
+      ],
+      "explanation": "A Dilemma involves two difficult alternatives; auflösen means resolve."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to resolve a dilemma” in German?",
+      "answer": "ein Dilemma auflösen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "philosophy",
+        "ethics"
+      ],
+      "explanation": "A Dilemma involves two difficult alternatives; auflösen means resolve."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Position vertreten” mean in English?",
+      "answer": "to advocate a position",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "philosophy",
+        "argumentation"
+      ],
+      "explanation": "Vertreten means to hold and defend a point of view."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to advocate a position” in German?",
+      "answer": "eine Position vertreten",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "philosophy",
+        "argumentation"
+      ],
+      "explanation": "Vertreten means to hold and defend a point of view."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die menschliche Wahrnehmung” mean in English?",
+      "answer": "human perception",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "psychology"
+      ],
+      "explanation": "Wahrnehmung is the process of perceiving or interpreting experience."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “human perception” in German?",
+      "answer": "die menschliche Wahrnehmung",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "psychology"
+      ],
+      "explanation": "Wahrnehmung is the process of perceiving or interpreting experience."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unbewusste Prozesse” mean in English?",
+      "answer": "unconscious processes",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "psychology"
+      ],
+      "explanation": "Unbewusst refers to mental processes outside conscious awareness."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “unconscious processes” in German?",
+      "answer": "unbewusste Prozesse",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "psychology"
+      ],
+      "explanation": "Unbewusst refers to mental processes outside conscious awareness."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Hypothese widerlegen” mean in English?",
+      "answer": "to refute a hypothesis",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "science",
+        "argumentation"
+      ],
+      "explanation": "Widerlegen means to show that a claim is false or unsupported."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to refute a hypothesis” in German?",
+      "answer": "eine Hypothese widerlegen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "science",
+        "argumentation"
+      ],
+      "explanation": "Widerlegen means to show that a claim is false or unsupported."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Korrelation feststellen” mean in English?",
+      "answer": "to establish a correlation",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Feststellen means to determine or observe a fact; it does not by itself prove causation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to establish a correlation” in German?",
+      "answer": "eine Korrelation feststellen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Feststellen means to determine or observe a fact; it does not by itself prove causation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ursache nachweisen” mean in English?",
+      "answer": "to demonstrate a cause",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Nachweisen means to establish something with evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to demonstrate a cause” in German?",
+      "answer": "eine Ursache nachweisen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Nachweisen means to establish something with evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “historische Zusammenhänge berücksichtigen” mean in English?",
+      "answer": "to take historical connections into account",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history"
+      ],
+      "explanation": "Berücksichtigen means to consider relevant information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take historical connections into account” in German?",
+      "answer": "historische Zusammenhänge berücksichtigen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history"
+      ],
+      "explanation": "Berücksichtigen means to consider relevant information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Ereignis nachhaltig prägen” mean in English?",
+      "answer": "to leave a lasting mark on an event / era",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history",
+        "culture"
+      ],
+      "explanation": "Prägen can mean to shape something strongly and durably."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to leave a lasting mark on an event / era” in German?",
+      "answer": "ein Ereignis nachhaltig prägen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "history",
+        "culture"
+      ],
+      "explanation": "Prägen can mean to shape something strongly and durably."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “kulturelles Erbe bewahren” mean in English?",
+      "answer": "to preserve cultural heritage",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "culture",
+        "history"
+      ],
+      "explanation": "Bewahren means to protect and keep something over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to preserve cultural heritage” in German?",
+      "answer": "kulturelles Erbe bewahren",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "culture",
+        "history"
+      ],
+      "explanation": "Bewahren means to protect and keep something over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine literarische Strömung” mean in English?",
+      "answer": "a literary movement",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Strömung describes a recognizable trend or school in art and literature."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a literary movement” in German?",
+      "answer": "eine literarische Strömung",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Strömung describes a recognizable trend or school in art and literature."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zwischen den Zeilen lesen” mean in English?",
+      "answer": "to read between the lines",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature",
+        "idioms"
+      ],
+      "explanation": "This idiom means to infer unstated or implied meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to read between the lines” in German?",
+      "answer": "zwischen den Zeilen lesen",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature",
+        "idioms"
+      ],
+      "explanation": "This idiom means to infer unstated or implied meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Metapher entfalten” mean in English?",
+      "answer": "to develop a metaphor",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Entfalten means to elaborate or unfold an idea or image."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to develop a metaphor” in German?",
+      "answer": "eine Metapher entfalten",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Entfalten means to elaborate or unfold an idea or image."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Anspielung verstehen” mean in English?",
+      "answer": "to understand an allusion",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Anspielung refers to an indirect reference to another text, event, or idea."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to understand an allusion” in German?",
+      "answer": "eine Anspielung verstehen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Anspielung refers to an indirect reference to another text, event, or idea."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In media analysis, what does “eine Nachricht einordnen” mean in English?",
+      "answer": "to put a news report into context",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "media"
+      ],
+      "explanation": "Einordnen is central to critical media literacy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to put a news report into context” in German?",
+      "answer": "eine Nachricht einordnen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "media"
+      ],
+      "explanation": "Einordnen is central to critical media literacy."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Quelle als glaubwürdig einschätzen” mean in English?",
+      "answer": "to assess a source as credible",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "media"
+      ],
+      "explanation": "Einschätzen means to evaluate or estimate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to assess a source as credible” in German?",
+      "answer": "eine Quelle als glaubwürdig einschätzen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "media"
+      ],
+      "explanation": "Einschätzen means to evaluate or estimate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlagzeile hinterfragen” mean in English?",
+      "answer": "to question a headline",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Headlines can simplify; hinterfragen prompts critical examination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to question a headline” in German?",
+      "answer": "eine Schlagzeile hinterfragen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Headlines can simplify; hinterfragen prompts critical examination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entwicklung voraussehen” mean in English?",
+      "answer": "to foresee a development",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "future"
+      ],
+      "explanation": "Voraussehen means to anticipate something before it occurs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to foresee a development” in German?",
+      "answer": "eine Entwicklung voraussehen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism",
+        "future"
+      ],
+      "explanation": "Voraussehen means to anticipate something before it occurs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “bürokratische Hürden überwinden” mean in English?",
+      "answer": "to overcome bureaucratic obstacles",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Hürde is a metaphorical obstacle; überwinden means overcome."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to overcome bureaucratic obstacles” in German?",
+      "answer": "bürokratische Hürden überwinden",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Hürde is a metaphorical obstacle; überwinden means overcome."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Antrag fristgerecht bearbeiten” mean in English?",
+      "answer": "to process an application on time",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Fristgerecht means within the required deadline."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to process an application on time” in German?",
+      "answer": "einen Antrag fristgerecht bearbeiten",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Fristgerecht means within the required deadline."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Regelung in Kraft setzen” mean in English?",
+      "answer": "to bring a regulation into force",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "law",
+        "government"
+      ],
+      "explanation": "In Kraft setzen is a formal legal and administrative phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to bring a regulation into force” in German?",
+      "answer": "eine Regelung in Kraft setzen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law",
+        "government"
+      ],
+      "explanation": "In Kraft setzen is a formal legal and administrative phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “politische Teilhabe ermöglichen” mean in English?",
+      "answer": "to enable political participation",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics"
+      ],
+      "explanation": "Teilhabe means the opportunity to participate in a social process."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to enable political participation” in German?",
+      "answer": "politische Teilhabe ermöglichen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics"
+      ],
+      "explanation": "Teilhabe means the opportunity to participate in a social process."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “gesellschaftlichen Zusammenhalt stärken” mean in English?",
+      "answer": "to strengthen social cohesion",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics",
+        "society"
+      ],
+      "explanation": "Zusammenhalt describes the cohesion that holds a group together."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to strengthen social cohesion” in German?",
+      "answer": "gesellschaftlichen Zusammenhalt stärken",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics",
+        "society"
+      ],
+      "explanation": "Zusammenhalt describes the cohesion that holds a group together."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Debatte versachlichen” mean in English?",
+      "answer": "to make a debate more factual",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "public-debate"
+      ],
+      "explanation": "Versachlichen means to remove unnecessary emotion and focus on facts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make a debate more factual” in German?",
+      "answer": "eine Debatte versachlichen",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "public-debate"
+      ],
+      "explanation": "Versachlichen means to remove unnecessary emotion and focus on facts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Standpunkt nuancieren” mean in English?",
+      "answer": "to add nuance to a viewpoint",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Nuancieren means to express fine distinctions rather than a simple binary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to add nuance to a viewpoint” in German?",
+      "answer": "einen Standpunkt nuancieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Nuancieren means to express fine distinctions rather than a simple binary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage ist ambivalent” mean in English?",
+      "answer": "a statement is ambivalent",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Ambivalent means open to two competing interpretations or feelings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a statement is ambivalent” in German?",
+      "answer": "eine Aussage ist ambivalent",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Ambivalent means open to two competing interpretations or feelings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entwicklung ist folgenschwer” mean in English?",
+      "answer": "a development has far-reaching consequences",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Folgenschwer describes an event with serious consequences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a development has far-reaching consequences” in German?",
+      "answer": "eine Entwicklung ist folgenschwer",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Folgenschwer describes an event with serious consequences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “etwas liegt im Ermessen von jemandem” mean in English?",
+      "answer": "something is at someone’s discretion",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Ermessen is the judgment used when an authority has discretion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “something is at someone’s discretion” in German?",
+      "answer": "etwas liegt im Ermessen von jemandem",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Ermessen is the judgment used when an authority has discretion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In legal writing, what does “eine Entscheidung anfechten” mean in English?",
+      "answer": "to challenge a decision legally",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law"
+      ],
+      "explanation": "Anfechten is a formal legal verb for contesting a decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to challenge a decision legally” in German?",
+      "answer": "eine Entscheidung anfechten",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law"
+      ],
+      "explanation": "Anfechten is a formal legal verb for contesting a decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ausnahmegenehmigung beantragen” mean in English?",
+      "answer": "to apply for an exceptional permit",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Beantragen is used for formal applications to an authority."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to apply for an exceptional permit” in German?",
+      "answer": "eine Ausnahmegenehmigung beantragen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Beantragen is used for formal applications to an authority."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Grenze zwischen Fakt und Meinung ziehen” mean in English?",
+      "answer": "to draw a line between fact and opinion",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Ziehen forms a figurative collocation meaning to distinguish clearly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to draw a line between fact and opinion” in German?",
+      "answer": "eine Grenze zwischen Fakt und Meinung ziehen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Ziehen forms a figurative collocation meaning to distinguish clearly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “etwas in Kauf nehmen” mean in English?",
+      "answer": "to accept a drawback as a consequence",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to accept an undesirable result knowingly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to accept a drawback as a consequence” in German?",
+      "answer": "etwas in Kauf nehmen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to accept an undesirable result knowingly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Nagel auf den Kopf treffen” mean in English?",
+      "answer": "to hit the nail on the head",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "The idiom means to describe a matter exactly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to hit the nail on the head” in German?",
+      "answer": "den Nagel auf den Kopf treffen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "The idiom means to describe a matter exactly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich etwas vor Augen führen” mean in English?",
+      "answer": "to bring something clearly to mind",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to make a fact or consequence vivid to oneself."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to bring something clearly to mind” in German?",
+      "answer": "sich etwas vor Augen führen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to make a fact or consequence vivid to oneself."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Gratwanderung zwischen zwei Zielen” mean in English?",
+      "answer": "a tightrope walk between two goals",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "idioms",
+        "argumentation"
+      ],
+      "explanation": "Gratwanderung is a metaphor for balancing competing demands."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a tightrope walk between two goals” in German?",
+      "answer": "eine Gratwanderung zwischen zwei Zielen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "idioms",
+        "argumentation"
+      ],
+      "explanation": "Gratwanderung is a metaphor for balancing competing demands."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung revidieren” mean in English?",
+      "answer": "to revise a decision",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Revidieren means to review and change a previous decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to revise a decision” in German?",
+      "answer": "eine Entscheidung revidieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Revidieren means to review and change a previous decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Annahme zugrunde legen” mean in English?",
+      "answer": "to base something on an assumption",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Zugrunde legen is a formal phrase for adopting a basis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to base something on an assumption” in German?",
+      "answer": "eine Annahme zugrunde legen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Zugrunde legen is a formal phrase for adopting a basis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Perspektive eröffnen” mean in English?",
+      "answer": "to open up a perspective",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Eröffnen can mean to make a new way of seeing an issue possible."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to open up a perspective” in German?",
+      "answer": "eine Perspektive eröffnen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Eröffnen can mean to make a new way of seeing an issue possible."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to read between the lines”?",
+      "choices": [
+        "zwischen den Zeilen lesen",
+        "unter vier Augen sprechen",
+        "den Faden aufnehmen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "Zwischen den Zeilen lesen means to infer implied meaning."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does eine Hypothese widerlegen mean?",
+      "choices": [
+        "to refute a hypothesis",
+        "to publish a headline",
+        "to request a permit"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Widerlegen means to show a claim is false or unsupported."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term describes social cohesion?",
+      "choices": [
+        "gesellschaftlicher Zusammenhalt",
+        "bürokratische Hürde",
+        "literarische Strömung"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "society"
+      ],
+      "explanation": "Zusammenhalt is cohesion or solidarity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb means to challenge a legal decision?",
+      "choices": [
+        "anfechten",
+        "bewahren",
+        "entfalten"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law"
+      ],
+      "explanation": "Anfechten is the formal legal verb for contesting a decision."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does in Kauf nehmen mean?",
+      "choices": [
+        "to knowingly accept a drawback",
+        "to purchase a house",
+        "to avoid all consequences"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "The idiom means to accept an undesirable consequence."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “at someone’s discretion”?",
+      "choices": [
+        "im Ermessen von jemandem",
+        "im Gegensatz zu jemandem",
+        "im Anschluss an jemandem"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "Ermessen is discretion or judgment."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does eine Quelle als glaubwürdig einschätzen involve?",
+      "choices": [
+        "evaluating its credibility",
+        "translating its title",
+        "shortening every quote"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Einschätzen means to assess or evaluate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to preserve cultural heritage”?",
+      "choices": [
+        "kulturelles Erbe bewahren",
+        "kulturelles Erbe widerlegen",
+        "kulturelles Erbe anfechten"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "culture"
+      ],
+      "explanation": "Bewahren means preserve or protect."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which adjective means open to two competing interpretations?",
+      "choices": [
+        "ambivalent",
+        "fristgerecht",
+        "glaubwürdig"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Ambivalent describes a tension or dual interpretation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which formal phrase means “to base something on an assumption”?",
+      "choices": [
+        "eine Annahme zugrunde legen",
+        "eine Annahme in Kraft setzen",
+        "eine Annahme auslösen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Zugrunde legen means to use as a basis."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Widerlegen means to support a hypothesis with evidence.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Widerlegen means to refute; untermauern means to support."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Anspielung can refer to an indirect literary reference.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "An allusion is an indirect reference to another work or idea."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Versachlichen means to make a debate more factual.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "public-debate"
+      ],
+      "explanation": "It shifts discussion away from unnecessary emotion toward facts."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Eine Ausnahmegenehmigung is an ordinary informal greeting.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "bureaucracy"
+      ],
+      "explanation": "It is an exceptional permit requested from an authority."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Im Ermessen describes discretionary judgment.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law"
+      ],
+      "explanation": "An authority may decide within the scope of its discretion."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Den Nagel auf den Kopf treffen means to describe something exactly.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "The idiom corresponds to hitting the nail on the head."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Folgenschwer describes an event with little or no consequence.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "It means having serious or far-reaching consequences."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Academic German often distinguishes correlation from causation.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "A correlation alone does not establish that one factor causes another."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Forschungsfrage operationalisieren” mean in English?",
+      "answer": "to operationalize a research question",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "academic",
+        "research"
+      ],
+      "explanation": "Operationalisieren means defining how an abstract concept will be measured."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to operationalize a research question” in German?",
+      "answer": "eine Forschungsfrage operationalisieren",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "academic",
+        "research"
+      ],
+      "explanation": "Operationalisieren means defining how an abstract concept will be measured."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Methode kritisch reflektieren” mean in English?",
+      "answer": "to critically reflect on a method",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Reflektieren means to examine assumptions and consequences thoughtfully."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to critically reflect on a method” in German?",
+      "answer": "eine Methode kritisch reflektieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Reflektieren means to examine assumptions and consequences thoughtfully."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Befund reproduzieren” mean in English?",
+      "answer": "to reproduce a finding",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science",
+        "research"
+      ],
+      "explanation": "Reproducing a finding means obtaining a comparable result under similar conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reproduce a finding” in German?",
+      "answer": "einen Befund reproduzieren",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science",
+        "research"
+      ],
+      "explanation": "Reproducing a finding means obtaining a comparable result under similar conditions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Variable isolieren” mean in English?",
+      "answer": "to isolate a variable",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Isolieren means to separate one factor for focused analysis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to isolate a variable” in German?",
+      "answer": "eine Variable isolieren",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "science"
+      ],
+      "explanation": "Isolieren means to separate one factor for focused analysis."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Kausalbeziehung postulieren” mean in English?",
+      "answer": "to postulate a causal relationship",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "science",
+        "academic"
+      ],
+      "explanation": "Postulieren is a formal verb for proposing a claim as a starting point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to postulate a causal relationship” in German?",
+      "answer": "eine Kausalbeziehung postulieren",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "science",
+        "academic"
+      ],
+      "explanation": "Postulieren is a formal verb for proposing a claim as a starting point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine ethische Grauzone” mean in English?",
+      "answer": "an ethical gray area",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics",
+        "idioms"
+      ],
+      "explanation": "A Grauzone is a situation without a clear moral or legal classification."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “an ethical gray area” in German?",
+      "answer": "eine ethische Grauzone",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics",
+        "idioms"
+      ],
+      "explanation": "A Grauzone is a situation without a clear moral or legal classification."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Prinzip konsequent anwenden” mean in English?",
+      "answer": "to apply a principle consistently",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics",
+        "argumentation"
+      ],
+      "explanation": "Konsequent emphasizes following a rule without exceptions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to apply a principle consistently” in German?",
+      "answer": "ein Prinzip konsequent anwenden",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "ethics",
+        "argumentation"
+      ],
+      "explanation": "Konsequent emphasizes following a rule without exceptions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung moralisch legitimieren” mean in English?",
+      "answer": "to morally legitimize a decision",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "ethics",
+        "philosophy"
+      ],
+      "explanation": "Legitimieren means to justify something as acceptable or valid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to morally legitimize a decision” in German?",
+      "answer": "eine Entscheidung moralisch legitimieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "ethics",
+        "philosophy"
+      ],
+      "explanation": "Legitimieren means to justify something as acceptable or valid."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine historische Quelle erschließen” mean in English?",
+      "answer": "to interpret a historical source",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history",
+        "academic"
+      ],
+      "explanation": "Erschließen means to work out meaning through analysis and context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to interpret a historical source” in German?",
+      "answer": "eine historische Quelle erschließen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history",
+        "academic"
+      ],
+      "explanation": "Erschließen means to work out meaning through analysis and context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Ereignis in Erinnerung rufen” mean in English?",
+      "answer": "to call an event to mind",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history",
+        "idioms"
+      ],
+      "explanation": "In Erinnerung rufen is a fixed phrase for reminding or commemorating."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to call an event to mind” in German?",
+      "answer": "ein Ereignis in Erinnerung rufen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "history",
+        "idioms"
+      ],
+      "explanation": "In Erinnerung rufen is a fixed phrase for reminding or commemorating."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine literarische Figur charakterisieren” mean in English?",
+      "answer": "to characterize a literary figure",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Charakterisieren means to describe defining traits and development."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to characterize a literary figure” in German?",
+      "answer": "eine literarische Figur charakterisieren",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Charakterisieren means to describe defining traits and development."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Erzählung perspektivieren” mean in English?",
+      "answer": "to frame a narrative through a perspective",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Perspektivieren is a formal literary-analysis verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to frame a narrative through a perspective” in German?",
+      "answer": "eine Erzählung perspektivieren",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "literature"
+      ],
+      "explanation": "Perspektivieren is a formal literary-analysis verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlagzeile dekodieren” mean in English?",
+      "answer": "to decode a headline",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "journalism",
+        "semantics"
+      ],
+      "explanation": "Dekodieren means to interpret condensed or coded language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to decode a headline” in German?",
+      "answer": "eine Schlagzeile dekodieren",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "journalism",
+        "semantics"
+      ],
+      "explanation": "Dekodieren means to interpret condensed or coded language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Quelle triangulieren” mean in English?",
+      "answer": "to triangulate a source",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "journalism",
+        "research"
+      ],
+      "explanation": "Triangulation compares multiple sources or methods to improve reliability."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to triangulate a source” in German?",
+      "answer": "eine Quelle triangulieren",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "journalism",
+        "research"
+      ],
+      "explanation": "Triangulation compares multiple sources or methods to improve reliability."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In journalism, how do you say “to contextualize a news report” in German?",
+      "answer": "to contextualize a news report",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Einordnen means to assess information within a broader context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to contextualize a news report” in German?",
+      "answer": "eine Nachricht einordnen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "journalism"
+      ],
+      "explanation": "Einordnen means to assess information within a broader context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “administrative Willkür” mean in English?",
+      "answer": "administrative arbitrariness",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Willkür describes decisions made without consistent objective standards."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “administrative arbitrariness” in German?",
+      "answer": "administrative Willkür",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Willkür describes decisions made without consistent objective standards."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Ermessensspielraum nutzen” mean in English?",
+      "answer": "to use discretionary latitude",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Ermessensspielraum is the room an authority has for judgment."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to use discretionary latitude” in German?",
+      "answer": "einen Ermessensspielraum nutzen",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "bureaucracy",
+        "law"
+      ],
+      "explanation": "Ermessensspielraum is the room an authority has for judgment."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Regelung außer Kraft setzen” mean in English?",
+      "answer": "to repeal / invalidate a regulation",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law",
+        "government"
+      ],
+      "explanation": "Außer Kraft setzen means to make a rule no longer legally effective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to repeal / invalidate a regulation” in German?",
+      "answer": "eine Regelung außer Kraft setzen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "law",
+        "government"
+      ],
+      "explanation": "Außer Kraft setzen means to make a rule no longer legally effective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine gesellschaftliche Debatte polarisieren” mean in English?",
+      "answer": "to polarize a social debate",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics",
+        "society"
+      ],
+      "explanation": "Polarisieren means to divide opinion into opposing camps."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to polarize a social debate” in German?",
+      "answer": "eine gesellschaftliche Debatte polarisieren",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "politics",
+        "society"
+      ],
+      "explanation": "Polarisieren means to divide opinion into opposing camps."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Perspektive erweitern” mean in English?",
+      "answer": "to broaden a perspective",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation",
+        "culture"
+      ],
+      "explanation": "Erweitern means to make the range or scope of an idea larger."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to broaden a perspective” in German?",
+      "answer": "eine Perspektive erweitern",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation",
+        "culture"
+      ],
+      "explanation": "Erweitern means to make the range or scope of an idea larger."
+    }
+  ]
+}

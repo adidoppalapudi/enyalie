@@ -1,0 +1,1777 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-c2",
+    "name": "German C2",
+    "description": "C2 German: literary vocabulary, irony, regional and historical language, rhetoric, wordplay, dialect awareness, connotation, translation, and style editing."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Unverblümtheit” mean in English?",
+      "answer": "bluntness / lack of euphemism",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "style",
+        "register"
+      ],
+      "explanation": "Unverblümt describes language that is direct and not softened."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “bluntness / lack of euphemism” in German?",
+      "answer": "die Unverblümtheit",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "style",
+        "register"
+      ],
+      "explanation": "Unverblümt describes language that is direct and not softened."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Andeutung” mean in English?",
+      "answer": "a hint / insinuation",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "An Andeutung communicates something indirectly rather than stating it openly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a hint / insinuation” in German?",
+      "answer": "eine Andeutung",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "An Andeutung communicates something indirectly rather than stating it openly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “etwas durch die Blume sagen” mean in English?",
+      "answer": "to say something indirectly / tactfully",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "idioms",
+        "pragmatics"
+      ],
+      "explanation": "This idiom contrasts with blunt directness."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to say something indirectly / tactfully” in German?",
+      "answer": "etwas durch die Blume sagen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "idioms",
+        "pragmatics"
+      ],
+      "explanation": "This idiom contrasts with blunt directness."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit einem Augenzwinkern” mean in English?",
+      "answer": "with a wink / playfully",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "irony",
+        "pragmatics"
+      ],
+      "explanation": "The phrase signals that a remark is not entirely literal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with a wink / playfully” in German?",
+      "answer": "mit einem Augenzwinkern",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "irony",
+        "pragmatics"
+      ],
+      "explanation": "The phrase signals that a remark is not entirely literal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “das ist ja großartig ...” mean in English?",
+      "answer": "that is just wonderful ... (possibly ironic)",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "irony",
+        "intonation"
+      ],
+      "explanation": "Tone and context can turn positive wording into ironic criticism."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “that is just wonderful ... (possibly ironic)” in German?",
+      "answer": "das ist ja großartig ...",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "irony",
+        "intonation"
+      ],
+      "explanation": "Tone and context can turn positive wording into ironic criticism."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Untertreibung” mean in English?",
+      "answer": "an understatement",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Understatement deliberately presents something as less intense than it is."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “an understatement” in German?",
+      "answer": "eine Untertreibung",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Understatement deliberately presents something as less intense than it is."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Übertreibung” mean in English?",
+      "answer": "an exaggeration",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Exaggeration amplifies a quality or claim for effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “an exaggeration” in German?",
+      "answer": "eine Übertreibung",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Exaggeration amplifies a quality or claim for effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die rhetorische Frage” mean in English?",
+      "answer": "rhetorical question",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "A rhetorical question is asked for effect rather than a literal answer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “rhetorical question” in German?",
+      "answer": "die rhetorische Frage",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "A rhetorical question is asked for effect rather than a literal answer."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Antithese” mean in English?",
+      "answer": "antithesis",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "An antithesis places contrasting ideas in a deliberate structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “antithesis” in German?",
+      "answer": "die Antithese",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "An antithesis places contrasting ideas in a deliberate structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Anapher” mean in English?",
+      "answer": "anaphora",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Anaphora repeats a word or phrase at the beginning of successive clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “anaphora” in German?",
+      "answer": "eine Anapher",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Anaphora repeats a word or phrase at the beginning of successive clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Mehrdeutigkeit” mean in English?",
+      "answer": "ambiguity / multiple meaning",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "Mehrdeutig means open to more than one interpretation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “ambiguity / multiple meaning” in German?",
+      "answer": "die Mehrdeutigkeit",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "Mehrdeutig means open to more than one interpretation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Konnotation” mean in English?",
+      "answer": "connotation",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "A connotation is an associated or implied meaning beyond a dictionary definition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “connotation” in German?",
+      "answer": "die Konnotation",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "A connotation is an associated or implied meaning beyond a dictionary definition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Nuance” mean in English?",
+      "answer": "nuance",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "A nuance is a small but meaningful distinction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “nuance” in German?",
+      "answer": "die Nuance",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "A nuance is a small but meaningful distinction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sinnverwandte Wörter” mean in English?",
+      "answer": "semantically related words",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "Sinnverwandt means related in meaning without necessarily being identical."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “semantically related words” in German?",
+      "answer": "sinnverwandte Wörter",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "semantics"
+      ],
+      "explanation": "Sinnverwandt means related in meaning without necessarily being identical."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein falscher Freund” mean in English?",
+      "answer": "a false friend",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "A false friend resembles a word in another language but differs in meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a false friend” in German?",
+      "answer": "ein falscher Freund",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "A false friend resembles a word in another language but differs in meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine wörtliche Übersetzung” mean in English?",
+      "answer": "a literal translation",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Literal translation follows surface wording and can miss idiomatic meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a literal translation” in German?",
+      "answer": "eine wörtliche Übersetzung",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Literal translation follows surface wording and can miss idiomatic meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sinngemäß übersetzen” mean in English?",
+      "answer": "to translate by meaning",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Sinngemäß prioritizes intended meaning over word-for-word form."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to translate by meaning” in German?",
+      "answer": "sinngemäß übersetzen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Sinngemäß prioritizes intended meaning over word-for-word form."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Zieltext” mean in English?",
+      "answer": "target text",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "In translation, the Zieltext is the text produced in the target language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “target text” in German?",
+      "answer": "der Zieltext",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "In translation, the Zieltext is the text produced in the target language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Ausgangstext” mean in English?",
+      "answer": "source text",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "The Ausgangstext is the original text being translated."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “source text” in German?",
+      "answer": "der Ausgangstext",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "The Ausgangstext is the original text being translated."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Stilentscheidung” mean in English?",
+      "answer": "a stylistic choice",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "style"
+      ],
+      "explanation": "Style decisions include register, rhythm, word choice, and sentence structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a stylistic choice” in German?",
+      "answer": "eine Stilentscheidung",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "style"
+      ],
+      "explanation": "Style decisions include register, rhythm, word choice, and sentence structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der gehobene Sprachgebrauch” mean in English?",
+      "answer": "elevated language use",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Gehoben describes formal, refined vocabulary or style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “elevated language use” in German?",
+      "answer": "der gehobene Sprachgebrauch",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Gehoben describes formal, refined vocabulary or style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “umgangssprachlich” mean in English?",
+      "answer": "colloquial",
+      "difficulty": "easy",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Colloquial language is associated with relaxed everyday speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “colloquial” in German?",
+      "answer": "umgangssprachlich",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Colloquial language is associated with relaxed everyday speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “veraltet” mean in English?",
+      "answer": "outdated / archaic",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "historical-language"
+      ],
+      "explanation": "Veraltet describes language no longer usual in contemporary standard usage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “outdated / archaic” in German?",
+      "answer": "veraltet",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "historical-language"
+      ],
+      "explanation": "Veraltet describes language no longer usual in contemporary standard usage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die regionale Färbung” mean in English?",
+      "answer": "regional coloring",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "dialect",
+        "register"
+      ],
+      "explanation": "Regional coloring signals features associated with a particular area."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “regional coloring” in German?",
+      "answer": "die regionale Färbung",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "dialect",
+        "register"
+      ],
+      "explanation": "Regional coloring signals features associated with a particular area."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Dialekt” mean in English?",
+      "answer": "dialect",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "dialect"
+      ],
+      "explanation": "A dialect is a regional variety with characteristic pronunciation, grammar, or vocabulary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “dialect” in German?",
+      "answer": "der Dialekt",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "dialect"
+      ],
+      "explanation": "A dialect is a regional variety with characteristic pronunciation, grammar, or vocabulary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Standardsprache” mean in English?",
+      "answer": "standard language",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Standardsprache is the codified variety used across regions and formal contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “standard language” in German?",
+      "answer": "die Standardsprache",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Standardsprache is the codified variety used across regions and formal contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Lehnwort” mean in English?",
+      "answer": "loanword",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "language-history"
+      ],
+      "explanation": "A loanword enters a language from another language and becomes part of its vocabulary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “loanword” in German?",
+      "answer": "ein Lehnwort",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "language-history"
+      ],
+      "explanation": "A loanword enters a language from another language and becomes part of its vocabulary."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Sprachentwicklung” mean in English?",
+      "answer": "language development / change",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "language-history"
+      ],
+      "explanation": "Languages change in sound, grammar, vocabulary, and usage over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “language development / change” in German?",
+      "answer": "die Sprachentwicklung",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "language-history"
+      ],
+      "explanation": "Languages change in sound, grammar, vocabulary, and usage over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Redewendung” mean in English?",
+      "answer": "idiomatic expression",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "idioms"
+      ],
+      "explanation": "A Redewendung is a conventional phrase whose meaning may not be literal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “idiomatic expression” in German?",
+      "answer": "eine Redewendung",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "idioms"
+      ],
+      "explanation": "A Redewendung is a conventional phrase whose meaning may not be literal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Pointe” mean in English?",
+      "answer": "punchline",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "humor"
+      ],
+      "explanation": "The Pointe is the surprising or humorous ending of a joke or anecdote."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “punchline” in German?",
+      "answer": "die Pointe",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "humor"
+      ],
+      "explanation": "The Pointe is the surprising or humorous ending of a joke or anecdote."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Wortspiel” mean in English?",
+      "answer": "wordplay / pun",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "humor",
+        "semantics"
+      ],
+      "explanation": "Wordplay exploits similar sounds, multiple meanings, or unusual wording."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “wordplay / pun” in German?",
+      "answer": "ein Wortspiel",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "humor",
+        "semantics"
+      ],
+      "explanation": "Wordplay exploits similar sounds, multiple meanings, or unusual wording."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Doppelsinn” mean in English?",
+      "answer": "double meaning",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "wordplay"
+      ],
+      "explanation": "Doppelsinn allows a phrase to be understood in two ways."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “double meaning” in German?",
+      "answer": "der Doppelsinn",
+      "difficulty": "easy",
+      "tags": [
+        "c2",
+        "wordplay"
+      ],
+      "explanation": "Doppelsinn allows a phrase to be understood in two ways."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Anspielung auf einen Mythos” mean in English?",
+      "answer": "an allusion to a myth",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "An allusion relies on the reader recognizing a cultural reference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “an allusion to a myth” in German?",
+      "answer": "eine Anspielung auf einen Mythos",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "An allusion relies on the reader recognizing a cultural reference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Erzählperspektive” mean in English?",
+      "answer": "narrative perspective",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Narrative perspective determines who sees or tells the events."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “narrative perspective” in German?",
+      "answer": "eine Erzählperspektive",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Narrative perspective determines who sees or tells the events."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unzuverlässiger Erzähler” mean in English?",
+      "answer": "unreliable narrator",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "An unreliable narrator’s account cannot be accepted without critical distance."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “unreliable narrator” in German?",
+      "answer": "unzuverlässiger Erzähler",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "An unreliable narrator’s account cannot be accepted without critical distance."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Zeitraffung” mean in English?",
+      "answer": "time compression in narration",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Time raffung summarizes a long period in a short passage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “time compression in narration” in German?",
+      "answer": "die Zeitraffung",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Time raffung summarizes a long period in a short passage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Perspektivwechsel” mean in English?",
+      "answer": "change of perspective",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "A perspective shift changes the viewpoint or consciousness presented."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “change of perspective” in German?",
+      "answer": "ein Perspektivwechsel",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "A perspective shift changes the viewpoint or consciousness presented."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Textsorte” mean in English?",
+      "answer": "text type / genre",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Textsorte describes a conventional kind of text with typical purposes and structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “text type / genre” in German?",
+      "answer": "eine Textsorte",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Textsorte describes a conventional kind of text with typical purposes and structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Kohärenz” mean in English?",
+      "answer": "coherence",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Coherence is the logical and meaningful connection of ideas in a text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “coherence” in German?",
+      "answer": "die Kohärenz",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Coherence is the logical and meaningful connection of ideas in a text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Kohäsion” mean in English?",
+      "answer": "cohesion",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Cohesion is the grammatical and lexical linking of sentences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “cohesion” in German?",
+      "answer": "die Kohäsion",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Cohesion is the grammatical and lexical linking of sentences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Passage stilistisch überarbeiten” mean in English?",
+      "answer": "to revise a passage stylistically",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Style editing can improve precision, rhythm, register, and cohesion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to revise a passage stylistically” in German?",
+      "answer": "eine Passage stilistisch überarbeiten",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Style editing can improve precision, rhythm, register, and cohesion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Formulierung schärfen” mean in English?",
+      "answer": "to sharpen a formulation",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Schärfen means to make wording more precise or forceful."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to sharpen a formulation” in German?",
+      "answer": "eine Formulierung schärfen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Schärfen means to make wording more precise or forceful."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Mehrdeutigkeit vermeiden” mean in English?",
+      "answer": "to avoid ambiguity",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Writers may revise wording when two interpretations would cause confusion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to avoid ambiguity” in German?",
+      "answer": "eine Mehrdeutigkeit vermeiden",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Writers may revise wording when two interpretations would cause confusion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Wirkung erzielen” mean in English?",
+      "answer": "to achieve an effect",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "style"
+      ],
+      "explanation": "Erzielen is a formal collocation for producing a desired result."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to achieve an effect” in German?",
+      "answer": "eine Wirkung erzielen",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "style"
+      ],
+      "explanation": "Erzielen is a formal collocation for producing a desired result."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zwischen den Registern wechseln” mean in English?",
+      "answer": "to switch between registers",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Register shifts adapt language to audience, purpose, and setting."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to switch between registers” in German?",
+      "answer": "zwischen den Registern wechseln",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Register shifts adapt language to audience, purpose, and setting."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage kontextualisieren” mean in English?",
+      "answer": "to contextualize a statement",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "Contextualizing explains the circumstances that shape an utterance’s meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to contextualize a statement” in German?",
+      "answer": "eine Aussage kontextualisieren",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "Contextualizing explains the circumstances that shape an utterance’s meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine implizite Bedeutung erschließen” mean in English?",
+      "answer": "to infer an implicit meaning",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "Erschließen means to work out meaning that is not stated directly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to infer an implicit meaning” in German?",
+      "answer": "eine implizite Bedeutung erschließen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "Erschließen means to work out meaning that is not stated directly."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does mit einem Augenzwinkern signal?",
+      "choices": [
+        "a playful or nonliteral tone",
+        "a legal obligation",
+        "a pronunciation error"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "irony"
+      ],
+      "explanation": "The phrase signals that the remark should not be read entirely literally."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which rhetorical device repeats a beginning phrase?",
+      "choices": [
+        "Anapher",
+        "Antithese",
+        "Untertreibung"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "Anaphora repeats words at the beginning of successive units."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a false friend?",
+      "choices": [
+        "a similar-looking word with a different meaning",
+        "a regional accent",
+        "a punctuation mark"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "False friends look or sound similar across languages but differ semantically."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term means “target text”?",
+      "choices": [
+        "Zieltext",
+        "Ausgangstext",
+        "Lehnwort"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Zieltext is the translated text in the target language."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does Kohärenz describe?",
+      "choices": [
+        "logical connection of ideas",
+        "only word pronunciation",
+        "historical spelling"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Coherence concerns meaningful conceptual connections in a text."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to infer implicit meaning”?",
+      "choices": [
+        "eine implizite Bedeutung erschließen",
+        "eine Pointe veralten",
+        "eine Nuance aussprechen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "pragmatics"
+      ],
+      "explanation": "Erschließen is to work out information that is not explicit."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a Pointe?",
+      "choices": [
+        "a punchline",
+        "a case ending",
+        "a regional vowel"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "humor"
+      ],
+      "explanation": "The Pointe is the humorous or surprising ending of a joke."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term means elevated formal language?",
+      "choices": [
+        "gehobener Sprachgebrauch",
+        "umgangssprachlich",
+        "veraltet only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Gehoben describes refined or elevated register."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a Perspektivwechsel do?",
+      "choices": [
+        "changes the viewpoint presented",
+        "removes every verb",
+        "marks a plural noun"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "It shifts the narrative or analytical perspective."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase describes improving precision and rhythm in a passage?",
+      "choices": [
+        "eine Passage stilistisch überarbeiten",
+        "eine Passage ausfallen",
+        "eine Passage erheben"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "editing"
+      ],
+      "explanation": "Style revision evaluates wording, structure, and effect."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Irony can make a positive-looking sentence communicate criticism.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "irony"
+      ],
+      "explanation": "Tone, context, and shared knowledge can reverse the literal evaluation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A literal translation always preserves an idiom’s intended effect.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "translation"
+      ],
+      "explanation": "Idioms often require a meaning-based or functional translation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Kohäsion concerns grammatical and lexical links between sentences.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Cohesion is visible through devices such as reference, conjunction, and repetition."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A dialect is identical to the national standard language in every feature.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "dialect"
+      ],
+      "explanation": "Dialects can differ in pronunciation, vocabulary, and grammar."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An understatement deliberately presents something as less intense.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "rhetoric"
+      ],
+      "explanation": "It reduces apparent force for rhetorical or humorous effect."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A loanword is a word borrowed from another language.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "language-history"
+      ],
+      "explanation": "Lehnwort is the German term for a loanword."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A text can have coherence without using any cohesive devices.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "writing"
+      ],
+      "explanation": "Conceptual logic can be coherent even when explicit linking is limited."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Register choice depends on audience, purpose, and setting.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "register"
+      ],
+      "explanation": "Effective C2 language adapts style to context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Lakonie” mean in English?",
+      "answer": "laconic brevity",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "style",
+        "rhetoric"
+      ],
+      "explanation": "Lakonisch describes an intentionally concise and often dry style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “laconic brevity” in German?",
+      "answer": "die Lakonie",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "style",
+        "rhetoric"
+      ],
+      "explanation": "Lakonisch describes an intentionally concise and often dry style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Sarkasmus” mean in English?",
+      "answer": "sarcasm",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "irony",
+        "rhetoric"
+      ],
+      "explanation": "Sarkasmus uses sharp or mocking language, often with an opposite literal meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “sarcasm” in German?",
+      "answer": "der Sarkasmus",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "irony",
+        "rhetoric"
+      ],
+      "explanation": "Sarkasmus uses sharp or mocking language, often with an opposite literal meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Doppelbödigkeit” mean in English?",
+      "answer": "double-layered meaning",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "irony",
+        "semantics"
+      ],
+      "explanation": "Doppelbödigkeit describes wording with a second implied or ironic level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “double-layered meaning” in German?",
+      "answer": "die Doppelbödigkeit",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "irony",
+        "semantics"
+      ],
+      "explanation": "Doppelbödigkeit describes wording with a second implied or ironic level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage ins Gegenteil verkehren” mean in English?",
+      "answer": "to turn a statement into its opposite",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "rhetoric",
+        "irony"
+      ],
+      "explanation": "Verkehren means to reverse or distort the apparent meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to turn a statement into its opposite” in German?",
+      "answer": "eine Aussage ins Gegenteil verkehren",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "rhetoric",
+        "irony"
+      ],
+      "explanation": "Verkehren means to reverse or distort the apparent meaning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Pointe unterlaufen” mean in English?",
+      "answer": "to undercut a punchline",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "humor",
+        "rhetoric"
+      ],
+      "explanation": "Unterlaufen can mean deliberately undermining an expected effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to undercut a punchline” in German?",
+      "answer": "eine Pointe unterlaufen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "humor",
+        "rhetoric"
+      ],
+      "explanation": "Unterlaufen can mean deliberately undermining an expected effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Fallhöhe” mean in English?",
+      "answer": "the contrast between high expectation and low outcome",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature",
+        "rhetoric"
+      ],
+      "explanation": "Fallhöhe is a literary term for the distance between a lofty starting point and a downfall."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the contrast between high expectation and low outcome” in German?",
+      "answer": "die Fallhöhe",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature",
+        "rhetoric"
+      ],
+      "explanation": "Fallhöhe is a literary term for the distance between a lofty starting point and a downfall."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Erzählmodus” mean in English?",
+      "answer": "narrative mode",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Erzählmodus describes how a narrative voice presents events and information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “narrative mode” in German?",
+      "answer": "der Erzählmodus",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Erzählmodus describes how a narrative voice presents events and information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Perspektive fokalisieren” mean in English?",
+      "answer": "to focalize a perspective",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Fokalisieren is a technical narratology term for restricting perception to a viewpoint."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to focalize a perspective” in German?",
+      "answer": "eine Perspektive fokalisieren",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature"
+      ],
+      "explanation": "Fokalisieren is a technical narratology term for restricting perception to a viewpoint."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Archaisierung” mean in English?",
+      "answer": "archaization",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "historical-language",
+        "style"
+      ],
+      "explanation": "Archaisierung is the deliberate use of older language features for stylistic effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “archaization” in German?",
+      "answer": "die Archaisierung",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "historical-language",
+        "style"
+      ],
+      "explanation": "Archaisierung is the deliberate use of older language features for stylistic effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine historische Wendung” mean in English?",
+      "answer": "a historical expression / turn of phrase",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "historical-language"
+      ],
+      "explanation": "A historical Wendung can signal an earlier period or style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a historical expression / turn of phrase” in German?",
+      "answer": "eine historische Wendung",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "historical-language"
+      ],
+      "explanation": "A historical Wendung can signal an earlier period or style."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “regionalsprachlich gefärbt” mean in English?",
+      "answer": "regionally colored in language",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "dialect",
+        "register"
+      ],
+      "explanation": "Regionalsprachlich describes features associated with a region but not necessarily a full dialect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “regionally colored in language” in German?",
+      "answer": "regionalsprachlich gefärbt",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "dialect",
+        "register"
+      ],
+      "explanation": "Regionalsprachlich describes features associated with a region but not necessarily a full dialect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine dialektale Variante” mean in English?",
+      "answer": "a dialectal variant",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "dialect"
+      ],
+      "explanation": "Variante emphasizes an alternative form within a language system."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a dialectal variant” in German?",
+      "answer": "eine dialektale Variante",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "dialect"
+      ],
+      "explanation": "Variante emphasizes an alternative form within a language system."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine semantische Verschiebung” mean in English?",
+      "answer": "a semantic shift",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "semantics",
+        "language-history"
+      ],
+      "explanation": "Semantische Verschiebung describes a change in a word’s meaning over time or context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a semantic shift” in German?",
+      "answer": "eine semantische Verschiebung",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "semantics",
+        "language-history"
+      ],
+      "explanation": "Semantische Verschiebung describes a change in a word’s meaning over time or context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Kollokation prägen” mean in English?",
+      "answer": "to shape a collocation",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "semantics",
+        "style"
+      ],
+      "explanation": "A collocation is a conventional combination of words that sounds natural to speakers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to shape a collocation” in German?",
+      "answer": "eine Kollokation prägen",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "semantics",
+        "style"
+      ],
+      "explanation": "A collocation is a conventional combination of words that sounds natural to speakers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Registerbruch erkennen” mean in English?",
+      "answer": "to recognize a register clash",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "register",
+        "style"
+      ],
+      "explanation": "A Registerbruch occurs when a sudden style shift is deliberate or jarring."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to recognize a register clash” in German?",
+      "answer": "den Registerbruch erkennen",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "register",
+        "style"
+      ],
+      "explanation": "A Registerbruch occurs when a sudden style shift is deliberate or jarring."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Übersetzungsentscheidung begründen” mean in English?",
+      "answer": "to justify a translation choice",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "translation",
+        "style"
+      ],
+      "explanation": "Translation choices can be justified by function, tone, audience, and context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to justify a translation choice” in German?",
+      "answer": "eine Übersetzungsentscheidung begründen",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "translation",
+        "style"
+      ],
+      "explanation": "Translation choices can be justified by function, tone, audience, and context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Leerstelle deuten” mean in English?",
+      "answer": "to interpret a textual gap",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature",
+        "pragmatics"
+      ],
+      "explanation": "Leerstelle refers to information deliberately left unstated in a literary text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to interpret a textual gap” in German?",
+      "answer": "eine Leerstelle deuten",
+      "difficulty": "expert",
+      "tags": [
+        "c2",
+        "literature",
+        "pragmatics"
+      ],
+      "explanation": "Leerstelle refers to information deliberately left unstated in a literary text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Lesart anbieten” mean in English?",
+      "answer": "to offer an interpretation",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "literature",
+        "semantics"
+      ],
+      "explanation": "Lesart is a possible way of reading or interpreting a text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to offer an interpretation” in German?",
+      "answer": "eine Lesart anbieten",
+      "difficulty": "medium",
+      "tags": [
+        "c2",
+        "literature",
+        "semantics"
+      ],
+      "explanation": "Lesart is a possible way of reading or interpreting a text."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage ironisch brechen” mean in English?",
+      "answer": "to undercut a statement with irony",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "irony",
+        "rhetoric"
+      ],
+      "explanation": "Ironische Brechung creates distance between literal wording and intended effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to undercut a statement with irony” in German?",
+      "answer": "eine Aussage ironisch brechen",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "irony",
+        "rhetoric"
+      ],
+      "explanation": "Ironische Brechung creates distance between literal wording and intended effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine stilistische Ambivalenz” mean in English?",
+      "answer": "a stylistic ambivalence",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "style",
+        "semantics"
+      ],
+      "explanation": "Ambivalenz indicates that a style can support two competing readings or effects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a stylistic ambivalence” in German?",
+      "answer": "eine stilistische Ambivalenz",
+      "difficulty": "hard",
+      "tags": [
+        "c2",
+        "style",
+        "semantics"
+      ],
+      "explanation": "Ambivalenz indicates that a style can support two competing readings or effects."
+    }
+  ]
+}

@@ -1,0 +1,1821 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-b1-part-1",
+    "name": "German B1 — Part 1",
+    "description": "B1 German: full case control, adjective declension, relative clauses, passive basics, narrative past, Konjunktiv II, and structured explanations."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “wegen des starken Regens” mean in English?",
+      "answer": "because of the heavy rain",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Wegen is traditionally used with genitive in careful standard German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “because of the heavy rain” in German?",
+      "answer": "wegen des starken Regens",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Wegen is traditionally used with genitive in careful standard German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “trotz der Schwierigkeiten” mean in English?",
+      "answer": "despite the difficulties",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Trotz commonly governs genitive in standard written German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “despite the difficulties” in German?",
+      "answer": "trotz der Schwierigkeiten",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Trotz commonly governs genitive in standard written German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “während des Gesprächs” mean in English?",
+      "answer": "during the conversation",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Während can introduce a genitive noun phrase in formal usage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “during the conversation” in German?",
+      "answer": "während des Gesprächs",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "prepositions"
+      ],
+      "explanation": "Während can introduce a genitive noun phrase in formal usage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Entwicklung der Stadt” mean in English?",
+      "answer": "the development of the city",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "noun-phrases"
+      ],
+      "explanation": "The possessor or relation in a noun phrase can be expressed by genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the development of the city” in German?",
+      "answer": "die Entwicklung der Stadt",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive",
+        "noun-phrases"
+      ],
+      "explanation": "The possessor or relation in a noun phrase can be expressed by genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit den neuen Kollegen” mean in English?",
+      "answer": "with the new colleagues",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "cases",
+        "adjective-endings"
+      ],
+      "explanation": "Plural dative after mit uses den and adjective ending -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with the new colleagues” in German?",
+      "answer": "mit den neuen Kollegen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "cases",
+        "adjective-endings"
+      ],
+      "explanation": "Plural dative after mit uses den and adjective ending -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “für einen wichtigen Kunden” mean in English?",
+      "answer": "for an important customer",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "cases",
+        "adjective-endings"
+      ],
+      "explanation": "Masculine accusative after einen takes adjective ending -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “for an important customer” in German?",
+      "answer": "für einen wichtigen Kunden",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "cases",
+        "adjective-endings"
+      ],
+      "explanation": "Masculine accusative after einen takes adjective ending -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Kollegin, mit der ich arbeite” mean in English?",
+      "answer": "the colleague with whom I work",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Mit governs dative; feminine dative relative pronoun is der."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the colleague with whom I work” in German?",
+      "answer": "die Kollegin, mit der ich arbeite",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Mit governs dative; feminine dative relative pronoun is der."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “das Projekt, an dem wir arbeiten” mean in English?",
+      "answer": "the project we are working on",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "An plus dative appears because the relative pronoun is the object of arbeiten an."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the project we are working on” in German?",
+      "answer": "das Projekt, an dem wir arbeiten",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "An plus dative appears because the relative pronoun is the object of arbeiten an."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Gründe, aus denen er gegangen ist” mean in English?",
+      "answer": "the reasons for which he left",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Aus governs dative plural, giving denen in the relative clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the reasons for which he left” in German?",
+      "answer": "die Gründe, aus denen er gegangen ist",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Aus governs dative plural, giving denen in the relative clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Vertrag wird unterschrieben.” mean in English?",
+      "answer": "The contract is being signed.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive"
+      ],
+      "explanation": "The present passive uses werden plus the past participle."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The contract is being signed.” in German?",
+      "answer": "Der Vertrag wird unterschrieben.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive"
+      ],
+      "explanation": "The present passive uses werden plus the past participle."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Vertrag wurde unterschrieben.” mean in English?",
+      "answer": "The contract was signed.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive",
+        "preterite"
+      ],
+      "explanation": "The simple past passive uses wurde plus the past participle."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The contract was signed.” in German?",
+      "answer": "Der Vertrag wurde unterschrieben.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive",
+        "preterite"
+      ],
+      "explanation": "The simple past passive uses wurde plus the past participle."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Vertrag ist unterschrieben worden.” mean in English?",
+      "answer": "The contract has been signed.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive",
+        "perfect"
+      ],
+      "explanation": "The perfect passive uses ist ... worden; worden is the special passive participle of werden."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The contract has been signed.” in German?",
+      "answer": "Der Vertrag ist unterschrieben worden.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive",
+        "perfect"
+      ],
+      "explanation": "The perfect passive uses ist ... worden; worden is the special passive participle of werden."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Als ich ankam, hatte der Film schon begonnen.” mean in English?",
+      "answer": "When I arrived, the film had already begun.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "pluperfect",
+        "narrative"
+      ],
+      "explanation": "Plusquamperfekt places one past event before another past reference point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “When I arrived, the film had already begun.” in German?",
+      "answer": "Als ich ankam, hatte der Film schon begonnen.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "pluperfect",
+        "narrative"
+      ],
+      "explanation": "Plusquamperfekt places one past event before another past reference point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Früher arbeitete sie in Bonn.” mean in English?",
+      "answer": "She used to work in Bonn.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "preterite",
+        "narrative"
+      ],
+      "explanation": "Präteritum is common in written narrative and with many high-frequency verbs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “She used to work in Bonn.” in German?",
+      "answer": "Früher arbeitete sie in Bonn.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "preterite",
+        "narrative"
+      ],
+      "explanation": "Präteritum is common in written narrative and with many high-frequency verbs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Nachdem er gegessen hatte, ging er spazieren.” mean in English?",
+      "answer": "After he had eaten, he went for a walk.",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "subordinate-clauses",
+        "pluperfect"
+      ],
+      "explanation": "Nachdem commonly pairs a prior action in Plusquamperfekt with a later Präteritum event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “After he had eaten, he went for a walk.” in German?",
+      "answer": "Nachdem er gegessen hatte, ging er spazieren.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses",
+        "pluperfect"
+      ],
+      "explanation": "Nachdem commonly pairs a prior action in Plusquamperfekt with a later Präteritum event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich würde gern teilnehmen.” mean in English?",
+      "answer": "I would like to take part.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Würde plus infinitive is a productive Konjunktiv II form for polite wishes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to take part.” in German?",
+      "answer": "Ich würde gern teilnehmen.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Würde plus infinitive is a productive Konjunktiv II form for polite wishes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Wenn ich mehr Zeit hätte, würde ich reisen.” mean in English?",
+      "answer": "If I had more time, I would travel.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "konjunktiv-ii",
+        "conditionals"
+      ],
+      "explanation": "A present unreal condition uses hätte and würde plus infinitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “If I had more time, I would travel.” in German?",
+      "answer": "Wenn ich mehr Zeit hätte, würde ich reisen.",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "konjunktiv-ii",
+        "conditionals"
+      ],
+      "explanation": "A present unreal condition uses hätte and würde plus infinitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Könnten Sie mir helfen?” mean in English?",
+      "answer": "Could you help me?",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "konjunktiv-ii",
+        "politeness"
+      ],
+      "explanation": "Konjunktiv II of können is a standard polite request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Could you help me?” in German?",
+      "answer": "Könnten Sie mir helfen?",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "konjunktiv-ii",
+        "politeness"
+      ],
+      "explanation": "Konjunktiv II of können is a standard polite request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich wüsste gern, wann der Kurs beginnt.” mean in English?",
+      "answer": "I would like to know when the course begins.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "indirect-questions"
+      ],
+      "explanation": "Indirect questions use subordinate word order; the finite verb is at the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to know when the course begins.” in German?",
+      "answer": "Ich wüsste gern, wann der Kurs beginnt.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "indirect-questions"
+      ],
+      "explanation": "Indirect questions use subordinate word order; the finite verb is at the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “obwohl die Aufgabe schwierig ist” mean in English?",
+      "answer": "although the task is difficult",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Obwohl introduces a concessive subordinate clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “although the task is difficult” in German?",
+      "answer": "obwohl die Aufgabe schwierig ist",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Obwohl introduces a concessive subordinate clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “damit alle teilnehmen können” mean in English?",
+      "answer": "so that everyone can participate",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses",
+        "purpose"
+      ],
+      "explanation": "Damit introduces a purpose clause with the finite verb at the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “so that everyone can participate” in German?",
+      "answer": "damit alle teilnehmen können",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses",
+        "purpose"
+      ],
+      "explanation": "Damit introduces a purpose clause with the finite verb at the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “indem man regelmäßig übt” mean in English?",
+      "answer": "by practising regularly",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Indem introduces the means or method by which something happens."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “by practising regularly” in German?",
+      "answer": "indem man regelmäßig übt",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Indem introduces the means or method by which something happens."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einerseits ..., andererseits ...” mean in English?",
+      "answer": "on the one hand ..., on the other hand ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "connectors",
+        "argumentation"
+      ],
+      "explanation": "This paired connector presents two contrasting aspects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “on the one hand ..., on the other hand ...” in German?",
+      "answer": "einerseits ..., andererseits ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "connectors",
+        "argumentation"
+      ],
+      "explanation": "This paired connector presents two contrasting aspects."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sowohl ... als auch ...” mean in English?",
+      "answer": "both ... and ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "This paired connector links two parallel elements."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “both ... and ...” in German?",
+      "answer": "sowohl ... als auch ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "This paired connector links two parallel elements."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “weder ... noch ...” mean in English?",
+      "answer": "neither ... nor ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors",
+        "negation"
+      ],
+      "explanation": "This paired connector negates both alternatives."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “neither ... nor ...” in German?",
+      "answer": "weder ... noch ...",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "connectors",
+        "negation"
+      ],
+      "explanation": "This paired connector negates both alternatives."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung begründen” mean in English?",
+      "answer": "to justify a decision",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Begründen means to give reasons for a position or decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to justify a decision” in German?",
+      "answer": "eine Entscheidung begründen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Begründen means to give reasons for a position or decision."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Vor- und Nachteile abwägen” mean in English?",
+      "answer": "to weigh advantages and disadvantages",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Abwägen is a useful verb for structured opinions and decisions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to weigh advantages and disadvantages” in German?",
+      "answer": "Vor- und Nachteile abwägen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Abwägen is a useful verb for structured opinions and decisions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Zusammenfassung schreiben” mean in English?",
+      "answer": "to write a summary",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "A summary selects the main information without copying every detail."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to write a summary” in German?",
+      "answer": "eine Zusammenfassung schreiben",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "A summary selects the main information without copying every detail."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Stellungnahme abgeben” mean in English?",
+      "answer": "to give an opinion / statement",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "writing",
+        "formal"
+      ],
+      "explanation": "Stellungnahme is common in formal or academic discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to give an opinion / statement” in German?",
+      "answer": "eine Stellungnahme abgeben",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "writing",
+        "formal"
+      ],
+      "explanation": "Stellungnahme is common in formal or academic discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Bewerbung” mean in English?",
+      "answer": "application",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "education"
+      ],
+      "explanation": "Bewerbung is used for an application for a job or place of study."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “application” in German?",
+      "answer": "die Bewerbung",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "education"
+      ],
+      "explanation": "Bewerbung is used for an application for a job or place of study."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Voraussetzung” mean in English?",
+      "answer": "prerequisite / requirement",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "work"
+      ],
+      "explanation": "A Voraussetzung is a condition that must be met first."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “prerequisite / requirement” in German?",
+      "answer": "die Voraussetzung",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "work"
+      ],
+      "explanation": "A Voraussetzung is a condition that must be met first."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Frist einhalten” mean in English?",
+      "answer": "to meet a deadline",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "collocations"
+      ],
+      "explanation": "Einhalten forms a common formal collocation with Frist."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to meet a deadline” in German?",
+      "answer": "eine Frist einhalten",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "work",
+        "collocations"
+      ],
+      "explanation": "Einhalten forms a common formal collocation with Frist."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Nachricht veröffentlichen” mean in English?",
+      "answer": "to publish a news item",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media"
+      ],
+      "explanation": "Veröffentlichen means to make information public."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to publish a news item” in German?",
+      "answer": "eine Nachricht veröffentlichen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media"
+      ],
+      "explanation": "Veröffentlichen means to make information public."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Quelle überprüfen” mean in English?",
+      "answer": "to check the source",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "media",
+        "critical-thinking"
+      ],
+      "explanation": "Checking sources is essential when evaluating media claims."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to check the source” in German?",
+      "answer": "die Quelle überprüfen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media",
+        "critical-thinking"
+      ],
+      "explanation": "Checking sources is essential when evaluating media claims."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “etwas in Frage stellen” mean in English?",
+      "answer": "to question something",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation",
+        "idioms"
+      ],
+      "explanation": "In Frage stellen means to challenge or doubt an assumption."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to question something” in German?",
+      "answer": "etwas in Frage stellen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation",
+        "idioms"
+      ],
+      "explanation": "In Frage stellen means to challenge or doubt an assumption."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Das kommt darauf an.” mean in English?",
+      "answer": "It depends.",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "Darauf ankommen is a common expression for conditional dependence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “It depends.” in German?",
+      "answer": "Das kommt darauf an.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "Darauf ankommen is a common expression for conditional dependence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Das ist nicht mein Ding.” mean in English?",
+      "answer": "That is not my thing.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "register",
+        "idioms"
+      ],
+      "explanation": "This informal expression says something is not one’s preference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “That is not my thing.” in German?",
+      "answer": "Das ist nicht mein Ding.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "register",
+        "idioms"
+      ],
+      "explanation": "This informal expression says something is not one’s preference."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich um eine Stelle bewerben” mean in English?",
+      "answer": "to apply for a position",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "work",
+        "verb-preposition"
+      ],
+      "explanation": "Sich bewerben um takes um plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to apply for a position” in German?",
+      "answer": "sich um eine Stelle bewerben",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "work",
+        "verb-preposition"
+      ],
+      "explanation": "Sich bewerben um takes um plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “an einem Projekt arbeiten” mean in English?",
+      "answer": "to work on a project",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "work",
+        "verb-preposition"
+      ],
+      "explanation": "Arbeiten an takes an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to work on a project” in German?",
+      "answer": "an einem Projekt arbeiten",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "work",
+        "verb-preposition"
+      ],
+      "explanation": "Arbeiten an takes an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit einer Änderung rechnen” mean in English?",
+      "answer": "to expect a change",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "verb-preposition"
+      ],
+      "explanation": "Rechnen mit takes mit plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to expect a change” in German?",
+      "answer": "mit einer Änderung rechnen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "verb-preposition"
+      ],
+      "explanation": "Rechnen mit takes mit plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich für ein Thema einsetzen” mean in English?",
+      "answer": "to campaign for a topic / cause",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society",
+        "verb-preposition"
+      ],
+      "explanation": "Sich einsetzen für expresses active support for a cause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to campaign for a topic / cause” in German?",
+      "answer": "sich für ein Thema einsetzen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society",
+        "verb-preposition"
+      ],
+      "explanation": "Sich einsetzen für expresses active support for a cause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Lösung vorschlagen” mean in English?",
+      "answer": "to suggest a solution",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "separable-verbs"
+      ],
+      "explanation": "Vorschlagen is separable in the present: Ich schlage eine Lösung vor."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to suggest a solution” in German?",
+      "answer": "eine Lösung vorschlagen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "separable-verbs"
+      ],
+      "explanation": "Vorschlagen is separable in the present: Ich schlage eine Lösung vor."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Problem lösen” mean in English?",
+      "answer": "to solve a problem",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "problem-solving"
+      ],
+      "explanation": "Lösen means to find an answer or remedy to a problem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to solve a problem” in German?",
+      "answer": "ein Problem lösen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "problem-solving"
+      ],
+      "explanation": "Lösen means to find an answer or remedy to a problem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Arbeitsbedingungen verbessern” mean in English?",
+      "answer": "to improve working conditions",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "society"
+      ],
+      "explanation": "Arbeitsbedingungen is plural and is common in employment discussions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to improve working conditions” in German?",
+      "answer": "die Arbeitsbedingungen verbessern",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "society"
+      ],
+      "explanation": "Arbeitsbedingungen is plural and is common in employment discussions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Meinung vertreten” mean in English?",
+      "answer": "to hold / defend an opinion",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Vertreten means to express and stand behind a position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to hold / defend an opinion” in German?",
+      "answer": "eine Meinung vertreten",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Vertreten means to express and stand behind a position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Daten erheben” mean in English?",
+      "answer": "to collect data",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "research",
+        "formal"
+      ],
+      "explanation": "Erheben is a formal verb used in research and statistics."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to collect data” in German?",
+      "answer": "Daten erheben",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "research",
+        "formal"
+      ],
+      "explanation": "Erheben is a formal verb used in research and statistics."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entwicklung beobachten” mean in English?",
+      "answer": "to observe a development",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "news",
+        "research"
+      ],
+      "explanation": "This collocation is useful for describing trends over time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to observe a development” in German?",
+      "answer": "eine Entwicklung beobachten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "news",
+        "research"
+      ],
+      "explanation": "This collocation is useful for describing trends over time."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which passive sentence is correct in the present?",
+      "choices": [
+        "Der Bericht wird geschrieben.",
+        "Der Bericht wird geschriebenen.",
+        "Der Bericht ist schreiben."
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive"
+      ],
+      "explanation": "Present passive is werden plus the past participle."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the correct connector: ___ es regnet, gehen wir spazieren.",
+      "choices": [
+        "Obwohl",
+        "Damit",
+        "Indem"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Obwohl expresses concession: despite the rain, we go for a walk."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form completes an unreal condition: Wenn ich Zeit ___, würde ich kommen.",
+      "choices": [
+        "habe",
+        "hätte",
+        "hatte"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Hätte is Konjunktiv II of haben for an unreal present condition."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to meet a deadline”?",
+      "choices": [
+        "eine Frist einhalten",
+        "eine Frist verlieren",
+        "eine Frist machen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "collocations"
+      ],
+      "explanation": "Einhalten is the standard collocation with Frist."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which relative pronoun follows mit in “die Person, mit ___ ich spreche”?",
+      "choices": [
+        "der",
+        "die",
+        "den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Mit requires dative; feminine singular dative is der."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which connector means “both ... and ...”?",
+      "choices": [
+        "weder ... noch",
+        "sowohl ... als auch",
+        "entweder ... oder"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Sowohl ... als auch links two included alternatives."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the formal verb: to collect data",
+      "choices": [
+        "Daten erheben",
+        "Daten schieben",
+        "Daten ziehen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "research"
+      ],
+      "explanation": "Erheben is the formal research verb for collecting data."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which tense commonly narrates written past events?",
+      "choices": [
+        "Präteritum",
+        "Futur II only",
+        "Present perfect only"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "preterite"
+      ],
+      "explanation": "Präteritum is common in written narratives, especially with frequent verbs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to question an assumption”?",
+      "choices": [
+        "etwas in Frage stellen",
+        "etwas unter den Tisch legen",
+        "etwas auf den Weg bringen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "In Frage stellen means to challenge or question something."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does indem introduce?",
+      "choices": [
+        "a means or method",
+        "a direct command",
+        "a noun plural"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Indem clauses explain how an action is carried out."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Genitive can express a relationship such as “the development of the city.”",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "genitive"
+      ],
+      "explanation": "Der Stadt is a genitive phrase in die Entwicklung der Stadt."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In the present passive, werden is followed by a past participle.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "passive"
+      ],
+      "explanation": "The present passive pattern is werden + Partizip II."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Damit normally places the finite verb in position two.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "subordinate-clauses"
+      ],
+      "explanation": "Damit introduces a subordinate clause with verb-final order."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Würde plus infinitive can express a polite wish.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Ich würde gern ... is a common polite Konjunktiv II construction."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sowohl ... als auch ... expresses a choice between two alternatives.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "It includes both alternatives; entweder ... oder expresses a choice."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Vertreten can mean to hold or defend an opinion.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Eine Meinung vertreten is a standard collocation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The relative pronoun’s case is always copied from the antecedent noun.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "relative-clauses"
+      ],
+      "explanation": "Gender and number come from the antecedent, but case comes from the relative clause role."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In written narratives, Präteritum is often preferred to perfect for past events.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "preterite"
+      ],
+      "explanation": "Präteritum is the conventional narrative past in formal writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Zulassungsvoraussetzung” mean in English?",
+      "answer": "admission requirement",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "education",
+        "compounds"
+      ],
+      "explanation": "Zulassungsvoraussetzung is a formal compound used for education or permits."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “admission requirement” in German?",
+      "answer": "die Zulassungsvoraussetzung",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "education",
+        "compounds"
+      ],
+      "explanation": "Zulassungsvoraussetzung is a formal compound used for education or permits."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Prüfung ablegen” mean in English?",
+      "answer": "to sit an examination",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "collocations"
+      ],
+      "explanation": "Ablegen is a formal collocation for taking an exam."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to sit an examination” in German?",
+      "answer": "eine Prüfung ablegen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "collocations"
+      ],
+      "explanation": "Ablegen is a formal collocation for taking an exam."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ausbildung absolvieren” mean in English?",
+      "answer": "to complete vocational training",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "work"
+      ],
+      "explanation": "Absolvieren means to complete a course or program."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to complete vocational training” in German?",
+      "answer": "eine Ausbildung absolvieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "education",
+        "work"
+      ],
+      "explanation": "Absolvieren means to complete a course or program."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Berufserfahrung sammeln” mean in English?",
+      "answer": "to gain professional experience",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "collocations"
+      ],
+      "explanation": "Sammeln forms a standard collocation with Berufserfahrung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to gain professional experience” in German?",
+      "answer": "Berufserfahrung sammeln",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "collocations"
+      ],
+      "explanation": "Sammeln forms a standard collocation with Berufserfahrung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Kündigung einreichen” mean in English?",
+      "answer": "to submit a resignation",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einreichen is formal; Kündigung can be resignation or termination notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to submit a resignation” in German?",
+      "answer": "eine Kündigung einreichen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einreichen is formal; Kündigung can be resignation or termination notice."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Gehaltserhöhung beantragen” mean in English?",
+      "answer": "to request a pay rise",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Beantragen is used for making a formal application or request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to request a pay rise” in German?",
+      "answer": "eine Gehaltserhöhung beantragen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Beantragen is used for making a formal application or request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Arbeitsstelle antreten” mean in English?",
+      "answer": "to start a job",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work"
+      ],
+      "explanation": "Eine Stelle antreten means to begin working in a position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to start a job” in German?",
+      "answer": "eine Arbeitsstelle antreten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work"
+      ],
+      "explanation": "Eine Stelle antreten means to begin working in a position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich beruflich weiterbilden” mean in English?",
+      "answer": "to pursue further professional training",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "reflexive"
+      ],
+      "explanation": "Weiterbilden is a reflexive verb for continuing education."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to pursue further professional training” in German?",
+      "answer": "sich beruflich weiterbilden",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "reflexive"
+      ],
+      "explanation": "Weiterbilden is a reflexive verb for continuing education."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Nachricht verbreiten” mean in English?",
+      "answer": "to spread a news item",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media"
+      ],
+      "explanation": "Verbreiten means to distribute information widely."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to spread a news item” in German?",
+      "answer": "eine Nachricht verbreiten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media"
+      ],
+      "explanation": "Verbreiten means to distribute information widely."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlagzeile formulieren” mean in English?",
+      "answer": "to formulate a headline",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media",
+        "writing"
+      ],
+      "explanation": "Formulieren means to put an idea into precise words."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to formulate a headline” in German?",
+      "answer": "eine Schlagzeile formulieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media",
+        "writing"
+      ],
+      "explanation": "Formulieren means to put an idea into precise words."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Behauptung überprüfen” mean in English?",
+      "answer": "to verify a claim",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media",
+        "critical-thinking"
+      ],
+      "explanation": "Überprüfen means to check whether information is accurate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to verify a claim” in German?",
+      "answer": "eine Behauptung überprüfen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "media",
+        "critical-thinking"
+      ],
+      "explanation": "Überprüfen means to check whether information is accurate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Studie zitieren” mean in English?",
+      "answer": "to cite a study",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "academic",
+        "writing"
+      ],
+      "explanation": "Zitieren means to refer explicitly to a source in writing or speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to cite a study” in German?",
+      "answer": "eine Studie zitieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "academic",
+        "writing"
+      ],
+      "explanation": "Zitieren means to refer explicitly to a source in writing or speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Beispiel anführen” mean in English?",
+      "answer": "to cite an example",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation",
+        "formal"
+      ],
+      "explanation": "Anführen is a formal verb for providing an example or reason."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to cite an example” in German?",
+      "answer": "ein Beispiel anführen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation",
+        "formal"
+      ],
+      "explanation": "Anführen is a formal verb for providing an example or reason."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlussfolgerung ziehen” mean in English?",
+      "answer": "to draw a conclusion",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "academic"
+      ],
+      "explanation": "Ziehen is the standard verb in this academic collocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to draw a conclusion” in German?",
+      "answer": "eine Schlussfolgerung ziehen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "academic"
+      ],
+      "explanation": "Ziehen is the standard verb in this academic collocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ursache vermuten” mean in English?",
+      "answer": "to suspect a cause",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "research",
+        "hedging"
+      ],
+      "explanation": "Vermuten expresses a tentative belief rather than certainty."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to suspect a cause” in German?",
+      "answer": "eine Ursache vermuten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "research",
+        "hedging"
+      ],
+      "explanation": "Vermuten expresses a tentative belief rather than certainty."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Vermutung äußern” mean in English?",
+      "answer": "to voice a supposition",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Äußern means to express an idea or opinion aloud or in writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to voice a supposition” in German?",
+      "answer": "eine Vermutung äußern",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Äußern means to express an idea or opinion aloud or in writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Bitte ablehnen” mean in English?",
+      "answer": "to refuse a request",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "communication"
+      ],
+      "explanation": "Ablehnen means to reject or decline something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to refuse a request” in German?",
+      "answer": "eine Bitte ablehnen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "communication"
+      ],
+      "explanation": "Ablehnen means to reject or decline something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Kompromiss finden” mean in English?",
+      "answer": "to find a compromise",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "negotiation"
+      ],
+      "explanation": "Finden forms a common collocation with Kompromiss."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to find a compromise” in German?",
+      "answer": "einen Kompromiss finden",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "negotiation"
+      ],
+      "explanation": "Finden forms a common collocation with Kompromiss."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Vereinbarung einhalten” mean in English?",
+      "answer": "to keep an agreement",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einhalten means to comply with a rule, promise, or agreement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to keep an agreement” in German?",
+      "answer": "eine Vereinbarung einhalten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "formal"
+      ],
+      "explanation": "Einhalten means to comply with a rule, promise, or agreement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Termin verschieben” mean in English?",
+      "answer": "to postpone an appointment",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "appointments"
+      ],
+      "explanation": "Verschieben means to move an event to a later time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to postpone an appointment” in German?",
+      "answer": "einen Termin verschieben",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "appointments"
+      ],
+      "explanation": "Verschieben means to move an event to a later time."
+    }
+  ]
+}

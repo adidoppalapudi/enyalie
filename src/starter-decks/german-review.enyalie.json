@@ -1,0 +1,1853 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-review",
+    "name": "German Review & Common Mistakes",
+    "description": "Comprehensive German review: pronunciation, spelling, articles, cases, word order, verbs, prepositions, false friends, register, and frequent learner errors."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Unterschied zwischen ich und ach” mean in English?",
+      "answer": "the difference between the ich and ach sounds",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "pronunciation"
+      ],
+      "explanation": "The ich sound /ç/ is palatal; the ach sound /x/ is farther back after certain vowels."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the difference between the ich and ach sounds” in German?",
+      "answer": "der Unterschied zwischen ich und ach",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "pronunciation"
+      ],
+      "explanation": "The ich sound /ç/ is palatal; the ach sound /x/ is farther back after certain vowels."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “das lange e in leben” mean in English?",
+      "answer": "the long e in leben",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "pronunciation"
+      ],
+      "explanation": "The vowel in leben is long /eː/, unlike the short vowel in lecker."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the long e in leben” in German?",
+      "answer": "das lange e in leben",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "pronunciation"
+      ],
+      "explanation": "The vowel in leben is long /eː/, unlike the short vowel in lecker."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “ß” mean in English?",
+      "answer": "sharp s / eszett",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling"
+      ],
+      "explanation": "ß commonly represents /s/ after a long vowel or diphthong; Switzerland generally writes ss instead."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “sharp s / eszett” in German?",
+      "answer": "ß",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling"
+      ],
+      "explanation": "ß commonly represents /s/ after a long vowel or diphthong; Switzerland generally writes ss instead."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “großzügig” mean in English?",
+      "answer": "generous",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling"
+      ],
+      "explanation": "The word contains ß after the long vowel/diphthong and is not spelled with a single s."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “generous” in German?",
+      "answer": "großzügig",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "spelling"
+      ],
+      "explanation": "The word contains ß after the long vowel/diphthong and is not spelled with a single s."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Universität” mean in English?",
+      "answer": "the university",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "capitalization"
+      ],
+      "explanation": "German nouns are capitalized, including abstract and institutional nouns."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the university” in German?",
+      "answer": "die Universität",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "capitalization"
+      ],
+      "explanation": "German nouns are capitalized, including abstract and institutional nouns."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “das Mädchen” mean in English?",
+      "answer": "the girl",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "gender"
+      ],
+      "explanation": "Diminutive nouns ending in -chen are neuter, regardless of natural gender."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the girl” in German?",
+      "answer": "das Mädchen",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "gender"
+      ],
+      "explanation": "Diminutive nouns ending in -chen are neuter, regardless of natural gender."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Tür” mean in English?",
+      "answer": "the door",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "gender",
+        "plural"
+      ],
+      "explanation": "Tür is feminine; its plural is Türen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the door” in German?",
+      "answer": "die Tür",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "gender",
+        "plural"
+      ],
+      "explanation": "Tür is feminine; its plural is Türen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Käse” mean in English?",
+      "answer": "the cheese",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "gender"
+      ],
+      "explanation": "Käse is masculine in standard German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the cheese” in German?",
+      "answer": "der Käse",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "gender"
+      ],
+      "explanation": "Käse is masculine in standard German."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Bücher” mean in English?",
+      "answer": "the books",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "plural"
+      ],
+      "explanation": "Bücher is the umlaut plural of das Buch."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the books” in German?",
+      "answer": "die Bücher",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "plural"
+      ],
+      "explanation": "Bücher is the umlaut plural of das Buch."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Eltern” mean in English?",
+      "answer": "the parents",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "plural"
+      ],
+      "explanation": "Eltern is normally used in the plural."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “the parents” in German?",
+      "answer": "die Eltern",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "plural"
+      ],
+      "explanation": "Eltern is normally used in the plural."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich sehe den Hund.” mean in English?",
+      "answer": "I see the dog.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "The direct masculine object is accusative: den Hund."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I see the dog.” in German?",
+      "answer": "Ich sehe den Hund.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "The direct masculine object is accusative: den Hund."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich gebe dem Kind ein Buch.” mean in English?",
+      "answer": "I give the child a book.",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "The recipient is dative and the thing given is accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I give the child a book.” in German?",
+      "answer": "Ich gebe dem Kind ein Buch.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "The recipient is dative and the thing given is accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Das Auto meines Bruders” mean in English?",
+      "answer": "my brother’s car",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "genitive"
+      ],
+      "explanation": "The possessor is genitive masculine singular: meines Bruders."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “my brother’s car” in German?",
+      "answer": "Das Auto meines Bruders",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "genitive"
+      ],
+      "explanation": "The possessor is genitive masculine singular: meines Bruders."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “mit meiner Schwester” mean in English?",
+      "answer": "with my sister",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "Mit governs dative; feminine dative possessive is meiner."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “with my sister” in German?",
+      "answer": "mit meiner Schwester",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "Mit governs dative; feminine dative possessive is meiner."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich habe keinen Kaffee.” mean in English?",
+      "answer": "I have no coffee.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "negation"
+      ],
+      "explanation": "Kein negates a noun and takes the same endings as ein."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I have no coffee.” in German?",
+      "answer": "Ich habe keinen Kaffee.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "negation"
+      ],
+      "explanation": "Kein negates a noun and takes the same endings as ein."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich komme nicht heute.” mean in English?",
+      "answer": "I am not coming today. (contrastive)",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "negation",
+        "word-order"
+      ],
+      "explanation": "The position of nicht changes the focus; before heute it can contrast the time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I am not coming today. (contrastive)” in German?",
+      "answer": "Ich komme nicht heute.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "negation",
+        "word-order"
+      ],
+      "explanation": "The position of nicht changes the focus; before heute it can contrast the time."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich komme heute nicht.” mean in English?",
+      "answer": "I am not coming today.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "negation",
+        "word-order"
+      ],
+      "explanation": "Nicht often follows the time phrase when negating the whole proposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I am not coming today.” in German?",
+      "answer": "Ich komme heute nicht.",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "negation",
+        "word-order"
+      ],
+      "explanation": "Nicht often follows the time phrase when negating the whole proposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich habe das Buch gelesen.” mean in English?",
+      "answer": "I read / have read the book.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "perfect"
+      ],
+      "explanation": "The perfect uses haben plus the past participle gelesen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I read / have read the book.” in German?",
+      "answer": "Ich habe das Buch gelesen.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "perfect"
+      ],
+      "explanation": "The perfect uses haben plus the past participle gelesen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich bin eingeschlafen.” mean in English?",
+      "answer": "I fell asleep.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "perfect"
+      ],
+      "explanation": "A change of state uses sein in the perfect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I fell asleep.” in German?",
+      "answer": "Ich bin eingeschlafen.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "perfect"
+      ],
+      "explanation": "A change of state uses sein in the perfect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich rufe dich morgen an.” mean in English?",
+      "answer": "I will call you tomorrow.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "separable-verbs"
+      ],
+      "explanation": "Anrufen is separable; an moves to the end of the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I will call you tomorrow.” in German?",
+      "answer": "Ich rufe dich morgen an.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "separable-verbs"
+      ],
+      "explanation": "Anrufen is separable; an moves to the end of the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich besuche dich morgen.” mean in English?",
+      "answer": "I will visit you tomorrow.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prefix-verbs"
+      ],
+      "explanation": "Besuchen is inseparable; its be- prefix stays attached."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I will visit you tomorrow.” in German?",
+      "answer": "Ich besuche dich morgen.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prefix-verbs"
+      ],
+      "explanation": "Besuchen is inseparable; its be- prefix stays attached."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “weil ich keine Zeit habe” mean in English?",
+      "answer": "because I have no time",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "Subordinate clauses introduced by weil are verb-final."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “because I have no time” in German?",
+      "answer": "weil ich keine Zeit habe",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "Subordinate clauses introduced by weil are verb-final."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Morgen fahre ich nach Köln.” mean in English?",
+      "answer": "Tomorrow I am travelling to Cologne.",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "If a time phrase occupies position one, the finite verb remains in position two."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “Tomorrow I am travelling to Cologne.” in German?",
+      "answer": "Morgen fahre ich nach Köln.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "If a time phrase occupies position one, the finite verb remains in position two."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich weiß, dass er kommt.” mean in English?",
+      "answer": "I know that he is coming.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "Dass introduces a subordinate clause with verb-final order."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I know that he is coming.” in German?",
+      "answer": "Ich weiß, dass er kommt.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "Dass introduces a subordinate clause with verb-final order."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Wenn ich Zeit habe, komme ich.” mean in English?",
+      "answer": "If I have time, I will come.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "A subordinate clause can precede the main clause; the main clause then begins with the finite verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “If I have time, I will come.” in German?",
+      "answer": "Wenn ich Zeit habe, komme ich.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "A subordinate clause can precede the main clause; the main clause then begins with the finite verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “sich erinnern an” mean in English?",
+      "answer": "to remember",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich erinnern an takes an plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “to remember” in German?",
+      "answer": "sich erinnern an",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich erinnern an takes an plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “abhängen von” mean in English?",
+      "answer": "to depend on",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Abhängen von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “to depend on” in German?",
+      "answer": "abhängen von",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Abhängen von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “warten auf” mean in English?",
+      "answer": "to wait for",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “to wait for” in German?",
+      "answer": "warten auf",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “sprechen mit” mean in English?",
+      "answer": "to speak with",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sprechen mit takes mit plus dative when naming the conversation partner."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “to speak with” in German?",
+      "answer": "sprechen mit",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sprechen mit takes mit plus dative when naming the conversation partner."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Rat” mean in English?",
+      "answer": "advice / council",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Rat can mean advice or a council; context distinguishes the meanings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “advice / council” in German?",
+      "answer": "der Rat",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Rat can mean advice or a council; context distinguishes the meanings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “bekommen” mean in English?",
+      "answer": "to receive / get",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Bekommen means receive, not become; werden means become."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “to receive / get” in German?",
+      "answer": "bekommen",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Bekommen means receive, not become; werden means become."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “eventuell” mean in English?",
+      "answer": "possibly",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Eventuell means possibly, not eventually; schließlich or letztendlich can express eventually."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “possibly” in German?",
+      "answer": "eventuell",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Eventuell means possibly, not eventually; schließlich or letztendlich can express eventually."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “aktuell” mean in English?",
+      "answer": "current",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Aktuell means current or present, not actual in the English sense."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “current” in German?",
+      "answer": "aktuell",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Aktuell means current or present, not actual in the English sense."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “sympathisch” mean in English?",
+      "answer": "likeable",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Sympathisch describes a person who is pleasant or likeable, not sympathetic in the sense of compassionate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “likeable” in German?",
+      "answer": "sympathisch",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Sympathisch describes a person who is pleasant or likeable, not sympathetic in the sense of compassionate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “sensible Daten” mean in English?",
+      "answer": "sensitive data",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Sensible means sensitive, not sensible in the English meaning of practical."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “sensitive data” in German?",
+      "answer": "sensible Daten",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Sensible means sensitive, not sensible in the English meaning of practical."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “formal” mean in English?",
+      "answer": "formal",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "register"
+      ],
+      "explanation": "Formal is a useful cross-language cognate, but context still determines register."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “formal” in German?",
+      "answer": "formal",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "register"
+      ],
+      "explanation": "Formal is a useful cross-language cognate, but context still determines register."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Sie” mean in English?",
+      "answer": "formal you",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "register",
+        "pronouns"
+      ],
+      "explanation": "The formal pronoun Sie is capitalized and uses third-person plural verb forms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “formal you” in German?",
+      "answer": "Sie",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "register",
+        "pronouns"
+      ],
+      "explanation": "The formal pronoun Sie is capitalized and uses third-person plural verb forms."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “du” mean in English?",
+      "answer": "informal singular you",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "register",
+        "pronouns"
+      ],
+      "explanation": "Du is used with friends, family, children, and in settings where informal address is established."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “informal singular you” in German?",
+      "answer": "du",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "register",
+        "pronouns"
+      ],
+      "explanation": "Du is used with friends, family, children, and in settings where informal address is established."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Könnten Sie bitte ...?” mean in English?",
+      "answer": "Could you please ...?",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "politeness"
+      ],
+      "explanation": "Konjunktiv II makes a formal request more tactful."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “Could you please ...?” in German?",
+      "answer": "Könnten Sie bitte ...?",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "politeness"
+      ],
+      "explanation": "Konjunktiv II makes a formal request more tactful."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Guten Appetit!” mean in English?",
+      "answer": "Enjoy your meal!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "This is a conventional expression said before eating."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “Enjoy your meal!” in German?",
+      "answer": "Guten Appetit!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "This is a conventional expression said before eating."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Gesundheit!” mean in English?",
+      "answer": "Bless you!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "Gesundheit is commonly said after someone sneezes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “Bless you!” in German?",
+      "answer": "Gesundheit!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "Gesundheit is commonly said after someone sneezes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Alles Gute zum Geburtstag!” mean in English?",
+      "answer": "Happy birthday / all the best for your birthday!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "Zum is zu plus dem in this fixed congratulatory phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “Happy birthday / all the best for your birthday!” in German?",
+      "answer": "Alles Gute zum Geburtstag!",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "culture"
+      ],
+      "explanation": "Zum is zu plus dem in this fixed congratulatory phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich drücke dir die Daumen.” mean in English?",
+      "answer": "I’m keeping my fingers crossed for you.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "idioms"
+      ],
+      "explanation": "This German idiom wishes someone good luck."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I’m keeping my fingers crossed for you.” in German?",
+      "answer": "Ich drücke dir die Daumen.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "idioms"
+      ],
+      "explanation": "This German idiom wishes someone good luck."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Das ist nicht mein Bier.” mean in English?",
+      "answer": "That is not my concern.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "idioms",
+        "register"
+      ],
+      "explanation": "The informal idiom means something is not one’s responsibility or business."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “That is not my concern.” in German?",
+      "answer": "Das ist nicht mein Bier.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "idioms",
+        "register"
+      ],
+      "explanation": "The informal idiom means something is not one’s responsibility or business."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “auf jeden Fall” mean in English?",
+      "answer": "in any case / definitely",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "idioms"
+      ],
+      "explanation": "Auf jeden Fall strongly confirms or emphasizes a statement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “in any case / definitely” in German?",
+      "answer": "auf jeden Fall",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "idioms"
+      ],
+      "explanation": "Auf jeden Fall strongly confirms or emphasizes a statement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “eigentlich” mean in English?",
+      "answer": "actually / really / by the way",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "particles",
+        "semantics"
+      ],
+      "explanation": "Eigentlich is a modal particle or adverb whose nuance depends heavily on context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “actually / really / by the way” in German?",
+      "answer": "eigentlich",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "particles",
+        "semantics"
+      ],
+      "explanation": "Eigentlich is a modal particle or adverb whose nuance depends heavily on context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “doch” mean in English?",
+      "answer": "after all / actually / a contradictory yes",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "particles",
+        "semantics"
+      ],
+      "explanation": "Doch has several discourse functions and cannot be translated with one fixed English word."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “after all / actually / a contradictory yes” in German?",
+      "answer": "doch",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "particles",
+        "semantics"
+      ],
+      "explanation": "Doch has several discourse functions and cannot be translated with one fixed English word."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “mal” mean in English?",
+      "answer": "a softening particle in requests",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "particles",
+        "register"
+      ],
+      "explanation": "In Komm mal her, mal makes the request sound more conversational and less formal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “a softening particle in requests” in German?",
+      "answer": "mal",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "particles",
+        "register"
+      ],
+      "explanation": "In Komm mal her, mal makes the request sound more conversational and less formal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Es gibt” mean in English?",
+      "answer": "there is / there are",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "grammar",
+        "cases"
+      ],
+      "explanation": "Es gibt always takes an accusative noun phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “there is / there are” in German?",
+      "answer": "Es gibt",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "grammar",
+        "cases"
+      ],
+      "explanation": "Es gibt always takes an accusative noun phrase."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Das gefällt mir.” mean in English?",
+      "answer": "I like it.",
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "dative",
+        "verbs"
+      ],
+      "explanation": "German uses gefallen with the thing as subject and the experiencer in dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I like it.” in German?",
+      "answer": "Das gefällt mir.",
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "dative",
+        "verbs"
+      ],
+      "explanation": "German uses gefallen with the thing as subject and the experiencer in dative."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which article is correct: ___ Mädchen?",
+      "choices": [
+        "das",
+        "der",
+        "die"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "gender"
+      ],
+      "explanation": "Diminutives ending in -chen are neuter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which phrase uses accusative correctly?",
+      "choices": [
+        "Ich sehe den Hund.",
+        "Ich sehe dem Hund.",
+        "Ich sehe der Hund."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "The direct masculine object is den Hund."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which verb means “to receive”?",
+      "choices": [
+        "bekommen",
+        "werden",
+        "behalten"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Bekommen means receive or get; werden means become."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which sentence has correct subordinate-clause order?",
+      "choices": [
+        "..., weil ich keine Zeit habe.",
+        "..., weil ich habe keine Zeit.",
+        "..., weil keine Zeit ich habe."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "The finite verb appears at the end after weil."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which verb-preposition pair is correct?",
+      "choices": [
+        "warten auf",
+        "warten mit",
+        "warten von"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which form is formal “you”?",
+      "choices": [
+        "Sie (formal you)",
+        "sie (she/they)",
+        "du"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "register"
+      ],
+      "explanation": "Capitalized Sie is the formal pronoun."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which word means “possibly”?",
+      "choices": [
+        "eventuell",
+        "aktuell",
+        "endlich"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Eventuell means possibly; aktuell means current."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which phrase means “fingers crossed”?",
+      "choices": [
+        "Ich drücke dir die Daumen.",
+        "Ich gebe dir die Hand.",
+        "Ich sehe dir die Augen."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "idioms"
+      ],
+      "explanation": "The idiom literally mentions pressing someone’s thumbs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — Which verb form is correct after es gibt?",
+      "choices": [
+        "Es gibt einen Park.",
+        "Es gibt ein Park.",
+        "Es gibt einem Park."
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "Es gibt governs accusative; masculine ein becomes einen."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Review check — What does Das gefällt mir literally organize as?",
+      "choices": [
+        "the thing is subject; I am dative",
+        "I am subject; the thing is dative",
+        "both are nominative"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "dative"
+      ],
+      "explanation": "Gefallen takes the liked thing as subject and the experiencer in dative."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — German nouns are capitalized.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "review",
+        "spelling"
+      ],
+      "explanation": "All common and proper nouns are capitalized in standard German orthography."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Bekommen means to become.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Bekommen means receive; werden means become."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Es gibt takes an accusative object.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "review",
+        "cases"
+      ],
+      "explanation": "Es gibt einen Park uses masculine accusative einen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — The finite verb normally moves to the end after weil.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "word-order"
+      ],
+      "explanation": "Weil introduces a subordinate clause with verb-final order."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Aktuell usually means actual in the English sense.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends"
+      ],
+      "explanation": "Aktuell means current or present; tatsächlich often means actual in English."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Sie and sie are distinguished partly by capitalization and context.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "pronouns"
+      ],
+      "explanation": "Sie can be formal you; sie can mean she or they."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Gefallen uses the liked person as accusative.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "dative"
+      ],
+      "explanation": "The experiencer is dative: Das gefällt mir."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Review check — Doch can have more than one discourse function.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "particles"
+      ],
+      "explanation": "Its meaning depends on context, intonation, and the preceding statement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die E-Mail-Adresse” mean in English?",
+      "answer": "email address",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling",
+        "daily-life"
+      ],
+      "explanation": "E-Mail-Adresse is feminine; Adresse is capitalized as a noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “email address” in German?",
+      "answer": "die E-Mail-Adresse",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling",
+        "daily-life"
+      ],
+      "explanation": "E-Mail-Adresse is feminine; Adresse is capitalized as a noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Nummer” mean in English?",
+      "answer": "number",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling",
+        "gender"
+      ],
+      "explanation": "Nummer is feminine and contains a doubled consonant in standard spelling."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “number” in German?",
+      "answer": "die Nummer",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "spelling",
+        "gender"
+      ],
+      "explanation": "Nummer is feminine and contains a doubled consonant in standard spelling."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “das Handy” mean in English?",
+      "answer": "mobile phone",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "daily-life"
+      ],
+      "explanation": "Handy is a German false friend; in German it means mobile phone."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “mobile phone” in German?",
+      "answer": "das Handy",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "daily-life"
+      ],
+      "explanation": "Handy is a German false friend; in German it means mobile phone."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Chef” mean in English?",
+      "answer": "boss",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "work"
+      ],
+      "explanation": "Chef is masculine and means boss; it does not mean chef in the English culinary sense."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “boss” in German?",
+      "answer": "der Chef",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "work"
+      ],
+      "explanation": "Chef is masculine and means boss; it does not mean chef in the English culinary sense."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Fabrik” mean in English?",
+      "answer": "factory",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "work"
+      ],
+      "explanation": "Fabrik is feminine and is the German word for factory."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “factory” in German?",
+      "answer": "die Fabrik",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "work"
+      ],
+      "explanation": "Fabrik is feminine and is the German word for factory."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Brief” mean in English?",
+      "answer": "letter",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "communication"
+      ],
+      "explanation": "Brief is masculine and means a written letter, not a short brief in every context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “letter” in German?",
+      "answer": "der Brief",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "communication"
+      ],
+      "explanation": "Brief is masculine and means a written letter, not a short brief in every context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “die Mappe” mean in English?",
+      "answer": "folder / portfolio",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "daily-life"
+      ],
+      "explanation": "Mappe is a folder or portfolio; Karte is a card or map depending on context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “folder / portfolio” in German?",
+      "answer": "die Mappe",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "daily-life"
+      ],
+      "explanation": "Mappe is a folder or portfolio; Karte is a card or map depending on context."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “das Gift” mean in English?",
+      "answer": "poison",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "safety"
+      ],
+      "explanation": "Gift means poison in German; present means Geschenk."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “poison” in German?",
+      "answer": "das Gift",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "false-friends",
+        "safety"
+      ],
+      "explanation": "Gift means poison in German; present means Geschenk."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “der Chefkoch” mean in English?",
+      "answer": "head chef",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "compounds",
+        "work"
+      ],
+      "explanation": "Chefkoch combines Chef and Koch; the compound is masculine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “head chef” in German?",
+      "answer": "der Chefkoch",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "compounds",
+        "work"
+      ],
+      "explanation": "Chefkoch combines Chef and Koch; the compound is masculine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “ein Stück Kuchen” mean in English?",
+      "answer": "a piece of cake",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "food",
+        "cases"
+      ],
+      "explanation": "After a quantity expression, the material noun often remains without an article."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “a piece of cake” in German?",
+      "answer": "ein Stück Kuchen",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "food",
+        "cases"
+      ],
+      "explanation": "After a quantity expression, the material noun often remains without an article."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “zwei Gläser Wasser” mean in English?",
+      "answer": "two glasses of water",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "food",
+        "plural"
+      ],
+      "explanation": "The container noun is plural; Wasser is an uncountable substance noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “two glasses of water” in German?",
+      "answer": "zwei Gläser Wasser",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "food",
+        "plural"
+      ],
+      "explanation": "The container noun is plural; Wasser is an uncountable substance noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich interessiere mich für Musik.” mean in English?",
+      "answer": "I am interested in music.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich interessieren für takes für plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I am interested in music.” in German?",
+      "answer": "Ich interessiere mich für Musik.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich interessieren für takes für plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich freue mich auf das Wochenende.” mean in English?",
+      "answer": "I am looking forward to the weekend.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich freuen auf refers to a future event and takes accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I am looking forward to the weekend.” in German?",
+      "answer": "Ich freue mich auf das Wochenende.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich freuen auf refers to a future event and takes accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich freue mich über die Nachricht.” mean in English?",
+      "answer": "I am happy about the message.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich freuen über refers to an existing event or information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I am happy about the message.” in German?",
+      "answer": "Ich freue mich über die Nachricht.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "verb-preposition"
+      ],
+      "explanation": "Sich freuen über refers to an existing event or information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Wir fahren mit dem Bus.” mean in English?",
+      "answer": "We travel by bus.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "dative"
+      ],
+      "explanation": "Mit takes dative; masculine dem follows the preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “We travel by bus.” in German?",
+      "answer": "Wir fahren mit dem Bus.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "dative"
+      ],
+      "explanation": "Mit takes dative; masculine dem follows the preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Wir fahren in die Schweiz.” mean in English?",
+      "answer": "We are travelling to Switzerland.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "travel"
+      ],
+      "explanation": "Country names with an article use the appropriate preposition and case."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “We are travelling to Switzerland.” in German?",
+      "answer": "Wir fahren in die Schweiz.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "travel"
+      ],
+      "explanation": "Country names with an article use the appropriate preposition and case."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Ich wohne in Deutschland.” mean in English?",
+      "answer": "I live in Germany.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "geography"
+      ],
+      "explanation": "Most country names without an article use in without an article for location."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “I live in Germany.” in German?",
+      "answer": "Ich wohne in Deutschland.",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "prepositions",
+        "geography"
+      ],
+      "explanation": "Most country names without an article use in without an article for location."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “am Montagmorgen” mean in English?",
+      "answer": "on Monday morning",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time",
+        "contractions"
+      ],
+      "explanation": "Am combines an and dem in a time expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “on Monday morning” in German?",
+      "answer": "am Montagmorgen",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time",
+        "contractions"
+      ],
+      "explanation": "Am combines an and dem in a time expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “gegen halb acht” mean in English?",
+      "answer": "around half past seven",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time",
+        "false-friends"
+      ],
+      "explanation": "German halb acht means half an hour before eight, unlike English half past eight."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “around half past seven” in German?",
+      "answer": "gegen halb acht",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time",
+        "false-friends"
+      ],
+      "explanation": "German halb acht means half an hour before eight, unlike English half past eight."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — What does the German expression “Viertel vor neun” mean in English?",
+      "answer": "quarter to nine",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time"
+      ],
+      "explanation": "Vor expresses the remaining time before the next hour."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Review check — How do you say “quarter to nine” in German?",
+      "answer": "Viertel vor neun",
+      "difficulty": "medium",
+      "tags": [
+        "review",
+        "time"
+      ],
+      "explanation": "Vor expresses the remaining time before the next hour."
+    }
+  ]
+}

@@ -6,6 +6,7 @@ interface CatalogDeck {
 
 const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
+  'General knowledge': ['deck-world-facts', 'deck-recent-general-knowledge'],
   Science: [
     'deck-human-body', 'deck-nature', 'deck-botany', 'deck-oceans-water-bodies',
     'deck-chemistry-foundations', 'deck-ap-chemistry', 'deck-general-chemistry',
@@ -13,12 +14,20 @@ const categoryDecks: Record<string, readonly string[]> = {
     'deck-analytical-chemistry', 'deck-inorganic-chemistry', 'deck-fun-chemistry-for-kids',
   ],
   History: ['deck-ap-world-history'],
-  Places: ['deck-geography', 'deck-national-parks'],
+  Places: ['deck-geography', 'deck-world-geography', 'deck-national-parks'],
   'Stories & games': [
     'deck-harry-potter', 'deck-hunger-games', 'deck-marvel-comics',
     'deck-movies', 'deck-pokemon', 'deck-minecraft',
   ],
   Words: ['deck-vocabulary'],
+  Languages: [
+    'deck-german-foundations', 'deck-german-a1-part-1', 'deck-german-a1-part-2',
+    'deck-german-a2-part-1', 'deck-german-a2-part-2',
+    'deck-german-b1-part-1', 'deck-german-b1-part-2',
+    'deck-german-b2-part-1', 'deck-german-b2-part-2',
+    'deck-german-c1-part-1', 'deck-german-c1-part-2', 'deck-german-c2',
+    'deck-german-review',
+  ],
   Sports: ['deck-nba'],
   Other: [],
 };

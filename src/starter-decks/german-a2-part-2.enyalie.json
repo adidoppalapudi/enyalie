@@ -1,0 +1,1738 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-a2-part-2",
+    "name": "German A2 — Part 2",
+    "description": "A2 German: future plans, zu-infinitives, relative clauses, adjective endings, verb-preposition combinations, and practical communication."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich werde morgen anrufen.” mean in English?",
+      "answer": "I will call tomorrow.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "future",
+        "word-order"
+      ],
+      "explanation": "Werden plus infinitive forms the analytic future; the infinitive goes to the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I will call tomorrow.” in German?",
+      "answer": "Ich werde morgen anrufen.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "future",
+        "word-order"
+      ],
+      "explanation": "Werden plus infinitive forms the analytic future; the infinitive goes to the end."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Wir werden später anfangen.” mean in English?",
+      "answer": "We will start later.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "future"
+      ],
+      "explanation": "In a main clause, the finite form of werden is in position two and the infinitive is final."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “We will start later.” in German?",
+      "answer": "Wir werden später anfangen.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "future"
+      ],
+      "explanation": "In a main clause, the finite form of werden is in position two and the infinitive is final."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich habe vor, Deutsch zu lernen.” mean in English?",
+      "answer": "I intend to learn German.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive",
+        "plans"
+      ],
+      "explanation": "Vorhaben is commonly followed by a zu-infinitive clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I intend to learn German.” in German?",
+      "answer": "Ich habe vor, Deutsch zu lernen.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive",
+        "plans"
+      ],
+      "explanation": "Vorhaben is commonly followed by a zu-infinitive clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es ist wichtig, pünktlich zu sein.” mean in English?",
+      "answer": "It is important to be punctual.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Adjectival evaluations can be followed by an infinitive with zu."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “It is important to be punctual.” in German?",
+      "answer": "Es ist wichtig, pünktlich zu sein.",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Adjectival evaluations can be followed by an infinitive with zu."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ohne lange zu warten” mean in English?",
+      "answer": "without waiting long",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Ohne plus zu-infinitive expresses an accompanying circumstance that does not happen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “without waiting long” in German?",
+      "answer": "ohne lange zu warten",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Ohne plus zu-infinitive expresses an accompanying circumstance that does not happen."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “statt mit dem Auto zu fahren” mean in English?",
+      "answer": "instead of driving by car",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Statt plus zu-infinitive expresses an alternative action."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “instead of driving by car” in German?",
+      "answer": "statt mit dem Auto zu fahren",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Statt plus zu-infinitive expresses an alternative action."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Mann, der nebenan wohnt” mean in English?",
+      "answer": "the man who lives next door",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Der is the masculine nominative relative pronoun when the relative-clause subject is masculine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the man who lives next door” in German?",
+      "answer": "der Mann, der nebenan wohnt",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Der is the masculine nominative relative pronoun when the relative-clause subject is masculine."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Frau, die ich kenne” mean in English?",
+      "answer": "the woman whom I know",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Die is feminine nominative and feminine accusative; the relative pronoun’s case depends on its role in the clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the woman whom I know” in German?",
+      "answer": "die Frau, die ich kenne",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Die is feminine nominative and feminine accusative; the relative pronoun’s case depends on its role in the clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “das Buch, das du liest” mean in English?",
+      "answer": "the book that you are reading",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Das is the neuter nominative or accusative relative pronoun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the book that you are reading” in German?",
+      "answer": "das Buch, das du liest",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "Das is the neuter nominative or accusative relative pronoun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Kinder, mit denen ich spiele” mean in English?",
+      "answer": "the children with whom I play",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses",
+        "dative"
+      ],
+      "explanation": "Nach mit, the plural relative pronoun is denen because mit governs dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the children with whom I play” in German?",
+      "answer": "die Kinder, mit denen ich spiele",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses",
+        "dative"
+      ],
+      "explanation": "Nach mit, the plural relative pronoun is denen because mit governs dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein guter Freund” mean in English?",
+      "answer": "a good friend",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "After an indefinite article in masculine nominative, the adjective shows strong masculine marking: guter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a good friend” in German?",
+      "answer": "ein guter Freund",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "After an indefinite article in masculine nominative, the adjective shows strong masculine marking: guter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen guten Freund” mean in English?",
+      "answer": "a good friend (accusative)",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "accusative"
+      ],
+      "explanation": "Masculine accusative after an indefinite article uses the ending -en on the adjective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a good friend (accusative)” in German?",
+      "answer": "einen guten Freund",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "accusative"
+      ],
+      "explanation": "Masculine accusative after an indefinite article uses the ending -en on the adjective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit einem guten Freund” mean in English?",
+      "answer": "with a good friend",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "dative"
+      ],
+      "explanation": "After a dative masculine indefinite article, the adjective ending is -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with a good friend” in German?",
+      "answer": "mit einem guten Freund",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "dative"
+      ],
+      "explanation": "After a dative masculine indefinite article, the adjective ending is -en."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “frische Milch” mean in English?",
+      "answer": "fresh milk",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Without an article, feminine or neuter nominative uses a strong adjective ending: frische Milch."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “fresh milk” in German?",
+      "answer": "frische Milch",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Without an article, feminine or neuter nominative uses a strong adjective ending: frische Milch."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “kaltes Wasser” mean in English?",
+      "answer": "cold water",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Without an article, neuter nominative or accusative uses the strong ending -es."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “cold water” in German?",
+      "answer": "kaltes Wasser",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Without an article, neuter nominative or accusative uses the strong ending -es."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “warten auf” mean in English?",
+      "answer": "to wait for",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative for the thing awaited."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to wait for” in German?",
+      "answer": "warten auf",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative for the thing awaited."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sprechen über” mean in English?",
+      "answer": "to talk about",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Sprechen über takes über plus accusative when discussing a topic."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to talk about” in German?",
+      "answer": "sprechen über",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Sprechen über takes über plus accusative when discussing a topic."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “teilnehmen an” mean in English?",
+      "answer": "to take part in",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Teilnehmen an governs an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take part in” in German?",
+      "answer": "teilnehmen an",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Teilnehmen an governs an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “abhängen von” mean in English?",
+      "answer": "to depend on",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Abhängen von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to depend on” in German?",
+      "answer": "abhängen von",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Abhängen von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich kümmern um” mean in English?",
+      "answer": "to take care of",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Sich kümmern um takes um plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take care of” in German?",
+      "answer": "sich kümmern um",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Sich kümmern um takes um plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich freue mich darüber.” mean in English?",
+      "answer": "I am happy about it.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Darüber is a da-compound referring to a thing or situation after über."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am happy about it.” in German?",
+      "answer": "Ich freue mich darüber.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Darüber is a da-compound referring to a thing or situation after über."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Worauf wartest du?” mean in English?",
+      "answer": "What are you waiting for?",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Worauf is the question form corresponding to warten auf."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “What are you waiting for?” in German?",
+      "answer": "Worauf wartest du?",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Worauf is the question form corresponding to warten auf."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Darauf kommt es an.” mean in English?",
+      "answer": "That is what matters.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "idioms",
+        "da-compounds"
+      ],
+      "explanation": "Auf etwas ankommen is a fixed expression meaning to matter or depend on."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “That is what matters.” in German?",
+      "answer": "Darauf kommt es an.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "idioms",
+        "da-compounds"
+      ],
+      "explanation": "Auf etwas ankommen is a fixed expression meaning to matter or depend on."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entscheidung treffen” mean in English?",
+      "answer": "to make a decision",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "Treffen forms a common noun-verb collocation with Entscheidung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make a decision” in German?",
+      "answer": "eine Entscheidung treffen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "Treffen forms a common noun-verb collocation with Entscheidung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Fehler machen” mean in English?",
+      "answer": "to make a mistake",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "The fixed collocation is einen Fehler machen, not tun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make a mistake” in German?",
+      "answer": "einen Fehler machen",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "The fixed collocation is einen Fehler machen, not tun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich Mühe geben” mean in English?",
+      "answer": "to make an effort",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "Sich Mühe geben is a reflexive fixed expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make an effort” in German?",
+      "answer": "sich Mühe geben",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "Sich Mühe geben is a reflexive fixed expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Bescheid wissen” mean in English?",
+      "answer": "to know what is going on",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "idioms"
+      ],
+      "explanation": "Bescheid wissen is an idiomatic expression meaning to be informed."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to know what is going on” in German?",
+      "answer": "Bescheid wissen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "idioms"
+      ],
+      "explanation": "Bescheid wissen is an idiomatic expression meaning to be informed."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich habe Lust auf Musik.” mean in English?",
+      "answer": "I feel like listening to music.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "feelings",
+        "prepositions"
+      ],
+      "explanation": "Lust auf plus accusative expresses desire or inclination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I feel like listening to music.” in German?",
+      "answer": "Ich habe Lust auf Musik.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "feelings",
+        "prepositions"
+      ],
+      "explanation": "Lust auf plus accusative expresses desire or inclination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich habe Angst vor Hunden.” mean in English?",
+      "answer": "I am afraid of dogs.",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "feelings",
+        "prepositions"
+      ],
+      "explanation": "Angst haben vor takes vor plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am afraid of dogs.” in German?",
+      "answer": "Ich habe Angst vor Hunden.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "feelings",
+        "prepositions"
+      ],
+      "explanation": "Angst haben vor takes vor plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Das hängt vom Wetter ab.” mean in English?",
+      "answer": "That depends on the weather.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "separable-verbs",
+        "prepositions"
+      ],
+      "explanation": "Vom is von plus dem, and abhängen is separable in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “That depends on the weather.” in German?",
+      "answer": "Das hängt vom Wetter ab.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "separable-verbs",
+        "prepositions"
+      ],
+      "explanation": "Vom is von plus dem, and abhängen is separable in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Computer muss repariert werden.” mean in English?",
+      "answer": "The computer has to be repaired.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "passive",
+        "modal-verbs"
+      ],
+      "explanation": "A modal verb with a passive infinitive uses the double-infinitive pattern."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The computer has to be repaired.” in German?",
+      "answer": "Der Computer muss repariert werden.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "passive",
+        "modal-verbs"
+      ],
+      "explanation": "A modal verb with a passive infinitive uses the double-infinitive pattern."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich lasse mein Fahrrad reparieren.” mean in English?",
+      "answer": "I have my bicycle repaired.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "causative"
+      ],
+      "explanation": "Lassen plus infinitive can mean arranging for someone else to do something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I have my bicycle repaired.” in German?",
+      "answer": "Ich lasse mein Fahrrad reparieren.",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "causative"
+      ],
+      "explanation": "Lassen plus infinitive can mean arranging for someone else to do something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Brief ist schon angekommen.” mean in English?",
+      "answer": "The letter has already arrived.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "perfect"
+      ],
+      "explanation": "Ankommen is a movement/change-of-state verb and uses sein in the perfect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The letter has already arrived.” in German?",
+      "answer": "Der Brief ist schon angekommen.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "perfect"
+      ],
+      "explanation": "Ankommen is a movement/change-of-state verb and uses sein in the perfect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Wir treffen uns um acht Uhr.” mean in English?",
+      "answer": "We are meeting at eight o’clock.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "reflexive",
+        "appointments"
+      ],
+      "explanation": "Sich treffen is a reciprocal reflexive verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “We are meeting at eight o’clock.” in German?",
+      "answer": "Wir treffen uns um acht Uhr.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "reflexive",
+        "appointments"
+      ],
+      "explanation": "Sich treffen is a reciprocal reflexive verb."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “am Wochenende” mean in English?",
+      "answer": "at the weekend",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time"
+      ],
+      "explanation": "Am is an + dem and is used with many time expressions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “at the weekend” in German?",
+      "answer": "am Wochenende",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time"
+      ],
+      "explanation": "Am is an + dem and is used with many time expressions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “nächsten Dienstag” mean in English?",
+      "answer": "next Tuesday",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "time",
+        "accusative"
+      ],
+      "explanation": "A future time expression often appears in accusative without a preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “next Tuesday” in German?",
+      "answer": "nächsten Dienstag",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time",
+        "accusative"
+      ],
+      "explanation": "A future time expression often appears in accusative without a preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “vor dem Essen” mean in English?",
+      "answer": "before the meal",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time",
+        "dative"
+      ],
+      "explanation": "Vor takes dative when it expresses a temporal relation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “before the meal” in German?",
+      "answer": "vor dem Essen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time",
+        "dative"
+      ],
+      "explanation": "Vor takes dative when it expresses a temporal relation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “nach der Arbeit” mean in English?",
+      "answer": "after work",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time",
+        "dative"
+      ],
+      "explanation": "Nach takes dative in this temporal expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “after work” in German?",
+      "answer": "nach der Arbeit",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "time",
+        "dative"
+      ],
+      "explanation": "Nach takes dative in this temporal expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Wohnung besichtigen” mean in English?",
+      "answer": "to view an apartment",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "housing",
+        "prefix-verbs"
+      ],
+      "explanation": "Besichtigen is inseparable, so it stays together in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to view an apartment” in German?",
+      "answer": "eine Wohnung besichtigen",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "housing",
+        "prefix-verbs"
+      ],
+      "explanation": "Besichtigen is inseparable, so it stays together in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Heizung fällt aus” mean in English?",
+      "answer": "the heating breaks down",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "housing",
+        "separable-verbs"
+      ],
+      "explanation": "Ausfallen is separable; the prefix moves to the end of a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the heating breaks down” in German?",
+      "answer": "die Heizung fällt aus",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "housing",
+        "separable-verbs"
+      ],
+      "explanation": "Ausfallen is separable; the prefix moves to the end of a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Beschwerde einreichen” mean in English?",
+      "answer": "to submit a complaint",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "formal",
+        "housing"
+      ],
+      "explanation": "Einreichen is separable and is useful for formal practical communication."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to submit a complaint” in German?",
+      "answer": "eine Beschwerde einreichen",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "formal",
+        "housing"
+      ],
+      "explanation": "Einreichen is separable and is useful for formal practical communication."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Könnten Sie das bitte wiederholen?” mean in English?",
+      "answer": "Could you repeat that, please?",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Könnten is Konjunktiv II of können and softens a polite request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “Could you repeat that, please?” in German?",
+      "answer": "Könnten Sie das bitte wiederholen?",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Könnten is Konjunktiv II of können and softens a polite request."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Das wäre sehr nett.” mean in English?",
+      "answer": "That would be very kind.",
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Wäre is the Konjunktiv II form of sein used in polite or hypothetical language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “That would be very kind.” in German?",
+      "answer": "Das wäre sehr nett.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Wäre is the Konjunktiv II form of sein used in polite or hypothetical language."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich würde gern reservieren.” mean in English?",
+      "answer": "I would like to make a reservation.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Würde plus infinitive is a common polite way to express a wish."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I would like to make a reservation.” in German?",
+      "answer": "Ich würde gern reservieren.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness",
+        "konjunktiv-ii"
+      ],
+      "explanation": "Würde plus infinitive is a common polite way to express a wish."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which relative pronoun completes: Das ist der Film, ___ wir gesehen haben.",
+      "choices": [
+        "den",
+        "dem",
+        "der"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "The masculine relative pronoun is accusative because it is the object of gesehen haben."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the correct adjective ending: mit einem neu___ Handy",
+      "choices": [
+        "-en",
+        "-es",
+        "-er"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Dative after einem uses the adjective ending -en."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Complete: Ich warte ___ den Bus.",
+      "choices": [
+        "auf",
+        "an",
+        "von"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Warten takes auf plus accusative."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the future?",
+      "choices": [
+        "Ich werden morgen lernen.",
+        "Ich werde morgen lernen.",
+        "Ich werde morgen lerne."
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "future"
+      ],
+      "explanation": "The first-person singular form is werde and the infinitive is final."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form is correct?",
+      "choices": [
+        "ohne zu sprechen",
+        "ohne sprechen zu",
+        "ohne gesprochen zu"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Ohne is followed by zu plus the infinitive in this construction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the correct da-compound for über:",
+      "choices": [
+        "darüber",
+        "dawüber",
+        "überda"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Da plus über becomes darüber."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “make a decision”?",
+      "choices": [
+        "eine Entscheidung treffen",
+        "eine Entscheidung nehmen",
+        "eine Entscheidung geben"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "collocations"
+      ],
+      "explanation": "Treffen is the standard verb in this collocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Complete: Das hängt ___ Wetter ab.",
+      "choices": [
+        "vom",
+        "für das",
+        "an den"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "prepositions"
+      ],
+      "explanation": "Abhängen von takes dative; von dem contracts to vom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which request is most polite?",
+      "choices": [
+        "Wiederholen Sie!",
+        "Könnten Sie das bitte wiederholen?",
+        "Du wiederholst das."
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "a2",
+        "politeness"
+      ],
+      "explanation": "Konjunktiv II makes the request less direct and more polite."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb is inseparable?",
+      "choices": [
+        "einreichen",
+        "ausfallen",
+        "besichtigen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "prefix-verbs"
+      ],
+      "explanation": "Besichtigen has an inseparable be- prefix and does not split."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A relative pronoun gets its gender and number from the noun it refers to, but its case from its role in the relative clause.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "relative-clauses"
+      ],
+      "explanation": "This distinction is central to choosing German relative pronouns."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The infinitive in a future main clause normally appears directly after werden.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "future",
+        "word-order"
+      ],
+      "explanation": "The infinitive normally goes to the end: Ich werde morgen lernen."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Warten auf takes the dative case.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "verb-preposition"
+      ],
+      "explanation": "Warten auf takes auf plus accusative."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Könnten Sie ...? is a polite form based on Konjunktiv II.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "politeness"
+      ],
+      "explanation": "Könnten softens the request compared with the direct imperative."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In “mit einem guten Freund,” the adjective ends in -en.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Dative after an indefinite article uses the weak adjective ending -en."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Besichtigen is a separable verb.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "prefix-verbs"
+      ],
+      "explanation": "The be- prefix is inseparable: Ich besichtige die Wohnung."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Vor dem Essen uses dative after vor.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "prepositions"
+      ],
+      "explanation": "Temporal vor takes dative in this phrase."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Darüber can refer to a thing or situation after über.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds"
+      ],
+      "explanation": "Da-compounds refer to non-person objects or situations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “diejenige, die zuerst ankommt” mean in English?",
+      "answer": "the one who arrives first",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "relative-clauses"
+      ],
+      "explanation": "Diejenige is a demonstrative pronoun referring to a feminine person or noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the one who arrives first” in German?",
+      "answer": "diejenige, die zuerst ankommt",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "relative-clauses"
+      ],
+      "explanation": "Diejenige is a demonstrative pronoun referring to a feminine person or noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “derjenige, den wir gesucht haben” mean in English?",
+      "answer": "the one whom we looked for",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "relative-clauses"
+      ],
+      "explanation": "Derjenige is masculine; den is accusative inside the relative clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the one whom we looked for” in German?",
+      "answer": "derjenige, den wir gesucht haben",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "relative-clauses"
+      ],
+      "explanation": "Derjenige is masculine; den is accusative inside the relative clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit demselben Problem” mean in English?",
+      "answer": "with the same problem",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "dative"
+      ],
+      "explanation": "Derselbe means the same identical one and takes normal adjective-like endings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with the same problem” in German?",
+      "answer": "mit demselben Problem",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "pronouns",
+        "dative"
+      ],
+      "explanation": "Derselbe means the same identical one and takes normal adjective-like endings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine mögliche Lösung” mean in English?",
+      "answer": "a possible solution",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Möglich is an adjective whose ending changes with case, gender, and article."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a possible solution” in German?",
+      "answer": "eine mögliche Lösung",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "adjective-endings"
+      ],
+      "explanation": "Möglich is an adjective whose ending changes with case, gender, and article."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “kein nennenswertes Risiko” mean in English?",
+      "answer": "no significant risk",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "negation"
+      ],
+      "explanation": "After kein with a neuter noun, the adjective takes -es in nominative or accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “no significant risk” in German?",
+      "answer": "kein nennenswertes Risiko",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "negation"
+      ],
+      "explanation": "After kein with a neuter noun, the adjective takes -es in nominative or accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit öffentlichen Verkehrsmitteln” mean in English?",
+      "answer": "by public transport",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "transport"
+      ],
+      "explanation": "Plural dative after mit uses öffentlichen Verkehrsmitteln."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “by public transport” in German?",
+      "answer": "mit öffentlichen Verkehrsmitteln",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "adjective-endings",
+        "transport"
+      ],
+      "explanation": "Plural dative after mit uses öffentlichen Verkehrsmitteln."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich auf eine Prüfung vorbereiten” mean in English?",
+      "answer": "to prepare for an exam",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "education"
+      ],
+      "explanation": "Sich vorbereiten auf takes auf plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to prepare for an exam” in German?",
+      "answer": "sich auf eine Prüfung vorbereiten",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "education"
+      ],
+      "explanation": "Sich vorbereiten auf takes auf plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich von jemandem verabschieden” mean in English?",
+      "answer": "to say goodbye to someone",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "communication"
+      ],
+      "explanation": "Sich verabschieden von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to say goodbye to someone” in German?",
+      "answer": "sich von jemandem verabschieden",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "communication"
+      ],
+      "explanation": "Sich verabschieden von takes von plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “an einer Besprechung teilnehmen” mean in English?",
+      "answer": "to take part in a meeting",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "work"
+      ],
+      "explanation": "Teilnehmen an takes an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take part in a meeting” in German?",
+      "answer": "an einer Besprechung teilnehmen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "verb-preposition",
+        "work"
+      ],
+      "explanation": "Teilnehmen an takes an plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich denke darüber nach.” mean in English?",
+      "answer": "I am thinking it over.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "da-compounds",
+        "thinking"
+      ],
+      "explanation": "Nachdenken über can be represented by the da-compound darüber."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am thinking it over.” in German?",
+      "answer": "Ich denke darüber nach.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "da-compounds",
+        "thinking"
+      ],
+      "explanation": "Nachdenken über can be represented by the da-compound darüber."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Woran liegt das?” mean in English?",
+      "answer": "What is the reason for that?",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds",
+        "questions"
+      ],
+      "explanation": "Woran asks about the thing connected with an verb or preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “What is the reason for that?” in German?",
+      "answer": "Woran liegt das?",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "da-compounds",
+        "questions"
+      ],
+      "explanation": "Woran asks about the thing connected with an verb or preposition."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es lohnt sich, früh zu buchen.” mean in English?",
+      "answer": "It is worth booking early.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Sich lohnen is commonly followed by a zu-infinitive clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “It is worth booking early.” in German?",
+      "answer": "Es lohnt sich, früh zu buchen.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Sich lohnen is commonly followed by a zu-infinitive clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich versuche, ruhig zu bleiben.” mean in English?",
+      "answer": "I try to remain calm.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Versuchen plus zu-infinitive expresses an attempt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I try to remain calm.” in German?",
+      "answer": "Ich versuche, ruhig zu bleiben.",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive"
+      ],
+      "explanation": "Versuchen plus zu-infinitive expresses an attempt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “um Zeit zu sparen” mean in English?",
+      "answer": "in order to save time",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive",
+        "purpose"
+      ],
+      "explanation": "Um ... zu expresses purpose when the subject is the same in both clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in order to save time” in German?",
+      "answer": "um Zeit zu sparen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "zu-infinitive",
+        "purpose"
+      ],
+      "explanation": "Um ... zu expresses purpose when the subject is the same in both clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ohne dass jemand es merkt” mean in English?",
+      "answer": "without anyone noticing it",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "subordinate-clauses"
+      ],
+      "explanation": "Ohne dass is used when the subordinate clause has its own explicit subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “without anyone noticing it” in German?",
+      "answer": "ohne dass jemand es merkt",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "subordinate-clauses"
+      ],
+      "explanation": "Ohne dass is used when the subordinate clause has its own explicit subject."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “je früher, desto besser” mean in English?",
+      "answer": "the earlier, the better",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "comparison",
+        "connectors"
+      ],
+      "explanation": "Je ... desto ... expresses a proportional comparison."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the earlier, the better” in German?",
+      "answer": "je früher, desto besser",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "comparison",
+        "connectors"
+      ],
+      "explanation": "Je ... desto ... expresses a proportional comparison."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die meisten Menschen” mean in English?",
+      "answer": "most people",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "quantifiers"
+      ],
+      "explanation": "Meist- is a superlative-based quantifier and takes ordinary adjective endings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “most people” in German?",
+      "answer": "die meisten Menschen",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "quantifiers"
+      ],
+      "explanation": "Meist- is a superlative-based quantifier and takes ordinary adjective endings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine der wichtigsten Fragen” mean in English?",
+      "answer": "one of the most important questions",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "superlatives",
+        "adjective-endings"
+      ],
+      "explanation": "After eine der, the superlative noun phrase is plural."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “one of the most important questions” in German?",
+      "answer": "eine der wichtigsten Fragen",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "superlatives",
+        "adjective-endings"
+      ],
+      "explanation": "After eine der, the superlative noun phrase is plural."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich über den Lärm ärgern” mean in English?",
+      "answer": "to be annoyed about the noise",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich ärgern über takes über plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to be annoyed about the noise” in German?",
+      "answer": "sich über den Lärm ärgern",
+      "difficulty": "medium",
+      "tags": [
+        "a2",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich ärgern über takes über plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich bin es gewohnt, früh aufzustehen.” mean in English?",
+      "answer": "I am used to getting up early.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "routines",
+        "zu-infinitive"
+      ],
+      "explanation": "Gewohnt sein can be followed by a zu-infinitive clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am used to getting up early.” in German?",
+      "answer": "Ich bin es gewohnt, früh aufzustehen.",
+      "difficulty": "hard",
+      "tags": [
+        "a2",
+        "routines",
+        "zu-infinitive"
+      ],
+      "explanation": "Gewohnt sein can be followed by a zu-infinitive clause."
+    }
+  ]
+}

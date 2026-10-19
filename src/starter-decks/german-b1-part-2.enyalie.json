@@ -1,0 +1,1787 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-b1-part-2",
+    "name": "German B1 — Part 2",
+    "description": "B1 German: environment, society, culture, travel problems, opinions, idioms, summaries, and connected speaking and writing."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “der Klimawandel” mean in English?",
+      "answer": "climate change",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Klimawandel is a masculine compound noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “climate change” in German?",
+      "answer": "der Klimawandel",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Klimawandel is a masculine compound noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “erneuerbare Energien” mean in English?",
+      "answer": "renewable energies",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "energy"
+      ],
+      "explanation": "Erneuerbar means renewable; Energien is the plural of Energie."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “renewable energies” in German?",
+      "answer": "erneuerbare Energien",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "energy"
+      ],
+      "explanation": "Erneuerbar means renewable; Energien is the plural of Energie."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den CO₂-Ausstoß verringern” mean in English?",
+      "answer": "to reduce CO₂ emissions",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Verringern means to make something smaller or lower."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reduce CO₂ emissions” in German?",
+      "answer": "den CO₂-Ausstoß verringern",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Verringern means to make something smaller or lower."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Müll trennen” mean in English?",
+      "answer": "to separate waste for recycling",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "daily-life"
+      ],
+      "explanation": "Müll trennen is a common household and environmental expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to separate waste for recycling” in German?",
+      "answer": "Müll trennen",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "environment",
+        "daily-life"
+      ],
+      "explanation": "Müll trennen is a common household and environmental expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “öffentliche Verkehrsmittel nutzen” mean in English?",
+      "answer": "to use public transport",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "transport",
+        "environment"
+      ],
+      "explanation": "Nutzen is a formal or neutral verb meaning to use."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to use public transport” in German?",
+      "answer": "öffentliche Verkehrsmittel nutzen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "transport",
+        "environment"
+      ],
+      "explanation": "Nutzen is a formal or neutral verb meaning to use."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Artenvielfalt schützen” mean in English?",
+      "answer": "to protect biodiversity",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Artenvielfalt refers to the variety of living species."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to protect biodiversity” in German?",
+      "answer": "die Artenvielfalt schützen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Artenvielfalt refers to the variety of living species."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “soziale Ungleichheit” mean in English?",
+      "answer": "social inequality",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Ungleichheit names unequal distribution or treatment in society."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “social inequality” in German?",
+      "answer": "soziale Ungleichheit",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Ungleichheit names unequal distribution or treatment in society."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich ehrenamtlich engagieren” mean in English?",
+      "answer": "to volunteer",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "society",
+        "work"
+      ],
+      "explanation": "Sich engagieren describes active commitment, often in voluntary work."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to volunteer” in German?",
+      "answer": "sich ehrenamtlich engagieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "work"
+      ],
+      "explanation": "Sich engagieren describes active commitment, often in voluntary work."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Maßnahme ergreifen” mean in English?",
+      "answer": "to take a measure / action",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society",
+        "formal"
+      ],
+      "explanation": "Ergreifen forms a formal collocation with Maßnahme."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take a measure / action” in German?",
+      "answer": "eine Maßnahme ergreifen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society",
+        "formal"
+      ],
+      "explanation": "Ergreifen forms a formal collocation with Maßnahme."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Gleichberechtigung” mean in English?",
+      "answer": "equal rights",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Gleichberechtigung refers to equal legal or social status."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “equal rights” in German?",
+      "answer": "die Gleichberechtigung",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Gleichberechtigung refers to equal legal or social status."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Meinungsfreiheit” mean in English?",
+      "answer": "freedom of expression",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "politics"
+      ],
+      "explanation": "Meinungsfreiheit is the right to express opinions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “freedom of expression” in German?",
+      "answer": "die Meinungsfreiheit",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "society",
+        "politics"
+      ],
+      "explanation": "Meinungsfreiheit is the right to express opinions."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine öffentliche Debatte führen” mean in English?",
+      "answer": "to hold a public debate",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "politics",
+        "argumentation"
+      ],
+      "explanation": "Eine Debatte führen is a formal noun-verb collocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to hold a public debate” in German?",
+      "answer": "eine öffentliche Debatte führen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "politics",
+        "argumentation"
+      ],
+      "explanation": "Eine Debatte führen is a formal noun-verb collocation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die kulturelle Vielfalt” mean in English?",
+      "answer": "cultural diversity",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture",
+        "society"
+      ],
+      "explanation": "Vielfalt means variety or diversity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “cultural diversity” in German?",
+      "answer": "die kulturelle Vielfalt",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture",
+        "society"
+      ],
+      "explanation": "Vielfalt means variety or diversity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Konzert besuchen” mean in English?",
+      "answer": "to attend a concert",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Besuchen takes a direct accusative object."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to attend a concert” in German?",
+      "answer": "ein Konzert besuchen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Besuchen takes a direct accusative object."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Kunstwerk interpretieren” mean in English?",
+      "answer": "to interpret a work of art",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Interpretieren is useful when explaining meaning in art or literature."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to interpret a work of art” in German?",
+      "answer": "ein Kunstwerk interpretieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Interpretieren is useful when explaining meaning in art or literature."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Handlung eines Romans” mean in English?",
+      "answer": "the plot of a novel",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "literature"
+      ],
+      "explanation": "Handlung can mean the events or plot of a narrative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the plot of a novel” in German?",
+      "answer": "die Handlung eines Romans",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "literature"
+      ],
+      "explanation": "Handlung can mean the events or plot of a narrative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Rolle spielen” mean in English?",
+      "answer": "to play a role / matter",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms",
+        "culture"
+      ],
+      "explanation": "Eine Rolle spielen is used both literally and figuratively."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to play a role / matter” in German?",
+      "answer": "eine Rolle spielen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "idioms",
+        "culture"
+      ],
+      "explanation": "Eine Rolle spielen is used both literally and figuratively."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Anschluss verpassen” mean in English?",
+      "answer": "to miss the connection",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "This travel expression can refer to missing a connecting bus or train."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to miss the connection” in German?",
+      "answer": "den Anschluss verpassen",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "This travel expression can refer to missing a connecting bus or train."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Der Flug fällt aus.” mean in English?",
+      "answer": "The flight is cancelled.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel",
+        "separable-verbs"
+      ],
+      "explanation": "Ausfallen is separable; the prefix is final in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The flight is cancelled.” in German?",
+      "answer": "Der Flug fällt aus.",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel",
+        "separable-verbs"
+      ],
+      "explanation": "Ausfallen is separable; the prefix is final in the main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Unterkunft buchen” mean in English?",
+      "answer": "to book accommodation",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "Unterkunft is a general word for a place to stay."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to book accommodation” in German?",
+      "answer": "eine Unterkunft buchen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "Unterkunft is a general word for a place to stay."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich über eine Verspätung beschweren” mean in English?",
+      "answer": "to complain about a delay",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "travel",
+        "verb-preposition"
+      ],
+      "explanation": "Sich beschweren über takes über plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to complain about a delay” in German?",
+      "answer": "sich über eine Verspätung beschweren",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "travel",
+        "verb-preposition"
+      ],
+      "explanation": "Sich beschweren über takes über plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Rückerstattung verlangen” mean in English?",
+      "answer": "to demand a refund",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "travel",
+        "formal"
+      ],
+      "explanation": "Rückerstattung is a formal word for money returned after a cancellation or problem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to demand a refund” in German?",
+      "answer": "eine Rückerstattung verlangen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "travel",
+        "formal"
+      ],
+      "explanation": "Rückerstattung is a formal word for money returned after a cancellation or problem."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unter Zeitdruck stehen” mean in English?",
+      "answer": "to be under time pressure",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "idioms",
+        "work"
+      ],
+      "explanation": "Unter Zeitdruck stehen is a common fixed expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to be under time pressure” in German?",
+      "answer": "unter Zeitdruck stehen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms",
+        "work"
+      ],
+      "explanation": "Unter Zeitdruck stehen is a common fixed expression."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich etwas zu Herzen nehmen” mean in English?",
+      "answer": "to take something to heart",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to take criticism or advice seriously."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take something to heart” in German?",
+      "answer": "sich etwas zu Herzen nehmen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "This idiom means to take criticism or advice seriously."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den roten Faden verlieren” mean in English?",
+      "answer": "to lose the thread",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms",
+        "speaking"
+      ],
+      "explanation": "The idiom describes losing the logical line of a talk or argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to lose the thread” in German?",
+      "answer": "den roten Faden verlieren",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "idioms",
+        "speaking"
+      ],
+      "explanation": "The idiom describes losing the logical line of a talk or argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “auf den Punkt bringen” mean in English?",
+      "answer": "to get to the point",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms",
+        "speaking"
+      ],
+      "explanation": "Auf den Punkt bringen means to express the key idea concisely."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to get to the point” in German?",
+      "answer": "auf den Punkt bringen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms",
+        "speaking"
+      ],
+      "explanation": "Auf den Punkt bringen means to express the key idea concisely."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “meiner Meinung nach” mean in English?",
+      "answer": "in my opinion",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "opinions"
+      ],
+      "explanation": "The phrase introduces a personal assessment; nach follows the dative pronoun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in my opinion” in German?",
+      "answer": "meiner Meinung nach",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "opinions"
+      ],
+      "explanation": "The phrase introduces a personal assessment; nach follows the dative pronoun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ich bin davon überzeugt, dass ...” mean in English?",
+      "answer": "I am convinced that ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "opinions",
+        "argumentation"
+      ],
+      "explanation": "Davon überzeugt sein introduces a strong but reasoned position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “I am convinced that ...” in German?",
+      "answer": "Ich bin davon überzeugt, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "opinions",
+        "argumentation"
+      ],
+      "explanation": "Davon überzeugt sein introduces a strong but reasoned position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es spricht vieles dafür, dass ...” mean in English?",
+      "answer": "A lot suggests that ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "opinions",
+        "argumentation"
+      ],
+      "explanation": "This impersonal phrase introduces supporting evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “A lot suggests that ...” in German?",
+      "answer": "Es spricht vieles dafür, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "opinions",
+        "argumentation"
+      ],
+      "explanation": "This impersonal phrase introduces supporting evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Ein Argument dagegen ist ...” mean in English?",
+      "answer": "One argument against it is ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "opinions"
+      ],
+      "explanation": "Dagegen refers back to a proposal or claim under discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “One argument against it is ...” in German?",
+      "answer": "Ein Argument dagegen ist ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "opinions"
+      ],
+      "explanation": "Dagegen refers back to a proposal or claim under discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zum Beispiel” mean in English?",
+      "answer": "for example",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Zum Beispiel introduces an illustrative case."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “for example” in German?",
+      "answer": "zum Beispiel",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Zum Beispiel introduces an illustrative case."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “im Gegensatz dazu” mean in English?",
+      "answer": "in contrast to that",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "This connector marks a contrast with a previous idea."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in contrast to that” in German?",
+      "answer": "im Gegensatz dazu",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "This connector marks a contrast with a previous idea."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “darüber hinaus” mean in English?",
+      "answer": "furthermore",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "connectors",
+        "formal"
+      ],
+      "explanation": "Darüber hinaus adds another related point in formal speech or writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “furthermore” in German?",
+      "answer": "darüber hinaus",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "connectors",
+        "formal"
+      ],
+      "explanation": "Darüber hinaus adds another related point in formal speech or writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “abschließend lässt sich sagen, dass ...” mean in English?",
+      "answer": "in conclusion, it can be said that ...",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "writing",
+        "connectors"
+      ],
+      "explanation": "This phrase signals the conclusion of a structured argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in conclusion, it can be said that ...” in German?",
+      "answer": "abschließend lässt sich sagen, dass ...",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing",
+        "connectors"
+      ],
+      "explanation": "This phrase signals the conclusion of a structured argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Hauptaussage” mean in English?",
+      "answer": "main message / main claim",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "reading",
+        "writing"
+      ],
+      "explanation": "Hauptaussage is useful when summarizing a text or presentation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “main message / main claim” in German?",
+      "answer": "die Hauptaussage",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "reading",
+        "writing"
+      ],
+      "explanation": "Hauptaussage is useful when summarizing a text or presentation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Einzelheiten auslassen” mean in English?",
+      "answer": "to leave out details",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "A summary should retain main ideas and omit unnecessary details."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to leave out details” in German?",
+      "answer": "Einzelheiten auslassen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "A summary should retain main ideas and omit unnecessary details."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Grafik beschreiben” mean in English?",
+      "answer": "to describe a chart",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing",
+        "data"
+      ],
+      "explanation": "A chart description identifies topic, trend, comparison, and notable values."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to describe a chart” in German?",
+      "answer": "eine Grafik beschreiben",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing",
+        "data"
+      ],
+      "explanation": "A chart description identifies topic, trend, comparison, and notable values."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Trend erkennen” mean in English?",
+      "answer": "to identify a trend",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "data",
+        "reading"
+      ],
+      "explanation": "Erkennen means to notice or identify something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to identify a trend” in German?",
+      "answer": "einen Trend erkennen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "data",
+        "reading"
+      ],
+      "explanation": "Erkennen means to notice or identify something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “stetig zunehmen” mean in English?",
+      "answer": "to increase steadily",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "data"
+      ],
+      "explanation": "Stetig describes a continuous, regular change."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to increase steadily” in German?",
+      "answer": "stetig zunehmen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "data"
+      ],
+      "explanation": "Stetig describes a continuous, regular change."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “deutlich zurückgehen” mean in English?",
+      "answer": "to decline noticeably",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "data"
+      ],
+      "explanation": "Zurückgehen describes a decrease; deutlich marks its strength."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to decline noticeably” in German?",
+      "answer": "deutlich zurückgehen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "data"
+      ],
+      "explanation": "Zurückgehen describes a decrease; deutlich marks its strength."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Erfahrung sammeln” mean in English?",
+      "answer": "to gain experience",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "learning"
+      ],
+      "explanation": "Sammeln is the normal collocation with Erfahrung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to gain experience” in German?",
+      "answer": "eine Erfahrung sammeln",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "learning"
+      ],
+      "explanation": "Sammeln is the normal collocation with Erfahrung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “aus Fehlern lernen” mean in English?",
+      "answer": "to learn from mistakes",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "learning",
+        "idioms"
+      ],
+      "explanation": "The phrase takes aus plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to learn from mistakes” in German?",
+      "answer": "aus Fehlern lernen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "learning",
+        "idioms"
+      ],
+      "explanation": "The phrase takes aus plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich an eine neue Situation gewöhnen” mean in English?",
+      "answer": "to get used to a new situation",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich gewöhnen an takes an plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to get used to a new situation” in German?",
+      "answer": "sich an eine neue Situation gewöhnen",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich gewöhnen an takes an plus accusative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “mit einer Veränderung klarkommen” mean in English?",
+      "answer": "to cope with a change",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "register"
+      ],
+      "explanation": "Klarkommen mit is colloquial and takes mit plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to cope with a change” in German?",
+      "answer": "mit einer Veränderung klarkommen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "register"
+      ],
+      "explanation": "Klarkommen mit is colloquial and takes mit plus dative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Grenze überschreiten” mean in English?",
+      "answer": "to cross a boundary",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society",
+        "idioms"
+      ],
+      "explanation": "Überschreiten can be literal or figurative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to cross a boundary” in German?",
+      "answer": "eine Grenze überschreiten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "idioms"
+      ],
+      "explanation": "Überschreiten can be literal or figurative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Verantwortung übernehmen” mean in English?",
+      "answer": "to take responsibility",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "society"
+      ],
+      "explanation": "Übernehmen forms a standard collocation with Verantwortung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take responsibility” in German?",
+      "answer": "Verantwortung übernehmen",
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "work",
+        "society"
+      ],
+      "explanation": "Übernehmen forms a standard collocation with Verantwortung."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase introduces a contrast?",
+      "choices": [
+        "im Gegensatz dazu",
+        "zum Beispiel",
+        "abschließend"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Im Gegensatz dazu marks a contrasting idea."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does den Anschluss verpassen mean?",
+      "choices": [
+        "to miss a connection",
+        "to book a room",
+        "to change money"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "It is a common travel problem involving a missed connection."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase means “to take responsibility”?",
+      "choices": [
+        "Verantwortung übernehmen",
+        "Verantwortung verlieren",
+        "Verantwortung fahren"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "collocations"
+      ],
+      "explanation": "Übernehmen is the standard verb in this collocation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Complete: Meiner Meinung ___ ist der Plan sinnvoll.",
+      "choices": [
+        "nach",
+        "zu",
+        "für"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "opinions"
+      ],
+      "explanation": "The fixed phrase is meiner Meinung nach."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb-preposition combination means “get used to”?",
+      "choices": [
+        "sich gewöhnen an",
+        "sich erinnern über",
+        "sich freuen bei"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "verb-preposition"
+      ],
+      "explanation": "Sich gewöhnen an takes an plus accusative."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase signals a conclusion?",
+      "choices": [
+        "abschließend lässt sich sagen",
+        "im Gegensatz dazu",
+        "einerseits"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "Abschließend signals the final part of an argument or summary."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does stetig zunehmen describe?",
+      "choices": [
+        "a steady increase",
+        "a sudden cancellation",
+        "a personal complaint"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "data"
+      ],
+      "explanation": "Zunehmen means increase and stetig means steadily."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which noun means “freedom of expression”?",
+      "choices": [
+        "Meinungsfreiheit",
+        "Gleichberechtigung",
+        "Unterkunft"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Meinungsfreiheit combines Meinung and Freiheit."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses the separable verb ausfallen correctly?",
+      "choices": [
+        "Der Flug fällt aus.",
+        "Der Flug ausfällt.",
+        "Der Flug ist ausfallen."
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "separable-verbs"
+      ],
+      "explanation": "The prefix aus moves to the end in a main clause."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "A good summary should usually do what?",
+      "choices": [
+        "keep main ideas and omit minor details",
+        "copy every sentence",
+        "add unrelated opinions"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "A summary is selective and focused on the source’s main information."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Darüber hinaus adds another related point.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "It is a formal connector meaning furthermore or in addition."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sich beschweren über takes über plus dative.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "verb-preposition"
+      ],
+      "explanation": "Sich beschweren über takes über plus accusative."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Artenvielfalt refers to the variety of species.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Arten are species and Vielfalt is variety."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Eine Grafik beschreiben can be part of a structured B1 writing task.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "b1",
+        "writing"
+      ],
+      "explanation": "Describing charts is a useful practical output at this level."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Auf den Punkt bringen means to make an argument longer and less focused.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "idioms"
+      ],
+      "explanation": "It means to express the central point clearly and concisely."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Müll trennen is associated with waste sorting.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "The phrase literally means to separate rubbish."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Im Gegensatz dazu introduces an example rather than a contrast.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "connectors"
+      ],
+      "explanation": "Zum Beispiel introduces an example; im Gegensatz dazu marks contrast."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sich an eine Situation gewöhnen uses an plus accusative.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "verb-preposition"
+      ],
+      "explanation": "The verb phrase is sich gewöhnen an etwas."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Bodenverschmutzung” mean in English?",
+      "answer": "soil pollution",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "compounds"
+      ],
+      "explanation": "Bodenverschmutzung is pollution of soil or land."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “soil pollution” in German?",
+      "answer": "die Bodenverschmutzung",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "compounds"
+      ],
+      "explanation": "Bodenverschmutzung is pollution of soil or land."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Art ausrotten” mean in English?",
+      "answer": "to wipe out a species",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Ausrotten means to eliminate an entire species or group."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to wipe out a species” in German?",
+      "answer": "eine Art ausrotten",
+      "difficulty": "hard",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Ausrotten means to eliminate an entire species or group."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Wasserverbrauch senken” mean in English?",
+      "answer": "to reduce water consumption",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Senken means to lower a quantity or level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reduce water consumption” in German?",
+      "answer": "den Wasserverbrauch senken",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Senken means to lower a quantity or level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Umweltkatastrophe verhindern” mean in English?",
+      "answer": "to prevent an environmental disaster",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Verhindern means to stop an undesirable event from occurring."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to prevent an environmental disaster” in German?",
+      "answer": "eine Umweltkatastrophe verhindern",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment"
+      ],
+      "explanation": "Verhindern means to stop an undesirable event from occurring."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich für Klimaschutz einsetzen” mean in English?",
+      "answer": "to campaign for climate protection",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "society"
+      ],
+      "explanation": "Sich einsetzen für expresses active commitment to a cause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to campaign for climate protection” in German?",
+      "answer": "sich für Klimaschutz einsetzen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "environment",
+        "society"
+      ],
+      "explanation": "Sich einsetzen für expresses active commitment to a cause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Bevölkerungsentwicklung” mean in English?",
+      "answer": "population development",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "compounds"
+      ],
+      "explanation": "Bevölkerungsentwicklung describes changes in population size and structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “population development” in German?",
+      "answer": "die Bevölkerungsentwicklung",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society",
+        "compounds"
+      ],
+      "explanation": "Bevölkerungsentwicklung describes changes in population size and structure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Wohnungsnot” mean in English?",
+      "answer": "housing shortage",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Wohnungsnot describes a serious lack of affordable housing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “housing shortage” in German?",
+      "answer": "die Wohnungsnot",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Wohnungsnot describes a serious lack of affordable housing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Initiative gründen” mean in English?",
+      "answer": "to found an initiative",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Gründen means to establish an organization or project."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to found an initiative” in German?",
+      "answer": "eine Initiative gründen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "society"
+      ],
+      "explanation": "Gründen means to establish an organization or project."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “kulturelle Unterschiede überbrücken” mean in English?",
+      "answer": "to bridge cultural differences",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture",
+        "society"
+      ],
+      "explanation": "Überbrücken is used figuratively for overcoming a gap."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to bridge cultural differences” in German?",
+      "answer": "kulturelle Unterschiede überbrücken",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture",
+        "society"
+      ],
+      "explanation": "Überbrücken is used figuratively for overcoming a gap."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Ausstellung eröffnen” mean in English?",
+      "answer": "to open an exhibition",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Eröffnen can mean to inaugurate an exhibition or event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to open an exhibition” in German?",
+      "answer": "eine Ausstellung eröffnen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Eröffnen can mean to inaugurate an exhibition or event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Theaterstück aufführen” mean in English?",
+      "answer": "to stage a play",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Aufführen means to perform a play or musical work."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to stage a play” in German?",
+      "answer": "ein Theaterstück aufführen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "culture"
+      ],
+      "explanation": "Aufführen means to perform a play or musical work."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Reise dokumentieren” mean in English?",
+      "answer": "to document a journey",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel",
+        "media"
+      ],
+      "explanation": "Dokumentieren means to record events or evidence systematically."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to document a journey” in German?",
+      "answer": "eine Reise dokumentieren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel",
+        "media"
+      ],
+      "explanation": "Dokumentieren means to record events or evidence systematically."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Unterkunft wechseln” mean in English?",
+      "answer": "to change accommodation",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "Wechseln means to change from one option or place to another."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to change accommodation” in German?",
+      "answer": "eine Unterkunft wechseln",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "travel"
+      ],
+      "explanation": "Wechseln means to change from one option or place to another."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich bei einer Stelle beschweren” mean in English?",
+      "answer": "to complain to an office",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "communication",
+        "verb-preposition"
+      ],
+      "explanation": "Sich beschweren bei names the person or institution receiving the complaint."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to complain to an office” in German?",
+      "answer": "sich bei einer Stelle beschweren",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "communication",
+        "verb-preposition"
+      ],
+      "explanation": "Sich beschweren bei names the person or institution receiving the complaint."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Lösung gemeinsam erarbeiten” mean in English?",
+      "answer": "to work out a solution together",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "problem-solving"
+      ],
+      "explanation": "Erarbeiten emphasizes a solution developed through effort."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to work out a solution together” in German?",
+      "answer": "eine Lösung gemeinsam erarbeiten",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "work",
+        "problem-solving"
+      ],
+      "explanation": "Erarbeiten emphasizes a solution developed through effort."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “ein Ziel erreichen” mean in English?",
+      "answer": "to achieve a goal",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "personal-goals"
+      ],
+      "explanation": "Erreichen means to reach a place or achieve an objective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to achieve a goal” in German?",
+      "answer": "ein Ziel erreichen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "personal-goals"
+      ],
+      "explanation": "Erreichen means to reach a place or achieve an objective."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Eindruck gewinnen” mean in English?",
+      "answer": "to gain an impression",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "collocations"
+      ],
+      "explanation": "Gewinnen forms a common collocation with Eindruck."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to gain an impression” in German?",
+      "answer": "einen Eindruck gewinnen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "collocations"
+      ],
+      "explanation": "Gewinnen forms a common collocation with Eindruck."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Gefühle zum Ausdruck bringen” mean in English?",
+      "answer": "to express feelings",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "formal"
+      ],
+      "explanation": "Zum Ausdruck bringen is a formal fixed expression for expressing something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to express feelings” in German?",
+      "answer": "Gefühle zum Ausdruck bringen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "formal"
+      ],
+      "explanation": "Zum Ausdruck bringen is a formal fixed expression for expressing something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Situation einschätzen” mean in English?",
+      "answer": "to assess a situation",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Einschätzen means to judge the likely meaning or seriousness of something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to assess a situation” in German?",
+      "answer": "eine Situation einschätzen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "argumentation"
+      ],
+      "explanation": "Einschätzen means to judge the likely meaning or seriousness of something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich auf etwas einstellen” mean in English?",
+      "answer": "to adjust to something",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich einstellen auf means to prepare mentally or practically for a situation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to adjust to something” in German?",
+      "answer": "sich auf etwas einstellen",
+      "difficulty": "medium",
+      "tags": [
+        "b1",
+        "feelings",
+        "verb-preposition"
+      ],
+      "explanation": "Sich einstellen auf means to prepare mentally or practically for a situation."
+    }
+  ]
+}

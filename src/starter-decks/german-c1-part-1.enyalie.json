@@ -1,0 +1,1711 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-german-c1-part-1",
+    "name": "German C1 — Part 1",
+    "description": "C1 German: reported speech, tense nuance, passive alternatives, nominal style, information structure, discourse markers, and register."
+  },
+  "questions": [
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Die Ministerin erklärte, die Reform sei notwendig.” mean in English?",
+      "answer": "The minister explained that the reform was necessary.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Konjunktiv I sei marks the statement as reported speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The minister explained that the reform was necessary.” in German?",
+      "answer": "Die Ministerin erklärte, die Reform sei notwendig.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Konjunktiv I sei marks the statement as reported speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Er behauptet, davon nichts gewusst zu haben.” mean in English?",
+      "answer": "He claims not to have known anything about it.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "A zu-infinitive perfect can report a prior action compactly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “He claims not to have known anything about it.” in German?",
+      "answer": "Er behauptet, davon nichts gewusst zu haben.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "A zu-infinitive perfect can report a prior action compactly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Die Zeitung berichtet, die Verhandlungen seien gescheitert.” mean in English?",
+      "answer": "The newspaper reports that the negotiations have failed.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Seien is the plural Konjunktiv I form of sein."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The newspaper reports that the negotiations have failed.” in German?",
+      "answer": "Die Zeitung berichtet, die Verhandlungen seien gescheitert.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Seien is the plural Konjunktiv I form of sein."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Er soll den Vorschlag abgelehnt haben.” mean in English?",
+      "answer": "He is said to have rejected the proposal.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "modal-verbs"
+      ],
+      "explanation": "Sollen can report hearsay without asserting the information directly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “He is said to have rejected the proposal.” in German?",
+      "answer": "Er soll den Vorschlag abgelehnt haben.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "modal-verbs"
+      ],
+      "explanation": "Sollen can report hearsay without asserting the information directly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Sie will davon nichts bemerkt haben.” mean in English?",
+      "answer": "She claims not to have noticed anything about it.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Wollen can mark a person’s own claim when used in this reporting construction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “She claims not to have noticed anything about it.” in German?",
+      "answer": "Sie will davon nichts bemerkt haben.",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Wollen can mark a person’s own claim when used in this reporting construction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Nachdem die Daten ausgewertet worden waren, begann die Diskussion.” mean in English?",
+      "answer": "After the data had been evaluated, the discussion began.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "tense",
+        "passive"
+      ],
+      "explanation": "Plusquamperfekt passive places a completed passive event before another past event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “After the data had been evaluated, the discussion began.” in German?",
+      "answer": "Nachdem die Daten ausgewertet worden waren, begann die Diskussion.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "tense",
+        "passive"
+      ],
+      "explanation": "Plusquamperfekt passive places a completed passive event before another past event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Seit Jahren wird an einer Lösung gearbeitet.” mean in English?",
+      "answer": "A solution has been being worked on for years.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "tense",
+        "passive"
+      ],
+      "explanation": "German often uses present passive with seit for an ongoing process."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “A solution has been being worked on for years.” in German?",
+      "answer": "Seit Jahren wird an einer Lösung gearbeitet.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "tense",
+        "passive"
+      ],
+      "explanation": "German often uses present passive with seit for an ongoing process."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Er hat den Bericht gestern fertiggestellt.” mean in English?",
+      "answer": "He completed the report yesterday.",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "tense",
+        "register"
+      ],
+      "explanation": "Perfect is common in conversation for a completed past event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “He completed the report yesterday.” in German?",
+      "answer": "Er hat den Bericht gestern fertiggestellt.",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "tense",
+        "register"
+      ],
+      "explanation": "Perfect is common in conversation for a completed past event."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Er stellte den Bericht gestern fertig.” mean in English?",
+      "answer": "He completed the report yesterday. (narrative)",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "tense",
+        "register"
+      ],
+      "explanation": "Präteritum is more typical of written narrative than everyday speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “He completed the report yesterday. (narrative)” in German?",
+      "answer": "Er stellte den Bericht gestern fertig.",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "tense",
+        "register"
+      ],
+      "explanation": "Präteritum is more typical of written narrative than everyday speech."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es gilt, die Ursachen genauer zu untersuchen.” mean in English?",
+      "answer": "The causes need to be examined more closely.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "infinitive"
+      ],
+      "explanation": "Es gilt, ... zu is a formal impersonal construction expressing a task or requirement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The causes need to be examined more closely.” in German?",
+      "answer": "Es gilt, die Ursachen genauer zu untersuchen.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "infinitive"
+      ],
+      "explanation": "Es gilt, ... zu is a formal impersonal construction expressing a task or requirement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Die Frage ist noch zu klären.” mean in English?",
+      "answer": "The question still needs to be clarified.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "passive-alternatives"
+      ],
+      "explanation": "Sein plus zu-infinitive expresses passive necessity or possibility."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The question still needs to be clarified.” in German?",
+      "answer": "Die Frage ist noch zu klären.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "passive-alternatives"
+      ],
+      "explanation": "Sein plus zu-infinitive expresses passive necessity or possibility."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Die Ergebnisse lassen sich nicht verallgemeinern.” mean in English?",
+      "answer": "The results cannot be generalized.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "passive-alternatives"
+      ],
+      "explanation": "Sich lassen plus infinitive is a productive passive alternative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “The results cannot be generalized.” in German?",
+      "answer": "Die Ergebnisse lassen sich nicht verallgemeinern.",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "passive-alternatives"
+      ],
+      "explanation": "Sich lassen plus infinitive is a productive passive alternative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Durchführung der Untersuchung” mean in English?",
+      "answer": "the carrying out of the investigation",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "nominal-style"
+      ],
+      "explanation": "Nominalization with -ung is common in academic and institutional prose."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the carrying out of the investigation” in German?",
+      "answer": "die Durchführung der Untersuchung",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "nominal-style"
+      ],
+      "explanation": "Nominalization with -ung is common in academic and institutional prose."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unter Einbeziehung aller Beteiligten” mean in English?",
+      "answer": "with the inclusion of all parties involved",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "nominal-style"
+      ],
+      "explanation": "Einbeziehung is a formal nominalization and Beteiligten is a participial noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “with the inclusion of all parties involved” in German?",
+      "answer": "unter Einbeziehung aller Beteiligten",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "nominal-style"
+      ],
+      "explanation": "Einbeziehung is a formal nominalization and Beteiligten is a participial noun."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “angesichts der aktuellen Lage” mean in English?",
+      "answer": "in view of the current situation",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Angesichts is a formal preposition-like expression with genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in view of the current situation” in German?",
+      "answer": "angesichts der aktuellen Lage",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Angesichts is a formal preposition-like expression with genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zwecks weiterer Prüfung” mean in English?",
+      "answer": "for the purpose of further examination",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Zwecks is a formal genitive preposition used especially in administrative writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “for the purpose of further examination” in German?",
+      "answer": "zwecks weiterer Prüfung",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Zwecks is a formal genitive preposition used especially in administrative writing."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “nichtsdestotrotz” mean in English?",
+      "answer": "nevertheless",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Nichtsdestotrotz is a formal connector marking contrast."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which formal German connector means “nevertheless”?",
+      "answer": "nichtsdestotrotz",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Nichtsdestotrotz is a formal connector marking contrast."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “infolgedessen” mean in English?",
+      "answer": "as a result",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Infolgedessen introduces a consequence and can occupy the first position in a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “as a result” in German?",
+      "answer": "infolgedessen",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Infolgedessen introduces a consequence and can occupy the first position in a main clause."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “zumal” mean in English?",
+      "answer": "especially since",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Zumal adds a particularly strong reason, often after a previous argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “especially since” in German?",
+      "answer": "zumal",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Zumal adds a particularly strong reason, often after a previous argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “wohingegen” mean in English?",
+      "answer": "whereas",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Wohingegen introduces a contrast between two clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “whereas” in German?",
+      "answer": "wohingegen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Wohingegen introduces a contrast between two clauses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sofern die Angaben zutreffen” mean in English?",
+      "answer": "provided that the information is correct",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "conditionals"
+      ],
+      "explanation": "Sofern introduces a condition with a formal register."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “provided that the information is correct” in German?",
+      "answer": "sofern die Angaben zutreffen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "conditionals"
+      ],
+      "explanation": "Sofern introduces a condition with a formal register."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unter der Annahme, dass ...” mean in English?",
+      "answer": "on the assumption that ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "This phrase explicitly frames a premise for an argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “on the assumption that ...” in German?",
+      "answer": "unter der Annahme, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "This phrase explicitly frames a premise for an argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es liegt nahe, dass ...” mean in English?",
+      "answer": "It is plausible / likely that ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "hedging"
+      ],
+      "explanation": "Es liegt nahe hedges an inference without stating certainty."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “It is plausible / likely that ...” in German?",
+      "answer": "Es liegt nahe, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "hedging"
+      ],
+      "explanation": "Es liegt nahe hedges an inference without stating certainty."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “Es steht außer Frage, dass ...” mean in English?",
+      "answer": "There is no question that ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "This idiom marks a point presented as certain."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “There is no question that ...” in German?",
+      "answer": "Es steht außer Frage, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "This idiom marks a point presented as certain."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In cautious reporting, what does “Es ist nicht auszuschließen, dass ...” mean in English?",
+      "answer": "It cannot be ruled out that ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "hedging"
+      ],
+      "explanation": "This impersonal construction expresses a cautious possibility."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In cautious reporting, how do you say “It cannot be ruled out that ...” in German?",
+      "answer": "Es ist nicht auszuschließen, dass ...",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "hedging"
+      ],
+      "explanation": "This impersonal construction expresses a cautious possibility."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die entscheidende Voraussetzung” mean in English?",
+      "answer": "the decisive prerequisite",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Voraussetzung names a condition that must be fulfilled."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the decisive prerequisite” in German?",
+      "answer": "die entscheidende Voraussetzung",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "Voraussetzung names a condition that must be fulfilled."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine differenzierte Betrachtung” mean in English?",
+      "answer": "a nuanced examination",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Differenziert signals that an issue is treated with distinctions rather than simplification."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a nuanced examination” in German?",
+      "answer": "eine differenzierte Betrachtung",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Differenziert signals that an issue is treated with distinctions rather than simplification."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine These hinterfragen” mean in English?",
+      "answer": "to question a thesis",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Hinterfragen means to examine critically rather than accept at face value."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to question a thesis” in German?",
+      "answer": "eine These hinterfragen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Hinterfragen means to examine critically rather than accept at face value."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Sachverhalt darstellen” mean in English?",
+      "answer": "to present a state of affairs",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Sachverhalt is a formal term for the relevant facts or situation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to present a state of affairs” in German?",
+      "answer": "einen Sachverhalt darstellen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Sachverhalt is a formal term for the relevant facts or situation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlussfolgerung nahelegen” mean in English?",
+      "answer": "to suggest a conclusion",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "hedging"
+      ],
+      "explanation": "Nahelegen is softer than prove and is useful for interpreting evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to suggest a conclusion” in German?",
+      "answer": "eine Schlussfolgerung nahelegen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "hedging"
+      ],
+      "explanation": "Nahelegen is softer than prove and is useful for interpreting evidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Behauptung relativieren” mean in English?",
+      "answer": "to qualify a claim",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Relativieren limits the force or scope of a statement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to qualify a claim” in German?",
+      "answer": "eine Behauptung relativieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Relativieren limits the force or scope of a statement."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “den Schwerpunkt auf etwas legen” mean in English?",
+      "answer": "to place emphasis on something",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Legen forms a fixed collocation with Schwerpunkt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to place emphasis on something” in German?",
+      "answer": "den Schwerpunkt auf etwas legen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Legen forms a fixed collocation with Schwerpunkt."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “etwas außer Acht lassen” mean in English?",
+      "answer": "to disregard something",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This formal idiom means not to take something into account."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to disregard something” in German?",
+      "answer": "etwas außer Acht lassen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "idioms"
+      ],
+      "explanation": "This formal idiom means not to take something into account."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entwicklung zeichnet sich ab” mean in English?",
+      "answer": "a development is emerging",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Sich abzeichnen describes a trend becoming visible."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a development is emerging” in German?",
+      "answer": "eine Entwicklung zeichnet sich ab",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Sich abzeichnen describes a trend becoming visible."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “in den Vordergrund rücken” mean in English?",
+      "answer": "to move into the foreground",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "This phrase describes something becoming more prominent."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to move into the foreground” in German?",
+      "answer": "in den Vordergrund rücken",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "abstract-vocabulary"
+      ],
+      "explanation": "This phrase describes something becoming more prominent."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Debatte anstoßen” mean in English?",
+      "answer": "to initiate a debate",
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "public-debate"
+      ],
+      "explanation": "Anstoßen can mean to prompt a process or discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to initiate a debate” in German?",
+      "answer": "eine Debatte anstoßen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "public-debate"
+      ],
+      "explanation": "Anstoßen can mean to prompt a process or discussion."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Position beziehen” mean in English?",
+      "answer": "to take a position",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Beziehen forms a formal collocation with Position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to take a position” in German?",
+      "answer": "eine Position beziehen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Beziehen forms a formal collocation with Position."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “sich einer Frage widmen” mean in English?",
+      "answer": "to devote oneself to a question",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "dative"
+      ],
+      "explanation": "Sich widmen takes dative: einer Frage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to devote oneself to a question” in German?",
+      "answer": "sich einer Frage widmen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "dative"
+      ],
+      "explanation": "Sich widmen takes dative: einer Frage."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Zusammenhang herstellen” mean in English?",
+      "answer": "to establish a connection",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Herstellen means to create or demonstrate a relation between things."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to establish a connection” in German?",
+      "answer": "einen Zusammenhang herstellen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Herstellen means to create or demonstrate a relation between things."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Lücke schließen” mean in English?",
+      "answer": "to close a gap",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "This can refer to research, policy, or practical deficiencies."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to close a gap” in German?",
+      "answer": "eine Lücke schließen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "This can refer to research, policy, or practical deficiencies."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Wechselwirkung zwischen Faktoren” mean in English?",
+      "answer": "the interaction between factors",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Wechselwirkung describes reciprocal influence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “the interaction between factors” in German?",
+      "answer": "die Wechselwirkung zwischen Faktoren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Wechselwirkung describes reciprocal influence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “im engeren Sinne” mean in English?",
+      "answer": "in the narrower sense",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "This phrase narrows the intended meaning of a term."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in the narrower sense” in German?",
+      "answer": "im engeren Sinne",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "This phrase narrows the intended meaning of a term."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “im weitesten Sinne” mean in English?",
+      "answer": "in the broadest sense",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "This phrase broadens the scope of a term or claim."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “in the broadest sense” in German?",
+      "answer": "im weitesten Sinne",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "This phrase broadens the scope of a term or claim."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage präzisieren” mean in English?",
+      "answer": "to make a statement more precise",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Präzisieren means to add precision or clarify scope."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make a statement more precise” in German?",
+      "answer": "eine Aussage präzisieren",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Präzisieren means to add precision or clarify scope."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which form best marks reported plural speech?",
+      "choices": [
+        "sie seien",
+        "sie sind",
+        "sie sein"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Seien is the Konjunktiv I plural form of sein."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase expresses a cautious possibility?",
+      "choices": [
+        "Es ist nicht auszuschließen, dass ...",
+        "Es steht außer Frage, dass ...",
+        "Auf keinen Fall ..."
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "hedging"
+      ],
+      "explanation": "The phrase says a possibility cannot be ruled out."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does zumal add?",
+      "choices": [
+        "a particularly strong reason",
+        "a time sequence only",
+        "a direct command"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Zumal means especially since and strengthens a reason."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase is a passive alternative?",
+      "choices": [
+        "Die Frage ist zu klären.",
+        "Die Frage klärt.",
+        "Die Frage hat klären."
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "passive-alternatives"
+      ],
+      "explanation": "Sein plus zu-infinitive expresses passive necessity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which formal preposition takes genitive?",
+      "choices": [
+        "zwecks",
+        "mit",
+        "bei"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "genitive"
+      ],
+      "explanation": "Zwecks means for the purpose of and governs genitive in standard formal usage."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does eine Behauptung relativieren mean?",
+      "choices": [
+        "to qualify its force",
+        "to prove it absolutely",
+        "to translate it"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Relativieren limits or qualifies a claim."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phrase narrows a definition?",
+      "choices": [
+        "im engeren Sinne",
+        "im weitesten Sinne",
+        "infolgedessen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "Im engeren Sinne means in the narrower sense."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which verb collocates with Position?",
+      "choices": [
+        "beziehen",
+        "erheben",
+        "verlängern"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "collocations"
+      ],
+      "explanation": "Eine Position beziehen means to take a position."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does eine Entwicklung zeichnet sich ab mean?",
+      "choices": [
+        "a development is emerging",
+        "a development was cancelled",
+        "a development is translated"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "formal"
+      ],
+      "explanation": "Sich abzeichnen describes a visible emerging trend."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which connector introduces contrast?",
+      "choices": [
+        "wohingegen",
+        "zumal",
+        "infolgedessen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Wohingegen means whereas."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sollen can report hearsay in a construction such as Er soll gegangen sein.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech"
+      ],
+      "explanation": "Sollen can mark information attributed to others."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Angesichts is normally followed by a nominative noun phrase.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "genitive"
+      ],
+      "explanation": "Angesichts is a formal genitive preposition-like expression."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Infolgedessen introduces a consequence.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "It means as a result or consequently."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Es steht außer Frage expresses strong certainty.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "The idiom says something is beyond question."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Relativieren means to make a claim more absolute.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "It means to qualify or limit the claim."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Im weitesten Sinne narrows a term’s scope.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "precision"
+      ],
+      "explanation": "It expands the scope to the broadest intended sense."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sich einer Frage widmen takes a dative object.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "cases"
+      ],
+      "explanation": "The phrase is sich widmen + dative: einer Frage."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Nominal style is common in academic and institutional German.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "nominal-style"
+      ],
+      "explanation": "Formal prose frequently uses abstract nouns and nominalizations."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “es wird kolportiert, dass ...” mean in English?",
+      "answer": "it is rumored that ...",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "journalism"
+      ],
+      "explanation": "Kolportieren is a formal reporting verb for circulating an unverified claim."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “it is rumored that ...” in German?",
+      "answer": "es wird kolportiert, dass ...",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "journalism"
+      ],
+      "explanation": "Kolportieren is a formal reporting verb for circulating an unverified claim."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “laut vorliegenden Angaben” mean in English?",
+      "answer": "according to the information available",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "formal"
+      ],
+      "explanation": "Laut introduces the source of information; the phrase is common in reports."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “according to the information available” in German?",
+      "answer": "laut vorliegenden Angaben",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "reported-speech",
+        "formal"
+      ],
+      "explanation": "Laut introduces the source of information; the phrase is common in reports."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Darstellung zurückweisen” mean in English?",
+      "answer": "to reject the account",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation",
+        "journalism"
+      ],
+      "explanation": "Zurückweisen means to reject a claim, accusation, or description."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to reject the account” in German?",
+      "answer": "die Darstellung zurückweisen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation",
+        "journalism"
+      ],
+      "explanation": "Zurückweisen means to reject a claim, accusation, or description."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “die Aussagekraft einschränken” mean in English?",
+      "answer": "to limit the evidential value",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "hedging"
+      ],
+      "explanation": "Einschränken means to reduce the scope or force of something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to limit the evidential value” in German?",
+      "answer": "die Aussagekraft einschränken",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "hedging"
+      ],
+      "explanation": "Einschränken means to reduce the scope or force of something."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Behauptung als unbelegt einstufen” mean in English?",
+      "answer": "to classify a claim as unsubstantiated",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "journalism"
+      ],
+      "explanation": "Einstufen means to assign something to a category or level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to classify a claim as unsubstantiated” in German?",
+      "answer": "eine Behauptung als unbelegt einstufen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "academic",
+        "journalism"
+      ],
+      "explanation": "Einstufen means to assign something to a category or level."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Entwicklung lässt sich nicht absehen” mean in English?",
+      "answer": "a development cannot be foreseen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "future",
+        "passive-alternatives"
+      ],
+      "explanation": "Sich absehen lassen expresses whether something can be anticipated."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a development cannot be foreseen” in German?",
+      "answer": "eine Entwicklung lässt sich nicht absehen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "future",
+        "passive-alternatives"
+      ],
+      "explanation": "Sich absehen lassen expresses whether something can be anticipated."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “es bedarf weiterer Untersuchungen” mean in English?",
+      "answer": "further investigations are required",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Bedürfen is a formal verb that governs the genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “further investigations are required” in German?",
+      "answer": "es bedarf weiterer Untersuchungen",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "formal",
+        "genitive"
+      ],
+      "explanation": "Bedürfen is a formal verb that governs the genitive."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unbeschadet dessen” mean in English?",
+      "answer": "without prejudice to that",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "formal",
+        "legal"
+      ],
+      "explanation": "Unbeschadet is a formal expression preserving the validity of another point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “without prejudice to that” in German?",
+      "answer": "unbeschadet dessen",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "formal",
+        "legal"
+      ],
+      "explanation": "Unbeschadet is a formal expression preserving the validity of another point."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “unter Vorbehalt” mean in English?",
+      "answer": "subject to reservation",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "formal",
+        "hedging"
+      ],
+      "explanation": "Unter Vorbehalt signals that a statement or agreement is conditional."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “subject to reservation” in German?",
+      "answer": "unter Vorbehalt",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "formal",
+        "hedging"
+      ],
+      "explanation": "Unter Vorbehalt signals that a statement or agreement is conditional."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “vor diesem Hintergrund” mean in English?",
+      "answer": "against this background",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "This connector links a conclusion to the context just presented."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “against this background” in German?",
+      "answer": "vor diesem Hintergrund",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "This connector links a conclusion to the context just presented."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “im Umkehrschluss” mean in English?",
+      "answer": "by converse inference",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Im Umkehrschluss introduces a conclusion reached by reversing a relation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “by converse inference” in German?",
+      "answer": "im Umkehrschluss",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Im Umkehrschluss introduces a conclusion reached by reversing a relation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “daraus ergibt sich” mean in English?",
+      "answer": "it follows from this",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Ergeben expresses a result that follows from evidence or reasoning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “it follows from this” in German?",
+      "answer": "daraus ergibt sich",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "connectors"
+      ],
+      "explanation": "Ergeben expresses a result that follows from evidence or reasoning."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Prämisse in Frage stellen” mean in English?",
+      "answer": "to question a premise",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "In Frage stellen means to challenge the validity of an assumption."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to question a premise” in German?",
+      "answer": "eine Prämisse in Frage stellen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "In Frage stellen means to challenge the validity of an assumption."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Unterscheidung treffen” mean in English?",
+      "answer": "to make a distinction",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Treffen is a formal collocation with Unterscheidung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to make a distinction” in German?",
+      "answer": "eine Unterscheidung treffen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Treffen is a formal collocation with Unterscheidung."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Sachverhalt veranschaulichen” mean in English?",
+      "answer": "to illustrate a state of affairs",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Veranschaulichen means to make an abstract point clear with an example."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to illustrate a state of affairs” in German?",
+      "answer": "einen Sachverhalt veranschaulichen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "academic"
+      ],
+      "explanation": "Veranschaulichen means to make an abstract point clear with an example."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine These zuspitzen” mean in English?",
+      "answer": "to sharpen a thesis",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation",
+        "style"
+      ],
+      "explanation": "Zuspitzung makes a claim more pointed or deliberately provocative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to sharpen a thesis” in German?",
+      "answer": "eine These zuspitzen",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation",
+        "style"
+      ],
+      "explanation": "Zuspitzung makes a claim more pointed or deliberately provocative."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “einen Einwand entkräften” mean in English?",
+      "answer": "to rebut an objection",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Entkräften means to remove the force of an objection or argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to rebut an objection” in German?",
+      "answer": "einen Einwand entkräften",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Entkräften means to remove the force of an objection or argument."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Position konsistent begründen” mean in English?",
+      "answer": "to justify a position consistently",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Konsistent means logically coherent and free of contradiction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to justify a position consistently” in German?",
+      "answer": "eine Position konsistent begründen",
+      "difficulty": "medium",
+      "tags": [
+        "c1",
+        "argumentation"
+      ],
+      "explanation": "Konsistent means logically coherent and free of contradiction."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Schlussfolgerung implizieren” mean in English?",
+      "answer": "to imply a conclusion",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "semantics",
+        "academic"
+      ],
+      "explanation": "Implizieren means to contain a consequence without stating it directly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “to imply a conclusion” in German?",
+      "answer": "eine Schlussfolgerung implizieren",
+      "difficulty": "expert",
+      "tags": [
+        "c1",
+        "semantics",
+        "academic"
+      ],
+      "explanation": "Implizieren means to contain a consequence without stating it directly."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does the German expression “eine Aussage ist kontextabhängig” mean in English?",
+      "answer": "a statement is context-dependent",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "pragmatics",
+        "semantics"
+      ],
+      "explanation": "Kontextabhängig means that interpretation changes with surrounding information."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "How do you say “a statement is context-dependent” in German?",
+      "answer": "eine Aussage ist kontextabhängig",
+      "difficulty": "hard",
+      "tags": [
+        "c1",
+        "pragmatics",
+        "semantics"
+      ],
+      "explanation": "Kontextabhängig means that interpretation changes with surrounding information."
+    }
+  ]
+}
