@@ -52,7 +52,8 @@
       "difficulty": "hard",
       "tags": [
         "space"
-      ]
+      ],
+      "explanation": "Triton is Neptune?s largest moon and travels in a retrograde orbit, opposite Neptune?s rotation."
     },
     {
       "type": "multiple_choice",
@@ -83,7 +84,8 @@
       "difficulty": "hard",
       "tags": [
         "space"
-      ]
+      ],
+      "explanation": "Ceres is classified as a dwarf planet and orbits the Sun in the main asteroid belt between Mars and Jupiter."
     },
     {
       "type": "multiple_choice",
@@ -130,7 +132,8 @@
       "difficulty": "hard",
       "tags": [
         "science"
-      ]
+      ],
+      "explanation": "Penicillin was isolated from Penicillium mold; this discovery led to the first widely used antibiotic."
     },
     {
       "type": "multiple_choice",
@@ -145,7 +148,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Petrichor is the earthy smell that often rises when rain falls on dry ground."
     },
     {
       "type": "multiple_choice",
@@ -160,7 +164,8 @@
       "difficulty": "hard",
       "tags": [
         "science"
-      ]
+      ],
+      "explanation": "Geosmin is produced by some microbes and contributes a distinctive earthy smell to soil."
     },
     {
       "type": "multiple_choice",
@@ -175,7 +180,8 @@
       "difficulty": "hard",
       "tags": [
         "everyday"
-      ]
+      ],
+      "explanation": "An aglet is the small cap or binding at the end of a shoelace that helps it pass through an eyelet."
     },
     {
       "type": "multiple_choice",
@@ -190,7 +196,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Vexillology is the study of flags, including their designs, symbols, and history."
     },
     {
       "type": "multiple_choice",
@@ -205,7 +212,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Numismatics is the study or collection of coins, currency, and related monetary objects."
     },
     {
       "type": "multiple_choice",
@@ -220,7 +228,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Philately is the study and collection of postage stamps and postal history."
     },
     {
       "type": "multiple_choice",
@@ -235,7 +244,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Defenestration literally means throwing a person or object out of a window."
     },
     {
       "type": "multiple_choice",
@@ -250,7 +260,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Borborygmus is the medical term for rumbling or gurgling sounds produced by the intestines."
     },
     {
       "type": "multiple_choice",
@@ -265,7 +276,8 @@
       "difficulty": "hard",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "A pangram contains every letter of a given alphabet at least once."
     },
     {
       "type": "multiple_choice",
@@ -296,7 +308,8 @@
       "difficulty": "hard",
       "tags": [
         "music"
-      ]
+      ],
+      "explanation": "The oboe traditionally plays the orchestra?s tuning A because its tone is steady and carries clearly."
     },
     {
       "type": "multiple_choice",
@@ -343,7 +356,8 @@
       "difficulty": "hard",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "King John agreed to the Magna Carta at Runnymede in 1215."
     },
     {
       "type": "multiple_choice",
@@ -374,7 +388,8 @@
       "difficulty": "hard",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "Murasaki Shikibu, a Japanese court writer, authored The Tale of Genji in the early eleventh century."
     },
     {
       "type": "multiple_choice",
@@ -389,7 +404,8 @@
       "difficulty": "hard",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "The Epic of Gilgamesh originated in ancient Mesopotamia, with early versions written in Akkadian and Sumerian traditions."
     },
     {
       "type": "multiple_choice",
@@ -404,7 +420,8 @@
       "difficulty": "hard",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "Cuneiform is named for its wedge-shaped impressions, made in clay with a reed stylus."
     },
     {
       "type": "multiple_choice",
@@ -419,7 +436,8 @@
       "difficulty": "hard",
       "tags": [
         "inventions"
-      ]
+      ],
+      "explanation": "The Antikythera mechanism modeled astronomical cycles and helped track calendar and eclipse patterns."
     },
     {
       "type": "multiple_choice",
@@ -434,7 +452,8 @@
       "difficulty": "hard",
       "tags": [
         "places"
-      ]
+      ],
+      "explanation": "Rapa Nui is the Indigenous name for Easter Island, a Polynesian island in the southeastern Pacific."
     },
     {
       "type": "multiple_choice",
@@ -449,7 +468,8 @@
       "difficulty": "hard",
       "tags": [
         "music"
-      ]
+      ],
+      "explanation": "Cremona in northern Italy became renowned for violin making, including Stradivari?s workshop."
     },
     {
       "type": "multiple_choice",
@@ -464,7 +484,8 @@
       "difficulty": "hard",
       "tags": [
         "food"
-      ]
+      ],
+      "explanation": "Capsaicin activates heat-sensitive receptors, creating the burning sensation associated with chili peppers."
     },
     {
       "type": "multiple_choice",
@@ -479,7 +500,8 @@
       "difficulty": "hard",
       "tags": [
         "food"
-      ]
+      ],
+      "explanation": "The Scoville scale expresses chili pepper pungency, historically through dilution tests and now commonly through capsaicinoid measurement."
     },
     {
       "type": "multiple_choice",
@@ -510,7 +532,8 @@
       "difficulty": "hard",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "An Olympiad was a four-year interval used for dating in ancient Greece; it is distinct from an individual Olympic festival."
     },
     {
       "type": "multiple_choice",
@@ -557,7 +580,8 @@
       "difficulty": "hard",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Molt is the periodic shedding and replacement of feathers; the term also applies to other animals shedding coverings."
     },
     {
       "type": "true_false",
@@ -586,7 +610,8 @@
       "difficulty": "hard",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "A palimpsest is writing material reused after earlier writing was erased or scraped away, sometimes leaving traces behind."
     },
     {
       "type": "flashcard",
@@ -595,7 +620,927 @@
       "difficulty": "hard",
       "tags": [
         "science"
-      ]
+      ],
+      "explanation": "Isotopes of an element have the same number of protons but different numbers of neutrons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which NASA mission was the first to land a rover on Mars?",
+      "choices": [
+        "Sojourner",
+        "Curiosity",
+        "Spirit",
+        "Perseverance"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "space",
+        "history"
+      ],
+      "explanation": "Sojourner landed in 1997 as part of the Mars Pathfinder mission."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which planet has the shortest day, measured by one rotation relative to distant stars?",
+      "choices": [
+        "Earth",
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Jupiter rotates in just under ten hours, giving it the shortest day of the planets."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a star that suddenly increases greatly in brightness and then fades?",
+      "choices": [
+        "Pulsar",
+        "Quasar",
+        "Nova",
+        "Nebula"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "A nova is a sudden brightening of a star system, usually involving a white dwarf in a binary system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of celestial object emits regular pulses of radiation as it rotates?",
+      "choices": [
+        "Comet",
+        "Red giant",
+        "Nebula",
+        "Pulsar"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "A pulsar is a rapidly rotating neutron star whose beams sweep past Earth like a lighthouse."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the boundary between Earth’s crust and mantle called?",
+      "choices": [
+        "Mohorovičić discontinuity",
+        "Gutenberg discontinuity",
+        "Lehmann discontinuity",
+        "Conrad boundary"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "earth"
+      ],
+      "explanation": "The Mohorovičić discontinuity, usually shortened to Moho, separates the crust from the mantle."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which scale ranks minerals by scratch hardness from talc to diamond?",
+      "choices": [
+        "Beaufort scale",
+        "Mohs scale",
+        "Fujita scale",
+        "Mercalli scale"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "measurement"
+      ],
+      "explanation": "The Mohs scale compares relative scratch hardness, with talc at 1 and diamond at 10."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which atmospheric layer contains most of the ozone layer?",
+      "choices": [
+        "Troposphere",
+        "Mesosphere",
+        "Stratosphere",
+        "Thermosphere"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "earth"
+      ],
+      "explanation": "Most atmospheric ozone is concentrated in the stratosphere."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which tiny marine animals build many coral reefs by depositing calcium carbonate?",
+      "choices": [
+        "Krill",
+        "Diatoms only",
+        "Sea stars",
+        "Coral polyps"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "explanation": "Coral polyps secrete calcium-carbonate skeletons that form reef structures over time."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mammal lays eggs and has a duck-like bill?",
+      "choices": [
+        "Platypus",
+        "Sea otter",
+        "Manatee",
+        "Pangolin"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "The platypus is a monotreme, one of the few living mammals that lay eggs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What type of relationship benefits both organisms involved?",
+      "choices": [
+        "Parasitism",
+        "Mutualism",
+        "Predation",
+        "Amensalism"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "explanation": "In mutualism, both species gain a benefit from the interaction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which part of a fungus commonly produces and releases reproductive spores?",
+      "choices": [
+        "Chloroplast",
+        "Root cap",
+        "Fruiting body",
+        "Stamen"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "animals"
+      ],
+      "explanation": "Fungal fruiting bodies, such as mushrooms, produce and release spores."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which blood vessels carry oxygen-rich blood from the lungs to the heart?",
+      "choices": [
+        "Pulmonary arteries",
+        "Aorta",
+        "Venae cavae",
+        "Pulmonary veins"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "body"
+      ],
+      "explanation": "Pulmonary veins return oxygenated blood from the lungs to the left atrium."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient people built the monumental city of Petra?",
+      "choices": [
+        "Nabataeans",
+        "Phoenicians",
+        "Minoans",
+        "Hittites"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "places"
+      ],
+      "explanation": "Petra was the capital of the Nabataean kingdom in what is now Jordan."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Terracotta Army was created to guard the tomb of which ruler?",
+      "choices": [
+        "Han Wudi",
+        "Qin Shi Huang",
+        "Kublai Khan",
+        "Sun Yat-sen"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The army was buried near the mausoleum of Qin Shi Huang, the first emperor of a unified China."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1884–85 meeting of European powers formalized rules for claiming territory in Africa?",
+      "choices": [
+        "Congress of Vienna",
+        "Treaty of Utrecht",
+        "Berlin Conference",
+        "Yalta Conference"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The Berlin Conference established rules for European claims in Africa, accelerating the Scramble for Africa."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient civilization used Linear B, a script that records an early form of Greek?",
+      "choices": [
+        "Phoenicians",
+        "Etruscans",
+        "Sumerians",
+        "Mycenaean Greeks"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Linear B was used by the Mycenaean Greeks to record an early form of Greek."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1919 treaty set peace terms between Germany and the Allied powers after World War I?",
+      "choices": [
+        "Treaty of Versailles",
+        "Treaty of Utrecht",
+        "Treaty of Tordesillas",
+        "Treaty of Paris (1783)"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The Treaty of Versailles was signed on June 28, 1919."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which city was the capital of the Byzantine Empire for most of its history?",
+      "choices": [
+        "Rome",
+        "Constantinople",
+        "Antioch",
+        "Alexandria"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "places"
+      ],
+      "explanation": "Constantinople, now Istanbul, served as the Byzantine Empire’s capital."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which empire built a road network connecting its Andean territories?",
+      "choices": [
+        "Mali Empire",
+        "Mughal Empire",
+        "Inca Empire",
+        "Aksumite Empire"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "places"
+      ],
+      "explanation": "The Inca built an extensive road system across the Andes to connect their empire."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sea separates the Italian Peninsula from the Balkan Peninsula?",
+      "choices": [
+        "Aegean Sea",
+        "Baltic Sea",
+        "North Sea",
+        "Adriatic Sea"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "places"
+      ],
+      "explanation": "The Adriatic Sea lies between Italy and the Balkans."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which channel separates Great Britain from France at its narrowest point?",
+      "choices": [
+        "Strait of Dover",
+        "St George’s Channel",
+        "Skagerrak",
+        "Bristol Channel"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "places"
+      ],
+      "explanation": "The Strait of Dover is the narrowest part of the English Channel."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which African country is completely surrounded by South Africa?",
+      "choices": [
+        "Eswatini",
+        "Lesotho",
+        "Botswana",
+        "Namibia"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "places"
+      ],
+      "explanation": "Lesotho is an enclave entirely surrounded by South African territory."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the region of Transylvania?",
+      "choices": [
+        "Hungary",
+        "Bulgaria",
+        "Romania",
+        "Serbia"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "places"
+      ],
+      "explanation": "Transylvania is a historical region in central Romania."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a word that imitates a sound, such as “buzz” or “clang”?",
+      "choices": [
+        "Oxymoron",
+        "Euphemism",
+        "Synecdoche",
+        "Onomatopoeia"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "words"
+      ],
+      "explanation": "Onomatopoeia uses words whose sound imitates or suggests the sound they describe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which rhetorical device uses a part to represent a whole, as in “all hands on deck”?",
+      "choices": [
+        "Synecdoche",
+        "Euphemism",
+        "Irony",
+        "Assonance"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "words"
+      ],
+      "explanation": "In “all hands,” hands stand for the sailors being called."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an oxymoron?",
+      "choices": [
+        "A word with the same sound as another",
+        "A phrase combining apparently contradictory terms",
+        "A sentence with no verb",
+        "A repeated initial consonant sound"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "words"
+      ],
+      "explanation": "“Deafening silence” is a familiar example of an oxymoron."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which language is commonly written with the Devanagari script?",
+      "choices": [
+        "Japanese",
+        "Arabic",
+        "Hindi",
+        "Greek"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "words",
+        "language"
+      ],
+      "explanation": "Hindi is commonly written in Devanagari, a script also used for several other South Asian languages."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument is central to the traditional Japanese court ensemble music gagaku?",
+      "choices": [
+        "Didgeridoo",
+        "Balalaika",
+        "Bandoneon",
+        "Shō"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "music"
+      ],
+      "explanation": "The shō is a mouth organ used in Japanese gagaku court music."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “counterpoint” mean in music?",
+      "choices": [
+        "The combination of distinct melodic lines sounding together",
+        "A change from major to minor",
+        "A repeated drum pattern",
+        "A pause at the end of a phrase"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Counterpoint is the relationship between independent melodic lines played or sung together."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which dance is closely associated with Buenos Aires and Montevideo?",
+      "choices": [
+        "Samba",
+        "Tango",
+        "Flamenco",
+        "Polka"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "music",
+        "places"
+      ],
+      "explanation": "Tango developed in the Río de la Plata region around Buenos Aires and Montevideo."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which process separates a mixture based on components moving at different rates through a stationary material?",
+      "choices": [
+        "Crystallization",
+        "Decantation",
+        "Chromatography",
+        "Sublimation"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "science"
+      ],
+      "explanation": "Chromatography separates mixture components because they interact differently with a stationary phase and a moving phase."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of bond joins the sugar and phosphate groups along a DNA strand?",
+      "choices": [
+        "Peptide bond",
+        "Hydrogen bond",
+        "Ionic bond",
+        "Phosphodiester bond"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "Phosphodiester bonds link the sugar of one nucleotide to the phosphate of the next in a DNA backbone."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which microorganism is chiefly responsible for alcoholic fermentation in bread dough?",
+      "choices": [
+        "Yeast",
+        "Mold",
+        "Amoeba",
+        "Algae"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "food"
+      ],
+      "explanation": "Yeast ferments sugars and releases carbon dioxide, which helps bread dough rise."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Japanese art form uses woodblock prints to depict subjects such as landscapes and theater?",
+      "choices": [
+        "Ikebana",
+        "Ukiyo-e",
+        "Noh",
+        "Kintsugi"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "art",
+        "history"
+      ],
+      "explanation": "Ukiyo-e, “pictures of the floating world,” is a genre of Japanese woodblock printing and painting."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which architectural feature transfers the outward thrust of a roof or vault to a separate support outside a wall?",
+      "choices": [
+        "Corbel arch",
+        "Lintel",
+        "Flying buttress",
+        "Clerestory"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "art",
+        "history"
+      ],
+      "explanation": "A flying buttress braces a wall or vault through an arched exterior support, a hallmark of Gothic architecture."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which scientist proposed the three laws of motion and universal gravitation in Principia Mathematica?",
+      "choices": [
+        "James Clerk Maxwell",
+        "Robert Boyle",
+        "Antoine Lavoisier",
+        "Isaac Newton"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "history"
+      ],
+      "explanation": "Newton presented his laws of motion and law of universal gravitation in the 1687 Principia."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which enzyme unwinds the DNA double helix during replication?",
+      "choices": [
+        "Helicase",
+        "Ligase",
+        "Amylase",
+        "Lipase"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "Helicase separates the DNA strands by disrupting the hydrogen bonds between paired bases."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the supercontinent that existed before the modern continents separated?",
+      "choices": [
+        "Laurasia only",
+        "Pangaea",
+        "Gondwana only",
+        "Rodinia Minor"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "earth"
+      ],
+      "explanation": "Pangaea was a supercontinent that assembled during the late Paleozoic and began to break apart in the Mesozoic."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country’s historic city of Timbuktu became a center of scholarship in the Mali Empire?",
+      "choices": [
+        "Senegal",
+        "Niger",
+        "Mali",
+        "Chad"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "places"
+      ],
+      "explanation": "Timbuktu, in present-day Mali, became an important center of trade and Islamic scholarship."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for the apparent shift in a nearby star’s position against distant stars as Earth orbits the Sun?",
+      "choices": [
+        "Redshift",
+        "Aberration",
+        "Occultation",
+        "Stellar parallax"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "space",
+        "science"
+      ],
+      "explanation": "Astronomers use stellar parallax, the apparent position change over Earth’s orbit, to estimate nearby star distances."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument measures the relative humidity of air?",
+      "choices": [
+        "Hygrometer",
+        "Barometer",
+        "Anemometer",
+        "Altimeter"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "measurement"
+      ],
+      "explanation": "A hygrometer measures moisture in the air, often reported as relative humidity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mammal is the only one capable of true sustained flight?",
+      "choices": [
+        "Flying squirrel",
+        "Bat",
+        "Colugo",
+        "Sugar glider"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Bats generate powered flight; the other animals glide rather than sustain powered flight."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a word or phrase that reads the same forward and backward, ignoring spaces and punctuation?",
+      "choices": [
+        "Anagram",
+        "Isogram",
+        "Palindrome",
+        "Acronym"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "words"
+      ],
+      "explanation": "A palindrome such as “racecar” reads the same in either direction."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A complete metamorphosis in insects includes egg, larva, pupa, and adult stages.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "explanation": "Holometabolous insects pass through four distinct stages: egg, larva, pupa, and adult."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Andromeda Galaxy is the nearest large spiral galaxy to the Milky Way.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Andromeda is the nearest large spiral galaxy and is on a collision course with the Milky Way over billions of years."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A flying buttress is a type of underground foundation.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "art",
+        "history"
+      ],
+      "explanation": "A flying buttress is an exterior arching support used to brace walls and vaults."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Yeast is a type of fungus.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "food"
+      ],
+      "explanation": "Yeasts are single-celled fungi."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The phosphodiester bonds of DNA connect the nitrogenous bases directly to one another.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "Phosphodiester bonds form the sugar-phosphate backbone; complementary bases pair through hydrogen bonds."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Berlin Conference was held in the late nineteenth century.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The conference met from 1884 to 1885."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A hygrometer measures atmospheric pressure.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "measurement"
+      ],
+      "explanation": "A hygrometer measures humidity; a barometer measures atmospheric pressure."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A bat’s wing is a modified forelimb with elongated fingers supporting a membrane.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "explanation": "Bat wings are formed by a membrane stretched across elongated finger bones and the body."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is mycelium?",
+      "answer": "The network of threadlike hyphae that forms the vegetative body of many fungi.",
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "A mushroom is only the visible fruiting body of some fungi; much of the organism may be mycelium in the substrate."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a flying buttress?",
+      "answer": "An exterior arched support that carries the outward thrust of a wall or vault to a separate pier.",
+      "difficulty": "hard",
+      "tags": [
+        "art",
+        "history"
+      ],
+      "explanation": "Flying buttresses allowed Gothic builders to use taller walls and larger windows."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “ukiyo-e” refer to?",
+      "answer": "A Japanese genre of painting and woodblock printing associated with images of the “floating world.”",
+      "difficulty": "hard",
+      "tags": [
+        "art",
+        "history"
+      ],
+      "explanation": "Ukiyo-e prints often depicted urban life, landscapes, actors, and courtesans."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a phosphodiester bond?",
+      "answer": "A covalent link that joins adjacent sugar and phosphate groups in the backbone of DNA or RNA.",
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "Alternating sugars and phosphates form nucleic-acid backbones through phosphodiester bonds."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the Scramble for Africa?",
+      "answer": "The rapid nineteenth-century expansion of European colonial claims and control across Africa.",
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "places"
+      ],
+      "explanation": "The Berlin Conference is associated with rules for European claims but did not itself draw every African border."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the explosive death of a massive star called?",
+      "choices": [
+        "A supernova",
+        "A nova",
+        "A transit",
+        "A conjunction"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "A supernova is a powerful stellar explosion; some types mark the end of a massive star’s life."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which thermodynamic quantity is commonly represented by the symbol S and associated with the dispersal of energy?",
+      "choices": [
+        "Enthalpy",
+        "Pressure",
+        "Entropy",
+        "Work"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "physics"
+      ],
+      "explanation": "Entropy is a state function related to the number of microscopic configurations and the dispersal of energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which enzyme joins DNA fragments by sealing breaks in the sugar-phosphate backbone?",
+      "choices": [
+        "Helicase",
+        "Amylase",
+        "RNA primase",
+        "DNA ligase"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "science",
+        "biology"
+      ],
+      "explanation": "DNA ligase forms phosphodiester bonds to seal nicks between adjacent DNA fragments."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a word formed from the initial letters of a phrase and pronounced as a word, such as “NASA,” called?",
+      "choices": [
+        "Acronym",
+        "Initialism",
+        "Anagram",
+        "Eponym"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "words",
+        "language"
+      ],
+      "explanation": "An acronym is pronounced as a word; an initialism such as FBI is spoken letter by letter."
     }
   ]
 }

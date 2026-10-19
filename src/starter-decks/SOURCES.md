@@ -1,6 +1,6 @@
 # Starter deck references
 
-Content review date: 17 October 2026.
+Content review date: 19 October 2026.
 
 These references support the new decks and the revised vocabulary and distractors. Short dictionary excerpts are attributed in question explanations; examples and quiz wording are original. Definitions refer to the sense used in each question, rather than every meaning a word can have.
 
@@ -199,5 +199,41 @@ Questions and explanations are original and use everyday examples. Safety questi
 - [UNESCO: Great Zimbabwe National Monument](https://whc.unesco.org/en/list/364/), [The Metropolitan Museum of Art: Maya Area, 1400–1600](https://82nd-and-fifth.metmuseum.org/toah/ht/08/cana.html), and [Smithsonian National Museum of the American Indian: Woodlands](https://americanindian.si.edu/exhibitions/infinityofnations/woodlands.html) for the African, Maya, and North American society cards.
 - [National Park Service: History of El Camino Real de Tierra Adentro](https://home.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm) for the Pueblo Revolt question; [USC Shoah Foundation: Nanjing Massacre testimonies](https://sfi.usc.edu/collections/nanjing-massacre) for the World War II atrocity card.
 - [OpenStax World History, Volume 2](https://openstax.org/details/books/world-history-volume-2) for cross-regional context and chronology. Question wording, scenarios, source paraphrases, answer choices, and explanations are original; no long source passages or AP exam questions are reproduced.
+
+## NBA (expanded)
+
+- [NBA official rulebook](https://official.nba.com/rulebook/) for rules and violations.
+- [NBA history: champions](https://www.nba.com/news/history-nba-champions), [NBA Finals MVP winners](https://www.nba.com/news/history-finals-mvp-winners), and [NBA all-time records](https://www.nba.com/news/history-all-time-records) for season-specific titles, award recipients, and statistical records through the 2025-26 season.
+- [NBA: first game anniversary](https://www.nba.com/news/nba-celebrates-first-game-anniversary-on-nov-1-in-new-york) for the first BAA game and the league's early history.
+
+## World Geography
+
+- [United Nations Statistics Division: M49 regions](https://unstats.un.org/unsd/methodology/m49/) for country and geographic-region classifications.
+- [NOAA Ocean Service: ocean depth](https://oceanservice.noaa.gov/facts/oceandepth.html) for seafloor and deep-ocean facts.
+- [USGS: education and geologic maps](https://www.usgs.gov/programs/education-science) for map reading, landforms, watersheds, and Earth-surface concepts.
+- [National Geographic Education: physical geography](https://education.nationalgeographic.org/resource/physical-geography/) for landforms, climate, rivers, and map concepts.
+- [UNESCO World Heritage: Machu Picchu](https://whc.unesco.org/en/list/274/) and [Angkor](https://whc.unesco.org/en/list/668/) for place-specific heritage context. Geography classifications may vary by convention; question wording names the convention where that distinction matters.
+
+## World Facts
+
+- [OpenStax Biology 2e](https://openstax.org/details/books/biology-2e) and [OpenStax Chemistry 2e](https://openstax.org/details/books/chemistry-2e) for biology, cell, chemistry, and introductory science facts.
+- [OpenStax University Physics](https://openstax.org/details/books/university-physics-volume-1) for mechanics, waves, and measurement.
+- [NASA Science](https://science.nasa.gov/) for solar-system, astronomy, and space-science facts.
+- [NIST: SI units](https://www.nist.gov/pml/owm/metric-si/si-units) for measurement units and definitions.
+- [United Nations](https://www.un.org/en/about-us), [UNESCO](https://www.unesco.org/en), and [World Health Organization](https://www.who.int/about) for institutional roles and international terminology.
+- [UNESCO World Heritage](https://whc.unesco.org/en/about/) for the meaning and criteria of World Heritage designation.
+
+## Recent General Knowledge (reviewed 19 October 2026)
+
+- [NASA: Artemis I](https://www.nasa.gov/mission/artemis-i/), [DART impact results](https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/), [OSIRIS-REx](https://science.nasa.gov/mission/osiris-rex/), and [the 2024 total solar eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/) for NASA mission milestones.
+- [ISRO: Chandrayaan-3 August 2023 summary](https://www.isro.gov.in/media_isro/pdf/Monthly_summary/MonthlySummary_August2023Eng.pdf), [CNSA: Chang'e-6 far-side samples](https://www.cnsa.gov.cn/english/n6465652/n6465653/c10573149/content.html), [ESA: Euclid's first images](https://www.esa.int/Newsroom/Press_Releases/Euclid_s_first_images_the_dazzling_edge_of_darkness), and [JAXA: SLIM](https://global.jaxa.jp/projects/sas/slim/) for international space missions.
+- [Nobel Prize: all prizes](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/) and [2025 annual report](https://www.nobelprize.org/uploads/2026/04/annual-report-2025.pdf) for laureates and prize citations from 2022-2025.
+- [WHO: end of COVID-19 PHEIC status](https://www.who.int/europe/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-%282005%29-emergency-committee-regarding-the-coronavirus-disease-%28covid-19%29-pandemic) for the May 2023 status change; the question preserves WHO's distinction between the end of the emergency status and the continuing health threat.
+- [United Nations: International Years](https://www.un.org/en/observances/international-years) for 2025 and 2026 observances; [UNFCCC: COP28](https://unfccc.int/cop28) and [COP31](https://unfccc.int/cop31/about) for climate-conference outcomes and the scheduled Antalya meeting.
+- [FIFA: 2023 Women's World Cup](https://inside.fifa.com/official-documents/annual-report/2023/2023-at-a-glance/fifa-womens-world-cup-summary), [FIFA: 2026 World Cup final standings](https://www.fifa.com/en/articles/final-tournament-standings), [CAF: AFCON appeal ruling](https://www.cafonline.com/news/caf-appeal-board-media-statement/), and [Court of Arbitration for Sport: Senegal's appeal](https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_appeal.pdf) for tournament results and the related appeal. The AFCON item states the CAF Appeal Board's ruling and notes the appeal context rather than presenting the original on-field result as final.
+- [IOC: Paris 2024 gender parity](https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3702240&parentDocumentId=3598869&skipCopyright=true&skipWatermark=true), [Milano Cortina 2026](https://newsroom.olympics.com/record/908), [MLB: 2026 World Baseball Classic](https://www.mlb.com/news/venezuela-wins-world-baseball-classic-2026), and [FIFA: 2025 Club World Cup](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025) for sports milestones.
+- [Expo 2025 Osaka official overview](https://www.expo2025.or.jp/en/overview/) and [European Parliament: 2024 European elections](https://www.europarl.europa.eu/election-results-2024/en/) for cultural and civic events.
+
+Recent-event questions name the relevant year. Future 2026 events are described as scheduled, not completed, and results are tied to official governing-body records available at the review date. Question wording and explanations are original.
 
 The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Enyalië's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.

@@ -1,0 +1,1487 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-world-geography",
+    "name": "World Geography",
+    "description": "Regional geography, rivers, landforms, climate, map skills, and political geography."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country is divided into the regions of Flanders, Wallonia, and Brussels-Capital?",
+      "choices": [
+        "Netherlands",
+        "Belgium",
+        "Luxembourg",
+        "Switzerland"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "Europe"
+      ],
+      "explanation": "Belgium is a federal state with three regions: the Dutch-speaking Flanders, French-speaking Wallonia, and bilingual Brussels-Capital."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mountain range forms much of the boundary between France and Spain?",
+      "choices": [
+        "Apennines",
+        "Carpathians",
+        "Pyrenees",
+        "Dinaric Alps"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "Europe"
+      ],
+      "explanation": "The Pyrenees extend between the Bay of Biscay and the Mediterranean, separating the Iberian Peninsula from France."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Po River drains much of which part of Italy?",
+      "choices": [
+        "The far south",
+        "Sicily",
+        "Sardinia",
+        "The north"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Europe"
+      ],
+      "explanation": "The Po flows east across northern Italy into the Adriatic Sea."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sea lies between the Balkan Peninsula and Anatolia?",
+      "choices": [
+        "Aegean Sea",
+        "Baltic Sea",
+        "Arabian Sea",
+        "Labrador Sea"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "seas",
+        "Europe"
+      ],
+      "explanation": "The Aegean Sea is part of the eastern Mediterranean between Greece and Türkiye."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which European capital stands on the River Vltava?",
+      "choices": [
+        "Vienna",
+        "Prague",
+        "Warsaw",
+        "Zagreb"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "capitals",
+        "Europe"
+      ],
+      "explanation": "The Vltava flows through Prague before joining the Elbe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country has coastlines on both the Adriatic and Ionian seas?",
+      "choices": [
+        "Hungary",
+        "Austria",
+        "Albania",
+        "Slovakia"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "Europe"
+      ],
+      "explanation": "Albania has a western coast on the Adriatic and a southern coast on the Ionian Sea."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Transfăgărășan road crosses which mountain range?",
+      "choices": [
+        "Ural Mountains",
+        "Pyrenees",
+        "Scandinavian Mountains",
+        "Carpathians"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "landforms",
+        "Europe"
+      ],
+      "explanation": "The Transfăgărășan crosses the Făgăraș Mountains, part of Romania’s Southern Carpathians."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country occupies most of the Jutland Peninsula?",
+      "choices": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "Europe"
+      ],
+      "explanation": "Most of Jutland belongs to Denmark, while its southern portion is in Germany."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river flows through Lyon and joins the Rhône?",
+      "choices": [
+        "Loire",
+        "Saône",
+        "Garonne",
+        "Meuse"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "rivers",
+        "Europe"
+      ],
+      "explanation": "The Saône meets the Rhône in Lyon in southeastern France."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which island group belongs to Portugal and lies in the North Atlantic?",
+      "choices": [
+        "Balearic Islands",
+        "Cyclades",
+        "Azores",
+        "Shetland Islands"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "islands",
+        "Europe"
+      ],
+      "explanation": "The Azores are an autonomous region of Portugal located in the mid-Atlantic."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the autonomous region of Gagauzia?",
+      "choices": [
+        "Romania",
+        "Ukraine",
+        "Georgia",
+        "Moldova"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "countries",
+        "Europe"
+      ],
+      "explanation": "Gagauzia is an autonomous territorial unit in southern Moldova."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which strait links the Black Sea to the Sea of Marmara?",
+      "choices": [
+        "Bosphorus",
+        "Dardanelles",
+        "Strait of Gibraltar",
+        "Kattegat"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "waterways",
+        "Europe"
+      ],
+      "explanation": "The Bosphorus passes through Istanbul and connects the Black Sea with the Sea of Marmara."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country is home to the Svalbard archipelago?",
+      "choices": [
+        "Iceland",
+        "Norway",
+        "Canada",
+        "Denmark"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "islands",
+        "Europe"
+      ],
+      "explanation": "Svalbard is a Norwegian archipelago in the Arctic Ocean."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river forms a large part of the border between Germany and Poland?",
+      "choices": [
+        "Rhine",
+        "Seine",
+        "Oder",
+        "Tagus"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Europe"
+      ],
+      "explanation": "The Oder, together with the Lusatian Neisse, forms much of the Germany–Poland border."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which capital is located at the confluence of the Sava and Danube rivers?",
+      "choices": [
+        "Sofia",
+        "Skopje",
+        "Tirana",
+        "Belgrade"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "capitals",
+        "Europe"
+      ],
+      "explanation": "Belgrade lies where the Sava joins the Danube in Serbia."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which body of water separates mainland Greece from the Peloponnese at the Corinth Canal?",
+      "choices": [
+        "Isthmus of Corinth",
+        "Gulf of Bothnia",
+        "Gulf of Lion",
+        "Bay of Biscay"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "landforms",
+        "Europe"
+      ],
+      "explanation": "The Corinth Canal cuts through the narrow Isthmus of Corinth, connecting the Gulf of Corinth with the Saronic Gulf."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country surrounds the Italian enclaves of Campione d’Italia and, almost entirely, Vatican City?",
+      "choices": [
+        "Switzerland",
+        "Italy",
+        "France",
+        "Austria"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "countries",
+        "Europe"
+      ],
+      "explanation": "Vatican City is an enclave within Rome, while Campione d’Italia is an Italian exclave surrounded by Switzerland."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river flows through the city of Porto before reaching the Atlantic?",
+      "choices": [
+        "Ebro",
+        "Tiber",
+        "Douro",
+        "Rhine"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "rivers",
+        "Europe"
+      ],
+      "explanation": "The Douro crosses northern Portugal and enters the Atlantic at Porto."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country is crossed by the Tropic of Cancer and contains the Thar Desert?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "India"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "Asia"
+      ],
+      "explanation": "The Tropic of Cancer crosses northern India, and the Thar Desert lies mainly in India and Pakistan."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river flows through the ancient city of Varanasi?",
+      "choices": [
+        "Ganges",
+        "Indus",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "rivers",
+        "Asia"
+      ],
+      "explanation": "Varanasi stands on the Ganges in northern India."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Wakhan Corridor, a narrow strip reaching toward China?",
+      "choices": [
+        "Tajikistan",
+        "Afghanistan",
+        "Pakistan",
+        "Nepal"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "countries",
+        "Asia"
+      ],
+      "explanation": "The Wakhan Corridor is a narrow eastern extension of Afghanistan between Tajikistan and Pakistan."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which inland sea lies between Kazakhstan and Uzbekistan?",
+      "choices": [
+        "Caspian Sea",
+        "Dead Sea",
+        "Aral Sea",
+        "Lake Balkhash"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "lakes",
+        "Asia"
+      ],
+      "explanation": "The Aral Sea lies between Kazakhstan and Uzbekistan and has dramatically shrunk because of river diversion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country is separated from the Korean Peninsula by the Korea Strait?",
+      "choices": [
+        "Russia",
+        "Taiwan",
+        "Philippines",
+        "Japan"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "waterways",
+        "Asia"
+      ],
+      "explanation": "The Korea Strait lies between South Korea and the Japanese islands."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river flows through Cambodia’s capital, Phnom Penh, and meets the Mekong there?",
+      "choices": [
+        "Tonlé Sap River",
+        "Irrawaddy",
+        "Salween",
+        "Red River"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "rivers",
+        "Asia"
+      ],
+      "explanation": "The Tonlé Sap River links the Great Lake with the Mekong and meets it in Phnom Penh."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which two countries share the island of Borneo with Brunei?",
+      "choices": [
+        "Thailand and Malaysia",
+        "Indonesia and Malaysia",
+        "Indonesia and Timor-Leste",
+        "Philippines and Indonesia"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "islands",
+        "Asia"
+      ],
+      "explanation": "Borneo is divided among Indonesia, Malaysia, and Brunei."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which mountain range separates much of the Indian subcontinent from the Tibetan Plateau?",
+      "choices": [
+        "Aravalli Range",
+        "Western Ghats",
+        "Himalayas",
+        "Zagros Mountains"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "Asia"
+      ],
+      "explanation": "The Himalayan chain forms a high natural barrier between the Indian subcontinent and the Tibetan Plateau."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Fergana Valley along with Uzbekistan and Kyrgyzstan?",
+      "choices": [
+        "Turkmenistan",
+        "Afghanistan",
+        "Mongolia",
+        "Tajikistan"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "regions",
+        "Asia"
+      ],
+      "explanation": "The Fergana Valley spans parts of Uzbekistan, Kyrgyzstan, and Tajikistan."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which strait separates the Malay Peninsula from the Indonesian island of Sumatra?",
+      "choices": [
+        "Strait of Malacca",
+        "Sunda Strait",
+        "Lombok Strait",
+        "Taiwan Strait"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "waterways",
+        "Asia"
+      ],
+      "explanation": "The Strait of Malacca is a major shipping route between the Malay Peninsula and Sumatra."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the ancient city of Samarkand?",
+      "choices": [
+        "Iran",
+        "Uzbekistan",
+        "Iraq",
+        "Azerbaijan"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "cities",
+        "Asia"
+      ],
+      "explanation": "Samarkand is a historic city in Uzbekistan and an important Silk Road center."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river system drains much of mainland Southeast Asia and flows through Laos, Thailand, Cambodia, and Vietnam?",
+      "choices": [
+        "Ganges",
+        "Yangtze",
+        "Mekong",
+        "Amur"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Asia"
+      ],
+      "explanation": "The Mekong flows through or along six countries and forms a large delta in southern Vietnam."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country’s capital, Ulaanbaatar, is one of the world’s coldest national capitals?",
+      "choices": [
+        "Kazakhstan",
+        "Nepal",
+        "Bhutan",
+        "Mongolia"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "capitals",
+        "Asia"
+      ],
+      "explanation": "Ulaanbaatar has a strongly continental climate and very cold winters."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which desert occupies much of the Arabian Peninsula?",
+      "choices": [
+        "Arabian Desert",
+        "Gobi Desert",
+        "Karakum Desert",
+        "Thar Desert"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "Asia"
+      ],
+      "explanation": "The Arabian Desert spans most of the Arabian Peninsula, including the Rub’ al Khali."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which major river flows through Baghdad?",
+      "choices": [
+        "Euphrates",
+        "Tigris",
+        "Jordan",
+        "Orontes"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Asia"
+      ],
+      "explanation": "Baghdad is situated on the Tigris; the Tigris and Euphrates form much of Mesopotamia’s river system."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Asian country is made up of more than 7,000 islands and has Manila as its capital?",
+      "choices": [
+        "Indonesia",
+        "Japan",
+        "Philippines",
+        "Maldives"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "countries",
+        "Asia"
+      ],
+      "explanation": "The Philippines is an archipelago in the western Pacific with Manila as its capital."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gulf lies between Iran and the Arabian Peninsula?",
+      "choices": [
+        "Gulf of Aden",
+        "Gulf of Oman",
+        "Gulf of Thailand",
+        "Persian Gulf"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "seas",
+        "Asia"
+      ],
+      "explanation": "The Persian Gulf is a semi-enclosed sea between Iran and the Arabian Peninsula."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Sundarbans, a vast mangrove region shared with India?",
+      "choices": [
+        "Bangladesh",
+        "Myanmar",
+        "Sri Lanka",
+        "Pakistan"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "regions",
+        "Asia"
+      ],
+      "explanation": "The Sundarbans span southwestern Bangladesh and adjacent eastern India in the Ganges–Brahmaputra delta."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which African lake is a major source region of the White Nile?",
+      "choices": [
+        "Lake Chad",
+        "Lake Victoria",
+        "Lake Turkana",
+        "Lake Malawi"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "lakes",
+        "Africa"
+      ],
+      "explanation": "The White Nile’s headwater system includes streams flowing from the Lake Victoria basin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Atlas Mountains and borders both the Atlantic Ocean and the Mediterranean Sea?",
+      "choices": [
+        "Niger",
+        "Chad",
+        "Morocco",
+        "Sudan"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "countries",
+        "Africa"
+      ],
+      "explanation": "Morocco has Atlantic and Mediterranean coasts and includes the western Atlas ranges."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river forms much of the border between Zambia and Zimbabwe?",
+      "choices": [
+        "Orange",
+        "Senegal",
+        "Limpopo",
+        "Zambezi"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Africa"
+      ],
+      "explanation": "The Zambezi forms part of the Zambia–Zimbabwe border and flows over Victoria Falls."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which African country has the exclave of Cabinda separated from its main territory by a strip of the Democratic Republic of the Congo?",
+      "choices": [
+        "Angola",
+        "Gabon",
+        "Cameroon",
+        "Mozambique"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "countries",
+        "Africa"
+      ],
+      "explanation": "Cabinda is an Angolan exclave on the Atlantic coast, separated from the rest of Angola by the DRC."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the ancient rock-hewn churches of Lalibela?",
+      "choices": [
+        "Eritrea",
+        "Ethiopia",
+        "Egypt",
+        "Kenya"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "cities",
+        "Africa"
+      ],
+      "explanation": "Lalibela in Ethiopia is famous for its medieval rock-hewn churches."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which African river flows north through Sudan and Egypt?",
+      "choices": [
+        "Congo",
+        "Niger",
+        "Nile",
+        "Zambezi"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "rivers",
+        "Africa"
+      ],
+      "explanation": "The Nile flows north through Sudan and Egypt to the Mediterranean Sea."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country’s capital is Windhoek?",
+      "choices": [
+        "Botswana",
+        "Lesotho",
+        "Eswatini",
+        "Namibia"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "capitals",
+        "Africa"
+      ],
+      "explanation": "Windhoek is the capital of Namibia, in southwestern Africa."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which highland region is shared by Ethiopia and Eritrea?",
+      "choices": [
+        "Ethiopian Highlands",
+        "Drakensberg",
+        "Ahaggar Mountains",
+        "Rwenzori Mountains"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "landforms",
+        "Africa"
+      ],
+      "explanation": "The Ethiopian Highlands extend into Eritrea and form the headwaters of several regional rivers."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which island country lies east of Mozambique and is known for its distinctive lemur fauna?",
+      "choices": [
+        "Mauritius",
+        "Madagascar",
+        "Seychelles",
+        "Comoros"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "islands",
+        "Africa"
+      ],
+      "explanation": "Madagascar is a large island off southeastern Africa; most lemur species are native there."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which African country is crossed by the Equator and includes the Rwenzori Mountains?",
+      "choices": [
+        "Morocco",
+        "Senegal",
+        "Uganda",
+        "Tunisia"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "Africa"
+      ],
+      "explanation": "The Equator crosses Uganda, where the Rwenzori range rises along the border with the Democratic Republic of the Congo."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river forms a large inland delta in Botswana?",
+      "choices": [
+        "Orange",
+        "Congo",
+        "Volta",
+        "Okavango"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "Africa"
+      ],
+      "explanation": "The Okavango River spreads into a large seasonal delta in the Kalahari Basin rather than reaching the sea."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country occupies most of the Cape Verde archipelago?",
+      "choices": [
+        "Cabo Verde",
+        "Guinea-Bissau",
+        "São Tomé and Príncipe",
+        "Gambia"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "islands",
+        "Africa"
+      ],
+      "explanation": "Cabo Verde is an island country in the Atlantic Ocean off the coast of West Africa."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the port city of Mombasa?",
+      "choices": [
+        "Tanzania",
+        "Kenya",
+        "Somalia",
+        "Mozambique"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "cities",
+        "Africa"
+      ],
+      "explanation": "Mombasa is a major port on Kenya’s Indian Ocean coast."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which South American country has coastlines on both the Caribbean Sea and the Pacific Ocean?",
+      "choices": [
+        "Ecuador",
+        "Peru",
+        "Colombia",
+        "Chile"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "South America"
+      ],
+      "explanation": "Colombia borders both the Caribbean Sea and the Pacific Ocean."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which branch of the Amazon River flows through Manaus before joining the Rio Negro?",
+      "choices": [
+        "Solimões",
+        "Paraná",
+        "Orinoco",
+        "São Francisco"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "rivers",
+        "South America"
+      ],
+      "explanation": "The Solimões reaches Manaus; its confluence with the Rio Negro forms the lower Amazon, called the Amazonas downstream."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Atacama Desert’s northern portion?",
+      "choices": [
+        "Chile",
+        "Argentina",
+        "Uruguay",
+        "Brazil"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "South America"
+      ],
+      "explanation": "The Atacama is an extremely arid region along northern Chile’s Pacific coast."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country contains the Guiana Highlands and the Angel Falls?",
+      "choices": [
+        "Peru",
+        "Venezuela",
+        "Paraguay",
+        "Uruguay"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "landforms",
+        "South America"
+      ],
+      "explanation": "Angel Falls drops from Auyán-tepui in Venezuela’s Guiana Highlands."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which South American capital is situated at high altitude in the Andes and serves as Bolivia’s seat of government?",
+      "choices": [
+        "Sucre",
+        "Quito",
+        "La Paz",
+        "Lima"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "capitals",
+        "South America"
+      ],
+      "explanation": "La Paz is Bolivia’s administrative capital and one of the world’s highest major cities; Sucre is the constitutional capital."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river is formed by the confluence of the Paraná and Uruguay rivers before reaching the Atlantic?",
+      "choices": [
+        "Orinoco",
+        "Magdalena",
+        "Tocantins",
+        "Río de la Plata"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "rivers",
+        "South America"
+      ],
+      "explanation": "The Paraná and Uruguay rivers meet to form the broad Río de la Plata estuary between Argentina and Uruguay."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country shares the Llanos tropical grasslands with Venezuela?",
+      "choices": [
+        "Colombia",
+        "Chile",
+        "Ecuador",
+        "Bolivia"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "regions",
+        "South America"
+      ],
+      "explanation": "The Llanos extend across Colombia and Venezuela in the Orinoco basin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which country is crossed by the equator and has the Galápagos Islands as a province?",
+      "choices": [
+        "Peru",
+        "Ecuador",
+        "Colombia",
+        "Guyana"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "countries",
+        "South America"
+      ],
+      "explanation": "The Galápagos are part of Ecuador, whose mainland is crossed by the Equator."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which river flows through the city of Rosario in Argentina?",
+      "choices": [
+        "Amazon",
+        "Essequibo",
+        "Paraná",
+        "Orinoco"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "South America"
+      ],
+      "explanation": "Rosario is an important port on the Paraná River."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which archipelago is shared by Ecuador and lies about 1,000 kilometers west of its mainland?",
+      "choices": [
+        "Juan Fernández Islands",
+        "Falkland Islands",
+        "Tierra del Fuego",
+        "Galápagos Islands"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "islands",
+        "South America"
+      ],
+      "explanation": "The Galápagos lie in the Pacific Ocean west of Ecuador and are internationally known for endemic wildlife."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which South American country has Georgetown as its capital?",
+      "choices": [
+        "Guyana",
+        "Suriname",
+        "French Guiana",
+        "Venezuela"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "capitals",
+        "South America"
+      ],
+      "explanation": "Georgetown is the capital of Guyana, on the northern Atlantic coast."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which climate classification describes a region with very little precipitation and sparse vegetation?",
+      "choices": [
+        "Humid continental",
+        "Oceanic",
+        "Arid",
+        "Tropical monsoon"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "climate"
+      ],
+      "explanation": "Arid climates receive little precipitation relative to potential evaporation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "On a topographic map, what do closely spaced contour lines usually indicate?",
+      "choices": [
+        "Flat terrain",
+        "A river flowing north",
+        "A political boundary",
+        "Steep terrain"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "maps"
+      ],
+      "explanation": "Closely spaced contour lines show that elevation changes rapidly over a short horizontal distance."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the term for the line where a river’s drainage basin is separated from a neighboring basin?",
+      "choices": [
+        "Drainage divide",
+        "Tidal bore",
+        "Meander",
+        "Estuary"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "landforms",
+        "rivers"
+      ],
+      "explanation": "A drainage divide is high ground that separates the flow of water into different basins."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which map projection is designed to preserve area proportions?",
+      "choices": [
+        "Conformal projection",
+        "Equal-area projection",
+        "Gnomonic projection",
+        "Mercator projection"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "maps"
+      ],
+      "explanation": "Equal-area projections preserve relative area, though shape or scale may be distorted."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a river delta?",
+      "choices": [
+        "A deep glacial valley filled by the sea",
+        "A circular coral reef",
+        "A sediment-built landform at a river mouth where it enters standing water",
+        "A ridge separating two watersheds"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "rivers"
+      ],
+      "explanation": "Deltas form where a river deposits sediment as it enters a sea or lake."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ocean current contributes to relatively mild winters in western Europe?",
+      "choices": [
+        "Labrador Current",
+        "Humboldt Current",
+        "Benguela Current",
+        "North Atlantic Drift"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "climate",
+        "oceans"
+      ],
+      "explanation": "The North Atlantic Drift, an extension of the Gulf Stream system, transports warm water toward western Europe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an exclave?",
+      "choices": [
+        "A part of a country separated from its main territory by foreign territory",
+        "A country with no coastline",
+        "A region governed by two capitals",
+        "An island formed by a river delta"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "political-geography"
+      ],
+      "explanation": "An exclave is separated from the main part of its state by the territory of another state."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which line of latitude lies at approximately 66.5 degrees north?",
+      "choices": [
+        "Tropic of Cancer",
+        "Arctic Circle",
+        "Equator",
+        "Antarctic Circle"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "coordinates"
+      ],
+      "explanation": "The Arctic Circle marks the approximate southern limit of at least one day of midnight sun each year in the Northern Hemisphere."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a narrow strip of land connecting two larger land areas?",
+      "choices": [
+        "Atoll",
+        "Fjord",
+        "Isthmus",
+        "Peninsula"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "landforms"
+      ],
+      "explanation": "An isthmus joins larger land areas while separating bodies of water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which term describes a seasonal reversal of prevailing winds that often brings a rainy season?",
+      "choices": [
+        "Chinook",
+        "Föhn",
+        "Trade wind",
+        "Monsoon"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "climate"
+      ],
+      "explanation": "Monsoon systems involve seasonal shifts in winds and often produce marked wet and dry seasons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a map scale of 1:100,000 mean?",
+      "choices": [
+        "One unit on the map represents 100,000 of the same units on the ground",
+        "One kilometer on the map equals one meter on the ground",
+        "The map covers 100,000 square kilometers",
+        "The map is one hundred thousand times larger than the landscape"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "maps"
+      ],
+      "explanation": "A ratio scale compares identical units, so one centimeter represents 100,000 centimeters, or one kilometer."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of boundary follows a mountain crest or watershed rather than a straight survey line?",
+      "choices": [
+        "Geometric boundary",
+        "Physical boundary",
+        "Relic boundary",
+        "Superimposed boundary"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "political-geography"
+      ],
+      "explanation": "Physical boundaries use natural features such as ridges and rivers as dividing lines."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ocean basin contains the Mariana Trench?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "oceans"
+      ],
+      "explanation": "The Mariana Trench lies in the western Pacific Ocean."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a fjord?",
+      "choices": [
+        "A fan of sediment at a river mouth",
+        "A salt lake in an arid basin",
+        "A chain of volcanic islands",
+        "A deep, narrow sea inlet formed in a glacially carved valley"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "landforms"
+      ],
+      "explanation": "Glacial erosion carves steep-sided valleys that can later flood with seawater to form fjords."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which region is defined by the watershed of a river and its tributaries?",
+      "choices": [
+        "River basin",
+        "Tundra",
+        "Continental shelf",
+        "Archipelago"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "regions"
+      ],
+      "explanation": "A river basin is the land area drained by a river system."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A country can have territory on more than one continent.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "countries",
+        "regions"
+      ],
+      "explanation": "Russia and Türkiye, among others, have territory conventionally assigned to more than one continent."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every point on the Equator experiences exactly 12 hours of daylight every day of the year.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "coordinates",
+        "climate"
+      ],
+      "explanation": "Day length near the Equator changes little through the year but is not exactly 12 hours every day because of atmospheric refraction and the Sun’s apparent disk."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A watershed boundary generally follows higher ground between neighboring drainage areas.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "landforms",
+        "rivers"
+      ],
+      "explanation": "Ridges and other high ground separate runoff flowing into different river systems."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The International Date Line follows the 180-degree meridian exactly along its entire route.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "coordinates"
+      ],
+      "explanation": "The line generally follows the 180-degree meridian but bends around national territories and island groups."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Andes extend along the western edge of South America.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "landforms",
+        "South America"
+      ],
+      "explanation": "The Andes form a long mountain chain near South America’s Pacific coast."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An archipelago is a group or chain of islands.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "islands"
+      ],
+      "explanation": "The term describes an island group, whether the islands are clustered or spread across a region."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All rivers flow from north to south.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "rivers"
+      ],
+      "explanation": "Rivers flow downhill under gravity, so their directions depend on terrain rather than compass direction."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A conformal map projection preserves local angles but can distort area.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "maps"
+      ],
+      "explanation": "Conformal projections preserve local shape and angles while area distortion increases away from their standard lines."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A delta forms where a river erodes a deep valley into a mountain range.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "landforms",
+        "rivers"
+      ],
+      "explanation": "A delta is primarily depositional and forms near a river mouth where flow slows."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Caspian Sea is an endorheic basin with no natural outlet to the ocean.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "lakes",
+        "Asia"
+      ],
+      "explanation": "The Caspian is the world’s largest inland body of water and has no natural connection to the global ocean."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a drainage divide?",
+      "answer": "High ground that separates runoff flowing into neighboring river basins.",
+      "difficulty": "medium",
+      "tags": [
+        "landforms",
+        "rivers"
+      ],
+      "explanation": "Rain falling on opposite sides of a divide flows toward different drainage systems."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a strait?",
+      "answer": "A narrow waterway connecting two larger bodies of water.",
+      "difficulty": "easy",
+      "tags": [
+        "waterways"
+      ],
+      "explanation": "A strait can also separate two land areas, as the Strait of Malacca separates Sumatra from the Malay Peninsula."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an alluvial fan?",
+      "answer": "A fan-shaped deposit of sediment where a stream leaves steep terrain and spreads onto flatter ground.",
+      "difficulty": "hard",
+      "tags": [
+        "landforms"
+      ],
+      "explanation": "As a stream loses speed at the base of a mountain, it drops sediment in a widening fan."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a rain shadow?",
+      "answer": "A relatively dry area on the leeward side of a mountain range after moist air loses precipitation on the windward side.",
+      "difficulty": "medium",
+      "tags": [
+        "climate",
+        "landforms"
+      ],
+      "explanation": "Descending air on the leeward side is often warmer and drier, producing a rain-shadow effect."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does a choropleth map use to show geographic data?",
+      "answer": "Shading or color intensity across areas to represent a value or category.",
+      "difficulty": "medium",
+      "tags": [
+        "maps"
+      ],
+      "explanation": "A choropleth map commonly shades countries, states, or districts according to a statistical measure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a continental shelf?",
+      "answer": "The gently sloping, submerged edge of a continent extending from the coast to the continental slope.",
+      "difficulty": "medium",
+      "tags": [
+        "oceans",
+        "landforms"
+      ],
+      "explanation": "The shelf is shallow compared with the deep ocean basin and is part of the continent’s submerged margin."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an atoll?",
+      "answer": "A ring-shaped coral reef or island surrounding a lagoon, commonly built around a subsiding volcanic island.",
+      "difficulty": "hard",
+      "tags": [
+        "islands",
+        "oceans"
+      ],
+      "explanation": "Atolls develop as coral continues growing near sea level while the volcanic island beneath it subsides."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “landlocked” mean for a country?",
+      "answer": "It has no coastline along an open sea or ocean.",
+      "difficulty": "easy",
+      "tags": [
+        "political-geography"
+      ],
+      "explanation": "A landlocked state may still border lakes or rivers but lacks direct ocean access."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an estuary?",
+      "answer": "A coastal area where river freshwater mixes with seawater.",
+      "difficulty": "medium",
+      "tags": [
+        "rivers",
+        "oceans"
+      ],
+      "explanation": "Estuaries are influenced by tides and provide habitat where fresh and salt water mix."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a geodetic datum?",
+      "answer": "A reference model and coordinate framework used to locate positions on Earth.",
+      "difficulty": "expert",
+      "tags": [
+        "maps",
+        "coordinates"
+      ],
+      "explanation": "A datum specifies an Earth model and origin so geographic coordinates can be interpreted consistently."
+    }
+  ]
+}

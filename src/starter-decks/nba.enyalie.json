@@ -20,7 +20,8 @@
       "difficulty": "easy",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "Each team plays five players at a time, giving ten active players on the court during live play."
     },
     {
       "type": "multiple_choice",
@@ -35,7 +36,8 @@
       "difficulty": "easy",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "NBA regulation consists of four 12-minute quarters, for 48 minutes before any overtime."
     },
     {
       "type": "multiple_choice",
@@ -50,7 +52,8 @@
       "difficulty": "easy",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "An NBA overtime period lasts five minutes; another overtime follows if the score is tied."
     },
     {
       "type": "multiple_choice",
@@ -65,7 +68,8 @@
       "difficulty": "easy",
       "tags": [
         "scoring"
-      ]
+      ],
+      "explanation": "A successful free throw adds one point, regardless of the type of foul that led to it."
     },
     {
       "type": "multiple_choice",
@@ -96,7 +100,8 @@
       "difficulty": "easy",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "The shot clock gives an offense 24 seconds to attempt a field goal that reaches the rim."
     },
     {
       "type": "multiple_choice",
@@ -111,7 +116,8 @@
       "difficulty": "medium",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "After an offensive rebound of a shot that hit the rim, the NBA shot clock resets to 14 seconds."
     },
     {
       "type": "multiple_choice",
@@ -126,7 +132,8 @@
       "difficulty": "easy",
       "tags": [
         "court"
-      ]
+      ],
+      "explanation": "The rim is 10 feet above the floor, a height used throughout the NBA."
     },
     {
       "type": "multiple_choice",
@@ -141,7 +148,8 @@
       "difficulty": "easy",
       "tags": [
         "rules"
-      ]
+      ],
+      "explanation": "Four quarters make up regulation play; each is 12 minutes long."
     },
     {
       "type": "multiple_choice",
@@ -172,7 +180,8 @@
       "difficulty": "easy",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks in 1962."
     },
     {
       "type": "multiple_choice",
@@ -187,7 +196,8 @@
       "difficulty": "medium",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "Bryant?s 81-point performance came against Toronto on January 22, 2006, the second-highest single-game total in NBA history."
     },
     {
       "type": "multiple_choice",
@@ -202,7 +212,8 @@
       "difficulty": "medium",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "Golden State finished 73?9, setting the NBA record for regular-season wins at the time."
     },
     {
       "type": "multiple_choice",
@@ -217,7 +228,8 @@
       "difficulty": "easy",
       "tags": [
         "championships"
-      ]
+      ],
+      "explanation": "Chicago won three straight titles from 1991?93 and three more from 1996?98 with Jordan."
     },
     {
       "type": "multiple_choice",
@@ -232,7 +244,8 @@
       "difficulty": "medium",
       "tags": [
         "championships"
-      ]
+      ],
+      "explanation": "Russell won 11 championships with Boston, including eight consecutive titles from 1959 through 1966."
     },
     {
       "type": "multiple_choice",
@@ -247,37 +260,40 @@
       "difficulty": "easy",
       "tags": [
         "draft"
-      ]
+      ],
+      "explanation": "Cleveland held the first pick in 2003 and selected James, who had grown up in nearby Akron."
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which team won its first NBA championship in 2011?",
+      "prompt": "Who coached the Dallas Mavericks to their 2011 NBA championship?",
       "choices": [
-        "Phoenix Suns",
-        "Orlando Magic",
-        "Utah Jazz",
-        "Dallas Mavericks"
+        "Rick Carlisle",
+        "Erik Spoelstra",
+        "Phil Jackson",
+        "Gregg Popovich"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "championships"
-      ]
+      ],
+      "explanation": "Rick Carlisle coached Dallas to the 2011 title, the franchise’s first NBA championship."
     },
     {
       "type": "multiple_choice",
-      "prompt": "Who was the 2011 NBA Finals MVP?",
+      "prompt": "How many games did Dallas need to win the 2011 NBA Finals?",
       "choices": [
-        "Dwyane Wade",
-        "Jason Kidd",
-        "LeBron James",
-        "Dirk Nowitzki"
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "awards"
-      ]
+      ],
+      "explanation": "Dallas beat Miami four games to two, clinching the best-of-seven series in six games."
     },
     {
       "type": "multiple_choice",
@@ -292,7 +308,8 @@
       "difficulty": "easy",
       "tags": [
         "championships"
-      ]
+      ],
+      "explanation": "Toronto defeated Golden State in the 2019 Finals to win the franchise?s first championship."
     },
     {
       "type": "multiple_choice",
@@ -307,22 +324,24 @@
       "difficulty": "medium",
       "tags": [
         "players"
-      ]
+      ],
+      "explanation": "Kareem Abdul-Jabbar?s skyhook was a high-arcing one-handed shot that was difficult for defenders to block."
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which NBA star was nicknamed The Answer?",
+      "prompt": "Which team did Allen Iverson lead to the 2001 NBA Finals?",
       "choices": [
-        "Tracy McGrady",
-        "Vince Carter",
-        "Allen Iverson",
-        "Ray Allen"
+        "Philadelphia 76ers",
+        "Los Angeles Lakers",
+        "Sacramento Kings",
+        "Milwaukee Bucks"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "players"
-      ]
+      ],
+      "explanation": "Iverson led Philadelphia past Milwaukee in the Eastern Conference Finals before the 76ers faced the Lakers."
     },
     {
       "type": "multiple_choice",
@@ -337,7 +356,8 @@
       "difficulty": "medium",
       "tags": [
         "players"
-      ]
+      ],
+      "explanation": "Olajuwon?s Houston teammates and fans knew him as The Dream; his footwork in the post helped build that reputation."
     },
     {
       "type": "multiple_choice",
@@ -352,22 +372,24 @@
       "difficulty": "easy",
       "tags": [
         "players"
-      ]
+      ],
+      "explanation": "Duncan played all 19 NBA seasons for San Antonio, winning five championships with the Spurs."
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which franchise did Kobe Bryant play for throughout his NBA career?",
+      "prompt": "Which two jersey numbers did Kobe Bryant wear during his Lakers career?",
       "choices": [
-        "Los Angeles Lakers",
-        "Charlotte Hornets",
-        "Philadelphia 76ers",
-        "Boston Celtics"
+        "8 and 24",
+        "8 and 23",
+        "24 and 32",
+        "8 and 32"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "players"
-      ]
+      ],
+      "explanation": "Bryant wore No. 8 early in his Lakers career and later switched to No. 24."
     },
     {
       "type": "multiple_choice",
@@ -398,7 +420,8 @@
       "difficulty": "hard",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "The NBA introduced the three-point line in the 1979?80 season."
     },
     {
       "type": "true_false",
@@ -427,7 +450,8 @@
       "difficulty": "medium",
       "tags": [
         "statistics"
-      ]
+      ],
+      "explanation": "A triple-double means reaching at least 10 in three statistical categories in one game; points, rebounds, and assists are common categories."
     },
     {
       "type": "flashcard",
@@ -436,7 +460,1121 @@
       "difficulty": "easy",
       "tags": [
         "awards"
-      ]
+      ],
+      "explanation": "MVP is the abbreviation for Most Valuable Player, an award recognizing a season?s or event?s standout player."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "After a team gains control in its backcourt, how long does it have to advance the ball into the frontcourt?",
+      "choices": [
+        "8 seconds",
+        "5 seconds",
+        "10 seconds",
+        "14 seconds"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "NBA teams have eight seconds to bring the ball across the division line."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What happens when an offensive player remains in the lane for more than three seconds while the team controls the ball in the frontcourt?",
+      "choices": [
+        "The offense gets a free throw",
+        "The other team receives the ball",
+        "The shot clock resets to 14 seconds",
+        "The count restarts automatically"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "The offensive three-second violation results in loss of possession."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Under the NBA defensive three-second rule, a defender in the lane must generally do what?",
+      "choices": [
+        "Leave the court",
+        "Touch the ball",
+        "Actively guard an opponent within three seconds",
+        "Stand outside the three-point line"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "A defender may remain in the lane beyond three seconds only while actively guarding an opponent or during a rule exception."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many seconds does an inbounding player generally have to release the ball?",
+      "choices": [
+        "3",
+        "8",
+        "10",
+        "5"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "The thrower-in must release the ball within five seconds after the official places it at the player’s disposal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a held ball normally lead to under NBA rules?",
+      "choices": [
+        "A jump ball between the players involved",
+        "An automatic technical foul",
+        "A free throw for the defense",
+        "A 24-second reset for the offense"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "When opponents have simultaneous control, the referee calls a held ball and awards possession by a jump ball."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the difference between a charge and a blocking foul?",
+      "choices": [
+        "A charge is a missed shot; blocking is a made shot",
+        "A charge is illegal offensive contact; blocking is illegal defensive contact",
+        "A charge is a technical foul; blocking is a flagrant foul",
+        "There is no difference"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "A charge is a player-control foul by the offense; a blocking foul is illegal contact by a defender."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of the restricted-area arc beneath the basket?",
+      "choices": [
+        "It marks the three-point line",
+        "It shows where free throws begin",
+        "It limits when a defender can draw a charge directly under the rim",
+        "It defines the coach’s box"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "rules",
+        "court"
+      ],
+      "explanation": "The restricted area affects block/charge judgments for airborne offensive players near the basket."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which violation occurs when a player illegally moves their feet while holding the ball?",
+      "choices": [
+        "Goaltending",
+        "A backcourt violation",
+        "A lane violation",
+        "Traveling"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "Traveling is illegal foot movement by a player who is holding the ball."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which violation is called when the offense returns the ball to its backcourt after establishing frontcourt control, subject to exceptions?",
+      "choices": [
+        "Backcourt violation",
+        "Double foul",
+        "Lane violation",
+        "Illegal screen"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "After frontcourt control is established, the offense generally cannot cause the ball to return to the backcourt and touch it first."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the usual NBA penalty for a defensive three-second violation?",
+      "choices": [
+        "Two free throws and a turnover",
+        "A technical free throw and continued offensive possession",
+        "A jump ball",
+        "A personal foul and no free throws"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "The NBA assesses a technical foul; the offense retains possession."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "If a three-point shot goes in while the shooter is fouled, what can the shooter earn?",
+      "choices": [
+        "Two additional free throws",
+        "Three additional free throws",
+        "One additional free throw",
+        "No free throw"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "scoring",
+        "rules"
+      ],
+      "explanation": "A made three-pointer counts, and a shooting foul can add one free throw: the four-point play."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the normal result of a legal blocked shot that does not go through the basket?",
+      "choices": [
+        "The shooter automatically gets two free throws",
+        "The defense is charged with a foul",
+        "The shot clock stops for the rest of the period",
+        "Play continues"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "A legal block is a live-ball play; either team may recover the ball."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What was the NBA called before it adopted its current name in 1949?",
+      "choices": [
+        "Basketball Association of America (BAA)",
+        "American Basketball League",
+        "National Basketball League",
+        "United States Basketball Association"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The BAA merged with the National Basketball League and became the NBA in 1949."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team won eight consecutive NBA championships from 1959 through 1966?",
+      "choices": [
+        "Minneapolis Lakers",
+        "Boston Celtics",
+        "Philadelphia 76ers",
+        "New York Knicks"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "championships"
+      ],
+      "explanation": "Boston’s run from 1959 to 1966 remains the longest consecutive championship streak in NBA history."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise selected Magic Johnson first overall in the 1979 NBA Draft?",
+      "choices": [
+        "Boston Celtics",
+        "Detroit Pistons",
+        "Los Angeles Lakers",
+        "Philadelphia 76ers"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "draft"
+      ],
+      "explanation": "The Lakers selected Magic Johnson with the first pick of the 1979 draft."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did Michael Jordan and the Chicago Bulls defeat for their first NBA title in 1991?",
+      "choices": [
+        "Portland Trail Blazers",
+        "Phoenix Suns",
+        "Utah Jazz",
+        "Los Angeles Lakers"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "championships"
+      ],
+      "explanation": "Chicago beat the Lakers in five games in the 1991 Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which former ABA feature did the NBA adopt before the 1979–80 season?",
+      "choices": [
+        "The three-point field goal",
+        "The 24-second clock",
+        "The shot-block statistic",
+        "The three-second lane rule"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "scoring"
+      ],
+      "explanation": "The three-point line originated in the ABA and was adopted by the NBA in 1979–80."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who became the first Black player to appear in an NBA game, in 1950?",
+      "choices": [
+        "Bill Russell",
+        "Earl Lloyd",
+        "Chuck Cooper",
+        "Nat Clifton"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "history",
+        "players"
+      ],
+      "explanation": "Earl Lloyd debuted for the Washington Capitols on October 31, 1950. Chuck Cooper and Nat Clifton also broke the barrier in 1950, but Lloyd played first."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did the Cleveland Cavaliers defeat to win their first NBA championship in 2016?",
+      "choices": [
+        "San Antonio Spurs",
+        "Oklahoma City Thunder",
+        "Golden State Warriors",
+        "Toronto Raptors"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Cleveland beat Golden State in seven games, completing the first 3–1 Finals comeback."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did Denver defeat in the 2023 NBA Finals?",
+      "choices": [
+        "Miami Heat",
+        "Los Angeles Lakers",
+        "Phoenix Suns",
+        "Minnesota Timberwolves"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "championships",
+        "history"
+      ],
+      "explanation": "Denver defeated Miami in five games to win the 2023 NBA Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who won the 2025 NBA Finals MVP award after Oklahoma City’s championship?",
+      "choices": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Williams",
+        "Tyrese Haliburton",
+        "Nikola Jokić"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "championships",
+        "history"
+      ],
+      "explanation": "Shai Gilgeous-Alexander won Finals MVP after Oklahoma City defeated Indiana in the 2025 Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise won the 2025–26 NBA championship?",
+      "choices": [
+        "San Antonio Spurs",
+        "New York Knicks",
+        "Boston Celtics",
+        "Oklahoma City Thunder"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "championships",
+        "history"
+      ],
+      "explanation": "The Knicks defeated the Spurs in the 2026 Finals, winning their first title since 1973."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did the Los Angeles Lakers defeat in the 2020 NBA Finals?",
+      "choices": [
+        "Boston Celtics",
+        "Denver Nuggets",
+        "Miami Heat",
+        "Orlando Magic"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "The Lakers defeated Miami in six games in the 2020 Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did the Golden State Warriors beat to win the 2022 NBA Finals?",
+      "choices": [
+        "Miami Heat",
+        "Dallas Mavericks",
+        "Phoenix Suns",
+        "Boston Celtics"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Golden State defeated Boston in six games for its fourth title of the Stephen Curry era."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team won the 2015 NBA Finals against Cleveland?",
+      "choices": [
+        "Golden State Warriors",
+        "San Antonio Spurs",
+        "Chicago Bulls",
+        "Houston Rockets"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Golden State defeated Cleveland in six games for its first title since 1975."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise did the Detroit Pistons defeat in the 2004 Finals?",
+      "choices": [
+        "New Jersey Nets",
+        "Los Angeles Lakers",
+        "San Antonio Spurs",
+        "Indiana Pacers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Detroit defeated the Lakers in five games in the 2004 Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team did the Dallas Mavericks defeat to win the 2011 NBA Finals?",
+      "choices": [
+        "Boston Celtics",
+        "Oklahoma City Thunder",
+        "Miami Heat",
+        "Los Angeles Lakers"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Dallas defeated Miami in six games for the franchise’s first NBA championship."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which NBA champion did San Antonio defeat in the 2014 Finals?",
+      "choices": [
+        "Detroit Pistons",
+        "Cleveland Cavaliers",
+        "New Jersey Nets",
+        "Miami Heat"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "championships",
+        "history"
+      ],
+      "explanation": "San Antonio defeated the two-time defending champion Miami Heat in five games."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was named the 2019 NBA Finals MVP after Toronto won its first championship?",
+      "choices": [
+        "Kawhi Leonard",
+        "Kyle Lowry",
+        "Pascal Siakam",
+        "Stephen Curry"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "championships"
+      ],
+      "explanation": "Kawhi Leonard won Finals MVP after leading Toronto to a six-game victory over Golden State."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was named Finals MVP when Denver won its first title in 2023?",
+      "choices": [
+        "Jamal Murray",
+        "Nikola Jokic",
+        "Aaron Gordon",
+        "Michael Porter Jr."
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "awards",
+        "players"
+      ],
+      "explanation": "Nikola Jokic received the Bill Russell Finals MVP award after Denver’s 2023 title run."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was the 2024 NBA Finals MVP?",
+      "choices": [
+        "Jayson Tatum",
+        "Derrick White",
+        "Jaylen Brown",
+        "Jrue Holiday"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "awards",
+        "players"
+      ],
+      "explanation": "Jaylen Brown won Finals MVP after Boston’s 2024 championship."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player became the first unanimous NBA regular-season MVP in 2016?",
+      "choices": [
+        "LeBron James",
+        "Kevin Durant",
+        "James Harden",
+        "Stephen Curry"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "awards",
+        "players"
+      ],
+      "explanation": "Curry received all 131 first-place votes for the 2015–16 MVP award."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player won three consecutive NBA regular-season MVP awards from 1984 through 1986?",
+      "choices": [
+        "Larry Bird",
+        "Magic Johnson",
+        "Moses Malone",
+        "Julius Erving"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "awards",
+        "players"
+      ],
+      "explanation": "Larry Bird won MVP in each of the 1983–84, 1984–85, and 1985–86 seasons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player won the 2014 NBA Finals MVP award?",
+      "choices": [
+        "Tim Duncan",
+        "Kawhi Leonard",
+        "Tony Parker",
+        "Manu Ginobili"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "awards",
+        "players"
+      ],
+      "explanation": "Kawhi Leonard received Finals MVP honors as San Antonio defeated Miami."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the NBA Finals MVP award named for?",
+      "choices": [
+        "Larry Bird",
+        "Magic Johnson",
+        "Bill Russell",
+        "Wilt Chamberlain"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "awards"
+      ],
+      "explanation": "The Bill Russell NBA Finals Most Valuable Player Award honors the Celtics center who won 11 championships."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player won the NBA’s first Defensive Player of the Year award, in 1983–84?",
+      "choices": [
+        "Hakeem Olajuwon",
+        "Dennis Rodman",
+        "Dikembe Mutombo",
+        "Sidney Moncrief"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "awards",
+        "history"
+      ],
+      "explanation": "Sidney Moncrief of Milwaukee was the first recipient of the award."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statistic is calculated as made field goals divided by attempted field goals?",
+      "choices": [
+        "Field-goal percentage",
+        "Plus-minus",
+        "Usage rate",
+        "Assist ratio"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "statistics"
+      ],
+      "explanation": "Field-goal percentage measures how often field-goal attempts are made."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which statistic records a pass that directly leads to a teammate’s made basket?",
+      "choices": [
+        "Steal",
+        "Assist",
+        "Block",
+        "Turnover"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "statistics"
+      ],
+      "explanation": "An assist is credited for a pass that leads directly to a made field goal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a player’s plus-minus measure while that player is on court?",
+      "choices": [
+        "The player’s shot accuracy",
+        "The player’s rebound total",
+        "The team’s scoring margin during those minutes",
+        "The number of fouls drawn"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "statistics"
+      ],
+      "explanation": "Plus-minus is the difference between the team’s points scored and allowed while a player is on the floor."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who holds the NBA regular-season record for most career assists?",
+      "choices": [
+        "Jason Kidd",
+        "Chris Paul",
+        "Magic Johnson",
+        "John Stockton"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "statistics",
+        "players"
+      ],
+      "explanation": "Stockton finished his career with 15,806 regular-season assists, the NBA record."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player became the NBA’s all-time regular-season scoring leader in 2023?",
+      "choices": [
+        "LeBron James",
+        "Kareem Abdul-Jabbar",
+        "Karl Malone",
+        "Kobe Bryant"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "statistics",
+        "players"
+      ],
+      "explanation": "LeBron James passed Kareem Abdul-Jabbar’s regular-season scoring total in February 2023."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player holds the NBA career record for made three-point field goals?",
+      "choices": [
+        "Ray Allen",
+        "Stephen Curry",
+        "James Harden",
+        "Reggie Miller"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "statistics",
+        "players"
+      ],
+      "explanation": "Stephen Curry passed Ray Allen’s previous career record and has extended the mark."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a rebound record?",
+      "choices": [
+        "A pass leading to a basket",
+        "A made shot from behind the arc",
+        "Recovery of the ball after a missed field-goal or free-throw attempt",
+        "A change of possession after a foul"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "statistics"
+      ],
+      "explanation": "A rebound is credited to a player who secures the ball after a missed shot."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team won the inaugural BAA championship in 1947?",
+      "choices": [
+        "Philadelphia Warriors",
+        "Chicago Stags",
+        "Washington Capitols",
+        "Baltimore Bullets"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "statistics",
+        "players"
+      ],
+      "explanation": "The Philadelphia Warriors won the first Basketball Association of America championship in 1947; the BAA later became the NBA."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise drafted Kobe Bryant in 1996 before trading him to the Lakers?",
+      "choices": [
+        "Charlotte Hornets",
+        "Philadelphia 76ers",
+        "New Jersey Nets",
+        "Sacramento Kings"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "draft",
+        "players"
+      ],
+      "explanation": "Charlotte selected Bryant with the 13th pick and traded his rights to the Lakers on draft night."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team selected Dirk Nowitzki in the 1998 draft before trading him to Dallas?",
+      "choices": [
+        "Phoenix Suns",
+        "Milwaukee Bucks",
+        "Boston Celtics",
+        "Indiana Pacers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "draft",
+        "players"
+      ],
+      "explanation": "Milwaukee drafted Nowitzki ninth overall and immediately traded him to Dallas."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player was selected first overall in the 2004 draft by Orlando?",
+      "choices": [
+        "Emeka Okafor",
+        "Ben Gordon",
+        "Dwight Howard",
+        "Andre Iguodala"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "draft",
+        "players"
+      ],
+      "explanation": "The Orlando Magic selected Dwight Howard first overall in 2004."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player did Cleveland select first overall in 2011?",
+      "choices": [
+        "Derrick Williams",
+        "Kemba Walker",
+        "Klay Thompson",
+        "Kyrie Irving"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "draft",
+        "players"
+      ],
+      "explanation": "Cleveland chose Kyrie Irving with the first pick of the 2011 draft."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team selected Victor Wembanyama first overall in 2023?",
+      "choices": [
+        "San Antonio Spurs",
+        "Charlotte Hornets",
+        "Houston Rockets",
+        "Detroit Pistons"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "draft",
+        "players"
+      ],
+      "explanation": "San Antonio selected Wembanyama with the first pick of the 2023 NBA Draft."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise did Tim Duncan help lead to five NBA championships?",
+      "choices": [
+        "Boston Celtics",
+        "San Antonio Spurs",
+        "Chicago Bulls",
+        "Los Angeles Lakers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "players",
+        "championships"
+      ],
+      "explanation": "Duncan spent his entire NBA career with San Antonio and won five titles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which service academy did David Robinson attend before his NBA career?",
+      "choices": [
+        "U.S. Naval Academy",
+        "U.S. Military Academy",
+        "U.S. Air Force Academy",
+        "U.S. Coast Guard Academy"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "players"
+      ],
+      "explanation": "Robinson played college basketball at the U.S. Naval Academy and served in the Navy before joining the NBA."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which player was called “The Round Mound of Rebound”?",
+      "choices": [
+        "Dennis Rodman",
+        "Moses Malone",
+        "Zion Williamson",
+        "Charles Barkley"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "players"
+      ],
+      "explanation": "Barkley was known for rebounding despite being shorter than many power forwards."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which NBA great was nicknamed “The Logo”?",
+      "choices": [
+        "Jerry West",
+        "Oscar Robertson",
+        "John Havlicek",
+        "Elgin Baylor"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "players",
+        "history"
+      ],
+      "explanation": "West’s silhouette inspired the NBA logo, leading to the nickname."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise plays its home games at Madison Square Garden?",
+      "choices": [
+        "Brooklyn Nets",
+        "New York Knicks",
+        "Boston Celtics",
+        "Philadelphia 76ers"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "teams"
+      ],
+      "explanation": "Madison Square Garden in Manhattan is the Knicks’ home arena."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team plays its home games at the United Center?",
+      "choices": [
+        "Detroit Pistons",
+        "Milwaukee Bucks",
+        "Chicago Bulls",
+        "Indiana Pacers"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "teams"
+      ],
+      "explanation": "The Bulls share Chicago’s United Center with the NHL’s Blackhawks."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which NBA franchise is based in Salt Lake City?",
+      "choices": [
+        "Denver Nuggets",
+        "Phoenix Suns",
+        "Portland Trail Blazers",
+        "Utah Jazz"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "teams"
+      ],
+      "explanation": "The Utah Jazz play in Salt Lake City; the franchise began in New Orleans."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which franchise moved from Seattle to Oklahoma City in 2008?",
+      "choices": [
+        "SuperSonics",
+        "Grizzlies",
+        "Hornets",
+        "Kings"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "teams",
+        "history"
+      ],
+      "explanation": "The Seattle SuperSonics relocated and became the Oklahoma City Thunder."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which team is based in the San Francisco Bay Area?",
+      "choices": [
+        "Sacramento Kings",
+        "Golden State Warriors",
+        "Los Angeles Clippers",
+        "Phoenix Suns"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "teams"
+      ],
+      "explanation": "The Warriors play at Chase Center in San Francisco."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which number of games must a team win to take a best-of-seven NBA playoff series?",
+      "choices": [
+        "Three",
+        "Five",
+        "Four",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "Four wins are enough to clinch a best-of-seven series."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many rounds does a team normally win to become NBA champion?",
+      "choices": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "The postseason has four rounds: first round, conference semifinals, conference finals, and NBA Finals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of the NBA Play-In Tournament?",
+      "choices": [
+        "To determine the final playoff seeds in each conference",
+        "To award the regular-season MVP",
+        "To replace the draft lottery",
+        "To decide the NBA champion"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "The tournament determines the seventh and eighth seeds from teams near the playoff cutoff."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The NBA Finals match the champions of which two groups?",
+      "choices": [
+        "Atlantic and Pacific Divisions",
+        "Eastern and Western Conferences",
+        "Regular season and Play-In Tournament",
+        "North and South Divisions"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "The Eastern Conference champion plays the Western Conference champion in the NBA Finals."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The NBA uses an alternating-possession arrow after every held ball.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "rules"
+      ],
+      "explanation": "The NBA generally resolves held balls with a jump ball rather than an alternating-possession arrow."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “and-one” mean in basketball?",
+      "answer": "A player makes a field goal while being fouled and receives one additional free throw.",
+      "difficulty": "medium",
+      "tags": [
+        "scoring",
+        "rules"
+      ],
+      "explanation": "The phrase describes a made basket plus the opportunity for one free throw after a shooting foul."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a pick-and-roll?",
+      "answer": "An offensive action in which a player sets a screen for the ball handler and then moves toward the basket or open space.",
+      "difficulty": "medium",
+      "tags": [
+        "plays"
+      ],
+      "explanation": "The screen can free the ball handler while the screener rolls toward the rim or a passing lane."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a fast break?",
+      "answer": "A quick offensive attack immediately after gaining possession, before the defense is set.",
+      "difficulty": "easy",
+      "tags": [
+        "plays"
+      ],
+      "explanation": "Teams try to create a scoring chance before defenders can organize."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a double-double?",
+      "answer": "A game in which a player reaches at least 10 in two statistical categories.",
+      "difficulty": "easy",
+      "tags": [
+        "statistics"
+      ],
+      "explanation": "Common combinations include points and rebounds or points and assists."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “box out” mean?",
+      "answer": "To use body position to keep an opponent away from the basket while pursuing a rebound.",
+      "difficulty": "easy",
+      "tags": [
+        "plays",
+        "statistics"
+      ],
+      "explanation": "Boxing out helps a player gain rebounding position after a missed shot."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a “sweep” in a playoff series?",
+      "answer": "Winning every game in the series without a loss.",
+      "difficulty": "easy",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "A four-game sweep is the quickest possible outcome in a best-of-seven series."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is home-court advantage in an NBA playoff series?",
+      "answer": "The higher-seeded team hosts more games in the series.",
+      "difficulty": "medium",
+      "tags": [
+        "playoffs"
+      ],
+      "explanation": "In a best-of-seven series, the higher seed hosts Games 1, 2, 5, and 7."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “rim protection” describe?",
+      "answer": "Defensive play near the basket that deters or contests shots at the rim.",
+      "difficulty": "medium",
+      "tags": [
+        "plays"
+      ],
+      "explanation": "Rim protectors use positioning and shot contests to make close attempts harder."
     }
   ]
 }

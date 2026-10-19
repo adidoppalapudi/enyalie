@@ -442,16 +442,6 @@
       "explanation": "Merriam-Webster records candid as honest and sincere in expression. Example: He gave a candid assessment."
     },
     {
-      "type": "flashcard",
-      "prompt": "Define \"ameliorate\" in one word.",
-      "answer": "Improve",
-      "difficulty": "easy",
-      "tags": [
-        "definitions"
-      ],
-      "explanation": "Merriam-Webster defines ameliorate as making something better or more tolerable."
-    },
-    {
       "type": "multiple_choice",
       "prompt": "What does \"alacrity\" mean?",
       "choices": [
@@ -770,6 +760,762 @@
       "tags": [
         "definitions"
       ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “abate” mean?",
+      "choices": [
+        "To become less intense",
+        "To copy exactly",
+        "To make a formal request",
+        "To hide deliberately"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A storm, noise, or other condition abates when it becomes less intense."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “abstain” mean?",
+      "choices": [
+        "To choose not to take part",
+        "To argue loudly",
+        "To distribute equally",
+        "To praise publicly"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A person abstains when they deliberately refrain from an action, such as voting or eating a food."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “acumen” mean?",
+      "choices": [
+        "A long speech",
+        "Sharp practical judgment",
+        "A sudden change",
+        "A written promise"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Acumen is the ability to make good judgments, especially in a particular area."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “admonish” mean?",
+      "choices": [
+        "To welcome warmly",
+        "To imitate closely",
+        "To warn or reprimand firmly",
+        "To remove completely"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A person admonishes someone by expressing disapproval or warning them about conduct."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “adverse” mean?",
+      "choices": [
+        "Unusually large",
+        "Easy to understand",
+        "Widely admired",
+        "Unfavorable or harmful"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Adverse conditions work against a desired outcome or cause harm."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “advocate” mean as a verb?",
+      "choices": [
+        "To publicly support or recommend",
+        "To question under oath",
+        "To make less severe",
+        "To postpone indefinitely"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "To advocate a policy is to argue in favor of it."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “affinity” mean?",
+      "choices": [
+        "A strict prohibition",
+        "A natural liking or connection",
+        "A brief delay",
+        "A measured quantity"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An affinity is a natural attraction, kinship, or close connection."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “aggregate” mean as a noun?",
+      "choices": [
+        "A single exception",
+        "A hidden motive",
+        "A whole formed from several parts",
+        "A formal apology"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An aggregate is a collection or total made up of separate elements."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “alleviate” mean?",
+      "choices": [
+        "To make a copy",
+        "To prove beyond doubt",
+        "To speak indirectly",
+        "To make something less severe"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Medicine or action can alleviate pain by reducing its severity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “ambiguous” mean?",
+      "choices": [
+        "Open to more than one interpretation",
+        "Completely familiar",
+        "Impossible to change",
+        "Intentionally generous"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An ambiguous statement can reasonably be understood in multiple ways."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “amiable” mean?",
+      "choices": [
+        "Easily broken",
+        "Friendly and pleasant",
+        "Highly technical",
+        "Secretly resentful"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An amiable person is friendly and agreeable."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an “anachronism”?",
+      "choices": [
+        "A word with two spellings",
+        "A formal debate",
+        "Something placed in a time period where it does not belong",
+        "A sudden reversal"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A wristwatch in a story set in ancient Rome would be an anachronism."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “ancillary” mean?",
+      "choices": [
+        "Opposing every proposal",
+        "Impossible to measure",
+        "Existing only briefly",
+        "Providing support or serving a secondary role"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Ancillary services support a main activity but are not its central part."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an “analogy”?",
+      "choices": [
+        "A comparison used to explain a similarity",
+        "A record of expenses",
+        "A contradiction in terms",
+        "A word’s original spelling"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An analogy explains an idea by comparing it with a more familiar one."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an “anecdote”?",
+      "choices": [
+        "A formal scientific law",
+        "A short account of a particular incident",
+        "A list of synonyms",
+        "A fictional language"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An anecdote is a brief story, often about a real event or person."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “appease” mean?",
+      "choices": [
+        "To inspect closely",
+        "To copy by hand",
+        "To calm or satisfy someone",
+        "To divide into equal parts"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "To appease someone is to reduce their anger or meet a demand."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “arbitrary” mean?",
+      "choices": [
+        "Required by law",
+        "Supported by repeated evidence",
+        "Easy to predict",
+        "Based on random choice or personal preference rather than a clear rule"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An arbitrary decision lacks a consistent reason or standard."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “arduous” mean?",
+      "choices": [
+        "Requiring great effort",
+        "Pleasantly surprising",
+        "Brief and informal",
+        "Exact and measurable"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An arduous task is difficult and tiring because it requires sustained effort."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “articulate” mean as an adjective?",
+      "choices": [
+        "Unable to be changed",
+        "Able to express ideas clearly",
+        "Extremely cautious",
+        "Likely to cause harm"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An articulate speaker communicates ideas clearly and effectively."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “astute” mean?",
+      "choices": [
+        "Careless and rushed",
+        "Loud and disruptive",
+        "Perceptive and shrewd",
+        "Uncertain and hesitant"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An astute observer notices important details and judges situations accurately."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “austere” mean?",
+      "choices": [
+        "Warmly humorous",
+        "Highly decorative",
+        "Easily persuaded",
+        "Plain, strict, or without excess"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An austere room is simple and unadorned; an austere rule may be strict."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “avarice” mean?",
+      "choices": [
+        "Extreme greed for wealth",
+        "Fear of public speaking",
+        "A love of learning",
+        "A sudden loss"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Avarice is an excessive desire to accumulate money or possessions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “banal” mean?",
+      "choices": [
+        "Precisely accurate",
+        "So ordinary that it is unoriginal or dull",
+        "Hard to believe",
+        "Morally generous"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A banal remark is commonplace and lacks freshness."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “bolster” mean?",
+      "choices": [
+        "To confuse deliberately",
+        "To remove by force",
+        "To support or strengthen",
+        "To criticize harshly"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Evidence can bolster an argument by making it stronger."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “cajole” mean?",
+      "choices": [
+        "To prohibit formally",
+        "To summarize briefly",
+        "To question aggressively",
+        "To persuade with flattery or persistent coaxing"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Someone may cajole a friend into joining by using gentle persuasion or flattery."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “coerce” mean?",
+      "choices": [
+        "To make someone act through force or threats",
+        "To invite someone warmly",
+        "To improve gradually",
+        "To prove logically"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Coercion uses force, threats, or pressure to compel an action."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “coherent” mean?",
+      "choices": [
+        "Loud and forceful",
+        "Logical and consistent",
+        "Highly decorative",
+        "Brief but incomplete"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A coherent explanation presents ideas that fit together logically."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “complacent” mean?",
+      "choices": [
+        "Careful about every detail",
+        "Deeply uncertain",
+        "Too satisfied with oneself to notice risks or problems",
+        "Eager to help others"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Complacency is self-satisfaction that can lead someone to stop improving or paying attention."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a “conundrum”?",
+      "choices": [
+        "A generous gift",
+        "A familiar routine",
+        "A formal agreement",
+        "A difficult problem with no obvious solution"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A conundrum is a confusing or difficult problem."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “conciliatory” mean?",
+      "choices": [
+        "Intended to restore goodwill or reduce disagreement",
+        "Designed to provoke a fight",
+        "Unusually expensive",
+        "Difficult to interpret"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A conciliatory gesture aims to calm a dispute and rebuild cooperation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “condone” mean?",
+      "choices": [
+        "To explain in great detail",
+        "To accept or allow behavior, often without approval",
+        "To punish severely",
+        "To remember exactly"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "To condone an action is to overlook or permit it, especially when it is wrong."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “conflate” mean?",
+      "choices": [
+        "To separate into categories",
+        "To question carefully",
+        "To combine or confuse two distinct things",
+        "To praise publicly"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Conflating two ideas treats them as though they were the same when they are distinct."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “conjecture” mean?",
+      "choices": [
+        "A proven mathematical identity",
+        "A personal insult",
+        "A binding contract",
+        "A conclusion based on incomplete evidence"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A conjecture is a reasoned guess or proposition that has not been proved."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “conscientious” mean?",
+      "choices": [
+        "Careful, responsible, and guided by a sense of duty",
+        "Carefree and indifferent",
+        "Secretive and evasive",
+        "Easily distracted"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A conscientious worker takes responsibilities seriously and pays attention to doing the job properly."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “constrain” mean?",
+      "choices": [
+        "To praise enthusiastically",
+        "To limit or restrict",
+        "To imitate playfully",
+        "To increase rapidly"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A rule may constrain what people are allowed to do."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “corroborate” mean?",
+      "choices": [
+        "To weaken an argument",
+        "To make a prediction",
+        "To support a statement with confirming evidence",
+        "To change the subject"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A witness or document can corroborate an account by providing evidence that supports it."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “credible” mean?",
+      "choices": [
+        "Impossible to repair",
+        "Extremely rare",
+        "Unclear in meaning",
+        "Believable or worthy of trust"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A credible source is one that can reasonably be trusted."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “cryptic” mean?",
+      "choices": [
+        "Mysterious or difficult to understand",
+        "Warm and welcoming",
+        "Completely ordinary",
+        "Openly generous"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A cryptic message is obscure and not easily understood."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “cursory” mean?",
+      "choices": [
+        "Highly detailed",
+        "Quick and not thorough",
+        "Strictly impartial",
+        "Carefully planned"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A cursory review is brief and gives little attention to detail."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “decorum” mean?",
+      "choices": [
+        "Extreme wealth",
+        "A sudden change of mind",
+        "Proper and respectful behavior",
+        "A complex theory"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Decorum is behavior considered appropriate to a formal or social situation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "To condone an action is to approve or allow it, often by overlooking it.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Condone means to accept, permit, or overlook behavior, especially behavior regarded as wrong."
+    },
+    {
+      "type": "true_false",
+      "prompt": "To conflate two ideas is to keep them clearly separate.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "commonly-confused"
+      ],
+      "explanation": "Conflate means to combine or confuse distinct things, not distinguish them."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A conscientious person is generally careful about responsibilities.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Conscientiousness involves being diligent, careful, and responsible."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A cursory inspection is usually detailed and exhaustive.",
+      "answer": false,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Cursory describes something hasty and superficial rather than thorough."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “deference” mean?",
+      "answer": "Respectful submission to another person’s judgment, authority, or wishes.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A person may defer to an expert out of respect for that person’s knowledge."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “delineate” mean?",
+      "answer": "To describe, outline, or mark the boundaries of something clearly.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A report can delineate the responsibilities of each group."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “deride” mean?",
+      "answer": "To ridicule or mock someone or something scornfully.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "Derision expresses contempt, often through mocking words."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “despondent” mean?",
+      "answer": "Very discouraged or low in spirits.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A despondent person has lost hope or confidence."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “discern” mean?",
+      "answer": "To perceive, recognize, or distinguish something, often with effort.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A reader may discern a subtle pattern after close examination."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “eclectic” mean?",
+      "answer": "Drawing ideas or styles from a varied range of sources.",
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "An eclectic collection includes works chosen from different styles or traditions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “tenuous” mean?",
+      "choices": [
+        "Very generous",
+        "Marked by great precision",
+        "Difficult to see because of darkness",
+        "Weak, slight, or poorly supported"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "definitions"
+      ],
+      "explanation": "A tenuous connection is weak or uncertain, and a tenuous argument is not strongly supported."
     }
   ]
 }

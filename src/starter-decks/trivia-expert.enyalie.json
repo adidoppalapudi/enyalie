@@ -132,7 +132,8 @@
       "difficulty": "expert",
       "tags": [
         "biology"
-      ]
+      ],
+      "explanation": "Chlorophyll contains a magnesium ion at the center of its ring-shaped molecular structure."
     },
     {
       "type": "multiple_choice",
@@ -227,22 +228,24 @@
       "difficulty": "expert",
       "tags": [
         "geography"
-      ]
+      ],
+      "explanation": "An isobath joins locations of equal water depth, so it functions like a contour line beneath the water."
     },
     {
       "type": "multiple_choice",
-      "prompt": "What does an isohel connect on a map?",
+      "prompt": "On a climatology map, what do isohel lines show as equal from place to place?",
       "choices": [
-        "Places with equal air temperature",
-        "Places with equal atmospheric pressure",
-        "Places with equal annual rainfall",
-        "Places with equal sunshine duration"
+        "Air temperature",
+        "Atmospheric pressure",
+        "Annual rainfall",
+        "Duration of sunshine"
       ],
       "correctIndex": 3,
       "difficulty": "expert",
       "tags": [
         "geography"
-      ]
+      ],
+      "explanation": "An isohel joins places with equal sunshine duration over the period represented on the map."
     },
     {
       "type": "multiple_choice",
@@ -257,7 +260,8 @@
       "difficulty": "expert",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "The Peace of Westphalia treaties were signed in 1648 and ended the Thirty Years? War in the Holy Roman Empire."
     },
     {
       "type": "multiple_choice",
@@ -320,7 +324,8 @@
       "difficulty": "expert",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "The Inca used quipus, systems of knotted cords, to record and communicate numerical information."
     },
     {
       "type": "multiple_choice",
@@ -383,7 +388,8 @@
       "difficulty": "expert",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Chiasmus reverses the order of corresponding words or ideas, as in a mirrored phrase structure."
     },
     {
       "type": "multiple_choice",
@@ -398,7 +404,8 @@
       "difficulty": "expert",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "A lipogram is written under the constraint of omitting one or more chosen letters."
     },
     {
       "type": "multiple_choice",
@@ -413,7 +420,8 @@
       "difficulty": "expert",
       "tags": [
         "music"
-      ]
+      ],
+      "explanation": "Melismatic singing sets several different notes to a single syllable."
     },
     {
       "type": "multiple_choice",
@@ -428,7 +436,8 @@
       "difficulty": "expert",
       "tags": [
         "inventions"
-      ]
+      ],
+      "explanation": "John Harrison built H4, a sea-going timekeeper that helped solve the longitude problem by keeping accurate time at sea."
     },
     {
       "type": "multiple_choice",
@@ -491,7 +500,8 @@
       "difficulty": "expert",
       "tags": [
         "mathematics"
-      ]
+      ],
+      "explanation": "The Riemann hypothesis says every nontrivial zero of the zeta function has real part one-half; it remains unproved."
     },
     {
       "type": "multiple_choice",
@@ -538,7 +548,8 @@
       "difficulty": "expert",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "Jorge Luis Borges wrote The Library of Babel, a story about an imagined library containing every possible book."
     },
     {
       "type": "multiple_choice",
@@ -553,7 +564,8 @@
       "difficulty": "expert",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "Vladimir Nabokov wrote Pale Fire, a novel structured around a poem and its elaborate commentary."
     },
     {
       "type": "multiple_choice",
@@ -598,7 +610,8 @@
       "difficulty": "expert",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "Hapax legomenon is a Greek-derived term for a word or expression recorded only once in a specified text or corpus."
     },
     {
       "type": "flashcard",
@@ -607,7 +620,816 @@
       "difficulty": "expert",
       "tags": [
         "space"
-      ]
+      ],
+      "explanation": "Aphelion is the point in a Sun-centered orbit farthest from the Sun."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the value of 0 factorial, written 0!?",
+      "choices": [
+        "1",
+        "0",
+        "Undefined",
+        "−1"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "By definition and the recurrence n! = n × (n−1)!, 0! is 1; this also makes many counting formulas work."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which constant is the base of the natural logarithm?",
+      "choices": [
+        "π",
+        "e",
+        "φ",
+        "i"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The mathematical constant e is approximately 2.71828 and is the base of natural logarithms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "For a prime number p, what is the value of Euler’s totient function φ(p)?",
+      "choices": [
+        "p",
+        "1",
+        "p − 1",
+        "p + 1"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Every integer from 1 through p−1 is relatively prime to the prime p, so φ(p)=p−1."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the determinant of a square matrix whose rows are linearly dependent?",
+      "choices": [
+        "1",
+        "The trace",
+        "The product of its diagonal entries only",
+        "0"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Linearly dependent rows make a matrix singular, so its determinant is zero."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the sum of the interior angles of a convex hexagon?",
+      "choices": [
+        "720°",
+        "540°",
+        "900°",
+        "1,080°"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "For an n-sided polygon the sum is (n−2)×180°; for a hexagon this is 720°."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which theorem states that every nonconstant polynomial over the complex numbers has a complex root?",
+      "choices": [
+        "Pythagorean theorem",
+        "Fundamental theorem of algebra",
+        "Rolle’s theorem",
+        "Binomial theorem"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The fundamental theorem of algebra guarantees at least one complex root for every nonconstant complex-coefficient polynomial."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the SI unit of magnetic flux?",
+      "choices": [
+        "Tesla",
+        "Henry",
+        "Weber",
+        "Coulomb"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "measurement",
+        "science"
+      ],
+      "explanation": "Magnetic flux is measured in webers; magnetic flux density is measured in teslas."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which unit measures electrical capacitance?",
+      "choices": [
+        "Ohm",
+        "Siemens",
+        "Weber",
+        "Farad"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "measurement",
+        "science"
+      ],
+      "explanation": "Capacitance is measured in farads, named after Michael Faraday."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the approximate charge of one electron in coulombs?",
+      "choices": [
+        "−1.602 × 10⁻¹⁹ C",
+        "+1.602 × 10⁻¹⁹ C",
+        "−1.602 × 10⁻¹⁶ C",
+        "0 C"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "measurement",
+        "science"
+      ],
+      "explanation": "The elementary charge has magnitude about 1.602 × 10⁻¹⁹ coulombs; an electron carries the negative sign."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which physical principle explains why no two electrons in an atom can share the same four quantum numbers?",
+      "choices": [
+        "Aufbau principle",
+        "Pauli exclusion principle",
+        "Heisenberg uncertainty principle",
+        "Correspondence principle"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "science",
+        "chemistry"
+      ],
+      "explanation": "The Pauli exclusion principle forbids identical fermions from occupying the same quantum state."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which enzyme is used by many CRISPR-Cas9 systems to cut targeted DNA?",
+      "choices": [
+        "DNA ligase",
+        "RNA polymerase",
+        "Cas9 nuclease",
+        "Telomerase"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Cas9 is a nuclease guided by RNA to a target DNA sequence, where it can make a cut."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In a eukaryotic chloroplast, where do the light-dependent reactions of photosynthesis occur?",
+      "choices": [
+        "Stroma only",
+        "Outer envelope",
+        "Nucleolus",
+        "Thylakoid membranes"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Photosystems and the electron-transport chain for light-dependent reactions are embedded in thylakoid membranes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which enzyme synthesizes DNA using an RNA template?",
+      "choices": [
+        "Reverse transcriptase",
+        "DNA ligase",
+        "Helicase",
+        "Topoisomerase"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Reverse transcriptase copies RNA into DNA, a process used by retroviruses."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is an operon in bacterial gene regulation?",
+      "choices": [
+        "A membrane-bound organelle",
+        "A cluster of genes controlled together by shared regulatory sequences",
+        "A type of ribosomal RNA",
+        "A protein-folding structure"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "An operon groups genes under coordinated control, often allowing a bacterium to regulate a pathway efficiently."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main role of myelin around many nerve axons?",
+      "choices": [
+        "To synthesize neurotransmitters",
+        "To carry oxygen",
+        "To insulate axons and speed impulse conduction",
+        "To digest damaged proteins"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Myelin electrically insulates axons and enables rapid saltatory conduction between nodes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which blood-cell type matures into plasma cells that secrete antibodies?",
+      "choices": [
+        "Neutrophil",
+        "Platelet",
+        "Erythrocyte",
+        "B lymphocyte"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Activated B lymphocytes can differentiate into antibody-secreting plasma cells."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is allosteric regulation?",
+      "choices": [
+        "Changing a protein’s activity when a molecule binds away from its active site",
+        "Breaking a protein into amino acids",
+        "Copying DNA into RNA",
+        "Moving a protein through a membrane"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "biology",
+        "chemistry"
+      ],
+      "explanation": "An allosteric effector binds at a regulatory site and changes the protein’s shape or activity."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Greek historian is often called the “Father of History” in the Western tradition?",
+      "choices": [
+        "Thucydides",
+        "Herodotus",
+        "Xenophon",
+        "Polybius"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Herodotus wrote the Histories, an inquiry into the Greco-Persian conflicts and their background."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient library was associated with the Assyrian king Ashurbanipal?",
+      "choices": [
+        "Library of Pergamon",
+        "Library of Alexandria",
+        "Library of Ashurbanipal at Nineveh",
+        "House of Wisdom"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Ashurbanipal assembled a major collection of cuneiform tablets at Nineveh in the seventh century BCE."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which script was used to write the earliest known form of Sumerian?",
+      "choices": [
+        "Linear A",
+        "Ogham",
+        "Brahmi",
+        "Cuneiform"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "history",
+        "language"
+      ],
+      "explanation": "Sumerian texts were written in cuneiform, a wedge-shaped script impressed into clay."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient trade network carried frankincense and myrrh across the Arabian Peninsula?",
+      "choices": [
+        "Incense Route",
+        "Silk Road only",
+        "Amber Road",
+        "Royal Road of Persia"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "history",
+        "geography"
+      ],
+      "explanation": "The Incense Route linked southern Arabia and the Mediterranean through the trade in aromatic resins."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does a great-circle route represent on a spherical Earth?",
+      "choices": [
+        "A line of constant latitude",
+        "The shortest surface path between two points",
+        "A route following the Equator only",
+        "A path of constant compass bearing"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "A great circle is a circle on a sphere whose plane passes through the sphere’s center; its arc gives the shortest surface route."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the International Date Line designed to mark?",
+      "choices": [
+        "The zero-degree longitude line",
+        "The Tropic of Capricorn",
+        "A conventional boundary where the calendar date changes",
+        "The boundary of Earth’s magnetic field"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "The International Date Line is a convention near 180° longitude; crossing it changes the calendar date."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which map projection preserves local angles and shapes but distorts area at small scales?",
+      "choices": [
+        "Equal-area projection",
+        "Equidistant projection",
+        "Azimuthal equidistant projection",
+        "Conformal projection"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "A conformal projection preserves local angles, while area and distance distortions increase away from its standard lines."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a monsoon?",
+      "choices": [
+        "A seasonal reversal or shift in prevailing winds, often bringing a rainy season",
+        "A daily sea breeze",
+        "A rotating tropical cyclone only",
+        "A cold ocean current"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "geography",
+        "science"
+      ],
+      "explanation": "Monsoons are seasonal wind systems; some bring pronounced wet and dry seasons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What landform is a deep, narrow sea inlet carved by a glacier?",
+      "choices": [
+        "Delta",
+        "Fjord",
+        "Atoll",
+        "Alluvial fan"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "Glacial erosion can carve steep-sided valleys that later flood with seawater, forming fjords."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which composer wrote the opera cycle Der Ring des Nibelungen?",
+      "choices": [
+        "Giuseppe Verdi",
+        "Richard Strauss",
+        "Richard Wagner",
+        "Giacomo Puccini"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Wagner composed the four-opera Ring cycle, based on Germanic and Norse legendary material."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a passacaglia in classical music?",
+      "choices": [
+        "A freely improvised cadenza",
+        "A short unaccompanied song",
+        "A type of brass instrument",
+        "A set of variations over a repeating bass or harmonic pattern"
+      ],
+      "correctIndex": 3,
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "A passacaglia is commonly built as variations over a recurring bass line or harmonic sequence."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which interval spans an octave plus a perfect fifth?",
+      "choices": [
+        "Perfect twelfth",
+        "Perfect eleventh",
+        "Major tenth",
+        "Minor ninth"
+      ],
+      "correctIndex": 0,
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "A perfect twelfth combines an octave and a perfect fifth, spanning 19 semitones in equal temperament."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who wrote the novel The Master and Margarita?",
+      "choices": [
+        "Fyodor Dostoevsky",
+        "Mikhail Bulgakov",
+        "Boris Pasternak",
+        "Nikolai Gogol"
+      ],
+      "correctIndex": 1,
+      "difficulty": "expert",
+      "tags": [
+        "books"
+      ],
+      "explanation": "Bulgakov wrote the satirical novel The Master and Margarita, published posthumously."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every prime number greater than 2 is odd.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Any even integer greater than 2 is divisible by 2 and therefore cannot be prime."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The square root of every positive integer is rational.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Only perfect squares have integer square roots; many other integer square roots, such as √2, are irrational."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In a vacuum, electromagnetic waves of all frequencies travel at the same speed.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "science"
+      ],
+      "explanation": "In vacuum, electromagnetic radiation travels at the speed of light regardless of frequency."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A codon is a sequence of three nucleotides in a nucleic acid.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Codons are three-base sequences read during translation; an mRNA codon specifies an amino acid or stop signal."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All human cells contain a nucleus.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Mature red blood cells in humans lack a nucleus, and some other specialized cells also lack one."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Mitochondria have their own DNA.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Mitochondria contain a small genome separate from the cell’s nuclear DNA."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A transition mutation exchanges a purine for a pyrimidine or vice versa.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "A transition swaps a purine for another purine or a pyrimidine for another pyrimidine; purine–pyrimidine swaps are transversions."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Carbon-14 dating is most useful for estimating the age of once-living material.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "science",
+        "history"
+      ],
+      "explanation": "Living organisms exchange carbon with their environment; after death, radioactive carbon-14 decays in the remaining material."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every isotope of every element is radioactive.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "Many isotopes are stable; only unstable isotopes undergo radioactive decay."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The longitude lines on a globe converge at the poles.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "Meridians meet at both geographic poles, unlike parallels of latitude."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Every map projection can preserve both area and shape everywhere.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "Projecting a curved surface onto a plane necessarily distorts some combination of area, shape, distance, or direction."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An isobar connects locations with equal atmospheric pressure.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "geography",
+        "science"
+      ],
+      "explanation": "Isobars are lines of equal pressure, commonly shown on weather maps."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A monsoon is defined solely as a brief afternoon thunderstorm.",
+      "answer": false,
+      "difficulty": "expert",
+      "tags": [
+        "geography",
+        "science"
+      ],
+      "explanation": "A monsoon is a seasonal wind pattern, often associated with a rainy season, not one short storm."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In equal temperament, an octave is divided into twelve equal semitones.",
+      "answer": true,
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Twelve-tone equal temperament divides the octave into 12 equal frequency ratios."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is Fermat’s little theorem?",
+      "answer": "If p is prime and p does not divide a, then a^(p−1) is congruent to 1 modulo p.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The theorem is a basic result in modular arithmetic and underlies some primality tests and cryptographic methods."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an eigenvector of a square matrix?",
+      "answer": "A nonzero vector whose direction is unchanged by the matrix transformation, apart from scaling by its associated eigenvalue.",
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "For a matrix A, an eigenvector v satisfies Av = λv for some scalar λ."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a codon?",
+      "answer": "A three-nucleotide sequence in messenger RNA that specifies an amino acid or a translation stop signal.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Ribosomes read mRNA codons during translation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an exon?",
+      "answer": "A segment of a gene transcript retained in mature RNA after RNA splicing.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Exons are joined together as introns are removed from many eukaryotic pre-mRNA transcripts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a transversion mutation?",
+      "answer": "A substitution that replaces a purine base with a pyrimidine or a pyrimidine with a purine.",
+      "difficulty": "expert",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "The purines are adenine and guanine; the pyrimidines are cytosine and thymine (or uracil in RNA)."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “allosteric site” mean?",
+      "answer": "A regulatory binding site on a protein distinct from its active site.",
+      "difficulty": "expert",
+      "tags": [
+        "biology",
+        "chemistry"
+      ],
+      "explanation": "Binding at an allosteric site can alter the protein’s conformation and activity."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the Incense Route?",
+      "answer": "A network of trade routes that carried aromatic resins such as frankincense and myrrh from southern Arabia toward the Mediterranean.",
+      "difficulty": "expert",
+      "tags": [
+        "history",
+        "geography"
+      ],
+      "explanation": "The routes connected producers in Arabia with markets across the Near East and Mediterranean."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a great circle?",
+      "answer": "A circle on a sphere whose plane passes through the sphere’s center.",
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "The Equator is a great circle; most lines of latitude are not."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an antimeridian?",
+      "answer": "A meridian of longitude 180 degrees away from a chosen reference meridian.",
+      "difficulty": "expert",
+      "tags": [
+        "geography"
+      ],
+      "explanation": "The International Date Line roughly follows the 180th meridian but deviates in places."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an isogloss?",
+      "answer": "A boundary on a linguistic map marking the geographic limit of a particular language feature.",
+      "difficulty": "expert",
+      "tags": [
+        "language",
+        "geography"
+      ],
+      "explanation": "An isogloss may map a pronunciation, vocabulary choice, or grammatical feature."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a passacaglia?",
+      "answer": "A musical form often built from variations over a recurring bass line or harmonic pattern.",
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Composers vary melodies, rhythms, and textures over the repeated foundation."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a compound interval in music?",
+      "answer": "An interval larger than an octave.",
+      "difficulty": "expert",
+      "tags": [
+        "music"
+      ],
+      "explanation": "A compound interval can be described as an octave plus a simple interval, such as a perfect twelfth."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a colophon in a book?",
+      "answer": "A note, usually near the end, giving information such as the printer, place, or date of publication.",
+      "difficulty": "expert",
+      "tags": [
+        "books"
+      ],
+      "explanation": "Colophons were especially important in manuscripts and early printed books."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a polyglot?",
+      "answer": "A person who knows or uses several languages, or a work containing several languages.",
+      "difficulty": "expert",
+      "tags": [
+        "language",
+        "words"
+      ],
+      "explanation": "The word can describe multilingual people, texts, or editions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the cardinality of the set of natural numbers?",
+      "choices": [
+        "Uncountably infinite",
+        "Finite",
+        "Countably infinite",
+        "Zero"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The natural numbers can be placed in one-to-one correspondence with the positive integers, so they form a countably infinite set."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which theorem guarantees that a continuous function on a closed interval attains both a maximum and a minimum?",
+      "choices": [
+        "Intermediate value theorem",
+        "Mean value theorem",
+        "Extreme value theorem",
+        "Rolle’s theorem"
+      ],
+      "correctIndex": 2,
+      "difficulty": "expert",
+      "tags": [
+        "mathematics",
+        "calculus"
+      ],
+      "explanation": "The extreme value theorem states that a continuous function on a closed, bounded interval reaches an absolute maximum and minimum."
     }
   ]
 }

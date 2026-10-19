@@ -36,7 +36,8 @@
       "difficulty": "easy",
       "tags": [
         "space"
-      ]
+      ],
+      "explanation": "Jupiter is the largest planet in the solar system by both diameter and mass."
     },
     {
       "type": "multiple_choice",
@@ -67,7 +68,8 @@
       "difficulty": "easy",
       "tags": [
         "space"
-      ]
+      ],
+      "explanation": "The Moon is Earth?s only natural satellite; it orbits our planet about once a month."
     },
     {
       "type": "multiple_choice",
@@ -98,7 +100,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "African elephants are the largest living land mammals, with adults larger than other land species."
     },
     {
       "type": "multiple_choice",
@@ -113,7 +116,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Giant pandas eat mostly bamboo, though they can also eat other foods."
     },
     {
       "type": "multiple_choice",
@@ -144,7 +148,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "After the pupal stage, a butterfly emerges as an adult with wings."
     },
     {
       "type": "multiple_choice",
@@ -159,7 +164,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Penguins are flightless seabirds that often gather in large breeding colonies, including in Antarctica."
     },
     {
       "type": "multiple_choice",
@@ -174,7 +180,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Honeybees turn collected flower nectar into honey and store it in their hives."
     },
     {
       "type": "multiple_choice",
@@ -205,7 +212,8 @@
       "difficulty": "easy",
       "tags": [
         "technology"
-      ]
+      ],
+      "explanation": "RGB stands for red, green, and blue, the three additive primary colors used in displays."
     },
     {
       "type": "multiple_choice",
@@ -220,7 +228,8 @@
       "difficulty": "easy",
       "tags": [
         "games"
-      ]
+      ],
+      "explanation": "A standard deck has four suits with 13 cards each, making 52 cards without jokers."
     },
     {
       "type": "multiple_choice",
@@ -235,7 +244,8 @@
       "difficulty": "easy",
       "tags": [
         "games"
-      ]
+      ],
+      "explanation": "The king is the piece that must avoid checkmate; a game ends when it has no legal escape from attack."
     },
     {
       "type": "multiple_choice",
@@ -250,7 +260,8 @@
       "difficulty": "easy",
       "tags": [
         "games"
-      ]
+      ],
+      "explanation": "On a standard die, opposite faces pair as 1?6, 2?5, and 3?4, each summing to seven."
     },
     {
       "type": "multiple_choice",
@@ -265,7 +276,8 @@
       "difficulty": "easy",
       "tags": [
         "games"
-      ]
+      ],
+      "explanation": "The classic U.S. Monopoly rules award $200 for passing or landing on GO."
     },
     {
       "type": "multiple_choice",
@@ -280,7 +292,8 @@
       "difficulty": "easy",
       "tags": [
         "sports"
-      ]
+      ],
+      "explanation": "The Olympic symbol contains five interlocking rings, representing the coming together of athletes and continents."
     },
     {
       "type": "multiple_choice",
@@ -295,7 +308,8 @@
       "difficulty": "easy",
       "tags": [
         "sports"
-      ]
+      ],
+      "explanation": "A standard soccer side starts with 11 players on the field, including its goalkeeper."
     },
     {
       "type": "multiple_choice",
@@ -310,7 +324,8 @@
       "difficulty": "easy",
       "tags": [
         "sports"
-      ]
+      ],
+      "explanation": "In tennis, love means a score of zero."
     },
     {
       "type": "multiple_choice",
@@ -325,7 +340,8 @@
       "difficulty": "easy",
       "tags": [
         "music"
-      ]
+      ],
+      "explanation": "A modern full-size piano has 88 keys: 52 white and 36 black."
     },
     {
       "type": "multiple_choice",
@@ -340,7 +356,8 @@
       "difficulty": "easy",
       "tags": [
         "music"
-      ]
+      ],
+      "explanation": "Most standard guitars have six strings, although some instruments use more or fewer."
     },
     {
       "type": "multiple_choice",
@@ -355,7 +372,8 @@
       "difficulty": "easy",
       "tags": [
         "art"
-      ]
+      ],
+      "explanation": "Leonardo da Vinci painted the Mona Lisa during the Italian Renaissance."
     },
     {
       "type": "multiple_choice",
@@ -370,7 +388,8 @@
       "difficulty": "easy",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "Hamlet is one of Shakespeare?s tragedies, centered on the Danish prince Hamlet."
     },
     {
       "type": "multiple_choice",
@@ -385,7 +404,8 @@
       "difficulty": "easy",
       "tags": [
         "books"
-      ]
+      ],
+      "explanation": "J. R. R. Tolkien wrote The Hobbit, first published in 1937."
     },
     {
       "type": "multiple_choice",
@@ -400,7 +420,8 @@
       "difficulty": "easy",
       "tags": [
         "stories"
-      ]
+      ],
+      "explanation": "Jedi, lightsabers, and the Force are central elements of the Star Wars film series."
     },
     {
       "type": "multiple_choice",
@@ -415,7 +436,8 @@
       "difficulty": "easy",
       "tags": [
         "games"
-      ]
+      ],
+      "explanation": "In the main Pok?mon games, Pikachu is an Electric-type Pok?mon."
     },
     {
       "type": "multiple_choice",
@@ -430,7 +452,8 @@
       "difficulty": "easy",
       "tags": [
         "stories"
-      ]
+      ],
+      "explanation": "Hedwig is described in the Harry Potter books as a snowy owl."
     },
     {
       "type": "multiple_choice",
@@ -445,7 +468,8 @@
       "difficulty": "easy",
       "tags": [
         "places"
-      ]
+      ],
+      "explanation": "Naples is a major city in southern Italy, in the Campania region."
     },
     {
       "type": "multiple_choice",
@@ -460,7 +484,8 @@
       "difficulty": "easy",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "France gave the Statue of Liberty to the United States; the statue was dedicated in 1886."
     },
     {
       "type": "multiple_choice",
@@ -491,7 +516,8 @@
       "difficulty": "easy",
       "tags": [
         "everyday"
-      ]
+      ],
+      "explanation": "A Gregorian leap year has 366 days because February gains an extra day, February 29."
     },
     {
       "type": "multiple_choice",
@@ -506,7 +532,8 @@
       "difficulty": "easy",
       "tags": [
         "numbers"
-      ]
+      ],
+      "explanation": "The Roman numeral V represents five."
     },
     {
       "type": "multiple_choice",
@@ -521,7 +548,8 @@
       "difficulty": "easy",
       "tags": [
         "science"
-      ]
+      ],
+      "explanation": "The chemical symbol O stands for oxygen."
     },
     {
       "type": "multiple_choice",
@@ -582,7 +610,8 @@
       "difficulty": "easy",
       "tags": [
         "words"
-      ]
+      ],
+      "explanation": "A palindrome reads the same forward and backward; level is a simple example."
     },
     {
       "type": "flashcard",
@@ -591,7 +620,898 @@
       "difficulty": "easy",
       "tags": [
         "everyday"
-      ]
+      ],
+      "explanation": "RSVP comes from the French r?pondez s?il vous pla?t, asking invitees to reply to the invitation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which planet is closest to the Sun?",
+      "choices": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Mercury follows the innermost orbit around the Sun."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which planet has the longest year because it takes the longest time to orbit the Sun?",
+      "choices": [
+        "Mars",
+        "Neptune",
+        "Earth",
+        "Venus"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Neptune’s distant orbit takes about 165 Earth years."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What kind of celestial object is the Sun?",
+      "choices": [
+        "A planet",
+        "A comet",
+        "A star",
+        "A moon"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "The Sun is a star that produces light and heat through nuclear fusion."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the galaxy that contains our solar system?",
+      "choices": [
+        "Andromeda",
+        "The Whirlpool Galaxy",
+        "The Sombrero Galaxy",
+        "The Milky Way"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Our Sun and planets are located in the Milky Way galaxy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "choices": [
+        "Gravity",
+        "Friction",
+        "Magnetism",
+        "Air pressure"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "space"
+      ],
+      "explanation": "The Sun’s gravity holds the planets in their orbits."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal is the fastest land runner over short distances?",
+      "choices": [
+        "Lion",
+        "Cheetah",
+        "Horse",
+        "Kangaroo"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Cheetahs can accelerate rapidly and reach the highest short-distance running speeds among land animals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which three colors are used on a standard traffic signal?",
+      "choices": [
+        "Red, yellow, and green",
+        "Blue, white, and red",
+        "Green, orange, and purple",
+        "Yellow, black, and white"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "everyday knowledge"
+      ],
+      "explanation": "A standard traffic signal uses red to stop, yellow or amber for caution, and green to proceed when safe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal is an amphibian?",
+      "choices": [
+        "Turtle",
+        "Eagle",
+        "Salmon",
+        "Frog"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Frogs are amphibians, animals that typically begin life in water and can live on land as adults."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which group of animals feeds its young with milk?",
+      "choices": [
+        "Mammals",
+        "Reptiles",
+        "Fish",
+        "Insects"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Mammary glands produce milk to nourish the young of mammals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many chambers are in a typical human heart?",
+      "choices": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "body"
+      ],
+      "explanation": "The human heart has two atria and two ventricles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which part of a tree can show annual growth rings?",
+      "choices": [
+        "Petals",
+        "Roots only",
+        "Trunk wood",
+        "Seeds"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "plants"
+      ],
+      "explanation": "Many trees form visible rings in their trunk as they grow, often one per year in seasonal climates."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do green plants use as their main energy source for photosynthesis?",
+      "choices": [
+        "Moonlight",
+        "Sound",
+        "Wind",
+        "Sunlight"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "plants"
+      ],
+      "explanation": "Photosynthesis uses light energy to help convert carbon dioxide and water into sugars."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the chemical formula for water?",
+      "choices": [
+        "H₂O",
+        "CO₂",
+        "O₂",
+        "NaCl"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "science"
+      ],
+      "explanation": "Each water molecule contains two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "At sea level, pure water boils at approximately what temperature on the Celsius scale?",
+      "choices": [
+        "0°C",
+        "100°C",
+        "50°C",
+        "212°C"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "science"
+      ],
+      "explanation": "At standard atmospheric pressure, pure water boils at about 100°C."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is molten rock called after it reaches Earth’s surface?",
+      "choices": [
+        "Magma",
+        "Basalt only",
+        "Lava",
+        "Ash"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "earth"
+      ],
+      "explanation": "Molten rock underground is magma; when it erupts onto the surface, it is called lava."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main ingredient in traditional guacamole?",
+      "choices": [
+        "Avocado",
+        "Cucumber",
+        "Green peas",
+        "Zucchini"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "food"
+      ],
+      "explanation": "Mashed avocado forms the base of guacamole; other ingredients such as lime, onion, and cilantro are common additions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What tool does a violinist normally draw across the strings to play?",
+      "choices": [
+        "A bow",
+        "A mallet",
+        "A drumstick",
+        "A pickaxe"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "music"
+      ],
+      "explanation": "A violin is played by drawing a bow across its strings, though players can also pluck them."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument family does a snare drum belong to?",
+      "choices": [
+        "Woodwind",
+        "Brass",
+        "Percussion",
+        "String"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "music"
+      ],
+      "explanation": "A snare drum produces sound when its membrane is struck, so it is a percussion instrument."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sport uses a shuttlecock?",
+      "choices": [
+        "Tennis",
+        "Squash",
+        "Volleyball",
+        "Badminton"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "Badminton players hit a shuttlecock, also called a shuttle, across a net."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many players from one team are on court in indoor volleyball?",
+      "choices": [
+        "Six",
+        "Five",
+        "Seven",
+        "Eight"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "A team fields six players in standard indoor volleyball."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many bases are on a standard baseball diamond?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "The bases are first, second, and third base, plus home plate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which shape is used for a standard stop sign in the United States?",
+      "choices": [
+        "Pentagon",
+        "Hexagon",
+        "Octagon",
+        "Triangle"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "everyday"
+      ],
+      "explanation": "The standard U.S. stop sign has eight sides, making it an octagon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many hours are in one full day?",
+      "choices": [
+        "12",
+        "18",
+        "30",
+        "24"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "numbers"
+      ],
+      "explanation": "A conventional day is divided into 24 hours."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument measures temperature?",
+      "choices": [
+        "Thermometer",
+        "Barometer",
+        "Compass",
+        "Ruler"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "everyday"
+      ],
+      "explanation": "A thermometer measures temperature."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which bird is the only group of birds capable of sustained powered flight backward?",
+      "choices": [
+        "Eagles",
+        "Hummingbirds",
+        "Penguins",
+        "Ostriches"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Hummingbirds can fly backward for sustained periods by rotating their wings."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal is known for changing color using specialized skin cells?",
+      "choices": [
+        "Hedgehog",
+        "Panda",
+        "Chameleon",
+        "Beaver"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Chameleons use specialized cells to change color for communication and other purposes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which part of a plant absorbs most water from the soil?",
+      "choices": [
+        "Flowers",
+        "Fruit",
+        "Leaves",
+        "Roots"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "plants"
+      ],
+      "explanation": "Roots take up water and dissolved minerals from the soil."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sport uses a puck?",
+      "choices": [
+        "Ice hockey",
+        "Rugby",
+        "Golf",
+        "Cricket"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "In ice hockey, players use sticks to move a puck and score in the opposing goal."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which part of a book usually lists its chapters and their page numbers?",
+      "choices": [
+        "Index",
+        "Table of contents",
+        "Glossary",
+        "Bibliography"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "books"
+      ],
+      "explanation": "The table of contents lists the book’s sections, often with their starting pages."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which punctuation mark normally ends a direct question?",
+      "choices": [
+        "Comma",
+        "Semicolon",
+        "Question mark",
+        "Apostrophe"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "words"
+      ],
+      "explanation": "A question mark is the standard terminal punctuation for a direct question."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which tool is used to see very small objects such as cells?",
+      "choices": [
+        "Telescope",
+        "Binoculars",
+        "Periscope",
+        "Microscope"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "science"
+      ],
+      "explanation": "A microscope magnifies small objects so they can be seen in greater detail."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which game is played on a board with black and white squares and pieces such as bishops and rooks?",
+      "choices": [
+        "Chess",
+        "Checkers only",
+        "Backgammon",
+        "Go Fish"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "games"
+      ],
+      "explanation": "Chess is played on an eight-by-eight board with pieces including bishops, rooks, and knights."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many squares are on a standard chessboard?",
+      "choices": [
+        "48",
+        "64",
+        "72",
+        "100"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "games"
+      ],
+      "explanation": "An eight-by-eight chessboard has 64 squares."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which cooking method uses hot air circulating around food?",
+      "choices": [
+        "Boiling",
+        "Steaming",
+        "Baking",
+        "Poaching"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "food"
+      ],
+      "explanation": "Baking cooks food using surrounding dry heat, usually in an oven."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which food is traditionally made by fermenting milk with bacterial cultures?",
+      "choices": [
+        "Bread",
+        "Jam",
+        "Pasta",
+        "Yogurt"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "food",
+        "science"
+      ],
+      "explanation": "Yogurt is produced when bacterial cultures ferment lactose in milk."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the line around a tennis court that marks the playing area?",
+      "choices": [
+        "Baseline",
+        "Goal line",
+        "Touchline",
+        "Crease"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "The baseline marks the back boundary of a tennis court."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which art material is commonly made from pigment mixed with water and a binder?",
+      "choices": [
+        "Charcoal",
+        "Watercolor paint",
+        "Clay",
+        "Graphite"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "art"
+      ],
+      "explanation": "Watercolor paints use pigment in a water-based binder and are thinned with water."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument measures wind speed?",
+      "choices": [
+        "Thermometer",
+        "Rain gauge",
+        "Anemometer",
+        "Seismometer"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "weather"
+      ],
+      "explanation": "An anemometer measures wind speed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which of these is a primary color of light in the RGB model?",
+      "choices": [
+        "Yellow",
+        "Black",
+        "Brown",
+        "Red"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "technology"
+      ],
+      "explanation": "The additive RGB color model uses red, green, and blue light as its primary colors."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the imaginary line around Earth halfway between the North and South Poles?",
+      "choices": [
+        "Equator",
+        "Prime Meridian",
+        "Tropic of Capricorn",
+        "Arctic Circle"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "places"
+      ],
+      "explanation": "The Equator divides Earth into the Northern and Southern Hemispheres."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do bees collect from flowers that they use to make honey?",
+      "choices": [
+        "Tree sap only",
+        "Nectar",
+        "Pollen only",
+        "Seeds"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animals",
+        "food"
+      ],
+      "explanation": "Honeybees collect nectar and transform it into honey; pollen is mainly a protein source."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument is usually used to measure a person’s body weight?",
+      "choices": [
+        "Compass",
+        "Stopwatch",
+        "Scale",
+        "Ruler"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "everyday"
+      ],
+      "explanation": "A scale measures weight or, in everyday use, body mass."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of cloud is commonly associated with thunderstorms?",
+      "choices": [
+        "Cirrus",
+        "Stratus",
+        "Altostratus",
+        "Cumulonimbus"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "weather"
+      ],
+      "explanation": "Tall cumulonimbus clouds can produce thunderstorms, heavy rain, and lightning."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A triangle has three sides.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "numbers"
+      ],
+      "explanation": "A triangle is a polygon with three sides and three angles."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A bat is a bird because it can fly.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Bats are mammals: they have fur and nurse their young with milk."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Moon produces its own visible light in the same way that the Sun does.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "The Moon appears bright because it reflects sunlight."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A compass needle generally aligns with Earth’s magnetic field.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "everyday"
+      ],
+      "explanation": "A compass uses a magnetized needle that aligns approximately north–south with Earth’s magnetic field."
+    },
+    {
+      "type": "true_false",
+      "prompt": "An adult human normally has two lungs.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "body"
+      ],
+      "explanation": "Most people have a right lung and a left lung."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The north and south poles of two bar magnets attract one another.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "science"
+      ],
+      "explanation": "Opposite magnetic poles attract; like poles repel."
+    },
+    {
+      "type": "true_false",
+      "prompt": "All birds can fly.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Some birds, including ostriches and penguins, do not fly."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A square is also a rectangle.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "numbers"
+      ],
+      "explanation": "A square satisfies the definition of a rectangle because it has four right angles; it also has all sides equal."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a prefix?",
+      "answer": "A word part added to the beginning of a base word to change or refine its meaning.",
+      "difficulty": "easy",
+      "tags": [
+        "words"
+      ],
+      "explanation": "For example, un- changes kind to unkind."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a synonym?",
+      "answer": "A word with the same or a closely related meaning as another word.",
+      "difficulty": "easy",
+      "tags": [
+        "words"
+      ],
+      "explanation": "For example, begin and start are synonyms in many contexts."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a habitat?",
+      "answer": "The natural place or environment where an organism lives.",
+      "difficulty": "easy",
+      "tags": [
+        "animals",
+        "science"
+      ],
+      "explanation": "A habitat provides an organism with conditions and resources such as food and shelter."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a peninsula?",
+      "answer": "A piece of land surrounded by water on most sides but connected to a larger landmass.",
+      "difficulty": "easy",
+      "tags": [
+        "places"
+      ],
+      "explanation": "A peninsula is attached to a mainland by at least one land connection."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a chorus in a song?",
+      "answer": "A repeated section of a song, often containing its main musical hook.",
+      "difficulty": "easy",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Many songs return to the chorus between verses."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a recipe?",
+      "answer": "A set of instructions listing ingredients and steps for preparing a dish.",
+      "difficulty": "easy",
+      "tags": [
+        "food"
+      ],
+      "explanation": "Recipes tell cooks what ingredients to use and how to prepare them."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many sides does a pentagon have?",
+      "choices": [
+        "Five",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "numbers"
+      ],
+      "explanation": "A pentagon is a polygon with five sides."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do honeybees collect from flowers as a source of sugar?",
+      "choices": [
+        "Sand",
+        "Nectar",
+        "Clay",
+        "Salt"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animals",
+        "nature"
+      ],
+      "explanation": "Bees collect nectar and later concentrate it into honey; they also gather pollen for protein."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do giant pandas mainly eat in the wild?",
+      "choices": [
+        "Bamboo",
+        "Fish",
+        "Fruit only",
+        "Insects"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "animals",
+        "nature"
+      ],
+      "explanation": "Giant pandas feed mainly on bamboo, although they can occasionally eat other foods."
     }
   ]
 }

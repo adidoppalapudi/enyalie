@@ -1,0 +1,1320 @@
+{
+  "format": "enyalie-deck",
+  "version": 1,
+  "deck": {
+    "id": "deck-world-facts",
+    "name": "World Facts",
+    "description": "A broad general-knowledge mix of science, history, culture, organizations, and everyday facts."
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": "Which layer of Earth is liquid and generates most of the planet’s magnetic field through moving metal?",
+      "choices": [
+        "Inner core",
+        "Outer core",
+        "Crust",
+        "Upper mantle"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "earth-science"
+      ],
+      "explanation": "Convection in the liquid iron-rich outer core helps generate Earth’s magnetic field."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas makes up the largest fraction of Earth’s dry atmosphere?",
+      "choices": [
+        "Oxygen",
+        "Argon",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "earth-science",
+        "chemistry"
+      ],
+      "explanation": "Nitrogen makes up about 78 percent of dry air by volume."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for the boundary between Earth’s crust and mantle?",
+      "choices": [
+        "Gutenberg discontinuity",
+        "Kármán line",
+        "Chicxulub boundary",
+        "Mohorovičić discontinuity"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "earth-science"
+      ],
+      "explanation": "The Mohorovičić discontinuity, or Moho, marks the boundary between the crust and mantle."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which scale is used to describe the magnitude of an earthquake from seismic-wave data?",
+      "choices": [
+        "Moment magnitude scale",
+        "Beaufort scale",
+        "Fujita scale",
+        "Richter temperature scale"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "earth-science"
+      ],
+      "explanation": "Modern earthquake magnitudes are commonly reported using the moment magnitude scale."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which process converts atmospheric nitrogen into compounds that plants can use?",
+      "choices": [
+        "Photosynthesis",
+        "Nitrogen fixation",
+        "Transpiration",
+        "Denitrification only"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "biology",
+        "earth-science"
+      ],
+      "explanation": "Nitrogen fixation converts nitrogen gas into biologically usable forms, often through microbes or lightning."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which cell structure contains most of a eukaryotic cell’s genetic material?",
+      "choices": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Most eukaryotic DNA is organized in chromosomes inside the nucleus."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which molecule carries genetic information in most living organisms?",
+      "choices": [
+        "Cellulose",
+        "ATP only",
+        "Hemoglobin",
+        "DNA"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "DNA stores hereditary instructions in the sequence of its nucleotide bases."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main role of ribosomes?",
+      "choices": [
+        "Protein synthesis",
+        "Lipid storage",
+        "DNA replication only",
+        "Cell movement"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Ribosomes translate messenger RNA into chains of amino acids."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which blood type is often called the universal red-cell donor when Rh factor is included?",
+      "choices": [
+        "AB positive",
+        "O negative",
+        "A positive",
+        "B negative"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "biology",
+        "health"
+      ],
+      "explanation": "O-negative red cells lack A, B, and Rh(D) antigens, though clinical transfusion decisions require compatibility testing."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which organelle modifies, sorts, and packages many proteins for transport?",
+      "choices": [
+        "Nucleolus",
+        "Centrosome",
+        "Golgi apparatus",
+        "Vacuole"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "The Golgi apparatus modifies and sorts molecules received from the endoplasmic reticulum."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the pH of a neutral aqueous solution at about 25 °C?",
+      "choices": [
+        "0",
+        "1",
+        "14",
+        "7"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "At roughly 25 °C, neutral water has pH 7; neutrality depends on the balance of hydrogen and hydroxide ions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which subatomic particle has a positive electric charge?",
+      "choices": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Photon"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "physics",
+        "chemistry"
+      ],
+      "explanation": "Protons have a positive charge, electrons a negative charge, and neutrons no net electric charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the chemical symbol for potassium?",
+      "choices": [
+        "P",
+        "K",
+        "Pt",
+        "Po"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "Potassium’s symbol K comes from its Latin name, kalium."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which type of bond involves the sharing of electron pairs between atoms?",
+      "choices": [
+        "Ionic bond",
+        "Metallic bond only",
+        "Covalent bond",
+        "Hydrogen bond"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "Covalent bonds form when atoms share one or more pairs of electrons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas is released when an acid reacts with a carbonate?",
+      "choices": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "Acid–carbonate reactions produce a salt, water, and carbon dioxide gas."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which law states that pressure and volume of a fixed amount of gas are inversely related at constant temperature?",
+      "choices": [
+        "Boyle’s law",
+        "Charles’s law",
+        "Avogadro’s law",
+        "Graham’s law"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "chemistry",
+        "physics"
+      ],
+      "explanation": "Boyle’s law states that pressure times volume is constant for a fixed amount of gas at constant temperature."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the SI base unit for amount of substance?",
+      "choices": [
+        "Kilogram",
+        "Mole",
+        "Candela",
+        "Newton"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "measurement",
+        "chemistry"
+      ],
+      "explanation": "The mole is the SI base unit for amount of substance and represents a specified number of entities."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phenomenon causes the sky to appear blue on a clear day?",
+      "choices": [
+        "Reflection from the ocean",
+        "Absorption of all red light by clouds",
+        "Preferential scattering of shorter visible wavelengths",
+        "The Moon’s illumination"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "physics"
+      ],
+      "explanation": "Rayleigh scattering by molecules in the atmosphere is stronger for shorter visible wavelengths such as blue."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the approximate speed of light in a vacuum?",
+      "choices": [
+        "30,000 kilometers per second",
+        "3,000 kilometers per second",
+        "3 million kilometers per second",
+        "300,000 kilometers per second"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "physics",
+        "measurement"
+      ],
+      "explanation": "The speed of light in vacuum is about 299,792 kilometers per second."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument separates white light into its component wavelengths?",
+      "choices": [
+        "Prism",
+        "Thermometer",
+        "Barometer",
+        "Caliper"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "physics"
+      ],
+      "explanation": "Refraction in a prism bends different wavelengths by different amounts, spreading white light into a spectrum."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the point in an orbit closest to the Sun?",
+      "choices": [
+        "Aphelion",
+        "Perihelion",
+        "Perigee",
+        "Apogee"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Perihelion is the closest point to the Sun; aphelion is the farthest."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which planet has the most prominent ring system visible from Earth?",
+      "choices": [
+        "Mercury",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Saturn’s extensive icy ring system is the most conspicuous among the planets."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the term for a star’s apparent brightness as seen from Earth?",
+      "choices": [
+        "Absolute temperature",
+        "Luminosity class only",
+        "Redshift",
+        "Apparent magnitude"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Apparent magnitude describes how bright an object appears from Earth; lower magnitudes are brighter."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name commonly given to the supermassive black hole at the center of the Milky Way?",
+      "choices": [
+        "Sagittarius A*",
+        "Cygnus X-1",
+        "Vega A",
+        "Andromeda X"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "space"
+      ],
+      "explanation": "Sagittarius A* is the compact radio source associated with the Milky Way’s central supermassive black hole."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which phase of the Moon occurs when its near side appears fully illuminated from Earth?",
+      "choices": [
+        "New moon",
+        "Full moon",
+        "First quarter",
+        "Third quarter"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "space"
+      ],
+      "explanation": "At full moon, the Moon’s Earth-facing hemisphere is illuminated nearly completely."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient Roman city buried by Vesuvius is known for preserved streets and homes such as the House of the Faun?",
+      "choices": [
+        "Carthage",
+        "Troy",
+        "Pompeii",
+        "Knossos"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Pompeii was buried by Vesuvius in 79 CE; excavations have revealed streets, homes, and public buildings including the House of the Faun."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which writing system was used for monumental inscriptions in ancient Egypt?",
+      "choices": [
+        "Cuneiform",
+        "Linear B",
+        "Ogham",
+        "Hieroglyphs"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "history",
+        "writing"
+      ],
+      "explanation": "Egyptian hieroglyphs combined logographic, syllabic, and alphabetic signs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which city served as the capital of the Inca Empire?",
+      "choices": [
+        "Cusco",
+        "Tenochtitlan",
+        "Tikal",
+        "Cajamarca"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "cities"
+      ],
+      "explanation": "Cusco was the political and ceremonial center of the Inca Empire."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which empire built the road network known as the Royal Road in ancient Persia?",
+      "choices": [
+        "Mongol Empire",
+        "Achaemenid Empire",
+        "Mali Empire",
+        "Ottoman Empire"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The Achaemenid Persian Empire developed the Royal Road to connect distant parts of its realm."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1215 charter is associated with limiting the English king’s authority?",
+      "choices": [
+        "Edict of Nantes",
+        "Petition of Right",
+        "Magna Carta",
+        "Act of Union"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Magna Carta was sealed by King John in 1215 and became an enduring reference in constitutional history."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which West African empire was ruled by Mansa Musa in the fourteenth century?",
+      "choices": [
+        "Songhai Empire",
+        "Aksumite Empire",
+        "Ghana Empire",
+        "Mali Empire"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "Africa"
+      ],
+      "explanation": "Mansa Musa ruled the Mali Empire, which grew wealthy through trade in gold and other goods."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which city was the capital of the Aztec Triple Alliance?",
+      "choices": [
+        "Tenochtitlan",
+        "Teotihuacan",
+        "Chichén Itzá",
+        "Palenque"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "history",
+        "Americas"
+      ],
+      "explanation": "Tenochtitlan stood on an island in Lake Texcoco, where Mexico City later developed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which document begins with the words “We the People” and established the United States federal government?",
+      "choices": [
+        "Declaration of Independence",
+        "U.S. Constitution",
+        "Articles of Confederation",
+        "Bill of Rights"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "history",
+        "civics"
+      ],
+      "explanation": "The U.S. Constitution’s preamble begins with “We the People” and establishes the federal framework."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which international organization was founded in 1945 to promote international peace and cooperation?",
+      "choices": [
+        "League of Nations",
+        "World Trade Organization",
+        "United Nations",
+        "International Red Cross"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "organizations",
+        "civics"
+      ],
+      "explanation": "The United Nations was established in 1945 after World War II."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of the International Court of Justice?",
+      "choices": [
+        "To prosecute individual war criminals",
+        "To set global interest rates",
+        "To administer international sports",
+        "To settle legal disputes between states and give advisory opinions"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "organizations",
+        "civics"
+      ],
+      "explanation": "The ICJ is the UN’s principal judicial organ and hears cases between states that accept its jurisdiction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which global organization publishes the World Health Organization’s International Classification of Diseases?",
+      "choices": [
+        "World Health Organization",
+        "UNESCO",
+        "International Labour Organization",
+        "World Bank"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organizations",
+        "health"
+      ],
+      "explanation": "The WHO maintains the International Classification of Diseases, a global standard for health information."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which UN agency focuses on education, science, culture, and communication?",
+      "choices": [
+        "UNICEF",
+        "UNESCO",
+        "UNHCR",
+        "FAO"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "organizations",
+        "culture"
+      ],
+      "explanation": "UNESCO is the United Nations Educational, Scientific and Cultural Organization."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which international agreement is specifically aimed at protecting the ozone layer?",
+      "choices": [
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Basel Convention"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "environment",
+        "organizations"
+      ],
+      "explanation": "The Montreal Protocol controls substances that deplete the stratospheric ozone layer."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which treaty created the European Union in its modern form in 1993?",
+      "choices": [
+        "Treaty of Rome",
+        "Treaty of Lisbon",
+        "Treaty of Versailles",
+        "Maastricht Treaty"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "history",
+        "organizations"
+      ],
+      "explanation": "The Maastricht Treaty entered into force in 1993 and formally established the European Union."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which international organization sets many standards for civil aviation?",
+      "choices": [
+        "International Civil Aviation Organization",
+        "International Maritime Organization",
+        "World Meteorological Organization",
+        "International Telecommunication Union"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "organizations",
+        "transport"
+      ],
+      "explanation": "ICAO is a UN specialized agency that develops international standards and recommended practices for civil aviation."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sea route connects the Atlantic and Pacific oceans through Central America?",
+      "choices": [
+        "Suez Canal",
+        "Panama Canal",
+        "Kiel Canal",
+        "Corinth Canal"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "transport",
+        "waterways"
+      ],
+      "explanation": "The Panama Canal crosses the Isthmus of Panama and connects Atlantic and Pacific shipping routes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which transport container standard helped make global shipping more efficient?",
+      "choices": [
+        "Airship gondola",
+        "Pneumatic tube",
+        "Intermodal shipping container",
+        "Railroad caboose"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "transport",
+        "technology"
+      ],
+      "explanation": "Standardized intermodal containers can move between ships, trains, and trucks without unloading their contents."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient trade route connected East Asia with Central Asia and the Mediterranean through multiple branches?",
+      "choices": [
+        "Incense Route only",
+        "Amber Road only",
+        "Royal Road only",
+        "Silk Roads"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "history",
+        "trade"
+      ],
+      "explanation": "The Silk Roads were a network of routes, not a single road, carrying goods, ideas, and people across Eurasia."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which language family includes Spanish, French, Italian, and Portuguese?",
+      "choices": [
+        "Romance",
+        "Germanic",
+        "Slavic",
+        "Celtic"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "language"
+      ],
+      "explanation": "Romance languages developed from Latin and include Spanish, French, Italian, Portuguese, and Romanian."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which writing system is used to write modern Japanese alongside hiragana and katakana?",
+      "choices": [
+        "Cyrillic",
+        "Kanji",
+        "Hangul",
+        "Devanagari"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "language",
+        "writing"
+      ],
+      "explanation": "Kanji are Chinese-derived characters used alongside the Japanese syllabaries hiragana and katakana."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a word borrowed from another language?",
+      "choices": [
+        "Palindrome",
+        "Acronym",
+        "Loanword",
+        "Homophone"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "language"
+      ],
+      "explanation": "A loanword enters one language from another, often adapting to local pronunciation or spelling."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which musical instrument family does the sitar belong to?",
+      "choices": [
+        "Brass instruments",
+        "Double reeds",
+        "Keyboard instruments",
+        "Plucked string instruments"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "explanation": "The sitar is a plucked string instrument associated with North Indian classical music."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which traditional Japanese art arranges cut flowers and branches?",
+      "choices": [
+        "Ikebana",
+        "Origami",
+        "Kabuki",
+        "Ukiyo-e"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "culture",
+        "art"
+      ],
+      "explanation": "Ikebana is the Japanese art of flower arrangement, emphasizing line, form, and balance."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which board game uses 64 squares and pieces including a king, queen, bishops, knights, rooks, and pawns?",
+      "choices": [
+        "Go",
+        "Chess",
+        "Backgammon",
+        "Shogi"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "games"
+      ],
+      "explanation": "Chess is played on an 8-by-8 board with six types of pieces per side."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sport uses the terms “love,” “deuce,” and “advantage” in its traditional scoring?",
+      "choices": [
+        "Cricket",
+        "Volleyball",
+        "Tennis",
+        "Rugby"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "Tennis scoring uses love for zero and deuce when both players reach 40."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which sport is contested in the Tour de France?",
+      "choices": [
+        "Cross-country skiing",
+        "Motor racing",
+        "Rowing",
+        "Road cycling"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "sports"
+      ],
+      "explanation": "The Tour de France is a multi-stage men’s road cycling race held primarily in France."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for the gradual increase in Earth’s average surface temperature linked to rising greenhouse gases?",
+      "choices": [
+        "Ocean acidification",
+        "Global warming",
+        "Ozone depletion",
+        "Continental drift"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "climate",
+        "environment"
+      ],
+      "explanation": "Global warming refers to the long-term rise in average temperatures, largely driven by human greenhouse-gas emissions."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which renewable energy technology converts sunlight directly into electricity using semiconductor cells?",
+      "choices": [
+        "Geothermal turbine",
+        "Hydroelectric dam",
+        "Photovoltaics",
+        "Wind turbine"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "energy",
+        "technology"
+      ],
+      "explanation": "Photovoltaic cells use the photovoltaic effect to convert light into electrical energy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which element is the primary fuel in most commercial nuclear fission reactors?",
+      "choices": [
+        "Helium",
+        "Silicon",
+        "Neon",
+        "Uranium"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "energy",
+        "chemistry"
+      ],
+      "explanation": "Most commercial reactors use uranium fuel, particularly the fissile isotope uranium-235 in enriched fuel."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the unit used to measure the frequency of a wave?",
+      "choices": [
+        "Hertz",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "measurement",
+        "physics"
+      ],
+      "explanation": "One hertz equals one cycle per second."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which SI unit measures force?",
+      "choices": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "measurement",
+        "physics"
+      ],
+      "explanation": "One newton is the force needed to accelerate one kilogram by one meter per second squared."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which instrument records ground motion during an earthquake?",
+      "choices": [
+        "Altimeter",
+        "Spectrometer",
+        "Seismometer",
+        "Anemometer"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "earth-science",
+        "measurement"
+      ],
+      "explanation": "A seismometer detects and records ground motion; the resulting record is a seismogram."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the term for the variety of life at genetic, species, and ecosystem levels?",
+      "choices": [
+        "Biomass",
+        "Biogeography",
+        "Bioaccumulation",
+        "Biodiversity"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "biology",
+        "environment"
+      ],
+      "explanation": "Biodiversity includes variation within species, between species, and among ecosystems."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which animal group has a backbone and includes amphibians, reptiles, birds, and mammals?",
+      "choices": [
+        "Vertebrates",
+        "Arthropods",
+        "Mollusks",
+        "Cnidarians"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "biology",
+        "animals"
+      ],
+      "explanation": "Vertebrates are animals with a vertebral column; the listed groups are major vertebrate classes."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the term for animals that are most active around dawn and dusk?",
+      "choices": [
+        "Nocturnal",
+        "Crepuscular",
+        "Diurnal",
+        "Fossorial"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "biology",
+        "animals"
+      ],
+      "explanation": "Crepuscular animals are chiefly active during twilight periods."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which branch of science studies fungi?",
+      "choices": [
+        "Ecology",
+        "Entomology",
+        "Mycology",
+        "Ornithology"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Mycology is the study of fungi, including yeasts, molds, and mushrooms."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which scientist proposed the theory of natural selection as a mechanism of evolution?",
+      "choices": [
+        "Charles Darwin",
+        "James Watt",
+        "Niels Bohr",
+        "Michael Faraday"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "history"
+      ],
+      "explanation": "Darwin presented natural selection as a mechanism that can drive evolutionary change."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which ancient Greek thinker is associated with the mathematical theorem about right triangles bearing his name?",
+      "choices": [
+        "Euclid",
+        "Pythagoras",
+        "Archimedes",
+        "Eratosthenes"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "mathematics",
+        "history"
+      ],
+      "explanation": "The Pythagorean theorem relates the side lengths of a right triangle: a² + b² = c²."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which number is the smallest prime number?",
+      "choices": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Two is prime because it has exactly two positive divisors, 1 and 2; it is the only even prime."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name for a polygon with eight sides?",
+      "choices": [
+        "Hexagon",
+        "Heptagon",
+        "Nonagon",
+        "Octagon"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "An octagon has eight sides."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which geometric solid has six equal square faces?",
+      "choices": [
+        "Cube",
+        "Tetrahedron",
+        "Octahedron",
+        "Cylinder"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "A cube has six congruent square faces, twelve edges, and eight vertices."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the average of a set of numbers calculated by adding them and dividing by their count called?",
+      "choices": [
+        "Median",
+        "Arithmetic mean",
+        "Mode",
+        "Range"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The arithmetic mean is the sum of the values divided by the number of values."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sound travels through a vacuum in the same way it travels through air.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "physics"
+      ],
+      "explanation": "Sound is a mechanical wave and requires a medium; it cannot propagate through a vacuum."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A neutron has no net electric charge.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "physics",
+        "chemistry"
+      ],
+      "explanation": "Neutrons are electrically neutral subatomic particles found in most atomic nuclei."
+    },
+    {
+      "type": "true_false",
+      "prompt": "In photosynthesis, plants use light energy to help convert carbon dioxide and water into sugars.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "biology"
+      ],
+      "explanation": "Photosynthesis stores light energy in chemical bonds while producing sugars from carbon dioxide and water."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A chemical element is defined by the number of protons in its atoms.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "The atomic number, equal to the number of protons, defines an element."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The International Court of Justice and the International Criminal Court are the same institution.",
+      "answer": false,
+      "difficulty": "medium",
+      "tags": [
+        "organizations",
+        "civics"
+      ],
+      "explanation": "The ICJ hears cases between states; the ICC prosecutes individuals for certain international crimes."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The ozone layer is located mainly in the stratosphere.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "earth-science",
+        "environment"
+      ],
+      "explanation": "Most atmospheric ozone is concentrated in the stratosphere, where it absorbs much harmful ultraviolet radiation."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Gregorian calendar has exactly 365 days in every year.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "time"
+      ],
+      "explanation": "Leap years add a day in most years divisible by four, with century exceptions unless divisible by 400."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A light-year is a unit of distance.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "space",
+        "measurement"
+      ],
+      "explanation": "A light-year is the distance light travels in a year, not a measure of time."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The metric prefix “kilo-” means one thousand times the base unit.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "measurement"
+      ],
+      "explanation": "In the SI metric system, kilo- represents a factor of 1,000."
+    },
+    {
+      "type": "true_false",
+      "prompt": "On the Celsius scale, pure water freezes at 0 degrees under standard atmospheric pressure.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "science",
+        "measurement"
+      ],
+      "explanation": "At standard atmospheric pressure, pure water freezes at approximately 0 °C."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an isotope?",
+      "answer": "One of two or more atoms of the same element with the same number of protons but different numbers of neutrons.",
+      "difficulty": "medium",
+      "tags": [
+        "chemistry"
+      ],
+      "explanation": "Isotopes share an atomic number but have different mass numbers."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a prime number?",
+      "answer": "A whole number greater than 1 with exactly two positive divisors: 1 and itself.",
+      "difficulty": "easy",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "Numbers such as 2, 3, 5, and 7 are prime; 1 is not."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “renewable resource” mean?",
+      "answer": "A natural resource replenished on a human timescale when managed or used appropriately.",
+      "difficulty": "medium",
+      "tags": [
+        "environment",
+        "energy"
+      ],
+      "explanation": "Solar and wind energy are renewable; a renewable resource can still be depleted locally if mismanaged."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a fossil?",
+      "answer": "Preserved remains, traces, or other evidence of ancient organisms, usually found in rock or sediment.",
+      "difficulty": "easy",
+      "tags": [
+        "earth-science",
+        "history"
+      ],
+      "explanation": "Fossils include body remains such as bones as well as traces such as footprints."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does an ISBN identify?",
+      "answer": "A specific edition and format of a published book.",
+      "difficulty": "medium",
+      "tags": [
+        "books",
+        "culture"
+      ],
+      "explanation": "Different formats or editions of a book generally have different ISBNs."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a lingua franca?",
+      "answer": "A language used as a common means of communication among people with different native languages.",
+      "difficulty": "medium",
+      "tags": [
+        "language",
+        "culture"
+      ],
+      "explanation": "A lingua franca enables communication across language communities in trade, diplomacy, or other settings."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What does “UNESCO World Heritage Site” designate?",
+      "answer": "A place recognized for cultural or natural value considered to have outstanding universal significance.",
+      "difficulty": "medium",
+      "tags": [
+        "organizations",
+        "culture"
+      ],
+      "explanation": "World Heritage status is based on criteria established by the UNESCO World Heritage Convention."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is an embargo?",
+      "answer": "An official restriction or ban on trade with a particular country or on particular goods.",
+      "difficulty": "medium",
+      "tags": [
+        "civics",
+        "economics"
+      ],
+      "explanation": "Governments may impose an embargo as a foreign-policy or security measure."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the median of a data set?",
+      "answer": "The middle value when the observations are arranged in order; for an even count, it is the mean of the two middle values.",
+      "difficulty": "medium",
+      "tags": [
+        "mathematics"
+      ],
+      "explanation": "The median is less affected by extreme values than the arithmetic mean."
+    }
+  ]
+}
