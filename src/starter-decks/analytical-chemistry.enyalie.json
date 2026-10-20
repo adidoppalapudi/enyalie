@@ -191,10 +191,10 @@
       "type": "multiple_choice",
       "prompt": "A certified reference material is useful because it has:",
       "choices": [
-        "No assigned value",
-        "Only an unknown concentration",
+        "A value assigned only by the user's own lab",
+        "A composition that matches every real sample",
         "A characterized property value and stated uncertainty",
-        "A signal identical to every sample"
+        "A signal that needs no instrument calibration"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -209,9 +209,9 @@
       "type": "multiple_choice",
       "prompt": "In a gravimetric analysis, the analyte amount is inferred mainly from:",
       "choices": [
-        "Color alone",
-        "Electrical potential alone",
-        "Boiling point only",
+        "Color change of the indicator alone",
+        "Electrical potential of the solution",
+        "Boiling point of the dried residue",
         "Mass of a suitably isolated compound"
       ],
       "correctIndex": 3,
@@ -247,8 +247,8 @@
       "choices": [
         "Always exactly the equivalence point",
         "The observed signal used to stop titrant addition",
-        "The analyte’s starting volume",
-        "The blank reading"
+        "The volume of analyte at the start",
+        "The reading taken for the reagent blank"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -317,10 +317,10 @@
       "type": "multiple_choice",
       "prompt": "The Nernst equation relates electrode potential to:",
       "choices": [
-        "Only electrode color",
+        "Electrode surface area and solution volume",
         "Reaction composition and temperature",
-        "Sample density only",
-        "Boiling point"
+        "Electrode mass and stirring speed",
+        "Solution density and boiling point"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -389,10 +389,10 @@
       "type": "multiple_choice",
       "prompt": "In chromatography, retention time is the time between injection and:",
       "choices": [
-        "Solvent preparation",
+        "Equilibration of the stationary phase",
         "Detection of a compound’s peak",
-        "Column washing only",
-        "Sample weighing"
+        "The end of the column wash cycle",
+        "Complete evaporation of the solvent"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -516,9 +516,9 @@
       "prompt": "A matrix effect occurs when:",
       "choices": [
         "Other sample components alter analyte response",
-        "The analyte is weighed twice",
-        "A blank is colorless",
-        "A standard has known concentration"
+        "The analyte is weighed twice in one run",
+        "A blank sample shows no color change",
+        "A standard of known concentration is used"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -533,10 +533,10 @@
       "type": "multiple_choice",
       "prompt": "Which sampling plan best supports a representative result from a heterogeneous bulk material?",
       "choices": [
-        "Take only the easiest surface portion",
+        "Take only the most accessible surface portion of the lot",
         "Collect a suitable composite or representative set of increments",
-        "Use the smallest visible fragment always",
-        "Measure the empty container"
+        "Collect one large grab sample from a single convenient spot",
+        "Sample only the material that looks most typical by eye"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -551,10 +551,10 @@
       "type": "multiple_choice",
       "prompt": "Why are replicate measurements useful?",
       "choices": [
-        "They remove every systematic error",
-        "They make standards unnecessary",
+        "They remove every systematic error in a method",
+        "They make calibration standards unnecessary",
         "They help estimate random variability and precision",
-        "They guarantee accuracy"
+        "They guarantee that each result is accurate"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -569,9 +569,9 @@
       "type": "multiple_choice",
       "prompt": "A standard deviation describes:",
       "choices": [
-        "Bias from a reference only",
-        "The calibration slope",
-        "The number of analytes",
+        "Bias of the mean from a reference value",
+        "Slope of the calibration line through standards",
+        "Smallest amount that can be reliably detected",
         "Spread of observations around their mean"
       ],
       "correctIndex": 3,
@@ -641,9 +641,9 @@
       "type": "multiple_choice",
       "prompt": "What does a chromatographic peak area often represent under validated conditions?",
       "choices": [
-        "Molecular shape directly",
-        "Column temperature only",
-        "Sample pH",
+        "Molecular size or shape of the eluted analyte",
+        "Temperature of the column during the elution",
+        "Retention strength of the stationary phase",
         "Amount or concentration of detected analyte"
       ],
       "correctIndex": 3,
@@ -660,9 +660,9 @@
       "prompt": "Which instrument is used to quantify light absorption as a function of wavelength?",
       "choices": [
         "UV-visible spectrophotometer",
-        "Burette",
-        "pH paper only",
-        "Analytical balance"
+        "Fluorescence spectrometer",
+        "Refractometer at fixed λ",
+        "Infrared moisture analyzer"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -695,10 +695,10 @@
       "type": "multiple_choice",
       "prompt": "Which technique is particularly useful for measuring trace metals after atomization?",
       "choices": [
-        "TLC",
-        "Acid-base indicator",
+        "Thin-layer chromatography",
+        "Ion-selective potentiometry",
         "Atomic absorption spectroscopy",
-        "Polarimetry only"
+        "Ultraviolet polarimetry"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -713,9 +713,9 @@
       "type": "multiple_choice",
       "prompt": "Inductively coupled plasma mass spectrometry can provide:",
       "choices": [
-        "Only protein sequencing",
-        "Only acid strength",
-        "Only melting points",
+        "Protein sequencing of large biomolecules",
+        "Acid strength of dissolved weak acids",
+        "Melting points of organic crystals",
         "Elemental analysis at trace levels"
       ],
       "correctIndex": 3,
@@ -732,9 +732,9 @@
       "prompt": "Why is chain of custody important for some analytical samples?",
       "choices": [
         "It documents handling and identity across transfers",
-        "It changes the analyte concentration",
-        "It calibrates a detector",
-        "It eliminates all uncertainty"
+        "It changes the analyte concentration in transit",
+        "It calibrates the detector before each sample",
+        "It removes all uncertainty from the final result"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1349,10 +1349,10 @@
       "type": "multiple_choice",
       "prompt": "Analytical selectivity describes a method’s ability to:",
       "choices": [
-        "Produce a large signal for any compound",
+        "Produce a large signal for any compound present",
         "Measure an analyte in the presence of other components",
-        "Measure only high concentrations",
-        "Avoid calibration"
+        "Measure only high concentrations without dilution",
+        "Give results without any calibration standards"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1367,10 +1367,10 @@
       "type": "multiple_choice",
       "prompt": "A t-test is commonly used to compare:",
       "choices": [
-        "Two molecular structures",
-        "Two chromatographic solvents only",
+        "The precision of two separate instruments' outputs",
+        "Variances among three or more groups at once",
         "A sample mean with a reference mean or another mean",
-        "Atomic numbers"
+        "The slopes of two different calibration lines"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1404,9 +1404,9 @@
       "prompt": "A curved pattern in calibration residuals suggests that:",
       "choices": [
         "A linear model may not describe the response well",
-        "The standards are always perfect",
-        "The blank is unnecessary",
-        "The analyte is absent"
+        "The standards were weighed with too little precision",
+        "The blank was contaminated and should be repeated",
+        "The detector reached its lower limit of detection"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1511,10 +1511,10 @@
       "type": "multiple_choice",
       "prompt": "Which property best describes analytical sensitivity?",
       "choices": [
-        "Ability to ignore every interferent",
-        "Agreement with a reference value only",
+        "Ability to ignore every interferent in a sample",
+        "Agreement of results with a certified reference value",
         "Change in signal per change in analyte concentration",
-        "Repeatability alone"
+        "Repeatability of results within a single analyst"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -1548,9 +1548,9 @@
       "prompt": "Why can ionic strength matter in equilibrium calculations?",
       "choices": [
         "Activities can differ from concentrations in nonideal ionic solutions",
-        "It changes atomic numbers",
-        "It removes all dissolved ions",
-        "It makes every equilibrium constant zero"
+        "It changes the stoichiometric coefficients in the balanced reaction",
+        "It shifts every equilibrium constant to the same fixed value",
+        "It removes the need to correct for temperature in the calculation"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

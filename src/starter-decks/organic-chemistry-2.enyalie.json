@@ -137,9 +137,9 @@
       "type": "multiple_choice",
       "prompt": "Why does a strongly deactivated aromatic ring often resist Friedel-Crafts reactions?",
       "choices": [
-        "Lone pairs bind the catalyst too strongly",
-        "The ring cannot form any pi bonds",
-        "The reaction requires a radical initiator",
+        "Lone pairs on the ring bind the Lewis acid catalyst too strongly",
+        "The ring cannot form new pi bonds once it is substituted",
+        "The reaction needs a radical initiator that the ring destroys",
         "Low electron density makes electrophile attack difficult"
       ],
       "correctIndex": 3,
@@ -173,10 +173,10 @@
       "type": "multiple_choice",
       "prompt": "An epoxide is best described as:",
       "choices": [
-        "A five-membered ester",
+        "A five-membered cyclic ester",
         "A three-membered cyclic ether",
-        "A carbonyl oxide",
-        "An aromatic ring"
+        "A carbonyl group bonded to oxygen",
+        "A six-membered aromatic ring"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -444,9 +444,9 @@
       "prompt": "A Claisen condensation most directly forms a beta-keto ester from:",
       "choices": [
         "Esters with alpha hydrogens plus matching alkoxide base",
-        "Two aldehydes reacting in acid",
-        "An alkene adding bromine under light",
-        "An amine adding to an acid chloride"
+        "Two aldehydes condensing in aqueous acid solution",
+        "An alkene adding bromine under ultraviolet light",
+        "An amine adding to an acid chloride with pyridine"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -588,9 +588,9 @@
       "prompt": "Reductive elimination typically forms a bond between:",
       "choices": [
         "Two ligands on a metal and lowers the metal oxidation state",
-        "Two free solvents only",
-        "A catalyst and water only",
-        "Two unrelated molecules without metal contact"
+        "Two solvent molecules in solution, with no change at the metal",
+        "The catalyst and a water molecule, raising the metal oxidation state",
+        "Two unrelated molecules in solution, without any contact with a metal"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

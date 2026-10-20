@@ -1147,9 +1147,9 @@
       "type": "multiple_choice",
       "prompt": "Which request is most polite?",
       "choices": [
-        "Wiederholen Sie!",
+        "Wiederholen Sie das sofort noch einmal!",
         "Könnten Sie das bitte wiederholen?",
-        "Du wiederholst das."
+        "Du wiederholst das jetzt noch einmal."
       ],
       "correctIndex": 1,
       "difficulty": "easy",

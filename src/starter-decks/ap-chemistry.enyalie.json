@@ -564,9 +564,9 @@
       "prompt": "A pure substance is melting at constant pressure. What happens to its temperature while the solid and liquid coexist?",
       "choices": [
         "It remains nearly constant while energy changes phase",
-        "It falls because melting is exothermic",
-        "It rises steadily as each particle melts",
-        "It alternates between two temperatures"
+        "It falls because melting releases energy to the room",
+        "It rises steadily as each particle melts in turn",
+        "It alternates between two temperatures as it melts"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -689,9 +689,9 @@
       "type": "multiple_choice",
       "prompt": "In paper chromatography, a dye spot travels farther with the solvent than another dye. What is the best explanation?",
       "choices": [
-        "It has a stronger attraction to the paper",
-        "It has a larger molar mass",
-        "It has a higher boiling point",
+        "It has a stronger attraction to the paper than to the solvent",
+        "It has a larger molar mass and so dissolves more slowly",
+        "It has a higher boiling point and evaporates less as it moves",
         "It has a greater attraction to the mobile solvent relative to the paper"
       ],
       "correctIndex": 3,
@@ -1127,10 +1127,10 @@
       "type": "multiple_choice",
       "prompt": "Why does increasing temperature usually increase a reaction rate?",
       "choices": [
-        "The activation energy becomes zero",
-        "Reactant particles stop colliding with one another",
+        "The activation energy of the reaction falls to almost zero",
+        "Reactant particles collide less often but with better orientation",
         "A larger fraction of collisions has energy at least equal to the activation energy",
-        "The equilibrium constant must increase"
+        "The equilibrium constant rises, pulling the reaction forward"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1145,9 +1145,9 @@
       "type": "multiple_choice",
       "prompt": "A reaction-energy diagram has an uncatalyzed activation energy of 80 kJ/mol and a catalyzed activation energy of 45 kJ/mol. What changes?",
       "choices": [
-        "The catalyst raises the energy of the products by 35 kJ/mol",
-        "The catalyst makes the reaction enthalpy 35 kJ/mol more negative",
-        "The catalyst changes the identities of reactants and products",
+        "The catalyst raises the energy of the products by 35 kJ/mol relative to reactants",
+        "The catalyst makes the reaction enthalpy 35 kJ/mol more negative than before",
+        "The catalyst changes the identities of the reactants and products that form",
         "The catalyst lowers the activation energy but leaves the reaction enthalpy unchanged"
       ],
       "correctIndex": 3,
@@ -1937,9 +1937,9 @@
       "type": "multiple_choice",
       "prompt": "Two buffers have the same acid-to-conjugate-base ratio, but one contains ten times as much of each component per liter. Which statement is best?",
       "choices": [
-        "Both buffers must have different pKa values",
-        "The more concentrated buffer has a pH ten times higher",
-        "The less concentrated buffer has greater capacity",
+        "The two buffers must have different pKa values because their concentrations differ",
+        "The more concentrated buffer has a pH ten times higher than the dilute buffer",
+        "The less concentrated buffer has greater capacity because its ions move more freely",
         "The more concentrated buffer has greater capacity to resist added acid or base"
       ],
       "correctIndex": 3,
@@ -2159,10 +2159,10 @@
       "type": "multiple_choice",
       "prompt": "A reaction has negative Delta G under specified conditions but proceeds very slowly. What best explains this?",
       "choices": [
-        "Negative Delta G means the reaction is at equilibrium",
-        "A slow reaction must have positive Delta G",
+        "A negative Delta G means the reaction is already sitting at equilibrium",
+        "A reaction that runs slowly must actually have a positive Delta G",
         "Thermodynamic favorability does not guarantee a small activation barrier",
-        "The reaction must absorb heat"
+        "The reaction must absorb heat, which slows it at room temperature"
       ],
       "correctIndex": 2,
       "difficulty": "hard",

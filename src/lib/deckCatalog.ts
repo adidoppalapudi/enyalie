@@ -8,13 +8,14 @@ const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
   'General knowledge': ['deck-world-facts', 'deck-recent-general-knowledge'],
   Science: [
-    'deck-human-body', 'deck-nature', 'deck-botany', 'deck-oceans-water-bodies',
+    'deck-human-body', 'deck-nature', 'deck-botany', 'deck-oceans-water-bodies', 'deck-ap-environmental-science',
     'deck-chemistry-foundations', 'deck-ap-chemistry', 'deck-general-chemistry',
     'deck-health-sciences-chemistry', 'deck-organic-chemistry-1', 'deck-organic-chemistry-2',
     'deck-analytical-chemistry', 'deck-inorganic-chemistry', 'deck-fun-chemistry-for-kids',
   ],
   History: ['deck-ap-world-history'],
-  Places: ['deck-geography', 'deck-world-geography', 'deck-national-parks'],
+  // deck-geography was merged into deck-world-geography; older libraries may still have a copy.
+  Places: ['deck-world-geography', 'deck-geography', 'deck-national-parks'],
   'Stories & games': [
     'deck-harry-potter', 'deck-hunger-games', 'deck-marvel-comics',
     'deck-movies', 'deck-pokemon', 'deck-minecraft',
@@ -39,7 +40,7 @@ const categoriesById = new Map(
 );
 
 const featuredIds = new Set([
-  'deck-trivia-easy', 'deck-human-body', 'deck-chemistry-foundations', 'deck-geography',
+  'deck-trivia-easy', 'deck-human-body', 'deck-chemistry-foundations', 'deck-world-geography',
   'deck-nba', 'deck-harry-potter', 'deck-minecraft', 'deck-ap-world-history',
 ]);
 

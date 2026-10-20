@@ -289,10 +289,10 @@
       "type": "multiple_choice",
       "prompt": "Which phenomenon causes the sky to appear blue on a clear day?",
       "choices": [
-        "Reflection from the ocean",
-        "Absorption of all red light by clouds",
+        "Reflection of sunlight from the blue surface of the ocean",
+        "Absorption of all red and yellow light by thin clouds",
         "Preferential scattering of shorter visible wavelengths",
-        "The Moon’s illumination"
+        "Scattered moonlight that mixes with sunlight during the day"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -568,9 +568,9 @@
       "type": "multiple_choice",
       "prompt": "What is the main purpose of the International Court of Justice?",
       "choices": [
-        "To prosecute individual war criminals",
-        "To set global interest rates",
-        "To administer international sports",
+        "To prosecute individuals accused of war crimes and genocide",
+        "To set global interest rates and coordinate central banks",
+        "To settle trade disputes between private companies worldwide",
         "To settle legal disputes between states and give advisory opinions"
       ],
       "correctIndex": 3,
@@ -687,10 +687,10 @@
       "type": "multiple_choice",
       "prompt": "Which transport container standard helped make global shipping more efficient?",
       "choices": [
-        "Airship gondola",
-        "Pneumatic tube",
+        "Standard railroad boxcar",
+        "Pneumatic cargo tube",
         "Intermodal shipping container",
-        "Railroad caboose"
+        "Bulk cargo pallet rack"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1103,10 +1103,10 @@
       "type": "multiple_choice",
       "prompt": "What is the average of a set of numbers calculated by adding them and dividing by their count called?",
       "choices": [
-        "Median",
+        "Median value",
         "Arithmetic mean",
-        "Mode",
-        "Range"
+        "Modal value",
+        "Interquartile range"
       ],
       "correctIndex": 1,
       "difficulty": "easy",

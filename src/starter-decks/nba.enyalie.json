@@ -499,10 +499,10 @@
       "type": "multiple_choice",
       "prompt": "Under the NBA defensive three-second rule, a defender in the lane must generally do what?",
       "choices": [
-        "Leave the court",
-        "Touch the ball",
+        "Leave the lane after every made basket",
+        "Touch the ball before the shot clock resets",
         "Actively guard an opponent within three seconds",
-        "Stand outside the three-point line"
+        "Stand outside the three-point line on defense"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -547,10 +547,10 @@
       "type": "multiple_choice",
       "prompt": "What is the difference between a charge and a blocking foul?",
       "choices": [
-        "A charge is a missed shot; blocking is a made shot",
+        "A charge is called on a missed shot; blocking is called on a made shot",
         "A charge is illegal offensive contact; blocking is illegal defensive contact",
-        "A charge is a technical foul; blocking is a flagrant foul",
-        "There is no difference"
+        "A charge is always a technical foul; blocking is always a flagrant foul",
+        "A charge happens outside the paint; blocking happens only inside it"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -563,10 +563,10 @@
       "type": "multiple_choice",
       "prompt": "What is the purpose of the restricted-area arc beneath the basket?",
       "choices": [
-        "It marks the three-point line",
-        "It shows where free throws begin",
+        "It marks the area where offensive players may stay only three seconds",
+        "It shows where a player must stand to begin free throws",
         "It limits when a defender can draw a charge directly under the rim",
-        "It defines the coach’s box"
+        "It defines the space where the coach may stand during play"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -612,10 +612,10 @@
       "type": "multiple_choice",
       "prompt": "What is the usual NBA penalty for a defensive three-second violation?",
       "choices": [
-        "Two free throws and a turnover",
+        "Two free throws and a change of possession to the defense",
         "A technical free throw and continued offensive possession",
-        "A jump ball",
-        "A personal foul and no free throws"
+        "A jump ball at the center circle between two players",
+        "A personal foul on the defender and no free throws"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -645,9 +645,9 @@
       "type": "multiple_choice",
       "prompt": "What is the normal result of a legal blocked shot that does not go through the basket?",
       "choices": [
-        "The shooter automatically gets two free throws",
-        "The defense is charged with a foul",
-        "The shot clock stops for the rest of the period",
+        "Two free throws",
+        "A defensive foul",
+        "Shot clock stops",
         "Play continues"
       ],
       "correctIndex": 3,
@@ -1061,9 +1061,9 @@
       "prompt": "Which statistic is calculated as made field goals divided by attempted field goals?",
       "choices": [
         "Field-goal percentage",
-        "Plus-minus",
-        "Usage rate",
-        "Assist ratio"
+        "True shooting percentage",
+        "Effective field-goal rate",
+        "Points per shot attempt"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1092,10 +1092,10 @@
       "type": "multiple_choice",
       "prompt": "What does a player’s plus-minus measure while that player is on court?",
       "choices": [
-        "The player’s shot accuracy",
-        "The player’s rebound total",
+        "The player’s shooting accuracy during those minutes",
+        "The player’s rebound total during those minutes",
         "The team’s scoring margin during those minutes",
-        "The number of fouls drawn"
+        "The number of fouls the player drew in those minutes"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1159,10 +1159,10 @@
       "type": "multiple_choice",
       "prompt": "What does a rebound record?",
       "choices": [
-        "A pass leading to a basket",
-        "A made shot from behind the arc",
+        "A pass that leads directly to a teammate’s made basket",
+        "A made shot attempted from behind the three-point arc",
         "Recovery of the ball after a missed field-goal or free-throw attempt",
-        "A change of possession after a foul"
+        "A change of possession awarded after a defensive foul"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -1457,9 +1457,9 @@
       "prompt": "What is the purpose of the NBA Play-In Tournament?",
       "choices": [
         "To determine the final playoff seeds in each conference",
-        "To award the regular-season MVP",
-        "To replace the draft lottery",
-        "To decide the NBA champion"
+        "To decide the regular-season MVP before the playoffs",
+        "To set the draft lottery order for non-playoff teams",
+        "To decide the NBA champion in a single-game final"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

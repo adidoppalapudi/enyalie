@@ -677,10 +677,10 @@
       "type": "multiple_choice",
       "prompt": "Which change would increase the rate of most reactions by increasing the frequency of effective collisions?",
       "choices": [
-        "Lowering concentration",
+        "Lowering the reactant concentration",
         "Increasing reactant concentration",
-        "Cooling the reactants",
-        "Removing all solvent"
+        "Cooling the reactants before mixing",
+        "Removing all of the solvent at once"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -749,10 +749,10 @@
       "type": "multiple_choice",
       "prompt": "Which description best fits an electrolyte solution?",
       "choices": [
-        "It contains only neutral molecules",
+        "It contains only neutral molecules with no charge",
         "It contains mobile ions and can conduct electricity",
-        "It cannot contain water",
-        "It always has pH 7"
+        "It cannot contain any water as the solvent",
+        "It always has a pH of exactly 7 at 25 °C"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -767,10 +767,10 @@
       "type": "multiple_choice",
       "prompt": "A calibration standard has a known concentration. Why is it useful?",
       "choices": [
-        "It identifies the unknown by color alone",
-        "It prevents all measurement error",
+        "It identifies the unknown substance by color alone",
+        "It prevents all random and systematic measurement error",
         "It relates instrument response to analyte concentration",
-        "It changes the unknown chemically"
+        "It reacts with the unknown to change it chemically"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1553,10 +1553,10 @@
       "type": "multiple_choice",
       "prompt": "At fixed temperature, Henry’s law says that dissolving gas concentration generally rises when its:",
       "choices": [
-        "Molar mass falls to zero",
+        "Molar mass falls toward zero",
         "Partial pressure above the liquid rises",
-        "Container is opened to vacuum",
-        "Color becomes darker"
+        "Container is opened to a vacuum",
+        "Color becomes darker in the liquid"
       ],
       "correctIndex": 1,
       "difficulty": "medium",

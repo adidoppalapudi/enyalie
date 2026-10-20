@@ -156,9 +156,9 @@
       "prompt": "Which statement best describes osmosis?",
       "choices": [
         "Water moves across a selectively permeable membrane in response to solute differences",
-        "Solute moves through any barrier",
-        "Water always moves toward lower solute concentration",
-        "Only ions move across membranes"
+        "Solutes move freely across any barrier until both sides are equal",
+        "Water moves toward the side with lower solute concentration across a membrane",
+        "Only ions move across membranes, carried by specific transport proteins"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -353,9 +353,9 @@
       "type": "multiple_choice",
       "prompt": "Which biomolecule is the body's main rapidly available fuel in many cells?",
       "choices": [
-        "DNA",
-        "Cholesterol only",
-        "Water",
+        "Nucleic acid such as DNA",
+        "Lipid such as cholesterol",
+        "Protein such as collagen",
         "Carbohydrate such as glucose"
       ],
       "correctIndex": 3,
@@ -551,10 +551,10 @@
       "type": "multiple_choice",
       "prompt": "Which statement about drug ionization and pH is generally correct?",
       "choices": [
-        "pH never affects molecules",
-        "Every drug is fully ionized at every pH",
+        "pH never affects how drug molecules behave in the body",
+        "Every drug is fully ionized at every pH in the body",
         "Ionization can affect solubility and membrane passage",
-        "Only metals respond to pH"
+        "Only metal-containing drugs respond to changes in pH"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -660,9 +660,9 @@
       "prompt": "Which statement best describes a chemical disinfectant?",
       "choices": [
         "A substance used to reduce or inactivate microbes on appropriate surfaces",
-        "A guaranteed sterilizer for every material",
-        "A food nutrient",
-        "A solvent safe to mix with any cleaner"
+        "A sterilizer that destroys all microbes on every kind of material",
+        "A nutrient added to food to help the body fight infection",
+        "A solvent that is safe to mix with any other household cleaner"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -713,9 +713,9 @@
       "type": "multiple_choice",
       "prompt": "Which observation best indicates a chemical change rather than merely a physical change?",
       "choices": [
-        "A solid is cut into smaller pieces",
-        "Liquid water freezes",
-        "Sugar crystals are crushed",
+        "A solid is cut into smaller pieces with a new shape",
+        "Liquid water freezes into ice that floats on the water",
+        "Sugar crystals are crushed into a fine white powder",
         "A new substance forms with different chemical composition"
       ],
       "correctIndex": 3,

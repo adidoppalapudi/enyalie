@@ -858,10 +858,10 @@
       "type": "multiple_choice",
       "prompt": "What does the prefix “inter-” usually mean?",
       "choices": [
-        "Before",
-        "Against",
+        "Before or ahead of",
+        "Against or opposed",
         "Between or among",
-        "Again"
+        "Again or once more"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1008,9 +1008,9 @@
       "type": "multiple_choice",
       "prompt": "What is the main purpose of a lighthouse?",
       "choices": [
-        "To measure rainfall",
-        "To mark a time zone",
-        "To track earthquakes",
+        "To measure rainfall and wind along a coast",
+        "To mark the boundary between time zones",
+        "To track earthquakes and warn of tsunamis",
         "To help guide and warn ships near coasts"
       ],
       "correctIndex": 3,
@@ -1275,9 +1275,9 @@
       "type": "multiple_choice",
       "prompt": "Which composer wrote the ballet The Nutcracker?",
       "choices": [
-        "Frédéric Chopin",
-        "Claude Debussy",
-        "Antonio Vivaldi",
+        "Nikolai Rimsky-Korsakov",
+        "Sergei Sergeyevich Prokofiev",
+        "Igor Fyodorovich Stravinsky",
         "Pyotr Ilyich Tchaikovsky"
       ],
       "correctIndex": 3,

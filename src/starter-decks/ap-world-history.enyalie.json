@@ -108,9 +108,9 @@
       "type": "multiple_choice",
       "prompt": "In a later account, Egyptian scholar al-Umari reports what Cairo residents said about Mansa Musa's 1324 pilgrimage and gold spending. What is a cautious inference?",
       "choices": [
-        "His account proves Musa's spending permanently collapsed Cairo's currency and trade",
-        "Because he wrote later, al-Umari's report cannot show Mali's diplomatic connections",
-        "The story establishes that every person in Mali followed Islam and joined the pilgrimage",
+        "His account proves that Musa's spending permanently collapsed Cairo's currency and ruined its long-distance trade",
+        "Because he wrote decades later, al-Umari's report cannot tell us anything about Mali's diplomatic connections",
+        "The story establishes that every person in Mali followed Islam and that most of them joined the pilgrimage",
         "The pilgrimage displayed Mali's wealth and linked its ruler to Islamic networks while al-Umari's account remained secondhand"
       ],
       "correctIndex": 3,
@@ -512,9 +512,9 @@
       "type": "multiple_choice",
       "prompt": "Ibn Battuta wrote favorably about the Muslim ruler's justice in Mali but also judged practices by his own religious standards. What should a historian consider?",
       "choices": [
-        "His visit provides a firsthand record of Mansa Musa's pilgrimage two decades earlier",
-        "His account proves Malian religious practice fully matched jurists' expectations",
-        "His praise shows political customs were identical throughout West Africa",
+        "His visit provides a firsthand eyewitness record of Mansa Musa's famous pilgrimage, which happened two decades earlier",
+        "His account proves that Malian religious practice fully matched the expectations of jurists in North Africa",
+        "His praise shows that political customs were identical in every kingdom and city throughout West Africa",
         "His travel account reveals both observed practices and the author's perspective as a Muslim scholar and visitor"
       ],
       "correctIndex": 3,
@@ -695,10 +695,10 @@
       "type": "multiple_choice",
       "prompt": "Which weapon played a major role in the Ottoman siege of Constantinople in 1453?",
       "choices": [
-        "Composite bows used by mounted archers in the Ottoman field army",
-        "Galley fleets that transported troops through the Bosporus",
+        "Mounted archers' composite bows",
+        "Galley fleets in the Bosporus",
         "Large gunpowder artillery",
-        "Wooden siege towers used to carry soldiers over the city walls"
+        "Wooden siege towers on wheels"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -716,9 +716,9 @@
       "prompt": "What was one purpose of the Ottoman devshirme system?",
       "choices": [
         "It recruited some Christian boys for training in the sultan's administrative and military service",
-        "A tax on Christian households used to hire European mercenaries",
-        "A land grant requiring Muslim cavalrymen to serve the sultan",
-        "A guild system that organized craft production in Ottoman cities"
+        "It taxed Christian households to pay for European mercenaries hired by the sultan's army",
+        "It granted land to Muslim cavalrymen in return for military service when the sultan called",
+        "It organized craft guilds that controlled prices and production in the larger Ottoman cities"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -795,10 +795,10 @@
       "type": "multiple_choice",
       "prompt": "How did Qing rulers strengthen legitimacy while governing China?",
       "choices": [
-        "They governed through Manchu institutions and abandoned Chinese bureaucracy",
+        "They governed only through Manchu institutions and abandoned the existing Chinese bureaucracy entirely",
         "They adopted many Chinese administrative practices while maintaining Manchu identity and institutions",
-        "They kept Chinese offices but abandoned Manchu identity and court practices",
-        "They shifted the capital to an Islamic court and replaced Confucian education"
+        "They kept Chinese offices but gave up Manchu identity, language, and court practices within a generation",
+        "They moved the capital to an Islamic court and replaced Confucian education with religious schooling"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -896,9 +896,9 @@
       "type": "multiple_choice",
       "prompt": "Why did Ottoman-Safavid rivalry involve both politics and religion?",
       "choices": [
-        "Their empires had identical ruling families and no border disputes",
-        "The conflict was solely a dispute over Atlantic colonies",
-        "Both empires sought to abolish all religious institutions",
+        "Their empires were ruled by the same family and had no disputes over their shared borders",
+        "The conflict was a dispute over Atlantic colonies and trade routes, with religion as a pretext",
+        "Both empires tried to abolish religious institutions and replace them with state-run councils",
         "Rival rulers competed for territory and influence while promoting different Islamic traditions"
       ],
       "correctIndex": 3,
@@ -956,10 +956,10 @@
       "type": "multiple_choice",
       "prompt": "What is the most accurate description of Ottoman governance of many non-Muslim communities?",
       "choices": [
-        "All non-Muslims had to convert before living in Ottoman cities",
+        "All non-Muslims had to convert to Islam before they were allowed to live in Ottoman cities",
         "Some communities retained religious institutions and local autonomy while owing obligations to the state",
-        "All communities had identical legal and fiscal status under Ottoman law",
-        "Non-Muslims could trade but could not maintain communal religious institutions"
+        "All communities had identical legal and fiscal status under Ottoman law, regardless of religion",
+        "Non-Muslims could trade freely but were not allowed to keep their own communal religious institutions"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -1792,9 +1792,9 @@
       "prompt": "Which development contributed to the abolition of slavery in many Atlantic societies during the 19th century?",
       "choices": [
         "Enslaved people's resistance and organized abolitionist movements pressured states to change laws",
-        "A single treaty ended slavery throughout the Atlantic world in 1750",
-        "Industrial factories required every worker to remain enslaved for life",
-        "The Haitian government restored slavery after independence from France"
+        "A single international treaty signed in 1750 ended slavery throughout the entire Atlantic world",
+        "Industrial factory owners demanded that enslaved workers be freed so they could be hired instead",
+        "The Haitian government restored slavery after independence and other states copied its laws"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -2016,9 +2016,9 @@
       "prompt": "How did Social Darwinist ideas function in some imperial arguments?",
       "choices": [
         "They misapplied ideas about natural selection to portray racial hierarchy and domination as inevitable",
-        "They provided a scientific proof that all races were equal",
-        "They opposed imperial expansion on anti-racist grounds",
-        "They were a tax system used by the Mughal Empire"
+        "They provided scientific evidence that all peoples were equal and should govern themselves",
+        "They supported anti-imperial movements by stressing cooperation over competition among nations",
+        "They described a Mughal system for ranking nobles by military rank and land revenue"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -2369,10 +2369,10 @@
       "type": "multiple_choice",
       "prompt": "Which event directly triggered the July Crisis of 1914?",
       "choices": [
-        "The invasion of Poland",
+        "The German invasion of neutral Belgium",
         "The assassination of Archduke Franz Ferdinand",
-        "The Russian Revolution",
-        "The bombing of Pearl Harbor"
+        "The Bolshevik seizure of power in Russia",
+        "The sinking of the Lusitania by a U-boat"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -2388,9 +2388,9 @@
       "type": "multiple_choice",
       "prompt": "Which factor best explains why a regional crisis in 1914 became a wider war?",
       "choices": [
-        "The League of Nations required every state to fight",
-        "The United Nations authorized an invasion",
-        "The Cold War divided Europe into military blocs",
+        "League of Nations rules required every member state to join the fighting",
+        "A United Nations resolution authorized a joint invasion of Serbia",
+        "Cold War blocs divided Europe into two rival nuclear-armed camps",
         "Alliance commitments and mobilization plans drew additional powers into the conflict"
       ],
       "correctIndex": 3,
@@ -2544,9 +2544,9 @@
       "prompt": "Which event began the European phase of World War II in 1939?",
       "choices": [
         "Germany's invasion of Poland",
-        "Germany annexed Austria in 1938, prompting Britain and France to declare war",
-        "Germany invaded Poland after the Soviet Union had dissolved",
-        "Germany invaded Poland during the Cold War struggle over Berlin"
+        "Germany's annexation of Austria",
+        "The Soviet invasion of Finland",
+        "Italy's invasion of Ethiopia"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -2839,9 +2839,9 @@
       "type": "multiple_choice",
       "prompt": "Which factor contributed to U.S. involvement in Vietnam?",
       "choices": [
-        "U.S. involvement followed a NATO obligation to defend Vietnam from Soviet attack",
-        "U.S. policy focused on restoring French colonial rule after France withdrew",
-        "Washington sought to prevent Vietnam from joining the United Nations",
+        "U.S. leaders believed a NATO treaty obligation required them to defend South Vietnam from Soviet attack",
+        "U.S. leaders aimed to restore French colonial rule in Indochina after France's defeat at Dien Bien Phu",
+        "U.S. leaders wanted to keep Vietnam out of the United Nations until a peace treaty with China was signed",
         "U.S. leaders sought to contain communist expansion during a conflict rooted in Vietnamese anticolonial and civil struggles"
       ],
       "correctIndex": 3,
@@ -3039,10 +3039,10 @@
       "type": "multiple_choice",
       "prompt": "How did container shipping affect global trade after the mid-20th century?",
       "choices": [
-        "It ended the use of seaports",
+        "It ended the use of traditional seaports in favor of inland rail hubs",
         "Standardized containers made cargo handling faster and reduced transport costs",
-        "It made trade depend on camel caravans",
-        "It prevented goods from moving between ships and trucks"
+        "It made long-distance trade depend again on overland camel caravans",
+        "It stopped goods from being transferred between ships, trains, and trucks"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -3078,9 +3078,9 @@
       "type": "multiple_choice",
       "prompt": "What is a multinational corporation?",
       "choices": [
-        "A nonprofit organization governed by the United Nations",
-        "A business that sells only within one village",
-        "A military alliance among sovereign states",
+        "A nonprofit organization funded and governed jointly by member states of the United Nations",
+        "A business that sells its products only within a single local market in its home country",
+        "A military alliance of sovereign states that share defense planning and joint command",
         "A company that operates or owns production and business activity in more than one country"
       ],
       "correctIndex": 3,
@@ -3098,9 +3098,9 @@
       "prompt": "Which organization was created after World War II to promote international cooperation and collective security?",
       "choices": [
         "The United Nations",
-        "The United Nations was established after World War I to prevent another global war",
-        "NATO was created as a global forum for every country after the war",
-        "The Warsaw Pact was founded to coordinate collective security worldwide"
+        "The League of Nations",
+        "The Warsaw Pact",
+        "The Concert of Europe"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -3250,9 +3250,9 @@
       "type": "multiple_choice",
       "prompt": "Which statement best describes continuity and change in globalization since 1900?",
       "choices": [
-        "International institutions made national governments obsolete after 1900",
-        "Trade and finance expanded while cross-border communication and migration declined",
-        "States stopped regulating borders and markets as global institutions grew",
+        "International institutions made national governments obsolete after 1900, as borders lost their importance",
+        "Trade and finance expanded while cross-border communication and migration declined steadily over the century",
+        "States stopped regulating borders and markets as global institutions grew stronger and took over their roles",
         "Global connections intensified through technology and trade while states continued to regulate borders and markets"
       ],
       "correctIndex": 3,

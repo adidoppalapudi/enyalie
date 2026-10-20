@@ -707,10 +707,10 @@
       "type": "multiple_choice",
       "prompt": "Which theorem states that every nonconstant polynomial over the complex numbers has a complex root?",
       "choices": [
-        "Pythagorean theorem",
+        "Intermediate value theorem",
         "Fundamental theorem of algebra",
-        "Rolle’s theorem",
-        "Binomial theorem"
+        "Fundamental theorem of calculus",
+        "Factor theorem of polynomials"
       ],
       "correctIndex": 1,
       "difficulty": "expert",
@@ -824,9 +824,9 @@
       "prompt": "Which enzyme synthesizes DNA using an RNA template?",
       "choices": [
         "Reverse transcriptase",
-        "DNA ligase",
-        "Helicase",
-        "Topoisomerase"
+        "Primase (RNA polymerase)",
+        "DNA polymerase III",
+        "DNA topoisomerase II"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -839,10 +839,10 @@
       "type": "multiple_choice",
       "prompt": "What is an operon in bacterial gene regulation?",
       "choices": [
-        "A membrane-bound organelle",
+        "A membrane-bound organelle that stores bacterial DNA",
         "A cluster of genes controlled together by shared regulatory sequences",
-        "A type of ribosomal RNA",
-        "A protein-folding structure"
+        "A type of ribosomal RNA that reads several genes at once",
+        "A protein-folding structure that activates a group of enzymes"
       ],
       "correctIndex": 1,
       "difficulty": "expert",
@@ -855,10 +855,10 @@
       "type": "multiple_choice",
       "prompt": "What is the main role of myelin around many nerve axons?",
       "choices": [
-        "To synthesize neurotransmitters",
-        "To carry oxygen",
+        "To make and release neurotransmitters at synapses",
+        "To carry oxygen from blood vessels to the neuron",
         "To insulate axons and speed impulse conduction",
-        "To digest damaged proteins"
+        "To digest damaged proteins inside the axon"
       ],
       "correctIndex": 2,
       "difficulty": "expert",
@@ -888,9 +888,9 @@
       "prompt": "What is allosteric regulation?",
       "choices": [
         "Changing a protein’s activity when a molecule binds away from its active site",
-        "Breaking a protein into amino acids",
-        "Copying DNA into RNA",
-        "Moving a protein through a membrane"
+        "Changing a protein’s activity by cutting it into smaller peptide chains",
+        "Changing a protein’s activity when a substrate competes at its active site",
+        "Changing a protein’s activity by moving it across a cell membrane"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -920,10 +920,10 @@
       "type": "multiple_choice",
       "prompt": "Which ancient library was associated with the Assyrian king Ashurbanipal?",
       "choices": [
-        "Library of Pergamon",
-        "Library of Alexandria",
+        "Library of Pergamon in Anatolia",
+        "Library of Alexandria in Egypt",
         "Library of Ashurbanipal at Nineveh",
-        "House of Wisdom"
+        "House of Wisdom in Baghdad"
       ],
       "correctIndex": 2,
       "difficulty": "expert",
@@ -986,10 +986,10 @@
       "type": "multiple_choice",
       "prompt": "What is the International Date Line designed to mark?",
       "choices": [
-        "The zero-degree longitude line",
-        "The Tropic of Capricorn",
+        "The zero-degree line of longitude through Greenwich",
+        "The southern edge of the tropics at the Tropic of Capricorn",
         "A conventional boundary where the calendar date changes",
-        "The boundary of Earth’s magnetic field"
+        "The outer boundary of Earth's magnetic field in space"
       ],
       "correctIndex": 2,
       "difficulty": "expert",
@@ -1019,9 +1019,9 @@
       "prompt": "What is a monsoon?",
       "choices": [
         "A seasonal reversal or shift in prevailing winds, often bringing a rainy season",
-        "A daily sea breeze",
-        "A rotating tropical cyclone only",
-        "A cold ocean current"
+        "A daily sea breeze that blows onshore during the day and offshore at night",
+        "A rotating tropical storm system with sustained winds above 119 km per hour",
+        "A cold ocean current that brings fog and dry weather to a western coastline"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -1067,9 +1067,9 @@
       "type": "multiple_choice",
       "prompt": "What is a passacaglia in classical music?",
       "choices": [
-        "A freely improvised cadenza",
-        "A short unaccompanied song",
-        "A type of brass instrument",
+        "A freely improvised cadenza played near the end of a concerto movement",
+        "A short unaccompanied song for solo voice in a strophic form",
+        "A slow processional dance in duple meter with a fixed melody on top",
         "A set of variations over a repeating bass or harmonic pattern"
       ],
       "correctIndex": 3,

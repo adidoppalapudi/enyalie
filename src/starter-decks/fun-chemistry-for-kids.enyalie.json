@@ -12,9 +12,9 @@
       "prompt": "What does chemistry help us understand?",
       "choices": [
         "What materials are made of and how they change",
-        "Only stars far away",
-        "How to make every object magnetic",
-        "Why time moves"
+        "Only how stars far away in space give off light",
+        "How to make every object in a room magnetic",
+        "Why time always moves forward and never back"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -84,9 +84,9 @@
       "prompt": "Why can a balloon get bigger when air is blown into it?",
       "choices": [
         "More gas particles push on its inside",
-        "The rubber makes new water",
-        "Air turns into metal",
-        "The balloon freezes"
+        "The rubber makes new water inside it",
+        "The air inside turns into a solid",
+        "The balloon freezes and gets stiffer"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -191,10 +191,10 @@
       "type": "multiple_choice",
       "prompt": "Why does warm water usually dissolve sugar faster than cold water?",
       "choices": [
-        "Warm water has no molecules",
-        "Sugar becomes a gas",
+        "Sugar melts into a liquid in warm water",
+        "Warm water has fewer molecules in the way",
         "Particles move faster and mix more quickly",
-        "Cold water is solid"
+        "Cold water is partly frozen into ice"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -372,9 +372,9 @@
       "prompt": "What helps bread dough rise?",
       "choices": [
         "Carbon dioxide bubbles made by yeast",
-        "Oxygen turning into flour",
-        "Salt freezing",
-        "Sugar becoming metal"
+        "Oxygen from the air turning into flour",
+        "Salt crystals freezing inside the dough",
+        "Sugar hardening into tiny metal grains"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -461,10 +461,10 @@
       "type": "multiple_choice",
       "prompt": "Why does ice cream become solid when frozen?",
       "choices": [
-        "The sugar turns into stone",
+        "Its sugar hardens into crystals like candy",
         "Its water freezes and the mixture becomes firm",
-        "Air disappears",
-        "Milk becomes metal"
+        "Its air bubbles escape and leave solid cream",
+        "Its milk fat turns into a kind of plastic"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -732,9 +732,9 @@
       "prompt": "Why do people breathe oxygen?",
       "choices": [
         "Cells use oxygen in energy-releasing processes",
-        "Oxygen turns bones into metal",
-        "Oxygen is the only gas in air",
-        "Oxygen is food"
+        "Oxygen keeps our bones hard and strong",
+        "Oxygen is the only gas found in the air",
+        "Our lungs turn oxygen directly into food"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -821,10 +821,10 @@
       "type": "multiple_choice",
       "prompt": "What should a scientist do after making a prediction?",
       "choices": [
-        "Change the data to match",
+        "Change the data so it matches the guess",
         "Observe carefully and record results",
-        "Taste every sample",
-        "Hide surprising results"
+        "Taste every sample to check the result",
+        "Hide any results that seem surprising"
       ],
       "correctIndex": 1,
       "difficulty": "easy",

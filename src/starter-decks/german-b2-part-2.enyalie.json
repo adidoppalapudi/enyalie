@@ -1030,8 +1030,8 @@
       "prompt": "Which phrase belongs in a formal letter?",
       "choices": [
         "Bezugnehmend auf Ihr Schreiben",
-        "Hey, was geht?",
-        "Bis später, Kumpel"
+        "Hey, was geht bei dir so ab?",
+        "Bis später, Kumpel, und tschüss!"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1110,8 +1110,8 @@
       "prompt": "What does eine Sicherheitslücke schließen mean?",
       "choices": [
         "to close a security vulnerability",
-        "to open a bank account",
-        "to issue a regulation"
+        "to open a new bank account online",
+        "to issue a new government regulation"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

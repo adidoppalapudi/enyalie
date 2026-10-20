@@ -461,10 +461,10 @@
       "type": "multiple_choice",
       "prompt": "A semiconductor can become more conductive when doped because doping:",
       "choices": [
-        "Removes all electrons",
+        "Removes free electrons from the lattice",
         "Adds charge carriers or energy levels",
-        "Makes it an insulator",
-        "Stops thermal motion"
+        "Widens the band gap between the bands",
+        "Stops lattice vibrations that scatter"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -479,10 +479,10 @@
       "type": "multiple_choice",
       "prompt": "Which material is most likely to conduct electricity well as a solid?",
       "choices": [
-        "A wide-gap insulator",
-        "Pure molecular crystal of methane",
+        "An insulator with a wide band gap between bands",
+        "A pure molecular crystal of solid methane",
         "A metal with partially filled or overlapping bands",
-        "Dry glass"
+        "Dry glass with a disordered silicate network"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -497,9 +497,9 @@
       "type": "multiple_choice",
       "prompt": "The Jahn-Teller effect is especially associated with:",
       "choices": [
-        "Radioactive decay",
-        "A ligand changing into an isotope",
-        "A gas-law deviation",
+        "Radioactive decay of heavy transition-metal nuclei",
+        "Isotope exchange between a ligand and the solvent",
+        "Deviation of real gases from ideal gas behavior",
         "Geometric distortion that removes orbital degeneracy"
       ],
       "correctIndex": 3,
@@ -569,9 +569,9 @@
       "type": "multiple_choice",
       "prompt": "Which property helps explain why many transition metals form multiple oxidation states?",
       "choices": [
-        "They have no valence electrons",
-        "All d orbitals are full",
-        "They cannot bond to ligands",
+        "They have no valence electrons available for bonding",
+        "All of their d orbitals are completely filled",
+        "They cannot form coordinate bonds with ligands",
         "Similar energies of ns and (n−1)d electrons"
       ],
       "correctIndex": 3,
@@ -1397,10 +1397,10 @@
       "type": "multiple_choice",
       "prompt": "Which trend is characteristic of alkali metals down Group 1?",
       "choices": [
-        "Their atomic radius always decreases",
+        "Their atomic radius generally decreases",
         "Their first ionization energy generally decreases",
-        "They gain seven valence electrons",
-        "They become noble gases"
+        "Their number of valence electrons increases",
+        "Their melting points generally increase"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1452,9 +1452,9 @@
       "prompt": "In an associative ligand substitution pathway, the reacting complex first:",
       "choices": [
         "Forms a higher-coordinate intermediate or transition state as ligand approaches",
-        "Loses a ligand before any new ligand approaches",
-        "Breaks the metal nucleus",
-        "Must change oxidation state by two"
+        "Loses a ligand to form a lower-coordinate intermediate before the new ligand binds",
+        "Changes its oxidation state by two through oxidative addition of the ligand",
+        "Rearranges its geometry without any change in coordination number first"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

@@ -1122,9 +1122,9 @@
       "prompt": "Which keyboard key combination commonly types ä on a German layout?",
       "choices": [
         "The Ä key is a dedicated key",
-        "Only Ctrl+A",
-        "Only Alt+F4",
-        "There is no way"
+        "AltGr+A, then the vowel key",
+        "Ctrl+Shift+A on any layout",
+        "There is no way to type it"
       ],
       "correctIndex": 0,
       "difficulty": "easy",

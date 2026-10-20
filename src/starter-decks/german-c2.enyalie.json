@@ -1090,8 +1090,8 @@
       "prompt": "What is a false friend?",
       "choices": [
         "a similar-looking word with a different meaning",
-        "a regional accent",
-        "a punctuation mark"
+        "a regional accent of the same language",
+        "a loanword that keeps its original meaning"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -1138,8 +1138,8 @@
       "prompt": "Which phrase means “to infer implicit meaning”?",
       "choices": [
         "eine implizite Bedeutung erschließen",
-        "eine Pointe veralten",
-        "eine Nuance aussprechen"
+        "eine Bedeutung wörtlich wiedergeben",
+        "eine Nuance ausdrücklich betonen"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -1186,8 +1186,8 @@
       "prompt": "What does a Perspektivwechsel do?",
       "choices": [
         "changes the viewpoint presented",
-        "removes every verb",
-        "marks a plural noun"
+        "switches the text into the passive",
+        "shortens a sentence to its key words"
       ],
       "correctIndex": 0,
       "difficulty": "expert",
@@ -1202,8 +1202,8 @@
       "prompt": "Which phrase describes improving precision and rhythm in a passage?",
       "choices": [
         "eine Passage stilistisch überarbeiten",
-        "eine Passage ausfallen",
-        "eine Passage erheben"
+        "eine Passage wörtlich übersetzen",
+        "eine Passage inhaltlich kürzen"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

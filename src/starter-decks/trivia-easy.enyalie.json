@@ -1209,10 +1209,10 @@
       "type": "multiple_choice",
       "prompt": "Which art material is commonly made from pigment mixed with water and a binder?",
       "choices": [
-        "Charcoal",
+        "Charcoal stick",
         "Watercolor paint",
-        "Clay",
-        "Graphite"
+        "Oil pastel",
+        "Graphite pencil"
       ],
       "correctIndex": 1,
       "difficulty": "easy",

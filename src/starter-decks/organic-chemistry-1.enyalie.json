@@ -335,10 +335,10 @@
       "type": "multiple_choice",
       "prompt": "Oxymercuration-demercuration gives Markovnikov hydration while avoiding typical:",
       "choices": [
-        "C–O bond formation",
-        "Use of water",
+        "Carbon–oxygen bond formation",
+        "Use of water as a reagent",
         "Carbocation rearrangements",
-        "Regioselectivity"
+        "Markovnikov regioselectivity"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -407,10 +407,10 @@
       "type": "multiple_choice",
       "prompt": "Which reagent commonly reduces an alkene to an alkane?",
       "choices": [
-        "NaBH4 in water",
-        "Br2",
+        "NaBH4 in methanol",
+        "Br2 in dichloromethane",
         "H2 with metal catalyst",
-        "O3 only"
+        "O3, then Zn and acid"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -444,9 +444,9 @@
       "prompt": "An acetylide anion most reliably forms a C-C bond by SN2 with a:",
       "choices": [
         "Methyl or primary alkyl halide",
-        "Tertiary alkyl halide",
-        "Aryl fluoride in water",
-        "Noble gas"
+        "Tertiary alkyl halide in ethanol",
+        "Aryl fluoride dissolved in water",
+        "Vinyl bromide with no catalyst"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -660,9 +660,9 @@
       "prompt": "Why add a boiling chip before heating a liquid?",
       "choices": [
         "Provide nucleation sites and reduce bumping",
-        "Set exact boiling temperature",
-        "Absorb all distillate",
-        "Catalyze oxidation"
+        "Set the exact boiling temperature of the liquid",
+        "Absorb all of the distillate as it forms",
+        "Catalyze oxidation of the solvent vapor"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -677,10 +677,10 @@
       "type": "multiple_choice",
       "prompt": "Why can repeated small solvent portions extract more solute than one equal total portion?",
       "choices": [
-        "They change molecular identity",
+        "They change the molecular identity of the solute",
         "Each fresh portion reestablishes partitioning",
-        "They eliminate solvent hazards",
-        "They force precipitation"
+        "They eliminate the hazards of the organic solvent",
+        "They force the solute to precipitate out of solution"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -785,9 +785,9 @@
       "type": "multiple_choice",
       "prompt": "Why can rearrangement occur in some SN1 reactions?",
       "choices": [
-        "Nucleophile becomes a proton",
-        "Double bonds prevent movement",
-        "Leaving group attacks first",
+        "The nucleophile attacks before the leaving group departs",
+        "The leaving group returns and bonds at a new carbon",
+        "A radical forms and migrates along the carbon chain",
         "A carbocation can shift to a more stable position"
       ],
       "correctIndex": 3,
@@ -857,9 +857,9 @@
       "type": "multiple_choice",
       "prompt": "A racemic mixture contains:",
       "choices": [
-        "One pure enantiomer",
-        "Only achiral molecules",
-        "Only meso compounds",
+        "One pure enantiomer of a chiral compound",
+        "Only achiral molecules with no stereocenter",
+        "Only meso compounds with internal symmetry",
         "Equal amounts of two enantiomers"
       ],
       "correctIndex": 3,
@@ -1524,9 +1524,9 @@
       "prompt": "In IUPAC naming, the parent chain is generally chosen as the longest chain that:",
       "choices": [
         "Includes the highest-priority group and most unsaturation",
-        "Has the greatest number of branches only",
-        "Begins at the left side of the drawing",
-        "Contains only primary carbons in sequence"
+        "Has the greatest number of branches along its length",
+        "Begins at whichever end is on the left of the drawing",
+        "Contains only primary and secondary carbons in sequence"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1613,10 +1613,10 @@
       "type": "multiple_choice",
       "prompt": "Which method is used to assign R or S configuration at a tetrahedral stereocenter?",
       "choices": [
-        "Hückel electron counting",
+        "Hückel 4n+2 electron counting",
         "Cahn-Ingold-Prelog priority rules",
-        "The n+1 rule",
-        "The octet rule"
+        "The n+1 splitting rule in NMR",
+        "Markovnikov's addition rule"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1631,10 +1631,10 @@
       "type": "multiple_choice",
       "prompt": "A Newman projection looks along which bond?",
       "choices": [
-        "A carbonyl pi bond",
-        "An O-H bond only",
+        "A carbon–oxygen pi bond",
+        "An oxygen–hydrogen bond",
         "A carbon-carbon single bond",
-        "A ring plane"
+        "The mean plane of a ring"
       ],
       "correctIndex": 2,
       "difficulty": "easy",

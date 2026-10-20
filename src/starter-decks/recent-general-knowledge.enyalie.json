@@ -107,10 +107,10 @@
       "type": "multiple_choice",
       "prompt": "The 2024 Nobel Prize in Physics recognized work foundational to which field?",
       "choices": [
-        "Gravitational-wave astronomy",
-        "Quantum dots",
+        "Gravitational-wave detection and astronomy",
+        "Quantum dot discovery and nanocrystal synthesis",
         "Machine learning and artificial neural networks",
-        "mRNA vaccines"
+        "Nucleoside-modified mRNA vaccine development"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -144,9 +144,9 @@
       "prompt": "Which technology did the 2023 Nobel Prize in Physiology or Medicine honor for enabling effective mRNA vaccines against COVID-19?",
       "choices": [
         "Nucleoside base modifications in mRNA",
-        "Adenovirus genome sequencing",
-        "Protein crystallography",
-        "Interferon gene therapy"
+        "Adenovirus vector genome sequencing",
+        "Cryo-electron protein crystallography",
+        "Interferon-based gene therapy delivery"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -159,12 +159,12 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which pair received the 2022 Nobel Prize in Physics for experiments with entangled photons and Bell inequalities?",
+      "prompt": "Who received the 2022 Nobel Prize in Physics for experiments with entangled photons and Bell inequalities?",
       "choices": [
-        "Peter Higgs and François Englert",
+        "Rainer Weiss, Barry Barish, and Kip Thorne",
         "Alain Aspect, John Clauser, and Anton Zeilinger",
-        "Donna Strickland and Gérard Mourou",
-        "Andrea Ghez and Reinhard Genzel"
+        "Arthur Ashkin, Gérard Mourou, and Donna Strickland",
+        "Roger Penrose, Reinhard Genzel, and Andrea Ghez"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -618,10 +618,10 @@
       "type": "multiple_choice",
       "prompt": "Which organization designates the International Years observed by the United Nations?",
       "choices": [
-        "International Olympic Committee alone",
+        "The International Olympic Committee, through its charter",
         "United Nations through resolutions or its specialized agencies",
-        "World Trade Organization",
-        "International Court of Justice"
+        "The World Trade Organization, through member votes",
+        "The International Court of Justice, through its rulings"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -833,12 +833,12 @@
     },
     {
       "type": "multiple_choice",
-      "prompt": "Which name was given to the lunar lander that carried Japan’s SLIM spacecraft to the Moon in January 2024?",
+      "prompt": "What was the full name of the Japanese spacecraft that landed on the Moon in January 2024?",
       "choices": [
-        "Hayabusa",
+        "Hakuto-R Mission 1 Lunar Lander",
         "Smart Lander for Investigating Moon (SLIM)",
-        "Kibo",
-        "Akatsuki"
+        "Kaguya Selenological Engineering Explorer",
+        "Akatsuki Venus Climate Orbiter"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -853,10 +853,10 @@
       "type": "multiple_choice",
       "prompt": "What did the 2025 UN International Year of Glaciers’ Preservation draw attention to?",
       "choices": [
-        "Deep-sea mining rules",
-        "Desertification in the Sahel alone",
+        "New international rules for deep-sea mining permits",
+        "Desertification and drought in the Sahel region",
         "The importance of glaciers and the effects of glacier loss",
-        "The history of commercial aviation"
+        "The history and climate impact of commercial aviation"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -890,7 +890,7 @@
         "United Arab Emirates",
         "Pakistan",
         "India",
-        "England"
+        "England and Wales"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1075,8 +1075,8 @@
       "type": "multiple_choice",
       "prompt": "Which writer received the 2025 Nobel Prize in Literature?",
       "choices": [
-        "Han Kang",
-        "Jon Fosse",
+        "Abdulrazak Gurnah",
+        "Olga Tokarczuk",
         "Annie Ernaux",
         "László Krasznahorkai"
       ],
@@ -1177,8 +1177,8 @@
       "prompt": "Which country hosted the 2026 FIFA World Cup?",
       "choices": [
         "Canada, Mexico, and the United States",
-        "United States and Canada",
-        "Mexico and Brazil",
+        "The United States and Canada only",
+        "Mexico, Colombia, and Brazil",
         "Spain, Portugal, and Morocco"
       ],
       "correctIndex": 0,

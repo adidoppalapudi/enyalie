@@ -719,9 +719,9 @@
       "type": "multiple_choice",
       "prompt": "Across a period from left to right, atomic radius generally:",
       "choices": [
-        "Increases steadily",
-        "Stays exactly the same",
-        "Changes randomly with no general trend",
+        "Increases",
+        "Stays the same",
+        "Varies randomly",
         "Decreases"
       ],
       "correctIndex": 3,
@@ -755,10 +755,10 @@
       "type": "multiple_choice",
       "prompt": "What does electronegativity describe?",
       "choices": [
-        "How many neutrons its nucleus contains",
+        "How many neutrons the nucleus of the atom contains",
         "How strongly an atom in a bond attracts shared electrons",
-        "How quickly it melts",
-        "How easily its nucleus splits"
+        "How quickly the element melts when it is heated",
+        "How easily the atom's nucleus splits into smaller parts"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1007,10 +1007,10 @@
       "type": "multiple_choice",
       "prompt": "Why does solid sodium chloride have a high melting point?",
       "choices": [
-        "Its molecules are held together only by weak dispersion forces",
+        "Its molecules are held together only by weak dispersion forces between them",
         "Strong attractions throughout its ionic lattice take substantial energy to overcome",
-        "Its ions stop moving permanently at room temperature",
-        "It contains covalent bonds to each water molecule"
+        "Its ions stop moving permanently once it cools to room temperature",
+        "It contains covalent bonds to the water molecules trapped in its crystals"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1421,10 +1421,10 @@
       "type": "multiple_choice",
       "prompt": "In Zn + Cu²⁺ → Zn²⁺ + Cu, which species is oxidized?",
       "choices": [
-        "Copper(II) ion, Cu²⁺",
-        "Copper metal, Cu",
+        "Copper(II) ion",
+        "Copper metal",
         "Zinc, Zn",
-        "No species; this is not redox"
+        "Neither species"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -1458,9 +1458,9 @@
       "prompt": "In a single-replacement reaction, what happens?",
       "choices": [
         "One element replaces another in a compound if the reaction is favorable",
-        "Two compounds exchange all their atoms randomly",
-        "One compound splits only into its elements",
-        "Two gases always form a liquid"
+        "Two compounds swap partner ions and form two new compounds",
+        "One compound breaks down into two or more simpler substances",
+        "Two elements combine to form a single new compound"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1751,9 +1751,9 @@
       "type": "multiple_choice",
       "prompt": "Why can a gas be compressed much more than a liquid?",
       "choices": [
-        "Gas particles have no mass",
-        "Liquids are made of rigid crystals",
-        "Gas particles are smaller atoms",
+        "Gas particles have almost no mass compared with liquid particles",
+        "Liquid particles are locked into a rigid crystal arrangement",
+        "Gas particles are smaller atoms than the particles in liquids",
         "Gas particles are separated by large amounts of empty space"
       ],
       "correctIndex": 3,
@@ -1770,9 +1770,9 @@
       "prompt": "At constant temperature, what happens to gas volume when pressure increases?",
       "choices": [
         "It decreases",
-        "It increases by the same factor",
-        "It stays fixed in every case",
-        "Its particles disappear"
+        "It increases",
+        "It stays fixed",
+        "It drops to zero"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1787,10 +1787,10 @@
       "type": "multiple_choice",
       "prompt": "A sealed flexible balloon is warmed at constant external pressure. What generally happens to its volume?",
       "choices": [
-        "It decreases to zero",
+        "It decreases",
         "It increases",
-        "It stays exactly constant",
-        "The gas turns into liquid immediately"
+        "It stays constant",
+        "It drops to zero"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1842,9 +1842,9 @@
       "prompt": "In water, what ion concentration is associated with an acidic solution?",
       "choices": [
         "A greater hydronium-ion concentration than hydroxide-ion concentration",
-        "More hydroxide ions than hydronium ions",
-        "No ions at all",
-        "Only neutral atoms"
+        "A greater hydroxide-ion concentration than hydronium-ion concentration",
+        "Equal hydronium-ion and hydroxide-ion concentrations at 25 °C",
+        "A lower hydronium-ion concentration than in pure water"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1991,10 +1991,10 @@
       "type": "multiple_choice",
       "prompt": "What does temperature measure at the particle level?",
       "choices": [
-        "The total amount of heat in an object",
+        "The total amount of heat energy stored in an object",
         "A measure related to the average kinetic energy of particles",
-        "The number of atoms in a sample",
-        "How quickly a chemical reaction occurs"
+        "The average potential energy stored in chemical bonds",
+        "The total number of particles moving in the sample"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -2135,10 +2135,10 @@
       "type": "multiple_choice",
       "prompt": "On a reaction energy diagram, what does the energy difference between products and reactants represent?",
       "choices": [
-        "The reaction rate",
+        "How fast the reaction proceeds at that temperature",
         "The reaction’s energy change for the stated process",
-        "The number of molecules in the sample",
-        "The catalyst concentration"
+        "The number of reactant molecules in the sample",
+        "The amount of catalyst the reaction requires"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2153,10 +2153,10 @@
       "type": "multiple_choice",
       "prompt": "Why can boiling water stay near its boiling temperature while it continues to boil at constant pressure?",
       "choices": [
-        "The heater stops transferring energy",
-        "Water molecules stop moving",
+        "The heater stops transferring energy to the water",
+        "Water molecules stop moving once they reach 100 °C",
         "Added energy separates particles during vaporization",
-        "Water changes into oxygen"
+        "Water molecules break apart into hydrogen and oxygen"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -2207,9 +2207,9 @@
       "type": "multiple_choice",
       "prompt": "Why can carbon form many different compounds?",
       "choices": [
-        "Carbon atoms have no electrons",
-        "Carbon is the only element that forms bonds",
-        "Carbon always forms four ionic bonds",
+        "A carbon atom has more electrons than almost any other element",
+        "Carbon is the only element that can form covalent bonds",
+        "A carbon atom always forms four ionic bonds with metal ions",
         "A carbon atom can form four covalent bonds and bond to other carbon atoms"
       ],
       "correctIndex": 3,
@@ -2261,10 +2261,10 @@
       "type": "multiple_choice",
       "prompt": "What is a polymer?",
       "choices": [
-        "A single atom with a very large nucleus",
-        "A mixture that must contain metals",
+        "A single atom with an unusually large and heavy nucleus",
+        "A mixture of several metals melted together and then cooled",
         "A large molecule made from many repeating or related smaller units",
-        "A gas composed only of noble gases"
+        "A gas made of noble-gas atoms held together by weak forces"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -2315,10 +2315,10 @@
       "type": "multiple_choice",
       "prompt": "Why does soap help remove oily dirt from skin or dishes?",
       "choices": [
-        "Soap turns oily molecules into metal particles",
+        "Soap turns oily molecules into tiny metal particles",
         "Soap has oil-loving and water-loving parts that disperse grease",
-        "Soap changes water into a nonpolar liquid",
-        "Soap permanently destroys every dirt molecule"
+        "Soap changes water into a nonpolar liquid like oil",
+        "Soap permanently destroys every dirt molecule it touches"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -2351,9 +2351,9 @@
       "type": "multiple_choice",
       "prompt": "Which is a chemical change during cooking?",
       "choices": [
-        "Ice melting in a drink",
-        "Sugar crystals dissolving in tea",
-        "Cutting a carrot into smaller pieces",
+        "Ice cubes melting into water in a cold drink",
+        "Sugar crystals dissolving in a cup of hot tea",
+        "Cutting a carrot into small pieces for soup",
         "Proteins in an egg changing structure as it cooks"
       ],
       "correctIndex": 3,
@@ -2430,9 +2430,9 @@
       "prompt": "What should you do if a chemical splashes into your eyes in a laboratory?",
       "choices": [
         "Use the eyewash immediately and alert the instructor or supervisor",
-        "Rub your eyes with a paper towel",
-        "Wait to see if irritation goes away",
-        "Neutralize it with another chemical before rinsing"
+        "Rub your eyes gently with a clean paper towel to remove it",
+        "Wait a few minutes to see whether the irritation goes away",
+        "Neutralize it with another chemical before rinsing with water"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -2537,10 +2537,10 @@
       "type": "multiple_choice",
       "prompt": "When should observations and measurements be recorded?",
       "choices": [
-        "Only after the experiment, from memory",
-        "Only if they match the prediction",
+        "Only after the experiment, written up from memory",
+        "Only when they match the prediction you made",
         "As they are collected, with units and clear labels",
-        "After deleting unusual measurements"
+        "After deleting any unusual or unexpected values"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -2867,10 +2867,10 @@
       "type": "multiple_choice",
       "prompt": "Which is a common environmental concern from excess nutrient runoff into lakes?",
       "choices": [
-        "The lake becomes pure distilled water",
-        "All dissolved oxygen turns into ozone",
+        "The lake water becomes as pure as distilled water",
+        "All the dissolved oxygen turns into ozone gas",
         "Algal blooms and oxygen depletion during decomposition",
-        "The water can no longer freeze"
+        "The surface water can no longer freeze in winter"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -2886,9 +2886,9 @@
       "prompt": "A ruler marked every 1 mm is used to measure a length. What should a student usually do beyond recording the marked division?",
       "choices": [
         "Estimate one additional digit when the scale and procedure allow",
-        "Record infinitely many decimal places",
-        "Round every length to the nearest meter",
-        "Ignore the ruler markings"
+        "Record as many decimal places as the calculator displays",
+        "Round every length to the nearest whole centimeter",
+        "Report only the nearest marked millimeter division"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

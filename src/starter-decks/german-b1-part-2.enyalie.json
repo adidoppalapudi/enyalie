@@ -1160,8 +1160,8 @@
       "prompt": "Which phrase signals a conclusion?",
       "choices": [
         "abschließend lässt sich sagen",
-        "im Gegensatz dazu",
-        "einerseits"
+        "im Gegensatz dazu ist zu beachten",
+        "einerseits muss man bedenken"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1224,8 +1224,8 @@
       "prompt": "A good summary should usually do what?",
       "choices": [
         "keep main ideas and omit minor details",
-        "copy every sentence",
-        "add unrelated opinions"
+        "copy every sentence of the original text",
+        "add your own unrelated opinions and examples"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

@@ -23,7 +23,8 @@ describe('deck browsing', () => {
 
   it('keeps custom decks discoverable in Other', () => {
     expect(filterDecks(decks, '', 'Other').map((deck) => deck.id)).toEqual(['custom-deck']);
-    expect(deckCategory('deck-geography')).toBe('Places');
+    expect(deckCategory('deck-world-geography')).toBe('Places');
+    expect(deckCategory('deck-ap-environmental-science')).toBe('Science');
     expect(deckCategory()).toBe('Other');
   });
 

@@ -109,8 +109,8 @@
       "choices": [
         "Fire salamander",
         "Axolotl",
-        "Tiger salamander",
-        "Spotted salamander"
+        "Hellbender",
+        "Marbled salamander"
       ],
       "correctIndex": 1,
       "explanation": "The axolotl's usual adult form retains larval features, a pattern called paedomorphosis.",
@@ -1038,10 +1038,10 @@
       "type": "multiple_choice",
       "prompt": "What is an oxymoron?",
       "choices": [
-        "A word with the same sound as another",
+        "A word that sounds the same as another word",
         "A phrase combining apparently contradictory terms",
-        "A sentence with no verb",
-        "A repeated initial consonant sound"
+        "A sentence written without any main verb",
+        "A repeated consonant sound at the start of words"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -1088,9 +1088,9 @@
       "prompt": "What does “counterpoint” mean in music?",
       "choices": [
         "The combination of distinct melodic lines sounding together",
-        "A change from major to minor",
-        "A repeated drum pattern",
-        "A pause at the end of a phrase"
+        "A change of key from major to minor partway through a piece",
+        "A repeated rhythmic pattern that drives the whole ensemble",
+        "A sustained pause marked over a note at the end of a phrase"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

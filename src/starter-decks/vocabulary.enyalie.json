@@ -846,9 +846,9 @@
       "prompt": "What does “advocate” mean as a verb?",
       "choices": [
         "To publicly support or recommend",
-        "To question under oath",
-        "To make less severe",
-        "To postpone indefinitely"
+        "To question someone formally under oath",
+        "To make a penalty or burden less severe",
+        "To postpone a decision indefinitely"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -861,10 +861,10 @@
       "type": "multiple_choice",
       "prompt": "What does “affinity” mean?",
       "choices": [
-        "A strict prohibition",
+        "A strict and formal prohibition",
         "A natural liking or connection",
-        "A brief delay",
-        "A measured quantity"
+        "A brief delay before something",
+        "A carefully measured quantity"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -877,10 +877,10 @@
       "type": "multiple_choice",
       "prompt": "What does “aggregate” mean as a noun?",
       "choices": [
-        "A single exception",
-        "A hidden motive",
+        "A single exception to a rule",
+        "A hidden motive behind an act",
         "A whole formed from several parts",
-        "A formal apology"
+        "A formal apology made in public"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -893,9 +893,9 @@
       "type": "multiple_choice",
       "prompt": "What does “alleviate” mean?",
       "choices": [
-        "To make a copy",
-        "To prove beyond doubt",
-        "To speak indirectly",
+        "To make an exact copy of something",
+        "To prove something beyond any doubt",
+        "To speak about something indirectly",
         "To make something less severe"
       ],
       "correctIndex": 3,
@@ -910,9 +910,9 @@
       "prompt": "What does “ambiguous” mean?",
       "choices": [
         "Open to more than one interpretation",
-        "Completely familiar",
-        "Impossible to change",
-        "Intentionally generous"
+        "Clear to everyone who reads it",
+        "Fixed and impossible to change",
+        "Generous in an intentional way"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -941,10 +941,10 @@
       "type": "multiple_choice",
       "prompt": "What is an “anachronism”?",
       "choices": [
-        "A word with two spellings",
-        "A formal debate",
+        "A word that can be spelled in two accepted ways",
+        "A formal debate held between two opposing teams",
         "Something placed in a time period where it does not belong",
-        "A sudden reversal"
+        "A sudden reversal of fortune in a story's plot"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -957,9 +957,9 @@
       "type": "multiple_choice",
       "prompt": "What does “ancillary” mean?",
       "choices": [
-        "Opposing every proposal",
-        "Impossible to measure",
-        "Existing only briefly",
+        "Opposing every proposal put forward by others",
+        "Impossible to measure with ordinary instruments",
+        "Existing only briefly before disappearing",
         "Providing support or serving a secondary role"
       ],
       "correctIndex": 3,
@@ -974,9 +974,9 @@
       "prompt": "What is an “analogy”?",
       "choices": [
         "A comparison used to explain a similarity",
-        "A record of expenses",
-        "A contradiction in terms",
-        "A word’s original spelling"
+        "A record of expenses kept for a project",
+        "A phrase that contradicts its own terms",
+        "A word’s original spelling in its source"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -989,10 +989,10 @@
       "type": "multiple_choice",
       "prompt": "What is an “anecdote”?",
       "choices": [
-        "A formal scientific law",
+        "A formal scientific law stated in words",
         "A short account of a particular incident",
-        "A list of synonyms",
-        "A fictional language"
+        "A list of words with similar meanings",
+        "A fictional language invented for a story"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1021,9 +1021,9 @@
       "type": "multiple_choice",
       "prompt": "What does “arbitrary” mean?",
       "choices": [
-        "Required by law",
-        "Supported by repeated evidence",
-        "Easy to predict",
+        "Required by a law or an official regulation that applies to everyone",
+        "Supported by repeated evidence gathered through careful observation",
+        "Easy to predict because it follows the same pattern every time",
         "Based on random choice or personal preference rather than a clear rule"
       ],
       "correctIndex": 3,
@@ -1053,10 +1053,10 @@
       "type": "multiple_choice",
       "prompt": "What does “articulate” mean as an adjective?",
       "choices": [
-        "Unable to be changed",
+        "Unable to be changed or adjusted",
         "Able to express ideas clearly",
-        "Extremely cautious",
-        "Likely to cause harm"
+        "Extremely cautious about every risk",
+        "Likely to cause harm to other people"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1085,9 +1085,9 @@
       "type": "multiple_choice",
       "prompt": "What does “austere” mean?",
       "choices": [
-        "Warmly humorous",
-        "Highly decorative",
-        "Easily persuaded",
+        "Warm, relaxed, and quick to joke",
+        "Richly decorated and ornamental",
+        "Easily persuaded by flattery",
         "Plain, strict, or without excess"
       ],
       "correctIndex": 3,
@@ -1117,10 +1117,10 @@
       "type": "multiple_choice",
       "prompt": "What does “banal” mean?",
       "choices": [
-        "Precisely accurate",
+        "So precise that it leaves no room for error",
         "So ordinary that it is unoriginal or dull",
-        "Hard to believe",
-        "Morally generous"
+        "So unlikely that it is hard to believe",
+        "So generous that it surprises others"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -1149,9 +1149,9 @@
       "type": "multiple_choice",
       "prompt": "What does “cajole” mean?",
       "choices": [
-        "To prohibit formally",
-        "To summarize briefly",
-        "To question aggressively",
+        "To forbid something formally through an official order",
+        "To summarize a long argument briefly and clearly",
+        "To question someone aggressively under pressure",
         "To persuade with flattery or persistent coaxing"
       ],
       "correctIndex": 3,
@@ -1166,9 +1166,9 @@
       "prompt": "What does “coerce” mean?",
       "choices": [
         "To make someone act through force or threats",
-        "To invite someone warmly",
-        "To improve gradually",
-        "To prove logically"
+        "To invite someone warmly to join a group",
+        "To improve something gradually over time",
+        "To prove a point through careful logic"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1197,10 +1197,10 @@
       "type": "multiple_choice",
       "prompt": "What does “complacent” mean?",
       "choices": [
-        "Careful about every detail",
-        "Deeply uncertain",
+        "Careful and anxious about every small detail",
+        "Deeply uncertain about what to do next",
         "Too satisfied with oneself to notice risks or problems",
-        "Eager to help others"
+        "Eager to help others even at personal cost"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -1213,9 +1213,9 @@
       "type": "multiple_choice",
       "prompt": "What is a “conundrum”?",
       "choices": [
-        "A generous gift",
-        "A familiar routine",
-        "A formal agreement",
+        "A generous gift given without expecting thanks",
+        "A familiar routine followed every single day",
+        "A formal agreement signed by several parties",
         "A difficult problem with no obvious solution"
       ],
       "correctIndex": 3,
@@ -1230,9 +1230,9 @@
       "prompt": "What does “conciliatory” mean?",
       "choices": [
         "Intended to restore goodwill or reduce disagreement",
-        "Designed to provoke a fight",
-        "Unusually expensive",
-        "Difficult to interpret"
+        "Designed to provoke an argument or open conflict",
+        "Unusually expensive compared with similar options",
+        "Difficult to interpret because of vague wording"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1245,10 +1245,10 @@
       "type": "multiple_choice",
       "prompt": "What does “condone” mean?",
       "choices": [
-        "To explain in great detail",
+        "To explain something in great and careful detail",
         "To accept or allow behavior, often without approval",
-        "To punish severely",
-        "To remember exactly"
+        "To punish behavior severely to discourage it",
+        "To remember an event exactly as it happened"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -1261,10 +1261,10 @@
       "type": "multiple_choice",
       "prompt": "What does “conflate” mean?",
       "choices": [
-        "To separate into categories",
-        "To question carefully",
+        "To separate a set of things into categories",
+        "To question an idea carefully and in depth",
         "To combine or confuse two distinct things",
-        "To praise publicly"
+        "To praise someone publicly for their work"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -1277,9 +1277,9 @@
       "type": "multiple_choice",
       "prompt": "What does “conjecture” mean?",
       "choices": [
-        "A proven mathematical identity",
-        "A personal insult",
-        "A binding contract",
+        "A proven mathematical identity or formula",
+        "A personal insult said in public",
+        "A binding contract between two parties",
         "A conclusion based on incomplete evidence"
       ],
       "correctIndex": 3,
@@ -1294,9 +1294,9 @@
       "prompt": "What does “conscientious” mean?",
       "choices": [
         "Careful, responsible, and guided by a sense of duty",
-        "Carefree and indifferent",
-        "Secretive and evasive",
-        "Easily distracted"
+        "Carefree, relaxed, and indifferent to the result",
+        "Secretive, evasive, and reluctant to share",
+        "Easily distracted and quick to lose focus"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1325,10 +1325,10 @@
       "type": "multiple_choice",
       "prompt": "What does “corroborate” mean?",
       "choices": [
-        "To weaken an argument",
-        "To make a prediction",
+        "To weaken an argument by pointing out its flaws",
+        "To make a prediction based on earlier patterns",
         "To support a statement with confirming evidence",
-        "To change the subject"
+        "To change the subject to avoid a hard question"
       ],
       "correctIndex": 2,
       "difficulty": "hard",
@@ -1341,9 +1341,9 @@
       "type": "multiple_choice",
       "prompt": "What does “credible” mean?",
       "choices": [
-        "Impossible to repair",
-        "Extremely rare",
-        "Unclear in meaning",
+        "Impossible to repair or restore",
+        "Extremely rare and hard to find",
+        "Unclear in meaning or intent",
         "Believable or worthy of trust"
       ],
       "correctIndex": 3,
@@ -1358,9 +1358,9 @@
       "prompt": "What does “cryptic” mean?",
       "choices": [
         "Mysterious or difficult to understand",
-        "Warm and welcoming",
-        "Completely ordinary",
-        "Openly generous"
+        "Warm, friendly, and welcoming",
+        "Completely ordinary and plain",
+        "Openly generous with others"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

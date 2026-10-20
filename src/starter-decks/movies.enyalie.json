@@ -26,10 +26,10 @@
       "type": "multiple_choice",
       "prompt": "What was Walt Disney's first full-length animated feature film?",
       "choices": [
-        "The Three Caballeros",
-        "The Sword in the Stone",
+        "The Adventures of Ichabod and Mr. Toad",
+        "The Reluctant Dragon and Pinocchio",
         "Snow White and the Seven Dwarfs",
-        "The Rescuers Down Under"
+        "Fantasia and The Three Caballeros"
       ],
       "correctIndex": 2,
       "explanation": "Released in 1937.",
@@ -272,10 +272,10 @@
       "type": "multiple_choice",
       "prompt": "In Jurassic Park, where do scientists find the dinosaur DNA?",
       "choices": [
-        "In ancient plants",
+        "In ancient plant seeds kept in tar",
         "In mosquitoes preserved in amber",
-        "In frozen bones",
-        "In fossilised eggs"
+        "In frozen bones found in Arctic ice",
+        "In fossilised eggs found in a desert"
       ],
       "correctIndex": 1,
       "difficulty": "easy",

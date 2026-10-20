@@ -1032,8 +1032,8 @@
       "prompt": "What does zumal add?",
       "choices": [
         "a particularly strong reason",
-        "a time sequence only",
-        "a direct command"
+        "a sequence of events in time",
+        "a direct command to the reader"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
