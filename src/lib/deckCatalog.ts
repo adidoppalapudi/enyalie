@@ -4,6 +4,9 @@ interface CatalogDeck {
   description: string;
 }
 
+// Also lists decks that are no longer starter decks (deck-geography, deck-hunger-games,
+// deck-marvel-comics, deck-minecraft, deck-pokemon, deck-recent-general-knowledge),
+// so copies already in someone's library keep their category.
 const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
   'General knowledge': ['deck-world-facts', 'deck-recent-general-knowledge'],
@@ -14,11 +17,10 @@ const categoryDecks: Record<string, readonly string[]> = {
     'deck-analytical-chemistry', 'deck-inorganic-chemistry', 'deck-fun-chemistry-for-kids',
   ],
   History: ['deck-ap-world-history'],
-  // deck-geography was merged into deck-world-geography; older libraries may still have a copy.
   Places: ['deck-world-geography', 'deck-geography', 'deck-national-parks'],
   'Stories & games': [
-    'deck-harry-potter', 'deck-hunger-games', 'deck-marvel-comics',
-    'deck-movies', 'deck-pokemon', 'deck-minecraft',
+    'deck-harry-potter', 'deck-movies',
+    'deck-pokemon', 'deck-minecraft', 'deck-hunger-games', 'deck-marvel-comics',
   ],
   Words: ['deck-vocabulary'],
   Languages: [
@@ -41,7 +43,7 @@ const categoriesById = new Map(
 
 const featuredIds = new Set([
   'deck-trivia-easy', 'deck-human-body', 'deck-chemistry-foundations', 'deck-world-geography',
-  'deck-nba', 'deck-harry-potter', 'deck-minecraft', 'deck-ap-world-history',
+  'deck-nba', 'deck-harry-potter', 'deck-fun-chemistry-for-kids', 'deck-ap-world-history',
 ]);
 
 export function deckCategory(id?: string): string {

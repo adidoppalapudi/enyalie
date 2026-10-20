@@ -9,9 +9,6 @@ These references support the new decks and the revised vocabulary and distractor
 - NBA history names its year or season. Rules use the NBA rulebook.
 - National Parks Trivia covers U.S. national parks.
 - Harry Potter uses the seven original novels, including book-specific house colors and emblems.
-- The Hunger Games uses the original trilogy, with spoilers.
-- Marvel Comics uses comics identities and origins, with alternate characters named where needed.
-- Minecraft uses established vanilla Survival mechanics shared by Java and Bedrock.
 - Mixed trivia uses original questions. It is not a reproduction of Jackbox questions.
 
 ## Anatomy, nature and botany
@@ -63,25 +60,10 @@ Use the National Park Service's own descriptions and maps for each named park.
 
 ## Fiction
 
-- [Scholastic: Hunger Games trilogy reading guide](https://www.scholastic.com/content/dam/teachers/migrated-assets-not-associated-with-content/migrated-pdfs-and-other-files/hunger_games_reading_group_guide_0.pdf)
-- [Scholastic: original novel excerpt](https://kids.scholastic.com/content/dam/scholastic/kids/pdf/Book%20Excerpts/HungerGames_excerpt.pdf)
-- [Scholastic: district activity cards](https://kids.scholastic.com/content/dam/scholastic/kids/pdf/SOTR_Digital%20Activities.pdf)
 - [Official Harry Potter encyclopedia: Ravenclaw](https://www.harrypotter.com/fact-file/magical-miscellany/ravenclaw)
 - [Official Harry Potter encyclopedia: Quidditch](https://www.harrypotter.com/fact-file/magical-miscellany/quidditch)
 - [Wizarding World: Patronuses](https://www.harrypotter.com/features/what-is-a-patronus)
 - [Wizarding World: Hermione](https://www.harrypotter.com/features/things-you-may-not-have-noticed-about-hermione)
-- [Marvel: Fantastic Four in comics](https://www.marvel.com/teams-and-groups/fantastic-four/in-comics)
-- [Marvel: adamantium and the shield's alloy](https://www.marvel.com/items/adamantium)
-- [Marvel: Captain Marvel reading guide](https://share.marvel.com/comics/discover/277/carol-danvers-captain-marvel)
-- [Marvel: Spider-Man's creators](https://www.marvel.com/articles/comics/spider-man-s-greatest-moments)
-
-## Minecraft
-
-- [Mojang: crafting](https://www.minecraft.net/en-us/article/how-craft)
-- [Mojang: Ender Dragon](https://www.minecraft.net/en-us/article/ender-dragon)
-- [Mojang: brewing stand](https://www.minecraft.net/en-us/article/taking-inventory--brewing-stand)
-- [Mojang: Nether portals](https://www.minecraft.net/en-us/article/jazz-up-your-nether-portal)
-- [Minecraft Help: enchantments](https://help.minecraft.net/hc/en-us/articles/360058730912)
 
 ## Vocabulary and language
 
@@ -200,6 +182,8 @@ Questions and explanations are original and use everyday examples. Safety questi
 - [National Park Service: History of El Camino Real de Tierra Adentro](https://home.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm) for the Pueblo Revolt question; [USC Shoah Foundation: Nanjing Massacre testimonies](https://sfi.usc.edu/collections/nanjing-massacre) for the World War II atrocity card.
 - [OpenStax World History, Volume 2](https://openstax.org/details/books/world-history-volume-2) for cross-regional context and chronology. Question wording, scenarios, source paraphrases, answer choices, and explanations are original; no long source passages or AP exam questions are reproduced.
 
+The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Enyalië's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.
+
 ## NBA (expanded)
 
 - [NBA official rulebook](https://official.nba.com/rulebook/) for rules and violations.
@@ -222,18 +206,3 @@ Questions and explanations are original and use everyday examples. Safety questi
 - [NIST: SI units](https://www.nist.gov/pml/owm/metric-si/si-units) for measurement units and definitions.
 - [United Nations](https://www.un.org/en/about-us), [UNESCO](https://www.unesco.org/en), and [World Health Organization](https://www.who.int/about) for institutional roles and international terminology.
 - [UNESCO World Heritage](https://whc.unesco.org/en/about/) for the meaning and criteria of World Heritage designation.
-
-## Recent General Knowledge (reviewed 19 October 2026)
-
-- [NASA: Artemis I](https://www.nasa.gov/mission/artemis-i/), [DART impact results](https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/), [OSIRIS-REx](https://science.nasa.gov/mission/osiris-rex/), and [the 2024 total solar eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/) for NASA mission milestones.
-- [ISRO: Chandrayaan-3 August 2023 summary](https://www.isro.gov.in/media_isro/pdf/Monthly_summary/MonthlySummary_August2023Eng.pdf), [CNSA: Chang'e-6 far-side samples](https://www.cnsa.gov.cn/english/n6465652/n6465653/c10573149/content.html), [ESA: Euclid's first images](https://www.esa.int/Newsroom/Press_Releases/Euclid_s_first_images_the_dazzling_edge_of_darkness), and [JAXA: SLIM](https://global.jaxa.jp/projects/sas/slim/) for international space missions.
-- [Nobel Prize: all prizes](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/) and [2025 annual report](https://www.nobelprize.org/uploads/2026/04/annual-report-2025.pdf) for laureates and prize citations from 2022-2025.
-- [WHO: end of COVID-19 PHEIC status](https://www.who.int/europe/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-%282005%29-emergency-committee-regarding-the-coronavirus-disease-%28covid-19%29-pandemic) for the May 2023 status change; the question preserves WHO's distinction between the end of the emergency status and the continuing health threat.
-- [United Nations: International Years](https://www.un.org/en/observances/international-years) for 2025 and 2026 observances; [UNFCCC: COP28](https://unfccc.int/cop28) and [COP31](https://unfccc.int/cop31/about) for climate-conference outcomes and the scheduled Antalya meeting.
-- [FIFA: 2023 Women's World Cup](https://inside.fifa.com/official-documents/annual-report/2023/2023-at-a-glance/fifa-womens-world-cup-summary), [FIFA: 2026 World Cup final standings](https://www.fifa.com/en/articles/final-tournament-standings), [CAF: AFCON appeal ruling](https://www.cafonline.com/news/caf-appeal-board-media-statement/), and [Court of Arbitration for Sport: Senegal's appeal](https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_appeal.pdf) for tournament results and the related appeal. The AFCON item states the CAF Appeal Board's ruling and notes the appeal context rather than presenting the original on-field result as final.
-- [IOC: Paris 2024 gender parity](https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3702240&parentDocumentId=3598869&skipCopyright=true&skipWatermark=true), [Milano Cortina 2026](https://newsroom.olympics.com/record/908), [MLB: 2026 World Baseball Classic](https://www.mlb.com/news/venezuela-wins-world-baseball-classic-2026), and [FIFA: 2025 Club World Cup](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025) for sports milestones.
-- [Expo 2025 Osaka official overview](https://www.expo2025.or.jp/en/overview/) and [European Parliament: 2024 European elections](https://www.europarl.europa.eu/election-results-2024/en/) for cultural and civic events.
-
-Recent-event questions name the relevant year. Future 2026 events are described as scheduled, not completed, and results are tied to official governing-body records available at the review date. Question wording and explanations are original.
-
-The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Enyalië's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.

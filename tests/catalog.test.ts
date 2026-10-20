@@ -30,7 +30,7 @@ describe('deck browsing', () => {
 
   it('uses a fixed selection for Start here, including the easy mixed round', () => {
     expect(isFeaturedDeck('deck-trivia-easy')).toBe(true);
-    expect(isFeaturedDeck('deck-minecraft')).toBe(true);
+    expect(isFeaturedDeck('deck-fun-chemistry-for-kids')).toBe(true);
     expect(isFeaturedDeck('custom-deck')).toBe(false);
     expect(isFeaturedDeck()).toBe(false);
   });
