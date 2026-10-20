@@ -437,6 +437,302 @@
       "tags": [
         "evolution"
       ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is a group of lions called?",
+      "choices": [
+        "A pride",
+        "A pack",
+        "A troop",
+        "A herd"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "behavior"
+      ],
+      "explanation": "Lions are the only cats that usually live in social groups, called prides."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which bird can fly backward?",
+      "choices": [
+        "Kingfisher",
+        "Hummingbird",
+        "Swift",
+        "Kestrel"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Hummingbirds can rotate their wings in a figure-eight pattern, which lets them hover and fly backward."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How do most fish get oxygen?",
+      "choices": [
+        "Swim bladders store air from the surface",
+        "Scales absorb oxygen straight from water",
+        "Gills take in oxygen dissolved in water",
+        "Fins pump oxygen into their bloodstream"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "adaptations"
+      ],
+      "explanation": "Water flows over the gills, where thin membranes let dissolved oxygen pass into the blood."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which of these animals is an amphibian?",
+      "choices": [
+        "Lizard",
+        "Crocodile",
+        "Sea turtle",
+        "Salamander"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "classification"
+      ],
+      "explanation": "Salamanders are amphibians, like frogs. Lizards, crocodiles and turtles are reptiles."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Frogs usually begin life as tadpoles that breathe with gills.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "life-cycles"
+      ],
+      "explanation": "Most frogs hatch as aquatic tadpoles. During metamorphosis, they grow legs and lungs."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the largest living bird?",
+      "choices": [
+        "Common ostrich",
+        "Emu",
+        "Southern cassowary",
+        "Andean condor"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Ostriches can be over 2.7 m (9 ft) tall and weigh more than 100 kg. They cannot fly."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which living bird has the largest wingspan?",
+      "choices": [
+        "Andean condor",
+        "Wandering albatross",
+        "Marabou stork",
+        "Great white pelican"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "A wandering albatross can have a wingspan of more than 3.4 m (11 ft). It glides over the Southern Ocean for hours with few wingbeats."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How many hearts does an octopus have?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "invertebrates"
+      ],
+      "explanation": "Two hearts pump blood through the gills, and a third pumps it to the rest of the body."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which gas do plants take in from the air for photosynthesis?",
+      "choices": [
+        "Carbon monoxide",
+        "Nitrogen gas",
+        "Oxygen gas",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "plants"
+      ],
+      "explanation": "Plants combine carbon dioxide and water, using light energy, to make sugars. They release oxygen as a by-product."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is pollination?",
+      "answer": "The transfer of pollen from a flower's anther to a stigma, often by wind or by animals such as bees.",
+      "difficulty": "medium",
+      "tags": [
+        "plants"
+      ],
+      "explanation": "Pollination lets many flowering plants make seeds."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "How do honeybees tell hive-mates where to find flowers?",
+      "choices": [
+        "They perform a waggle dance",
+        "They hum at a set pitch",
+        "They lay scent on the wax",
+        "They flash their wings"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "behavior"
+      ],
+      "explanation": "The angle of the waggle run shows the direction of the food relative to the Sun, and its length shows the distance."
+    },
+    {
+      "type": "true_false",
+      "prompt": "A camel's hump stores water.",
+      "answer": false,
+      "difficulty": "easy",
+      "tags": [
+        "adaptations"
+      ],
+      "explanation": "The hump stores fat, which camels can use for energy when food is scarce. Camels also lose very little water through sweat or urine."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which big cat of Central and South America often kills prey with a bite to the skull?",
+      "choices": [
+        "Leopard",
+        "Jaguar",
+        "Cougar",
+        "Snow leopard"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Jaguars have one of the strongest bites of any big cat. They can pierce the skulls and shells of prey such as caimans and turtles."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the largest living reptile?",
+      "choices": [
+        "Komodo dragon",
+        "Green anaconda",
+        "Saltwater crocodile",
+        "Leatherback turtle"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Large male saltwater crocodiles can grow longer than 6 m (20 ft) and weigh about 1,000 kg."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which biome is cold and treeless, with permanently frozen subsoil called permafrost?",
+      "choices": [
+        "Taiga",
+        "Steppe",
+        "Savanna",
+        "Tundra"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "habitats"
+      ],
+      "explanation": "The tundra has a short growing season, so mosses, lichens and low shrubs replace trees."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What do we call animals that are mostly active at dawn and dusk?",
+      "choices": [
+        "Crepuscular",
+        "Diurnal",
+        "Nocturnal",
+        "Cathemeral"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "behavior"
+      ],
+      "explanation": "Deer, rabbits and many cats are crepuscular. Diurnal animals are active by day, and cathemeral animals at times spread across both day and night."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which relationship benefits one species while leaving the other mostly unaffected?",
+      "choices": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "ecology"
+      ],
+      "explanation": "Barnacles riding on whales are a common example of commensalism."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which bird makes the longest known yearly migration?",
+      "choices": [
+        "Bar-tailed godwit",
+        "Barn swallow",
+        "Arctic tern",
+        "Sooty shearwater"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "behavior"
+      ],
+      "explanation": "Arctic terns fly between Arctic breeding grounds and Antarctic waters, often covering more than 70,000 km a year."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the largest fish in the world?",
+      "choices": [
+        "Great white shark",
+        "Basking shark",
+        "Ocean sunfish",
+        "Whale shark"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "animals"
+      ],
+      "explanation": "Whale sharks can grow to about 18 m (60 ft). They feed by filtering plankton and small fish."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is hibernation?",
+      "answer": "A long, deep rest in which an animal's body temperature, heart rate and metabolism drop sharply to save energy through winter.",
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ],
+      "explanation": "Ground squirrels, many bats and marmots are true hibernators."
     }
   ]
 }

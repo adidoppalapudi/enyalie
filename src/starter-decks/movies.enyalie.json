@@ -378,6 +378,726 @@
       "tags": [
         "oscars"
       ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed 2001: A Space Odyssey (1968)?",
+      "choices": [
+        "Ridley Scott",
+        "George Lucas",
+        "Stanley Kubrick",
+        "Andrei Tarkovsky"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Stanley Kubrick directed the film and wrote the screenplay with Arthur C. Clarke."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1927 Warner Bros. film starring Al Jolson is famous as the first feature with synchronized spoken dialogue?",
+      "choices": [
+        "Metropolis",
+        "The Broadway Melody",
+        "Sunrise",
+        "The Jazz Singer"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The Jazz Singer was mostly silent, but its synchronized songs and spoken lines, recorded with the Vitaphone sound-on-disc system, launched the talkie era."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed the Japanese epic Seven Samurai (1954)?",
+      "choices": [
+        "Akira Kurosawa",
+        "Yasujirō Ozu",
+        "Kenji Mizoguchi",
+        "Masaki Kobayashi"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Akira Kurosawa's Seven Samurai shaped many later action films, including the Western remake The Magnificent Seven (1960)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1985 film features a DeLorean car converted into a time machine?",
+      "choices": [
+        "The Goonies",
+        "Back to the Future",
+        "Weird Science",
+        "Real Genius"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "scenes"
+      ],
+      "explanation": "In Back to the Future, Doc Brown builds the time machine into a DeLorean DMC-12. The other three films were also released in 1985."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the ship's computer in 2001: A Space Odyssey?",
+      "choices": [
+        "MU-TH-UR 6000",
+        "WOPR",
+        "HAL 9000",
+        "Skynet"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "HAL 9000 runs the Discovery One spacecraft. MU-TH-UR 6000 is from Alien, WOPR from WarGames, and Skynet from The Terminator."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Casablanca (1942), what is the name of Rick's nightclub?",
+      "choices": [
+        "The Blue Parrot",
+        "Café de Paris",
+        "The Moroccan Palace",
+        "Rick's Café Américain"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "scenes"
+      ],
+      "explanation": "Rick Blaine runs Rick's Café Américain. The Blue Parrot is the rival club owned by Signor Ferrari."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played Maria in The Sound of Music (1965)?",
+      "choices": [
+        "Julie Andrews",
+        "Audrey Hepburn",
+        "Natalie Wood",
+        "Debbie Reynolds"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ],
+      "explanation": "Julie Andrews starred as Maria shortly after winning the Best Actress Oscar for Mary Poppins (1964)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won Best Picture at the 96th Academy Awards in 2024?",
+      "choices": [
+        "Killers of the Flower Moon",
+        "Oppenheimer",
+        "Barbie",
+        "Poor Things"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Oppenheimer won seven Oscars, including Best Picture and Best Director for Christopher Nolan."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won Best Picture at the 95th Academy Awards in 2023?",
+      "choices": [
+        "All Quiet on the Western Front",
+        "The Banshees of Inisherin",
+        "Everything Everywhere All at Once",
+        "Top Gun: Maverick"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Everything Everywhere All at Once won seven Oscars, the most of any film that year."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which director won the Oscar for Best Original Screenplay for his first feature, Get Out (2017)?",
+      "choices": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Barry Jenkins",
+        "Jordan Peele"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Jordan Peele became the first Black screenwriter to win Best Original Screenplay."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Pixar film follows a trash-compacting robot left alone on an abandoned Earth?",
+      "choices": [
+        "WALL-E",
+        "Big Hero 6",
+        "The Iron Giant",
+        "Robots"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "tags": [
+        "animation"
+      ],
+      "explanation": "WALL-E (2008) won the Oscar for Best Animated Feature. Big Hero 6 is from Walt Disney Animation, The Iron Giant from Warner Bros., and Robots from Blue Sky."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Finding Nemo (2003), what kind of fish is Dory?",
+      "choices": [
+        "Clownfish",
+        "Blue tang",
+        "Yellow tang",
+        "Moorish idol"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "animation"
+      ],
+      "explanation": "Dory is a blue tang. Nemo and Marlin are clownfish, and Gill is a Moorish idol."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played Indiana Jones in Raiders of the Lost Ark (1981)?",
+      "choices": [
+        "Tom Selleck",
+        "Kurt Russell",
+        "Harrison Ford",
+        "Mark Hamill"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ],
+      "explanation": "Tom Selleck was the first choice for the role but was committed to the TV series Magnum, P.I., so Harrison Ford was cast."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Alfred Hitchcock film topped Sight and Sound's 2012 critics' poll, ending Citizen Kane's 50-year run at number one?",
+      "choices": [
+        "Rear Window",
+        "North by Northwest",
+        "Notorious",
+        "Vertigo"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "critics"
+      ],
+      "explanation": "Vertigo (1958) placed first in the British Film Institute's 2012 Sight and Sound poll of critics."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Hattie McDaniel became the first Black actor to win an Academy Award, for Gone with the Wind (1939).",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "McDaniel won Best Supporting Actress at the 1940 ceremony for playing Mammy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was the first Black woman to win the Academy Award for Best Actress?",
+      "choices": [
+        "Halle Berry",
+        "Viola Davis",
+        "Whoopi Goldberg",
+        "Angela Bassett"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Halle Berry won Best Actress at the 2002 ceremony for Monster's Ball."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was the first woman to win the Academy Award for Best Director?",
+      "choices": [
+        "Jane Campion",
+        "Kathryn Bigelow",
+        "Chloé Zhao",
+        "Greta Gerwig"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Kathryn Bigelow won for The Hurt Locker at the 2010 ceremony. Chloé Zhao and Jane Campion won later, in 2021 and 2022."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which 1984 film does Arnold Schwarzenegger first say \"I'll be back\"?",
+      "choices": [
+        "Predator",
+        "Total Recall",
+        "The Terminator",
+        "Commando"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "quotes"
+      ],
+      "explanation": "The line comes from The Terminator, directed by James Cameron. Schwarzenegger repeated versions of it in many later films."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who composed the score for Sergio Leone's The Good, the Bad and the Ugly (1966)?",
+      "choices": [
+        "Bernard Herrmann",
+        "Jerry Goldsmith",
+        "Nino Rota",
+        "Ennio Morricone"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Ennio Morricone scored Leone's Westerns. He won a competitive Oscar for The Hateful Eight (2015)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who composed the score for Psycho (1960), including the screeching strings of the shower scene?",
+      "choices": [
+        "Bernard Herrmann",
+        "Ennio Morricone",
+        "Dimitri Tiomkin",
+        "Max Steiner"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Bernard Herrmann worked with Alfred Hitchcock on several films, including Vertigo and North by Northwest."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Who composed the music for The Godfather (1972), including its famous love theme?",
+      "answer": "Nino Rota",
+      "difficulty": "hard",
+      "tags": [
+        "music"
+      ],
+      "explanation": "Nino Rota, an Italian composer, also scored many Federico Fellini films. He won an Oscar for The Godfather Part II."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the cowboy toy who leads Andy's toys in Toy Story?",
+      "choices": [
+        "Buzz Lightyear",
+        "Sheriff Woody",
+        "Jessie",
+        "Bullseye"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "animation"
+      ],
+      "explanation": "Woody is a pull-string cowboy doll. Buzz Lightyear is a space ranger, Jessie a cowgirl, and Bullseye a horse."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed The Lord of the Rings film trilogy (2001–2003)?",
+      "choices": [
+        "Guillermo del Toro",
+        "Sam Raimi",
+        "Peter Jackson",
+        "Ridley Scott"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Peter Jackson filmed all three films at once in his home country, New Zealand."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won the first Academy Award for Best Animated Feature, at the 2002 ceremony?",
+      "choices": [
+        "Monsters, Inc.",
+        "Ice Age",
+        "Antz",
+        "Shrek"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Shrek beat the other nominees, Monsters, Inc. and Jimmy Neutron: Boy Genius. Ice Age was nominated the following year, and Antz came out before the category existed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which city did the Lumière brothers hold their 1895 public film screening, often cited as the birth of cinema?",
+      "choices": [
+        "Paris",
+        "Lyon",
+        "London",
+        "Berlin"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The Lumières, who were based in Lyon, showed their films to a paying audience at the Grand Café in Paris on 28 December 1895."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which 1902 French film shows a space capsule landing in the eye of the Man in the Moon?",
+      "answer": "A Trip to the Moon (Le Voyage dans la Lune), by Georges Méliès",
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Georges Méliès, a former stage magician, pioneered special effects such as stop tricks and multiple exposures."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who played Vito Corleone in The Godfather (1972)?",
+      "choices": [
+        "Al Pacino",
+        "Marlon Brando",
+        "Robert De Niro",
+        "James Caan"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "actors"
+      ],
+      "explanation": "Marlon Brando won Best Actor for the role and declined the award. Al Pacino played Michael, and Robert De Niro played the young Vito in Part II."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Marlon Brando and Robert De Niro both won Academy Awards for playing Vito Corleone.",
+      "answer": true,
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Brando won Best Actor for The Godfather (1972). De Niro won Best Supporting Actor for The Godfather Part II (1974), playing Vito as a young man."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which was the first sequel to win the Academy Award for Best Picture?",
+      "choices": [
+        "The Lord of the Rings: The Return of the King",
+        "The French Connection II",
+        "The Godfather Part II",
+        "The Empire Strikes Back"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "The Godfather Part II won in 1975. The Return of the King became the second sequel to win, in 2004."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Back to the Future, what speed must the DeLorean reach to travel through time?",
+      "choices": [
+        "100 miles per hour",
+        "77 miles per hour",
+        "121 miles per hour",
+        "88 miles per hour"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "scenes"
+      ],
+      "explanation": "The car must hit 88 mph while the flux capacitor draws 1.21 gigawatts of power."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who directed Parasite (2019), the first non-English-language film to win Best Picture?",
+      "choices": [
+        "Bong Joon Ho",
+        "Park Chan-wook",
+        "Lee Chang-dong",
+        "Kim Jee-woon"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Bong Joon Ho won Best Director, Best Picture, Best Original Screenplay and Best International Feature for Parasite."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Hollywood studio's logo features a roaring lion?",
+      "choices": [
+        "Paramount Pictures",
+        "Metro-Goldwyn-Mayer",
+        "Columbia Pictures",
+        "Universal Pictures"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "studios"
+      ],
+      "explanation": "MGM's lion, often called Leo, has appeared in its logo since the 1920s. Paramount uses a mountain, Columbia a woman with a torch, and Universal a globe."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who was the first actor to play James Bond in an Eon Productions film?",
+      "choices": [
+        "Roger Moore",
+        "George Lazenby",
+        "Sean Connery",
+        "David Niven"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "actors"
+      ],
+      "explanation": "Sean Connery starred in Dr. No (1962). David Niven played Bond in the 1967 Casino Royale spoof, which Eon did not make."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1979 film introduced Ellen Ripley, played by Sigourney Weaver?",
+      "choices": [
+        "The Thing",
+        "Blade Runner",
+        "Outland",
+        "Alien"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "Ridley Scott's Alien introduced Ripley. Weaver earned an Oscar nomination for the sequel, Aliens (1986)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "When Avatar (2009) became the highest-grossing film worldwide, whose record did it overtake?",
+      "choices": [
+        "Titanic, also directed by James Cameron",
+        "Star Wars, directed by George Lucas",
+        "Jurassic Park, directed by Steven Spielberg",
+        "The Dark Knight, directed by Christopher Nolan"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "box-office"
+      ],
+      "explanation": "Avatar passed Titanic in early 2010, so James Cameron held the record with two films in a row."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the hidden African nation in Black Panther (2018)?",
+      "choices": [
+        "Zamunda",
+        "Wakanda",
+        "Genovia",
+        "Sokovia"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "settings"
+      ],
+      "explanation": "Wakanda is T'Challa's kingdom. Zamunda is from Coming to America, Genovia from The Princess Diaries, and Sokovia from Avengers: Age of Ultron."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "The Shining (1980), directed by Stanley Kubrick, was adapted from a novel by which author?",
+      "choices": [
+        "Peter Benchley",
+        "Michael Crichton",
+        "Stephen King",
+        "Dean Koontz"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "adaptations"
+      ],
+      "explanation": "Stephen King published The Shining in 1977. He publicly disliked Kubrick's changes to the story."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film won Best Picture at the 97th Academy Awards in 2025?",
+      "choices": [
+        "The Brutalist",
+        "Conclave",
+        "Emilia Pérez",
+        "Anora"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Anora won five Oscars, four of them for Sean Baker, including Best Director."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Meryl Streep holds the record for the most Academy Award acting nominations.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Meryl Streep has 21 acting nominations and three wins."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is the name of the hopping desk lamp in Pixar's logo?",
+      "answer": "Luxo Jr.",
+      "difficulty": "medium",
+      "tags": [
+        "animation"
+      ],
+      "explanation": "The lamp comes from Pixar's 1986 short film Luxo Jr., which John Lasseter directed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 1988 Studio Ghibli film features a giant, furry forest spirit who rides a Catbus?",
+      "choices": [
+        "My Neighbor Totoro",
+        "Kiki's Delivery Service",
+        "Princess Mononoke",
+        "Castle in the Sky"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "animation"
+      ],
+      "explanation": "Totoro became Studio Ghibli's logo. Kiki's Delivery Service came out in 1989, Princess Mononoke in 1997, and Castle in the Sky in 1986."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which silent film star created the character known as the Tramp?",
+      "choices": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Stan Laurel"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "actors"
+      ],
+      "explanation": "Chaplin's Tramp, with bowler hat, cane and baggy trousers, appeared in films such as The Kid (1921) and Modern Times (1936)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In Citizen Kane (1941), what is \"Rosebud\"?",
+      "choices": [
+        "Kane's first newspaper",
+        "A lost love letter",
+        "Kane's childhood sled",
+        "His mother's nickname"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "scenes"
+      ],
+      "explanation": "The last scene shows the name on the sled Kane was playing with when he was taken from his home as a boy."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which 2008 film about a Mumbai teenager on a quiz show won the Academy Award for Best Picture?",
+      "choices": [
+        "The Curious Case of Benjamin Button",
+        "Frost/Nixon",
+        "Milk",
+        "Slumdog Millionaire"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "oscars"
+      ],
+      "explanation": "Slumdog Millionaire, directed by Danny Boyle, won eight Oscars. The other three films were also nominated for Best Picture that year."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The Wizard of Oz (1939) begins in sepia tone and switches to Technicolor when Dorothy arrives in Oz.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "scenes"
+      ],
+      "explanation": "The Kansas scenes are sepia-toned. The change to color when Dorothy opens the farmhouse door is one of the film's best-known moments."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which filmmaker directed Pan's Labyrinth (2006) and won Best Director for The Shape of Water (2017)?",
+      "choices": [
+        "Guillermo del Toro",
+        "Alfonso Cuarón",
+        "Alejandro G. Iñárritu",
+        "Pedro Almodóvar"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "directors"
+      ],
+      "explanation": "Guillermo del Toro won Best Director and Best Picture for The Shape of Water at the 2018 ceremony."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which film festival awards the Golden Lion as its top prize?",
+      "choices": [
+        "Cannes Film Festival",
+        "Venice Film Festival",
+        "Berlin International Film Festival",
+        "Toronto International Film Festival"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "festivals"
+      ],
+      "explanation": "Venice awards the Golden Lion. Cannes awards the Palme d'Or and Berlin the Golden Bear. Toronto's top prize is chosen by audiences."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a MacGuffin in a film plot?",
+      "answer": "An object or goal that drives the characters' actions but matters little in itself.",
+      "difficulty": "medium",
+      "tags": [
+        "filmmaking"
+      ],
+      "explanation": "Alfred Hitchcock made the term popular. The briefcase in Pulp Fiction is often cited as an example."
     }
   ]
 }

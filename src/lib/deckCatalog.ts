@@ -5,7 +5,8 @@ interface CatalogDeck {
 }
 
 // Also lists decks that are no longer starter decks (deck-geography, deck-hunger-games,
-// deck-marvel-comics, deck-minecraft, deck-pokemon, deck-recent-general-knowledge),
+// deck-marvel-comics, deck-minecraft, deck-pokemon, deck-recent-general-knowledge,
+// deck-botany, deck-human-body),
 // so copies already in someone's library keep their category.
 const categoryDecks: Record<string, readonly string[]> = {
   'Mixed trivia': ['deck-trivia-easy', 'deck-trivia-medium', 'deck-trivia-hard', 'deck-trivia-expert'],
@@ -42,7 +43,7 @@ const categoriesById = new Map(
 );
 
 const featuredIds = new Set([
-  'deck-trivia-easy', 'deck-human-body', 'deck-chemistry-foundations', 'deck-world-geography',
+  'deck-trivia-easy', 'deck-nature', 'deck-chemistry-foundations', 'deck-world-geography',
   'deck-nba', 'deck-harry-potter', 'deck-fun-chemistry-for-kids', 'deck-ap-world-history',
 ]);
 

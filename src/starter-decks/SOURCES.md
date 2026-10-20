@@ -11,19 +11,13 @@ These references support the new decks and the revised vocabulary and distractor
 - Harry Potter uses the seven original novels, including book-specific house colors and emblems.
 - Mixed trivia uses original questions. It is not a reproduction of Jackbox questions.
 
-## Anatomy, nature and botany
+## Nature
 
-- [NIDDK: digestion](https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works)
-- [NIDDK: kidneys](https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work)
-- [NHLBI: lungs](https://www.nhlbi.nih.gov/health/lungs/respiratory-system)
-- [NEI: how eyes work](https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work)
-- [NIDCD: hearing](https://www.nidcd.nih.gov/health/how-do-we-hear)
-- [NIAMS: bone](https://www.niams.nih.gov/health-topics/what-bone)
 - [Smithsonian: animals and ecosystems](https://www.si.edu/explore/science/animals-and-environment)
 - [Smithsonian: bats](https://www.si.edu/spotlight/bats/batfacts)
 - [Smithsonian Environmental Research Center: food webs](https://serc.si.edu/research/research-topics/food-webs/terrestrial-food-webs)
-- [OpenStax Biology 2e: the plant body](https://openstax.org/books/biology-2e/pages/30-1-the-plant-body)
 - [Kew: photosynthesis and gas exchange](https://www.kew.org/sites/default/files/2022-10/KS4-Photosynthesis-and-gas-exchange-pre-and-post-visit-resources.pdf)
+- [Smithsonian National Zoo: animals](https://nationalzoo.si.edu/animals) for animal sizes, diets, behavior and migration.
 
 ## Oceans and lakes
 
@@ -43,6 +37,9 @@ Use the National Park Service's own descriptions and maps for each named park.
 - [Everglades](https://www.nps.gov/ever/index.htm), [Biscayne](https://www.nps.gov/bisc/index.htm), [Dry Tortugas](https://www.nps.gov/drto/index.htm), [Acadia](https://www.nps.gov/acad/index.htm), [Shenandoah](https://www.nps.gov/shen/index.htm), [Great Smoky Mountains](https://www.nps.gov/grsm/index.htm)
 - [Mammoth Cave](https://www.nps.gov/maca/index.htm), [Crater Lake](https://www.nps.gov/crla/index.htm), [Olympic](https://www.nps.gov/olym/index.htm), [Mount Rainier](https://www.nps.gov/mora/index.htm), [Glacier](https://www.nps.gov/glac/index.htm), [Rocky Mountain](https://www.nps.gov/romo/index.htm)
 - [Joshua Tree](https://www.nps.gov/jotr/index.htm), [Saguaro](https://www.nps.gov/sagu/index.htm), [Petrified Forest](https://www.nps.gov/pefo/index.htm), [Sequoia](https://www.nps.gov/seki/index.htm), [Redwood](https://www.nps.gov/redw/index.htm), [Denali](https://www.nps.gov/dena/index.htm), [Mesa Verde](https://www.nps.gov/meve/index.htm)
+- [Death Valley](https://www.nps.gov/deva/index.htm), [Wrangell–St. Elias](https://www.nps.gov/wrst/index.htm), [Hawaiʻi Volcanoes](https://www.nps.gov/havo/index.htm), [Carlsbad Caverns](https://www.nps.gov/cave/index.htm), [Great Sand Dunes](https://www.nps.gov/grsa/index.htm), [White Sands](https://www.nps.gov/whsa/index.htm), [Grand Teton](https://www.nps.gov/grte/index.htm), [Canyonlands](https://www.nps.gov/cany/index.htm), [Katmai](https://www.nps.gov/katm/index.htm), [Virgin Islands](https://www.nps.gov/viis/index.htm), [Cuyahoga Valley](https://www.nps.gov/cuva/index.htm), [New River Gorge](https://www.nps.gov/neri/index.htm), [Badlands](https://www.nps.gov/badl/index.htm), [Theodore Roosevelt](https://www.nps.gov/thro/index.htm), [Channel Islands](https://www.nps.gov/chis/index.htm), [Big Bend](https://www.nps.gov/bibe/index.htm)
+- [National Park Service: the 1916 Organic Act](https://www.nps.gov/yell/learn/management/national-park-service-organic-act-1916.htm)
+- [National Parks Traveler: 2025 visitation](https://www.nationalparkstraveler.org/2026/03/nps-recorded-more-323-million-recreation-visits-2025-slight-decrease-2024) for visit counts. The park count is as of 2026.
 
 ## NBA
 
@@ -57,6 +54,11 @@ Use the National Park Service's own descriptions and maps for each named park.
 - [NBA: Toronto's 2019 championship run](https://www.nba.com/news/big-moments-raptors-run)
 - [NBA: championship winners](https://www.nba.com/news/top-10-players-with-multiple-championships)
 - [Cavaliers: 2003 draft](https://www.nba.com/cavaliers/tbt-lebron-james-drafted-2003)
+
+## Movies
+
+- [Academy Awards database](https://awardsdatabase.oscars.org/) for nominations and winners.
+- [BFI: The 100 Greatest Films of All Time 2012](https://www.bfi.org.uk/sight-and-sound/polls/greatest-films-all-time-2012) for the Sight and Sound poll.
 
 ## Fiction
 
@@ -126,9 +128,6 @@ Question wording and examples are original. Numerical calculations in the deck w
 ## Chemistry for Health Sciences
 
 - [OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/1-introduction) for solutions, concentration, acids and bases, bonding, and reaction principles.
-- [NIDDK: how the digestive system works](https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works) for general digestion context.
-- [NHLBI: the respiratory system](https://www.nhlbi.nih.gov/health/lungs/respiratory-system) for oxygen and carbon dioxide transport context.
-- [NIDDK: how the kidneys work](https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work) for general fluid and electrolyte context.
 
 This deck teaches general chemistry concepts and does not provide patient-specific medical advice. Question wording and examples are original; the file was validated with Enyalië's `parseDeckFile`.
 

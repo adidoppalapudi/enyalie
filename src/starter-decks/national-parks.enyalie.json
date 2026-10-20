@@ -439,6 +439,314 @@
       "tags": [
         "geology"
       ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park contains Badwater Basin, the lowest point in North America?",
+      "choices": [
+        "Joshua Tree",
+        "Great Basin",
+        "Saguaro",
+        "Death Valley"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "Badwater Basin is 282 feet (86 m) below sea level, in Death Valley National Park in California."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the largest U.S. national park by area?",
+      "choices": [
+        "Wrangell–St. Elias",
+        "Gates of the Arctic",
+        "Denali",
+        "Katmai"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "records"
+      ],
+      "explanation": "Wrangell–St. Elias in Alaska covers about 13.2 million acres, larger than Yellowstone, Yosemite and Switzerland combined."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Mount Whitney, the highest peak in the contiguous United States, lies on the boundary of which national park?",
+      "choices": [
+        "Yosemite",
+        "Sequoia",
+        "Kings Canyon",
+        "Death Valley"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "landmarks"
+      ],
+      "explanation": "Mount Whitney (14,505 ft) is on Sequoia National Park's eastern boundary."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects Kīlauea and Mauna Loa?",
+      "choices": [
+        "Haleakalā",
+        "Lassen Volcanic",
+        "Hawaiʻi Volcanoes",
+        "Crater Lake"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "Hawaiʻi Volcanoes National Park is on the Big Island. Haleakalā is on Maui."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which New Mexico national park contains a vast underground chamber called the Big Room?",
+      "choices": [
+        "Wind Cave",
+        "Mammoth Cave",
+        "Great Basin",
+        "Carlsbad Caverns"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "caves"
+      ],
+      "explanation": "The Big Room is one of the largest cave chambers in North America. Large numbers of bats leave the cave at dusk in summer."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects the tallest sand dunes in North America?",
+      "choices": [
+        "Great Sand Dunes",
+        "White Sands",
+        "Death Valley",
+        "Indiana Dunes"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "Star Dune in Great Sand Dunes National Park, Colorado, rises about 750 feet (230 m)."
+    },
+    {
+      "type": "true_false",
+      "prompt": "The dunes of White Sands National Park are made mostly of gypsum.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "White Sands in New Mexico protects the world's largest gypsum dunefield."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "As of 2026, how many national parks does the United States have?",
+      "choices": [
+        "58",
+        "61",
+        "60",
+        "63"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "records"
+      ],
+      "explanation": "There are 63. The newest, New River Gorge in West Virginia, was designated in December 2020. The wider National Park System also includes more than 400 other sites, such as national monuments and historic sites."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Utah national park is divided into districts called Island in the Sky, The Needles and The Maze?",
+      "choices": [
+        "Capitol Reef",
+        "Arches",
+        "Canyonlands",
+        "Bryce Canyon"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "The Colorado and Green rivers split Canyonlands into these districts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Alaska national park is famous for brown bears catching salmon at Brooks Falls?",
+      "choices": [
+        "Denali",
+        "Glacier Bay",
+        "Kenai Fjords",
+        "Katmai"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "wildlife"
+      ],
+      "explanation": "Katmai's bears gather at Brooks Falls during the summer salmon run."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park is on the island of St. John in the Caribbean?",
+      "choices": [
+        "Virgin Islands",
+        "Biscayne",
+        "Dry Tortugas",
+        "American Samoa"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "locations"
+      ],
+      "explanation": "Virgin Islands National Park covers much of St. John, including coral reefs and the ruins of sugar plantations."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which is the only national park in Ohio?",
+      "choices": [
+        "Indiana Dunes",
+        "Cuyahoga Valley",
+        "Hot Springs",
+        "Mammoth Cave"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "tags": [
+        "locations"
+      ],
+      "explanation": "Cuyahoga Valley, between Cleveland and Akron, became a national park in 2000."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which West Virginia park, known for whitewater rafting, was redesignated a national park in December 2020?",
+      "choices": [
+        "Shenandoah",
+        "Congaree",
+        "New River Gorge",
+        "Great Smoky Mountains"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "history"
+      ],
+      "explanation": "New River Gorge was a national river before Congress made it a national park and preserve."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Based on 2025 visitor counts, which was the most visited U.S. national park?",
+      "choices": [
+        "Grand Canyon National Park",
+        "Rocky Mountain National Park",
+        "Great Smoky Mountains National Park",
+        "Yellowstone National Park"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "records"
+      ],
+      "explanation": "Great Smoky Mountains recorded about 11.5 million recreation visits in 2025, more than twice as many as Zion, the next park. Entry is free, and the park is within a day's drive of much of the eastern U.S."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which South Dakota national park is known for eroded buttes, colorful rock layers and rich fossil beds?",
+      "choices": [
+        "Wind Cave",
+        "Theodore Roosevelt",
+        "Black Canyon of the Gunnison",
+        "Badlands"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "geology"
+      ],
+      "explanation": "Badlands protects one of the world's richest fossil beds of ancient mammals, such as early horses and rhinos."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which North Dakota national park is named after a U.S. president who once ranched in the area?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Lewis and Clark",
+        "Little Missouri",
+        "Knife River"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "Theodore Roosevelt ranched in the Dakota Territory in the 1880s. As president, he protected about 230 million acres of public land."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which federal agency manages the U.S. national parks?",
+      "choices": [
+        "U.S. Forest Service",
+        "National Park Service",
+        "Bureau of Land Management",
+        "Fish and Wildlife Service"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "history"
+      ],
+      "explanation": "The National Park Service is part of the Department of the Interior. The Forest Service belongs to the Department of Agriculture."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "In what year was the National Park Service created?",
+      "answer": "1916",
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "President Woodrow Wilson signed the Organic Act on 25 August 1916, 44 years after Yellowstone became the first national park."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park protects five islands and kelp forests off the Southern California coast?",
+      "choices": [
+        "Point Reyes",
+        "Redwood",
+        "Channel Islands",
+        "Olympic"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "coasts"
+      ],
+      "explanation": "Channel Islands National Park includes Anacapa, Santa Cruz, Santa Rosa, San Miguel and Santa Barbara islands."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Texas national park sits along a great curve of the Rio Grande on the border with Mexico?",
+      "choices": [
+        "Guadalupe Mountains",
+        "Carlsbad Caverns",
+        "White Sands",
+        "Big Bend"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "rivers"
+      ],
+      "explanation": "Big Bend is named after the large bend the Rio Grande makes along the park's southern border."
     }
   ]
 }

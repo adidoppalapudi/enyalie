@@ -435,6 +435,302 @@
       "tags": [
         "magical-objects"
       ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of the Weasley family's home?",
+      "choices": [
+        "Shell Cottage",
+        "The Burrow",
+        "Spinner's End",
+        "Grimmauld Place"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "places"
+      ],
+      "explanation": "The Burrow is near the village of Ottery St Catchpole. Shell Cottage belongs to Bill and Fleur, and Spinner's End is Snape's home."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which house in London serves as headquarters of the Order of the Phoenix?",
+      "choices": [
+        "4 Privet Drive",
+        "Shell Cottage, Tinworth",
+        "12 Grimmauld Place",
+        "The Leaky Cauldron"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "places"
+      ],
+      "explanation": "12 Grimmauld Place is the Black family home. Sirius lends it to the Order, and it is hidden by the Fidelius Charm."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is the name of Hagrid's three-headed dog?",
+      "choices": [
+        "Fang",
+        "Norbert",
+        "Buckbeak",
+        "Fluffy"
+      ],
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "tags": [
+        "creatures"
+      ],
+      "explanation": "Fluffy guards the trapdoor to the Philosopher's Stone. Fang is Hagrid's boarhound, Norbert a dragon, and Buckbeak a hippogriff."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does the Mirror of Erised show the person looking into it?",
+      "choices": [
+        "The deepest desire of their heart",
+        "The future they are most afraid of",
+        "The true face of anyone in disguise",
+        "Memories they have tried to forget"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "magical-objects"
+      ],
+      "explanation": "\"Erised\" is \"desire\" spelled backwards. Dumbledore warns Harry that people have wasted away in front of the mirror."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Hogwarts house is Luna Lovegood in?",
+      "choices": [
+        "Hufflepuff",
+        "Ravenclaw",
+        "Gryffindor",
+        "Slytherin"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "houses"
+      ],
+      "explanation": "Luna is in Ravenclaw, the house that values wit and learning."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Quidditch position does Ron play for Gryffindor?",
+      "choices": [
+        "Beater",
+        "Chaser",
+        "Keeper",
+        "Seeker"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "quidditch"
+      ],
+      "explanation": "Ron becomes Keeper in Order of the Phoenix. The Keeper guards the three goal hoops."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Hogsmeade shop sells sweets such as Chocolate Frogs and Fizzing Whizzbees?",
+      "choices": [
+        "Zonko's Joke Shop",
+        "The Three Broomsticks",
+        "Dervish and Banges",
+        "Honeydukes"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "places"
+      ],
+      "explanation": "Honeydukes is the sweet shop. A secret passage leads from its cellar to Hogwarts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What animal does Professor McGonagall turn into as an Animagus?",
+      "choices": [
+        "A tabby cat",
+        "A black dog",
+        "A silver stag",
+        "A brown rat"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "magic"
+      ],
+      "explanation": "McGonagall is a registered Animagus. Sirius becomes a black dog and Peter Pettigrew a rat, and James Potter became a stag."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "Which three objects make up the Deathly Hallows?",
+      "answer": "The Elder Wand, the Resurrection Stone and the Cloak of Invisibility.",
+      "difficulty": "medium",
+      "tags": [
+        "magical-objects"
+      ],
+      "explanation": "The Tale of the Three Brothers says Death gave the objects to the Peverell brothers."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Who kills Albus Dumbledore at the top of the Astronomy Tower?",
+      "choices": [
+        "Draco Malfoy",
+        "Severus Snape",
+        "Bellatrix Lestrange",
+        "Fenrir Greyback"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "Draco was ordered to kill Dumbledore, but Snape casts the curse. Dumbledore had planned this beforehand."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does the spell Accio do?",
+      "choices": [
+        "Unlocks a locked door or window",
+        "Makes an object float in the air",
+        "Summons an object to the caster",
+        "Repairs a broken object instantly"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "tags": [
+        "spells"
+      ],
+      "explanation": "Accio is the Summoning Charm. Harry uses it to call his Firebolt during the first task of the Triwizard Tournament."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Sirius Black is Harry Potter's godfather.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "James Potter chose his best friend Sirius to be Harry's godfather."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Neville Longbottom kills Nagini with the Sword of Gryffindor.",
+      "answer": true,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "In Deathly Hallows, Neville pulls the sword from the Sorting Hat and destroys Nagini, the last Horcrux before Voldemort himself."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which house-elf serves the Black family?",
+      "choices": [
+        "Dobby",
+        "Winky",
+        "Hokey",
+        "Kreacher"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "creatures"
+      ],
+      "explanation": "Dobby served the Malfoys, Winky served the Crouches, and Hokey served Hepzibah Smith."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "In which village did Lily and James Potter live when Voldemort attacked them?",
+      "choices": [
+        "Godric's Hollow",
+        "Little Hangleton",
+        "Ottery St Catchpole",
+        "Hogsmeade"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "places"
+      ],
+      "explanation": "Godric's Hollow is named after Godric Gryffindor. Little Hangleton is where the Riddle family lived."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which three schools compete in the Triwizard Tournament in Goblet of Fire?",
+      "choices": [
+        "Hogwarts, Ilvermorny and Durmstrang",
+        "Hogwarts, Beauxbatons and Durmstrang",
+        "Hogwarts, Beauxbatons and Uagadou",
+        "Hogwarts, Castelobruxo and Durmstrang"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "events"
+      ],
+      "explanation": "Fleur Delacour represents Beauxbatons and Viktor Krum represents Durmstrang. Cedric Diggory and Harry both represent Hogwarts."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which potion, known as liquid luck, does Harry win in Slughorn's first lesson?",
+      "choices": [
+        "Amortentia",
+        "Veritaserum",
+        "Felix Felicis",
+        "Draught of Living Death"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "tags": [
+        "potions"
+      ],
+      "explanation": "Harry wins the Felix Felicis by brewing the best Draught of Living Death, helped by the Half-Blood Prince's notes."
+    },
+    {
+      "type": "flashcard",
+      "prompt": "What is a Portkey?",
+      "answer": "An ordinary object enchanted to carry anyone touching it to a set place, often at a set time.",
+      "difficulty": "medium",
+      "tags": [
+        "magical-objects"
+      ],
+      "explanation": "A Portkey takes Harry and Cedric from the Triwizard maze to the Little Hangleton graveyard."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is Lord Voldemort's birth name?",
+      "choices": [
+        "Tom Marvolo Gaunt",
+        "Marvolo Gaunt Riddle",
+        "Thomas Merope Riddle",
+        "Tom Marvolo Riddle"
+      ],
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "\"I am Lord Voldemort\" is an anagram of \"Tom Marvolo Riddle\", which Riddle reveals in Chamber of Secrets."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What is Harry Potter's middle name?",
+      "choices": [
+        "James",
+        "Sirius",
+        "Albus",
+        "Arthur"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "tags": [
+        "characters"
+      ],
+      "explanation": "Harry is named after his father. One of Harry's own sons is named Albus Severus."
     }
   ]
 }
