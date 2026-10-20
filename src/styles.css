@@ -164,14 +164,19 @@ blockquote {
 .screen {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  min-height: 100dvh;
+  height: 100vh;
+  height: 100dvh;
+}
+
+/* The page itself never scrolls; only this area between the two bars does. */
+.screen-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
 }
 
 .titlebar {
-  position: sticky;
-  top: 0;
-  z-index: 10;
+  flex: none;
   background: var(--accent);
   color: var(--on-bright);
   padding-top: env(safe-area-inset-top, 0px);
@@ -248,9 +253,7 @@ blockquote {
 }
 
 .bottombar {
-  position: sticky;
-  bottom: 0;
-  z-index: 10;
+  flex: none;
   background: var(--screen);
   border-top: 3px double var(--rule);
   padding-bottom: env(safe-area-inset-bottom, 0px);

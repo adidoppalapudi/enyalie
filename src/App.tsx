@@ -5,7 +5,7 @@ import { StatusProvider } from './app/StatusContext';
 import { ErrorBoundary } from './components/ErrorBoundary';
 import { Link } from './components/Link';
 import { Notice } from './components/Notice';
-import { Screen } from './components/Screen';
+import { Screen, scrollScreenToTop } from './components/Screen';
 import { DeckView } from './views/DeckView';
 import { LibraryView } from './views/LibraryView';
 import { QuestionEditorView } from './views/QuestionEditorView';
@@ -29,7 +29,7 @@ function CurrentScreen() {
   const route = useRoute();
 
   useEffect(() => {
-    window.scrollTo(0, 0);
+    scrollScreenToTop();
   }, [route]);
 
   switch (route.name) {

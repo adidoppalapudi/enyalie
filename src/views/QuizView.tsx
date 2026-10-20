@@ -7,7 +7,7 @@ import { Link } from '../components/Link';
 import { Meter } from '../components/Meter';
 import { Notice } from '../components/Notice';
 import { QuestionMeta } from '../components/QuestionMeta';
-import { Screen } from '../components/Screen';
+import { Screen, scrollScreenToTop } from '../components/Screen';
 import { useHotkeys, type Hotkeys } from '../hooks/useHotkeys';
 import { formatScore, slugify } from '../lib/format';
 import type { Question } from '../models/types';
@@ -201,7 +201,7 @@ function QuestionCard({ item, answer, streak, revealed, deckName, onAnswer, onRe
   // Each new question starts at the top of the page and takes focus, so
   // screen readers read it out and Tab starts from the answers.
   useEffect(() => {
-    window.scrollTo(0, 0);
+    scrollScreenToTop();
     cardRef.current?.focus({ preventScroll: true });
   }, []);
 

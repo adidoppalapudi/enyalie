@@ -15,6 +15,14 @@ interface ScreenProps {
   children: ReactNode;
 }
 
+/**
+ * Only the area between the title bar and the bottom bar scrolls, so the
+ * scroll bar stays between them. Scroll it with this, not window.scrollTo.
+ */
+export function scrollScreenToTop(): void {
+  document.querySelector('.screen-body')?.scrollTo(0, 0);
+}
+
 /** The frame around every view: title bar, content, status line and key bar. */
 export function Screen({ path, title, actions = [], children }: ScreenProps) {
   const { session } = useQuiz();
@@ -43,7 +51,9 @@ export function Screen({ path, title, actions = [], children }: ScreenProps) {
         </div>
       </header>
 
-      <main className="content">{children}</main>
+      <div className="screen-body">
+        <main className="content">{children}</main>
+      </div>
 
       <footer className="bottombar">
         <p className={`statusline${message ? ` tone-${message.tone}` : ''}`} role="status" aria-live="polite">
