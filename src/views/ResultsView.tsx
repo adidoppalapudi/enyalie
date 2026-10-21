@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { sourceRoute, useQuiz } from '../app/QuizContext';
 import { navigate } from '../app/router';
 import { useStatus } from '../app/StatusContext';
@@ -15,6 +15,7 @@ import { errorMessage } from '../lib/errors';
 import { formatScore, plural, slugify } from '../lib/format';
 import { correctAnswerText, responseText, verdict } from '../quiz/describe';
 import { buildQuizItems, createSession, isFinished, mistakesSession, replaySession, summarize } from '../quiz/engine';
+import { recordResult } from '../quiz/personalBests';
 
 export function ResultsView() {
   const quiz = useQuiz();
@@ -22,6 +23,8 @@ export function ResultsView() {
   const { notify } = useStatus();
   const [starting, setStarting] = useState(false);
   const pending = useRef(false);
+  // Recording is safe to repeat for the same quiz, so it can run while rendering.
+  const newBests = useMemo(() => (session && isFinished(session) ? recordResult(session) : []), [session]);
 
   useEffect(
     () => () => {
@@ -133,6 +136,11 @@ export function ResultsView() {
       <section className="scoreboard" aria-label="Score">
         <BlockNumber text={score} label={`${score} points`} />
         <p className="score-caption">points</p>
+        {newBests.length > 0 && (
+          <p className="new-best">
+            new best at {session.settings.count}: {newBests.join(', ')}
+          </p>
+        )}
       </section>
 
       <dl className="stats">

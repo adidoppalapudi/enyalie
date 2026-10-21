@@ -1328,6 +1328,21 @@ dialog.window::backdrop {
   color: var(--dim);
 }
 
+.deck-best {
+  color: var(--highlight);
+  font-size: 0.875rem;
+}
+
+.new-best {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.1rem 1ch;
+  background: var(--highlight);
+  color: var(--on-bright);
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
 .stats {
   display: grid;
   grid-template-columns: max-content 1fr;

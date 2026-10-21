@@ -40,8 +40,9 @@ export const DEFAULT_SETTINGS: QuizSettings = {
 
 // ---------------------------------------------------------------------------
 // Scoring: 100 points per correct answer, plus a streak bonus of 10 points for
-// every correct answer in a row after the first, capped at +50. A timed quiz
-// adds a speed bonus of up to +50, in proportion to the time left.
+// every correct answer in a row after the first, capped at +50. In a timed
+// quiz, multiple choice and true/false answers add a speed bonus of up to +50,
+// in proportion to the time left. Flashcards are self-graded, so they get none.
 
 const POINTS_PER_CORRECT = 100;
 const STREAK_BONUS_STEP = 10;
@@ -50,7 +51,7 @@ const MAX_SPEED_BONUS = 50;
 
 /**
  * Points for one answer. `streak` counts this answer (1 = first in a row).
- * `timeLeft` is the share of the timer left, from 1 down to 0 (0 when untimed).
+ * `timeLeft` is the share of the timer left, from 1 down to 0 (0 when untimed or a flashcard).
  */
 export function pointsFor(correct: boolean, streak: number, timeLeft = 0): number {
   if (!correct) return 0;
@@ -250,9 +251,10 @@ export function answerCurrent(session: QuizSession, response: QuizResponse, now 
   const left = timeLeft(session, session.revealedAt ?? now);
   if (response.type === 'timeout' && left !== 0) return session;
   const recorded: QuizResponse = left === 0 ? { type: 'timeout' } : response;
-  const correct = isCorrect(currentItem(session).question, recorded);
+  const { question } = currentItem(session);
+  const correct = isCorrect(question, recorded);
   const streak = correct ? session.streak + 1 : 0;
-  const points = pointsFor(correct, streak, left ?? 0);
+  const points = pointsFor(correct, streak, question.type === 'flashcard' ? 0 : (left ?? 0));
   const answers = session.answers.slice();
   answers[session.current] = { response: recorded, correct, points };
   return {

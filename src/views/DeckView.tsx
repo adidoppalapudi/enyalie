@@ -13,6 +13,7 @@ import { errorMessage } from '../lib/errors';
 import { formatDate, plural, slugify } from '../lib/format';
 import type { Question } from '../models/types';
 import { DEFAULT_SETTINGS, buildQuizItems, createSession, filterQuestions, type QuizSettings } from '../quiz/engine';
+import { bestsFor, describeBest } from '../quiz/personalBests';
 import { loadPreferences, savePreferences } from '../quiz/persistence';
 import { QuestionList } from './parts/QuestionList';
 import { QuizSetup } from './parts/QuizSetup';
@@ -97,6 +98,9 @@ export function DeckView({ deckId }: { deckId: string }) {
     );
   }
 
+  // One line per quiz length, so a short quiz is never compared with a long one.
+  const bests = bestsFor({ kind: 'deck', deckId });
+
   return (
     <Screen path={['decks', slugify(deck.name) || 'deck']} title={deck.name} actions={actions}>
       <div className="view-head">
@@ -105,6 +109,11 @@ export function DeckView({ deckId }: { deckId: string }) {
         <p className="dim">
           {plural(questions.length, 'question')}, updated {formatDate(deck.updatedAt)}
         </p>
+        {bests.map(({ count, best }) => (
+          <p key={count} className="deck-best">
+            Best at {count}: {describeBest(best)}
+          </p>
+        ))}
         <p className="button-row toolbar">
           <button type="button" className="btn" onClick={() => deckActions.editDeck(deck)}>
             edit

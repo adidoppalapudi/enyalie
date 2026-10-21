@@ -258,9 +258,16 @@ describe('timed mode', () => {
     expect(currentItem(session).question.type).toBe('flashcard');
     session = revealCurrent(session, 15_000);
     expect(session.revealedAt).toBe(15_000);
-    // Rating long after the deadline still counts, with the bonus from the reveal time.
+    // Rating long after the deadline still counts.
     session = answerCurrent(session, { type: 'flashcard', recalled: true }, 60_000);
-    expect(session.answers[2]?.points).toBe(100 + 20 + 13);
+    expect(session.answers[2]?.points).toBe(100 + 20);
+  });
+
+  it('gives flashcards no speed bonus, however fast they are revealed', () => {
+    let session = newSession(timed);
+    for (let i = 0; i < 2; i++) session = advance(answerCurrent(session, respond(session, true), 0), 0);
+    session = answerCurrent(revealCurrent(session, 0), { type: 'flashcard', recalled: true }, 0);
+    expect(session.answers[2]?.points).toBe(100 + 20);
   });
 
   it('counts a flashcard revealed too late as out of time', () => {
