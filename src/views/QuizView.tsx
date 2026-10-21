@@ -93,43 +93,45 @@ export function QuizView() {
 
   return (
     <Screen path={['quiz', slugify(session.title) || 'quiz']} title={`Quiz – ${session.title}`} actions={actions}>
-      <div className="quiz-head">
-        <h1 className="quiz-title">
-          {session.title}
-          {session.retry && <span className="dim"> (mistakes round)</span>}
-        </h1>
-        <p className="quiz-status">
-          <span>
-            question {session.current + 1} of {total}
-          </span>
-          <Meter value={answeredCount} max={total} label={`${answeredCount} of ${total} answered`} />
-          <span>
-            score <strong className="score-value">{formatScore(session.score)}</strong>
-          </span>
-          <span className={session.streak >= 2 ? 'streak is-hot' : 'streak'}>streak {session.streak}</span>
-          {timeUp !== null && (
-            <Countdown
-              key={`${session.id}-${session.current}`}
-              deadline={timeUp}
-              seconds={session.settings.timer as number}
-              running={!answer && !revealed}
-              onTimeout={timeOut}
-            />
-          )}
-        </p>
-      </div>
+      <div className="quiz-layout">
+        <div className="quiz-head">
+          <h1 className="quiz-title">
+            {session.title}
+            {session.retry && <span className="dim"> (mistakes round)</span>}
+          </h1>
+          <p className="quiz-status">
+            <span>
+              question {session.current + 1} of {total}
+            </span>
+            <Meter value={answeredCount} max={total} label={`${answeredCount} of ${total} answered`} />
+            <span>
+              score <strong className="score-value">{formatScore(session.score)}</strong>
+            </span>
+            <span className={session.streak >= 2 ? 'streak is-hot' : 'streak'}>streak {session.streak}</span>
+            {timeUp !== null && (
+              <Countdown
+                key={`${session.id}-${session.current}`}
+                deadline={timeUp}
+                seconds={session.settings.timer as number}
+                running={!answer && !revealed}
+                onTimeout={timeOut}
+              />
+            )}
+          </p>
+        </div>
 
-      <QuestionCard
-        key={`${session.id}-${session.current}`}
-        item={item}
-        answer={answer}
-        streak={session.streak}
-        revealed={revealed}
-        deckName={session.source.kind === 'quick' ? session.deckNames[item.question.deckId] : undefined}
-        onAnswer={quiz.answer}
-        onReveal={quiz.reveal}
-        onRate={quiz.answerAndNext}
-      />
+        <QuestionCard
+          key={`${session.id}-${session.current}`}
+          item={item}
+          answer={answer}
+          streak={session.streak}
+          revealed={revealed}
+          deckName={session.source.kind === 'quick' ? session.deckNames[item.question.deckId] : undefined}
+          onAnswer={quiz.answer}
+          onReveal={quiz.reveal}
+          onRate={quiz.answerAndNext}
+        />
+      </div>
 
       {confirmQuit && (
         <ConfirmDialog
