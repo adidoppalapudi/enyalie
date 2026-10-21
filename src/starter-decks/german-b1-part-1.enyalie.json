@@ -1105,11 +1105,11 @@
       "type": "multiple_choice",
       "prompt": "Which passive sentence is correct in the present?",
       "choices": [
-        "Der Bericht wird geschrieben.",
+        "Der Bericht ist schreiben.",
         "Der Bericht wird geschriebenen.",
-        "Der Bericht ist schreiben."
+        "Der Bericht wird geschrieben."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "b1",
@@ -1121,11 +1121,11 @@
       "type": "multiple_choice",
       "prompt": "Choose the correct connector: ___ es regnet, gehen wir spazieren.",
       "choices": [
+        "Indem",
         "Obwohl",
-        "Damit",
-        "Indem"
+        "Damit"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1137,9 +1137,9 @@
       "type": "multiple_choice",
       "prompt": "Which form completes an unreal condition: Wenn ich Zeit ___, würde ich kommen.",
       "choices": [
-        "habe",
+        "hatte",
         "hätte",
-        "hatte"
+        "habe"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1153,11 +1153,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “to meet a deadline”?",
       "choices": [
-        "eine Frist einhalten",
+        "eine Frist machen",
         "eine Frist verlieren",
-        "eine Frist machen"
+        "eine Frist einhalten"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1170,8 +1170,8 @@
       "prompt": "Which relative pronoun follows mit in “die Person, mit ___ ich spreche”?",
       "choices": [
         "der",
-        "die",
-        "den"
+        "den",
+        "die"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1185,11 +1185,11 @@
       "type": "multiple_choice",
       "prompt": "Which connector means “both ... and ...”?",
       "choices": [
-        "weder ... noch",
         "sowohl ... als auch",
-        "entweder ... oder"
+        "entweder ... oder",
+        "weder ... noch"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "b1",
@@ -1201,11 +1201,11 @@
       "type": "multiple_choice",
       "prompt": "Choose the formal verb: to collect data",
       "choices": [
-        "Daten erheben",
         "Daten schieben",
+        "Daten erheben",
         "Daten ziehen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1234,8 +1234,8 @@
       "prompt": "Which phrase means “to question an assumption”?",
       "choices": [
         "etwas in Frage stellen",
-        "etwas unter den Tisch legen",
-        "etwas auf den Weg bringen"
+        "etwas auf den Weg bringen",
+        "etwas unter den Tisch legen"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1249,11 +1249,11 @@
       "type": "multiple_choice",
       "prompt": "What does indem introduce?",
       "choices": [
-        "a means or method",
+        "a noun plural",
         "a direct command",
-        "a noun plural"
+        "a means or method"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b1",

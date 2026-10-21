@@ -636,11 +636,11 @@
       "prompt": "Which spelling contains an umlaut?",
       "choices": [
         "schon",
+        "schoen",
         "schön",
-        "schonh",
-        "schoen"
+        "schonh"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -653,12 +653,12 @@
       "type": "multiple_choice",
       "prompt": "Which German character is not a vowel?",
       "choices": [
-        "ä",
-        "ö",
         "ß",
-        "ü"
+        "ä",
+        "ü",
+        "ö"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -671,12 +671,12 @@
       "type": "multiple_choice",
       "prompt": "Which word begins with the [ʃp] sound?",
       "choices": [
-        "Spiel",
         "Zahl",
+        "Spiel",
         "Wasser",
         "Vater"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -689,12 +689,12 @@
       "type": "multiple_choice",
       "prompt": "Which word begins with the [ʃt] sound?",
       "choices": [
-        "Stadt",
+        "Kind",
         "Tag",
         "Zug",
-        "Kind"
+        "Stadt"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -707,12 +707,12 @@
       "type": "multiple_choice",
       "prompt": "Which word contains the [aɪ̯] diphthong?",
       "choices": [
-        "Haus",
         "mein",
-        "heute",
-        "Buch"
+        "Buch",
+        "Haus",
+        "heute"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -725,12 +725,12 @@
       "type": "multiple_choice",
       "prompt": "Which word contains the [aʊ̯] diphthong?",
       "choices": [
-        "klein",
-        "neu",
         "Haus",
-        "vier"
+        "neu",
+        "vier",
+        "klein"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -743,10 +743,10 @@
       "type": "multiple_choice",
       "prompt": "Which word contains the [ɔʏ̯] diphthong?",
       "choices": [
-        "Zeit",
+        "Brot",
         "Haus",
         "heute",
-        "Brot"
+        "Zeit"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -762,11 +762,11 @@
       "prompt": "Which IPA symbol represents a long vowel?",
       "choices": [
         "[a]",
+        "[ts]",
         "[aː]",
-        "[ç]",
-        "[ts]"
+        "[ç]"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -781,8 +781,8 @@
       "choices": [
         "Bahn",
         "Bett",
-        "sehen",
-        "Uhr"
+        "Uhr",
+        "sehen"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -797,12 +797,12 @@
       "type": "multiple_choice",
       "prompt": "Which word is normally pronounced with [ç]?",
       "choices": [
-        "Bach",
         "ich",
         "Buch",
-        "Dach"
+        "Dach",
+        "Bach"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -816,11 +816,11 @@
       "prompt": "Which word is normally pronounced with [x]?",
       "choices": [
         "ich",
-        "Milch",
         "Bach",
+        "Milch",
         "Mädchen"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -834,9 +834,9 @@
       "prompt": "Which word starts with [v] in standard German?",
       "choices": [
         "Wasser",
-        "ja",
         "Zeit",
-        "Vater"
+        "Vater",
+        "ja"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -851,12 +851,12 @@
       "type": "multiple_choice",
       "prompt": "Which word starts with [f] in standard German?",
       "choices": [
-        "Vater",
-        "Welt",
+        "Zahl",
         "Jahr",
-        "Zahl"
+        "Welt",
+        "Vater"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -869,12 +869,12 @@
       "type": "multiple_choice",
       "prompt": "Which German word is normally capitalized because it is a noun?",
       "choices": [
+        "HAUS only",
         "haus (lowercase)",
-        "Haus",
         "Hause",
-        "HAUS only"
+        "Haus"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -887,12 +887,12 @@
       "type": "multiple_choice",
       "prompt": "Which greeting is appropriate at any time of day in many informal situations?",
       "choices": [
-        "Gute Nacht",
-        "Hallo",
         "Guten Morgen only",
-        "Auf Wiedersehen only"
+        "Auf Wiedersehen only",
+        "Gute Nacht",
+        "Hallo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -905,12 +905,12 @@
       "type": "multiple_choice",
       "prompt": "Which expression is a polite formal greeting?",
       "choices": [
-        "Hi",
         "Moin",
         "Guten Tag",
+        "Hi",
         "Tschüss"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -923,10 +923,10 @@
       "type": "multiple_choice",
       "prompt": "Which expression means “goodbye”?",
       "choices": [
-        "Bitte",
+        "Entschuldigung",
         "Danke",
         "Auf Wiedersehen",
-        "Entschuldigung"
+        "Bitte"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -941,12 +941,12 @@
       "type": "multiple_choice",
       "prompt": "Which expression can mean both “please” and “you’re welcome,” depending on context?",
       "choices": [
+        "Ja",
         "Bitte",
         "Danke",
-        "Hallo",
-        "Ja"
+        "Hallo"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -959,10 +959,10 @@
       "type": "multiple_choice",
       "prompt": "Which pronoun is normally used in formal address for one person?",
       "choices": [
-        "du",
+        "sie only lowercase",
         "ihr",
         "Sie",
-        "sie only lowercase"
+        "du"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -977,12 +977,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence introduces a person by name?",
       "choices": [
-        "Ich heiße Lina.",
         "Ich komme Lina.",
+        "Mein heiße Lina.",
         "Ich bin heißen Lina.",
-        "Mein heiße Lina."
+        "Ich heiße Lina."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -995,12 +995,12 @@
       "type": "multiple_choice",
       "prompt": "Which number is neun?",
       "choices": [
-        "7",
-        "8",
         "9",
-        "10"
+        "10",
+        "8",
+        "7"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1013,12 +1013,12 @@
       "type": "multiple_choice",
       "prompt": "Which German word means “today”?",
       "choices": [
-        "gestern",
         "heute",
         "morgen",
-        "jetzt"
+        "jetzt",
+        "gestern"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1032,11 +1032,11 @@
       "prompt": "Which question asks for the time?",
       "choices": [
         "Wie heißt du?",
-        "Woher kommst du?",
         "Wie spät ist es?",
+        "Woher kommst du?",
         "Was machst du?"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1049,10 +1049,10 @@
       "type": "multiple_choice",
       "prompt": "Which sentence is a yes/no question?",
       "choices": [
-        "Du kommst aus Berlin.",
-        "Kommst du aus Berlin?",
         "Woher kommst du?",
-        "Aus Berlin du kommst."
+        "Kommst du aus Berlin?",
+        "Aus Berlin du kommst.",
+        "Du kommst aus Berlin."
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1067,12 +1067,12 @@
       "type": "multiple_choice",
       "prompt": "Which phrase asks someone to repeat?",
       "choices": [
-        "Noch einmal, bitte.",
         "Gute Nacht.",
+        "Noch einmal, bitte.",
         "Bis morgen.",
         "Das ist teuer."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1085,12 +1085,12 @@
       "type": "multiple_choice",
       "prompt": "Which country name is German for Germany?",
       "choices": [
-        "Deutschland",
-        "Österreich",
         "Germanien",
+        "Österreich",
+        "Deutschland",
         "Deutsche"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1121,12 +1121,12 @@
       "type": "multiple_choice",
       "prompt": "Which keyboard key combination commonly types ä on a German layout?",
       "choices": [
-        "The Ä key is a dedicated key",
         "AltGr+A, then the vowel key",
         "Ctrl+Shift+A on any layout",
-        "There is no way to type it"
+        "There is no way to type it",
+        "The Ä key is a dedicated key"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1140,11 +1140,11 @@
       "prompt": "Which spelling is correct for “German language” as a noun?",
       "choices": [
         "deutsch (adjective)",
+        "deutsch.",
         "Deutsch",
-        "DEUTSCH always",
-        "deutsch."
+        "DEUTSCH always"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "foundations",
@@ -1157,12 +1157,12 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “I do not understand”?",
       "choices": [
-        "Ich verstehe nicht.",
-        "Ich bin nicht.",
         "Ich habe verstehe.",
-        "Nicht ich verstehen."
+        "Ich bin nicht.",
+        "Nicht ich verstehen.",
+        "Ich verstehe nicht."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "foundations",

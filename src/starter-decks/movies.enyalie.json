@@ -20,7 +20,8 @@
       "difficulty": "easy",
       "tags": [
         "directors"
-      ]
+      ],
+      "explanation": "Jaws is often called the first summer blockbuster."
     },
     {
       "type": "multiple_choice",
@@ -51,7 +52,8 @@
       "difficulty": "hard",
       "tags": [
         "oscars"
-      ]
+      ],
+      "explanation": "Wings is a silent World War I aviation film. The only other silent film to win Best Picture is The Artist (2011)."
     },
     {
       "type": "true_false",
@@ -90,7 +92,8 @@
       "difficulty": "medium",
       "tags": [
         "quotes"
-      ]
+      ],
+      "explanation": "Humphrey Bogart's Rick says it to Ingrid Bergman's Ilsa."
     },
     {
       "type": "multiple_choice",
@@ -105,7 +108,8 @@
       "difficulty": "medium",
       "tags": [
         "oscars"
-      ]
+      ],
+      "explanation": "It won all 11 categories it was nominated in."
     },
     {
       "type": "flashcard",
@@ -171,7 +175,8 @@
       "difficulty": "easy",
       "tags": [
         "animation"
-      ]
+      ],
+      "explanation": "Spirited Away won the Oscar for Best Animated Feature in 2003."
     },
     {
       "type": "multiple_choice",
@@ -201,7 +206,8 @@
       "difficulty": "medium",
       "tags": [
         "directors"
-      ]
+      ],
+      "explanation": "Citizen Kane was Orson Welles's first feature film. He was 25 when he made it."
     },
     {
       "type": "multiple_choice",
@@ -226,7 +232,8 @@
       "difficulty": "easy",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "It was later retitled Star Wars: Episode IV, A New Hope."
     },
     {
       "type": "multiple_choice",
@@ -281,7 +288,8 @@
       "difficulty": "easy",
       "tags": [
         "scenes"
-      ]
+      ],
+      "explanation": "In reality, DNA breaks down far too quickly to survive millions of years in amber."
     },
     {
       "type": "multiple_choice",
@@ -337,7 +345,8 @@
       "difficulty": "easy",
       "tags": [
         "scenes"
-      ]
+      ],
+      "explanation": "The blood in the scene is chocolate syrup, which looked right in black and white."
     },
     {
       "type": "multiple_choice",
@@ -368,7 +377,8 @@
       "difficulty": "medium",
       "tags": [
         "directors"
-      ]
+      ],
+      "explanation": "Schindler's List won seven Oscars, including Spielberg's first for Best Director."
     },
     {
       "type": "flashcard",
@@ -377,7 +387,8 @@
       "difficulty": "hard",
       "tags": [
         "oscars"
-      ]
+      ],
+      "explanation": "She won for Morning Glory, Guess Who's Coming to Dinner, The Lion in Winter and On Golden Pond."
     },
     {
       "type": "multiple_choice",

@@ -81,7 +81,8 @@
       "difficulty": "easy",
       "tags": [
         "places"
-      ]
+      ],
+      "explanation": "Students reach it by walking straight through the barrier between platforms nine and ten."
     },
     {
       "type": "multiple_choice",
@@ -141,7 +142,8 @@
       "difficulty": "medium",
       "tags": [
         "wands"
-      ]
+      ],
+      "explanation": "The feather came from Fawkes, Dumbledore's phoenix. Fawkes gave just one other feather, for Voldemort's wand."
     },
     {
       "type": "multiple_choice",
@@ -261,7 +263,8 @@
       "difficulty": "easy",
       "tags": [
         "magic"
-      ]
+      ],
+      "explanation": "The stag matches the Animagus form of Harry's father, James, whose nickname was Prongs."
     },
     {
       "type": "multiple_choice",
@@ -291,7 +294,8 @@
       "difficulty": "easy",
       "tags": [
         "spells"
-      ]
+      ],
+      "explanation": "Expelliarmus becomes Harry's signature spell. He uses it in his final duel with Voldemort."
     },
     {
       "type": "multiple_choice",
@@ -351,7 +355,8 @@
       "difficulty": "medium",
       "tags": [
         "quidditch"
-      ]
+      ],
+      "explanation": "Catching the Snitch also ends the match."
     },
     {
       "type": "multiple_choice",
@@ -366,7 +371,8 @@
       "difficulty": "easy",
       "tags": [
         "creatures"
-      ]
+      ],
+      "explanation": "A basilisk's direct gaze kills. Its victims at Hogwarts saw it only indirectly, so they were petrified instead."
     },
     {
       "type": "multiple_choice",
@@ -381,7 +387,8 @@
       "difficulty": "medium",
       "tags": [
         "magic"
-      ]
+      ],
+      "explanation": "Voldemort meant to make six Horcruxes. Harry became an extra one that Voldemort never intended."
     },
     {
       "type": "multiple_choice",
@@ -396,7 +403,8 @@
       "difficulty": "medium",
       "tags": [
         "spells"
-      ]
+      ],
+      "explanation": "A Boggart takes the shape of whatever the viewer fears most. Laughter defeats it."
     },
     {
       "type": "true_false",
@@ -434,7 +442,8 @@
       "difficulty": "medium",
       "tags": [
         "magical-objects"
-      ]
+      ],
+      "explanation": "Moony, Wormtail, Padfoot and Prongs made the map. They were Lupin, Pettigrew, Sirius Black and James Potter."
     },
     {
       "type": "multiple_choice",

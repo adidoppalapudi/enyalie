@@ -20,7 +20,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Blue whales can reach about 30 m (100 ft) long and weigh around 150 tonnes."
     },
     {
       "type": "multiple_choice",
@@ -35,7 +36,8 @@
       "difficulty": "easy",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "Cheetahs can reach about 100 km/h (60 mph), but only in short sprints."
     },
     {
       "type": "multiple_choice",
@@ -65,7 +67,8 @@
       "difficulty": "medium",
       "tags": [
         "animals"
-      ]
+      ],
+      "explanation": "The platypus and the echidnas are the only egg-laying mammals, called monotremes."
     },
     {
       "type": "multiple_choice",
@@ -95,7 +98,8 @@
       "difficulty": "easy",
       "tags": [
         "invertebrates"
-      ]
+      ],
+      "explanation": "Spiders are arachnids, not insects."
     },
     {
       "type": "multiple_choice",
@@ -110,7 +114,8 @@
       "difficulty": "medium",
       "tags": [
         "classification"
-      ]
+      ],
+      "explanation": "Octopuses are mollusks, like snails and clams, even though they have no outer shell."
     },
     {
       "type": "multiple_choice",
@@ -292,7 +297,8 @@
       "difficulty": "medium",
       "tags": [
         "adaptations"
-      ]
+      ],
+      "explanation": "For example, the harmless scarlet kingsnake looks like the venomous coral snake."
     },
     {
       "type": "multiple_choice",
@@ -368,7 +374,8 @@
       "difficulty": "hard",
       "tags": [
         "ecology"
-      ]
+      ],
+      "explanation": "For example, lemurs are endemic to Madagascar."
     },
     {
       "type": "multiple_choice",
@@ -398,7 +405,8 @@
       "difficulty": "hard",
       "tags": [
         "ecology"
-      ]
+      ],
+      "explanation": "Sea otters are a classic example. They eat sea urchins that would otherwise strip kelp forests bare."
     },
     {
       "type": "true_false",

@@ -119,12 +119,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of sein completes “ich ___ müde”?",
       "choices": [
-        "bin",
         "bist",
+        "bin",
         "ist",
         "sind"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -137,12 +137,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of sein completes “du ___ müde”?",
       "choices": [
-        "bin",
         "bist",
-        "ist",
-        "sind"
+        "bin",
+        "sind",
+        "ist"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -155,12 +155,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of sein completes “er/sie/es ___ müde”?",
       "choices": [
-        "bin",
         "bist",
-        "ist",
-        "sind"
+        "sind",
+        "bin",
+        "ist"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "a1",
@@ -174,8 +174,8 @@
       "prompt": "Which form of sein completes “wir ___ müde”?",
       "choices": [
         "bin",
-        "bist",
         "ist",
+        "bist",
         "sind"
       ],
       "correctIndex": 3,
@@ -191,12 +191,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of sein completes “ihr ___ müde”?",
       "choices": [
-        "bin",
-        "bist",
+        "sind",
         "ist",
-        "sind"
+        "bin",
+        "bist"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -209,12 +209,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of sein completes “sie/Sie ___ müde”?",
       "choices": [
-        "bin",
-        "bist",
+        "sind",
         "ist",
-        "sind"
+        "bin",
+        "bist"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -227,12 +227,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of haben completes “ich ___ Zeit”?",
       "choices": [
-        "habe",
         "hast",
+        "haben",
         "hat",
-        "haben"
+        "habe"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -245,12 +245,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of haben completes “du ___ Zeit”?",
       "choices": [
-        "habe",
         "hast",
+        "habe",
         "hat",
         "haben"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -282,11 +282,11 @@
       "prompt": "Which form of haben completes “wir ___ Zeit”?",
       "choices": [
         "habe",
-        "hast",
         "hat",
-        "haben"
+        "haben",
+        "hast"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -299,12 +299,12 @@
       "type": "multiple_choice",
       "prompt": "Which form of haben completes “ihr ___ Zeit”?",
       "choices": [
-        "habe",
-        "hast",
+        "haben",
         "hat",
-        "haben"
+        "hast",
+        "habe"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -317,9 +317,9 @@
       "type": "multiple_choice",
       "prompt": "Which form of haben completes “sie/Sie ___ Zeit”?",
       "choices": [
+        "hat",
         "habe",
         "hast",
-        "hat",
         "haben"
       ],
       "correctIndex": 3,
@@ -659,12 +659,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Mann”?",
       "choices": [
-        "der",
         "die",
+        "der",
         "das",
         "den"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -677,12 +677,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Frau”?",
       "choices": [
-        "der",
-        "die",
         "das",
-        "den"
+        "den",
+        "die",
+        "der"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -695,12 +695,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Kind”?",
       "choices": [
+        "das",
         "der",
         "die",
-        "das",
         "den"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -713,12 +713,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Tisch”?",
       "choices": [
-        "der",
         "die",
-        "das",
-        "den"
+        "den",
+        "der",
+        "das"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -731,12 +731,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Lampe”?",
       "choices": [
-        "der",
         "die",
         "das",
+        "der",
         "den"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -750,11 +750,11 @@
       "prompt": "Which definite article completes “___ Fenster”?",
       "choices": [
         "der",
-        "die",
         "das",
-        "den"
+        "den",
+        "die"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -768,9 +768,9 @@
       "prompt": "Which definite article completes “___ Kaffee”?",
       "choices": [
         "der",
+        "den",
         "die",
-        "das",
-        "den"
+        "das"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -785,10 +785,10 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Milch”?",
       "choices": [
-        "der",
-        "die",
         "das",
-        "den"
+        "die",
+        "den",
+        "der"
       ],
       "correctIndex": 1,
       "difficulty": "hard",
@@ -803,12 +803,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Brot”?",
       "choices": [
-        "der",
-        "die",
         "das",
-        "den"
+        "die",
+        "den",
+        "der"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -822,9 +822,9 @@
       "prompt": "Which definite article completes “___ Bruder”?",
       "choices": [
         "der",
+        "den",
         "die",
-        "das",
-        "den"
+        "das"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -840,11 +840,11 @@
       "prompt": "Which definite article completes “___ Schwester”?",
       "choices": [
         "der",
-        "die",
         "das",
+        "die",
         "den"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -857,12 +857,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Baby”?",
       "choices": [
-        "der",
-        "die",
+        "den",
         "das",
-        "den"
+        "der",
+        "die"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -893,12 +893,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Bahnhof”?",
       "choices": [
-        "der",
-        "die",
+        "den",
         "das",
-        "den"
+        "der",
+        "die"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -911,12 +911,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Hotel”?",
       "choices": [
-        "der",
-        "die",
         "das",
+        "die",
+        "der",
         "den"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -929,12 +929,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Apfel”?",
       "choices": [
+        "den",
         "der",
         "die",
-        "das",
-        "den"
+        "das"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -947,12 +947,12 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Orange”?",
       "choices": [
-        "der",
-        "die",
         "das",
-        "den"
+        "der",
+        "den",
+        "die"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -965,10 +965,10 @@
       "type": "multiple_choice",
       "prompt": "Which definite article completes “___ Ei”?",
       "choices": [
-        "der",
         "die",
+        "den",
         "das",
-        "den"
+        "der"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1235,12 +1235,12 @@
       "type": "multiple_choice",
       "prompt": "Ich sehe ___ Hund.",
       "choices": [
-        "der",
-        "den",
+        "des",
         "dem",
-        "des"
+        "der",
+        "den"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1253,9 +1253,9 @@
       "type": "multiple_choice",
       "prompt": "Wir kaufen ___ Apfel.",
       "choices": [
-        "der",
-        "den",
         "dem",
+        "den",
+        "der",
         "die"
       ],
       "correctIndex": 1,
@@ -1272,9 +1272,9 @@
       "prompt": "Ich gebe ___ Kind ein Buch.",
       "choices": [
         "der",
-        "den",
+        "das",
         "dem",
-        "das"
+        "den"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1289,12 +1289,12 @@
       "type": "multiple_choice",
       "prompt": "Sie hilft ___ Frau.",
       "choices": [
+        "dem",
         "der",
         "die",
-        "dem",
         "den"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1307,12 +1307,12 @@
       "type": "multiple_choice",
       "prompt": "Das Geschenk ist für ___.",
       "choices": [
+        "mir",
         "ich",
         "mich",
-        "mir",
         "mein"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1325,8 +1325,8 @@
       "type": "multiple_choice",
       "prompt": "Kommst du mit ___?",
       "choices": [
-        "ich",
         "mich",
+        "ich",
         "mir",
         "mein"
       ],
@@ -1343,12 +1343,12 @@
       "type": "multiple_choice",
       "prompt": "Wir fahren ___ Berlin.",
       "choices": [
-        "in",
         "nach",
         "zu",
+        "in",
         "bei"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1361,9 +1361,9 @@
       "type": "multiple_choice",
       "prompt": "Ich bin ___ Hause.",
       "choices": [
-        "nach",
-        "zu",
         "im",
+        "zu",
+        "nach",
         "an"
       ],
       "correctIndex": 1,
@@ -1379,12 +1379,12 @@
       "type": "multiple_choice",
       "prompt": "Sie geht ___ Schule.",
       "choices": [
+        "zu den",
         "in die",
         "an der",
-        "mit die",
-        "zu den"
+        "mit die"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1397,12 +1397,12 @@
       "type": "multiple_choice",
       "prompt": "Wir sind ___ Bahnhof.",
       "choices": [
-        "am",
         "in den",
+        "auf die",
         "zum",
-        "auf die"
+        "am"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1415,12 +1415,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly negates “Ich habe ein Auto”?",
       "choices": [
-        "Ich habe nicht Auto.",
-        "Ich habe kein Auto.",
+        "Ich habe ein nicht Auto.",
         "Ich kein habe Auto.",
-        "Ich habe ein nicht Auto."
+        "Ich habe nicht Auto.",
+        "Ich habe kein Auto."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1434,11 +1434,11 @@
       "prompt": "Which sentence correctly negates “Ich komme heute”?",
       "choices": [
         "Ich komme kein heute.",
-        "Ich nicht komme heute.",
         "Ich komme heute nicht.",
+        "Ich nicht komme heute.",
         "Ich komme nicht heute bin."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1451,12 +1451,12 @@
       "type": "multiple_choice",
       "prompt": "Which form is the negative article for feminine singular?",
       "choices": [
-        "kein",
         "keine",
         "keinen",
+        "kein",
         "keinem"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "a1",
@@ -1469,10 +1469,10 @@
       "type": "multiple_choice",
       "prompt": "Which modal verb means “can / be able to”?",
       "choices": [
-        "müssen",
+        "sollen",
         "können",
         "wollen",
-        "sollen"
+        "müssen"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1487,10 +1487,10 @@
       "type": "multiple_choice",
       "prompt": "Which modal verb means “must / have to”?",
       "choices": [
-        "dürfen",
         "mögen",
+        "können",
         "müssen",
-        "können"
+        "dürfen"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -1505,12 +1505,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence uses a modal verb correctly?",
       "choices": [
-        "Ich kann Deutsch sprechen.",
-        "Ich kann spreche Deutsch.",
         "Ich kann Deutsch spricht.",
-        "Ich kann Deutsch gesprochen."
+        "Ich kann Deutsch gesprochen.",
+        "Ich kann Deutsch sprechen.",
+        "Ich kann spreche Deutsch."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1523,12 +1523,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence means “You may sit down” formally?",
       "choices": [
-        "Sie dürfen sich setzen.",
+        "Sie darf sich setzen.",
         "Sie müssen sich setzen.",
-        "Sie können setzt sich.",
-        "Sie darf sich setzen."
+        "Sie dürfen sich setzen.",
+        "Sie können setzt sich."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1541,12 +1541,12 @@
       "type": "multiple_choice",
       "prompt": "Which is the normal statement order?",
       "choices": [
+        "Ich heute arbeite.",
         "Heute ich arbeite.",
         "Heute arbeite ich.",
-        "Arbeite heute ich.",
-        "Ich heute arbeite."
+        "Arbeite heute ich."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1559,10 +1559,10 @@
       "type": "multiple_choice",
       "prompt": "Which is the normal yes/no question?",
       "choices": [
-        "Du kommst heute?",
+        "Kommst heute du?",
         "Kommst du heute?",
-        "Heute du kommst?",
-        "Kommst heute du?"
+        "Du kommst heute?",
+        "Heute du kommst?"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1577,12 +1577,12 @@
       "type": "multiple_choice",
       "prompt": "Which is the normal W-question?",
       "choices": [
-        "Wo du wohnst?",
-        "Wohnst wo du?",
         "Wo wohnst du?",
-        "Du wohnst wo?"
+        "Du wohnst wo?",
+        "Wo du wohnst?",
+        "Wohnst wo du?"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1595,12 +1595,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly places a separable prefix?",
       "choices": [
-        "Ich stehe um sieben auf.",
         "Ich aufstehe um sieben.",
         "Ich stehe auf um sieben.",
-        "Auf ich stehe um sieben."
+        "Auf ich stehe um sieben.",
+        "Ich stehe um sieben auf."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1613,12 +1613,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly places the infinitive after a modal?",
       "choices": [
-        "Ich will Deutsch lernen.",
         "Ich lernen will Deutsch.",
+        "Ich Deutsch will lernen.",
         "Ich will lernen Deutsch.",
-        "Ich Deutsch will lernen."
+        "Ich will Deutsch lernen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1632,11 +1632,11 @@
       "prompt": "Which sentence correctly places nicht in “I do not live in Berlin”?",
       "choices": [
         "Ich nicht wohne in Berlin.",
-        "Ich wohne nicht in Berlin.",
         "Nicht ich wohne Berlin.",
-        "Ich wohne in nicht Berlin."
+        "Ich wohne in nicht Berlin.",
+        "Ich wohne nicht in Berlin."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1649,12 +1649,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence is the correct formal question “Where do you live?”",
       "choices": [
-        "Wo wohnen Sie?",
-        "Wo Sie wohnen?",
         "Wohnen wo Sie?",
-        "Sie wohnen wo?"
+        "Sie wohnen wo?",
+        "Wo Sie wohnen?",
+        "Wo wohnen Sie?"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "a1",
@@ -1667,12 +1667,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence is a correct command to one person?",
       "choices": [
-        "Komm bitte!",
-        "Bitte du kommst!",
         "Kommen du bitte!",
-        "Du komm bitte!"
+        "Du komm bitte!",
+        "Bitte du kommst!",
+        "Komm bitte!"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",

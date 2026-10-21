@@ -8,5 +8,6 @@ coverage
 *.log
 .DS_Store
 
-# local tooling
+# local tooling and notes
 skills/
+claude/

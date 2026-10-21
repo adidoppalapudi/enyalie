@@ -2,8 +2,7 @@
  * Core data model.
  *
  * A Deck groups Questions. Questions are stored separately from their deck
- * (linked by `deckId`) so the shape maps directly onto two database tables
- * if a server is added later.
+ * and linked to it by `deckId`.
  */
 
 export const QUESTION_TYPES = ['multiple_choice', 'true_false', 'flashcard'] as const;

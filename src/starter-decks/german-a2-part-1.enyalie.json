@@ -1051,11 +1051,11 @@
       "type": "multiple_choice",
       "prompt": "Which sentence uses the dative correctly?",
       "choices": [
-        "Ich helfe den Mann.",
         "Ich helfe dem Mann.",
-        "Ich helfe der Mann."
+        "Ich helfe der Mann.",
+        "Ich helfe den Mann."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "hard",
       "tags": [
         "a2",
@@ -1083,11 +1083,11 @@
       "type": "multiple_choice",
       "prompt": "Which perfect auxiliary fits: Sie ___ nach Hause gegangen?",
       "choices": [
-        "hat",
         "ist",
-        "wird"
+        "wird",
+        "hat"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "a2",
@@ -1099,11 +1099,11 @@
       "type": "multiple_choice",
       "prompt": "Complete: Ich bleibe zu Hause, ___ ich krank bin.",
       "choices": [
-        "weil",
+        "oder",
         "aber",
-        "oder"
+        "weil"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a2",
@@ -1115,11 +1115,11 @@
       "type": "multiple_choice",
       "prompt": "Which is the correct simple past of haben?",
       "choices": [
-        "hatte",
         "habe",
+        "hatte",
         "gehabtete"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "a2",
@@ -1131,11 +1131,11 @@
       "type": "multiple_choice",
       "prompt": "Choose the comparative: Dieses Hotel ist ___ als das andere.",
       "choices": [
-        "günstiger",
         "günstigste",
+        "günstiger",
         "günstig wie"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a2",
@@ -1147,9 +1147,9 @@
       "type": "multiple_choice",
       "prompt": "Which pronoun completes: Kannst du ___ helfen?",
       "choices": [
-        "ich",
+        "mich",
         "mir",
-        "mich"
+        "ich"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1164,8 +1164,8 @@
       "prompt": "Which phrase asks for a train ticket?",
       "choices": [
         "Eine Fahrkarte, bitte.",
-        "Ein Sprechzimmer, bitte.",
-        "Eine Verspätung, bitte."
+        "Eine Verspätung, bitte.",
+        "Ein Sprechzimmer, bitte."
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1179,11 +1179,11 @@
       "type": "multiple_choice",
       "prompt": "Complete: Ich weiß nicht, ___ er heute kommt.",
       "choices": [
-        "ob",
+        "als",
         "weil",
-        "als"
+        "ob"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a2",
@@ -1196,10 +1196,10 @@
       "prompt": "Which sentence describes a fixed location?",
       "choices": [
         "Ich stelle das Buch auf den Tisch.",
-        "Das Buch liegt auf dem Tisch.",
-        "Ich lege das Buch auf den Tisch."
+        "Ich lege das Buch auf den Tisch.",
+        "Das Buch liegt auf dem Tisch."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a2",

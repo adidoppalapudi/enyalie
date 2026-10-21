@@ -1029,11 +1029,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase belongs in a formal letter?",
       "choices": [
-        "Bezugnehmend auf Ihr Schreiben",
         "Hey, was geht bei dir so ab?",
-        "Bis später, Kumpel, und tschüss!"
+        "Bis später, Kumpel, und tschüss!",
+        "Bezugnehmend auf Ihr Schreiben"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "b2",
@@ -1045,11 +1045,11 @@
       "type": "multiple_choice",
       "prompt": "What does Widerspruch einlegen mean?",
       "choices": [
+        "to advertise a job",
         "to lodge an objection",
-        "to encrypt data",
-        "to advertise a job"
+        "to encrypt data"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "b2",
@@ -1061,11 +1061,11 @@
       "type": "multiple_choice",
       "prompt": "Which verb means “to conduct a study”?",
       "choices": [
-        "eine Studie durchführen",
         "eine Studie auslösen",
-        "eine Studie erheben"
+        "eine Studie erheben",
+        "eine Studie durchführen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b2",
@@ -1078,8 +1078,8 @@
       "prompt": "Complete: Die Nachfrage ___ nachhaltigen Produkten steigt.",
       "choices": [
         "nach",
-        "für den",
-        "über die"
+        "über die",
+        "für den"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1094,8 +1094,8 @@
       "prompt": "Which phrase means “to submit additional documents later”?",
       "choices": [
         "Unterlagen nachreichen",
-        "Unterlagen verschlüsseln",
-        "Unterlagen auslösen"
+        "Unterlagen auslösen",
+        "Unterlagen verschlüsseln"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1109,11 +1109,11 @@
       "type": "multiple_choice",
       "prompt": "What does eine Sicherheitslücke schließen mean?",
       "choices": [
+        "to issue a new government regulation",
         "to close a security vulnerability",
-        "to open a new bank account online",
-        "to issue a new government regulation"
+        "to open a new bank account online"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b2",
@@ -1125,11 +1125,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase cautiously states an assumption?",
       "choices": [
+        "Ich befehle, dass ...",
         "Es ist davon auszugehen, dass ...",
-        "Es ist absolut bewiesen, dass ...",
-        "Ich befehle, dass ..."
+        "Es ist absolut bewiesen, dass ..."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "b2",
@@ -1141,11 +1141,11 @@
       "type": "multiple_choice",
       "prompt": "Which noun means “official notice”?",
       "choices": [
-        "Bescheid",
+        "Bedarf",
         "Beitrag",
-        "Bedarf"
+        "Bescheid"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b2",
@@ -1174,8 +1174,8 @@
       "prompt": "Which verb means “to provide resources”?",
       "choices": [
         "bereitstellen",
-        "nachvollziehen",
-        "favorisieren"
+        "favorisieren",
+        "nachvollziehen"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

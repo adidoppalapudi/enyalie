@@ -12,11 +12,11 @@
 
 ## Your decks stay yours
 
-Decks are saved in this browser on this device. Enyalië needs no account or server, and works offline after you have opened it once. To move decks between devices, export a deck to a file, then import that file on the other device.
+Decks are saved in this browser on this device. Enyalië needs no account or server, and works offline after you have opened it once. To back up your decks or move them to another device, choose **export all decks** at the bottom of the library, then import that file on the other device. A deck that is already there can be replaced, kept alongside the new copy, or skipped. To export a single deck, use its **more** menu.
 
 ## Make or import a deck
 
-Create decks and questions in the app, or import one or more `.enyalie.json` deck files. You can also write a deck file yourself or have an AI draft one. Each imported file can be up to 5 MB.
+Create decks and questions in the app, or import one or more `.enyalie.json` deck files. You can also write a deck file yourself or have an AI draft one. Each imported file can be up to 20 MB.
 
 Enyalië supports multiple-choice, true/false, and flashcard questions. Multiple-choice questions have 2–4 choices and a zero-based `correctIndex`; true/false and flashcards use an `answer` field.
 
@@ -40,11 +40,7 @@ Enyalië supports multiple-choice, true/false, and flashcard questions. Multiple
 }
 ```
 
-For multiple choice, `correctIndex` is the position of the right choice, starting at 0. Deck files in [`src/starter-decks/`](src/starter-decks/) are ready-to-use examples.
-
-Enyalië exports use the `enyalie-deck` format marker and `.enyalie.json` filename.
-
-The app now installs from `/enyalie/`. If an existing home-screen shortcut does not update after the URL changes, remove it and install Enyalië again from the new URL.
+Deck files in [`src/starter-decks/`](src/starter-decks/) are ready-to-use examples.
 
 ## Run Enyalië on your computer
 

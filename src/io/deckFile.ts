@@ -14,6 +14,10 @@
  *   ]
  * }
  *
+ * "Export all decks" writes several decks to one file instead:
+ * { "format": "enyalie-decks", "version": 1, "exportedAt": "…",
+ *   "decks": [{ "deck": { … }, "questions": [ … ] }, …] }
+ *
  * Import is deliberately forgiving so decks can be written by hand:
  * "format", "version", "exportedAt" and the deck id are optional, the deck's
  * name may sit at the top level instead of inside "deck", and a multiple
@@ -31,14 +35,33 @@ import {
 } from '../models/validation';
 
 const DECK_FILE_FORMAT = 'enyalie-deck';
+const DECKS_FILE_FORMAT = 'enyalie-decks';
 const DECK_FILE_VERSION = 1;
 
-export interface DeckFile {
+interface DeckEntry {
+  deck: { id: string; name: string; description: string };
+  questions: QuestionContent[];
+}
+
+export interface DeckFile extends DeckEntry {
   format: typeof DECK_FILE_FORMAT;
   version: number;
   exportedAt: string;
-  deck: { id: string; name: string; description: string };
-  questions: QuestionContent[];
+}
+
+/** Several decks in one file, written by "export all decks". */
+export interface DecksFile {
+  format: typeof DECKS_FILE_FORMAT;
+  version: number;
+  exportedAt: string;
+  decks: DeckEntry[];
+}
+
+function toEntry(deck: Deck, questions: readonly Question[]): DeckEntry {
+  return {
+    deck: { id: deck.id, name: deck.name, description: deck.description },
+    questions: questions.map(toContent),
+  };
 }
 
 export function createDeckFile(deck: Deck, questions: readonly Question[], exportedAt = new Date()): DeckFile {
@@ -46,12 +69,23 @@ export function createDeckFile(deck: Deck, questions: readonly Question[], expor
     format: DECK_FILE_FORMAT,
     version: DECK_FILE_VERSION,
     exportedAt: exportedAt.toISOString(),
-    deck: { id: deck.id, name: deck.name, description: deck.description },
-    questions: questions.map(toContent),
+    ...toEntry(deck, questions),
   };
 }
 
-export function serializeDeckFile(file: DeckFile): string {
+export function createDecksFile(
+  decks: readonly { deck: Deck; questions: readonly Question[] }[],
+  exportedAt = new Date(),
+): DecksFile {
+  return {
+    format: DECKS_FILE_FORMAT,
+    version: DECK_FILE_VERSION,
+    exportedAt: exportedAt.toISOString(),
+    decks: decks.map(({ deck, questions }) => toEntry(deck, questions)),
+  };
+}
+
+export function serializeDeckFile(file: DeckFile | DecksFile): string {
   return `${JSON.stringify(file, null, 2)}\n`;
 }
 
@@ -60,14 +94,24 @@ export function deckFileName(deckName: string): string {
   return `${slugify(deckName) || 'deck'}.enyalie.json`;
 }
 
-function failure(field: string, message: string): ValidationResult<ImportedDeck> {
+/** The "export all decks" file for a day, e.g. "enyalie-decks-2026-10-21.enyalie.json". */
+export function decksFileName(date = new Date()): string {
+  const day = [date.getFullYear(), date.getMonth() + 1, date.getDate()]
+    .map((part) => String(part).padStart(2, '0'))
+    .join('-');
+  return `enyalie-decks-${day}.enyalie.json`;
+}
+
+type Failure = { ok: false; errors: FieldError[] };
+
+function failure(field: string, message: string): Failure {
   return { ok: false, errors: [{ field, message }] };
 }
 
 const NOT_A_DECK = "This doesn't look like an Enyalië deck file.";
 
-/** Reads a deck file's text and checks every question in it. */
-export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
+/** Parses the JSON and checks the parts every deck file shares. */
+function readJson(text: string): { ok: true; data: Record<string, unknown> } | Failure {
   let data: unknown;
   try {
     data = JSON.parse(text.replace(/^\uFEFF/, '')); // tolerate a byte-order mark
@@ -75,10 +119,6 @@ export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
     return failure('file', "This file isn't valid JSON, so it can't be imported.");
   }
   if (!isRecord(data)) return failure('file', NOT_A_DECK);
-
-  if (data.format !== undefined && data.format !== DECK_FILE_FORMAT) {
-    return failure('format', `${NOT_A_DECK} (Its format is "${String(data.format)}".)`);
-  }
   if (data.version !== undefined) {
     if (typeof data.version !== 'number' || !Number.isInteger(data.version) || data.version < 1) {
       return failure('version', '"version" must be a whole number.');
@@ -86,10 +126,60 @@ export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
     if (data.version > DECK_FILE_VERSION) {
       return failure(
         'version',
-        `This deck was exported by a newer version of Enyalië (file version ${data.version}). Update Enyalië to import it.`,
+        `This file was exported by a newer version of Enyalië (file version ${data.version}). Update Enyalië to import it.`,
       );
     }
   }
+  return { ok: true, data };
+}
+
+/** Reads a file holding one deck and checks every question in it. */
+export function parseDeckFile(text: string): ValidationResult<ImportedDeck> {
+  const json = readJson(text);
+  return json.ok ? parseOneDeck(json.data) : json;
+}
+
+/**
+ * Reads a file holding one deck, or several from "export all decks". A file
+ * with several decks is only accepted when every deck in it is valid.
+ */
+export function parseDecks(text: string): ValidationResult<ImportedDeck[]> {
+  const json = readJson(text);
+  if (!json.ok) return json;
+  if (json.data.format !== DECKS_FILE_FORMAT) {
+    const one = parseOneDeck(json.data);
+    return one.ok ? { ok: true, value: [one.value] } : one;
+  }
+
+  const entries = json.data.decks;
+  if (!Array.isArray(entries)) return failure('decks', `${NOT_A_DECK} It needs a "decks" list.`);
+  if (entries.length === 0) return failure('decks', 'This file has no decks in it.');
+  const decks: ImportedDeck[] = [];
+  const errors: FieldError[] = [];
+  entries.forEach((entry, index) => {
+    const result = isRecord(entry) ? checkDeck(entry) : failure('deck', NOT_A_DECK);
+    if (result.ok) decks.push(result.value);
+    else {
+      errors.push(
+        ...result.errors.map((error) => ({
+          field: `decks.${index}.${error.field}`,
+          message: `Deck ${index + 1}: ${error.message}`,
+        })),
+      );
+    }
+  });
+  return errors.length > 0 ? { ok: false, errors } : { ok: true, value: decks };
+}
+
+function parseOneDeck(data: Record<string, unknown>): ValidationResult<ImportedDeck> {
+  if (data.format !== undefined && data.format !== DECK_FILE_FORMAT) {
+    return failure('format', `${NOT_A_DECK} (Its format is "${String(data.format)}".)`);
+  }
+  return checkDeck(data);
+}
+
+/** Checks one deck's details and questions. */
+function checkDeck(data: Record<string, unknown>): ValidationResult<ImportedDeck> {
   if (!Array.isArray(data.questions)) {
     return failure('questions', `${NOT_A_DECK} It needs a "questions" list.`);
   }

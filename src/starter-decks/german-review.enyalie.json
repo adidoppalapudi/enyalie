@@ -1133,11 +1133,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which article is correct: ___ Mädchen?",
       "choices": [
-        "das",
         "der",
+        "das",
         "die"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "review",
@@ -1149,11 +1149,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which phrase uses accusative correctly?",
       "choices": [
-        "Ich sehe den Hund.",
+        "Ich sehe der Hund.",
         "Ich sehe dem Hund.",
-        "Ich sehe der Hund."
+        "Ich sehe den Hund."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "review",
@@ -1166,8 +1166,8 @@
       "prompt": "Review check — Which verb means “to receive”?",
       "choices": [
         "bekommen",
-        "werden",
-        "behalten"
+        "behalten",
+        "werden"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1181,11 +1181,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which sentence has correct subordinate-clause order?",
       "choices": [
-        "..., weil ich keine Zeit habe.",
         "..., weil ich habe keine Zeit.",
+        "..., weil ich keine Zeit habe.",
         "..., weil keine Zeit ich habe."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "review",
@@ -1197,11 +1197,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which verb-preposition pair is correct?",
       "choices": [
-        "warten auf",
+        "warten von",
         "warten mit",
-        "warten von"
+        "warten auf"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "review",
@@ -1213,11 +1213,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which form is formal “you”?",
       "choices": [
+        "du",
         "Sie (formal you)",
-        "sie (she/they)",
-        "du"
+        "sie (she/they)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "review",
@@ -1230,8 +1230,8 @@
       "prompt": "Review check — Which word means “possibly”?",
       "choices": [
         "eventuell",
-        "aktuell",
-        "endlich"
+        "endlich",
+        "aktuell"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1245,11 +1245,11 @@
       "type": "multiple_choice",
       "prompt": "Review check — Which phrase means “fingers crossed”?",
       "choices": [
-        "Ich drücke dir die Daumen.",
+        "Ich sehe dir die Augen.",
         "Ich gebe dir die Hand.",
-        "Ich sehe dir die Augen."
+        "Ich drücke dir die Daumen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "review",
@@ -1262,8 +1262,8 @@
       "prompt": "Review check — Which verb form is correct after es gibt?",
       "choices": [
         "Es gibt einen Park.",
-        "Es gibt ein Park.",
-        "Es gibt einem Park."
+        "Es gibt einem Park.",
+        "Es gibt ein Park."
       ],
       "correctIndex": 0,
       "difficulty": "easy",

@@ -1559,12 +1559,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly uses aufstehen?",
       "choices": [
-        "Ich stehe um sieben auf.",
-        "Ich aufstehe um sieben.",
         "Ich stehe auf um sieben.",
-        "Aufstehe ich um sieben."
+        "Aufstehe ich um sieben.",
+        "Ich aufstehe um sieben.",
+        "Ich stehe um sieben auf."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1577,12 +1577,12 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly uses einkaufen?",
       "choices": [
-        "Sie kauft im Supermarkt ein.",
         "Sie einkauft im Supermarkt.",
-        "Sie kauft ein im Supermarkt.",
-        "Einkauft sie im Supermarkt."
+        "Einkauft sie im Supermarkt.",
+        "Sie kauft im Supermarkt ein.",
+        "Sie kauft ein im Supermarkt."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1596,8 +1596,8 @@
       "prompt": "Which sentence correctly uses fernsehen?",
       "choices": [
         "Wir sehen am Abend fern.",
-        "Wir fernsehen am Abend.",
         "Wir sehen fern am Abend.",
+        "Wir fernsehen am Abend.",
         "Fern wir sehen am Abend."
       ],
       "correctIndex": 0,
@@ -1651,10 +1651,10 @@
       "choices": [
         "besuchen",
         "verstehen",
-        "aufstehen",
-        "bekommen"
+        "bekommen",
+        "aufstehen"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "a1",
@@ -1669,10 +1669,10 @@
       "choices": [
         "auf-",
         "ein-",
-        "an-",
-        "ver-"
+        "ver-",
+        "an-"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1685,12 +1685,12 @@
       "type": "multiple_choice",
       "prompt": "How does aufstehen appear after a modal?",
       "choices": [
-        "Ich muss um sechs aufstehen.",
-        "Ich muss auf um sechs stehen.",
         "Ich aufstehen muss um sechs.",
-        "Ich muss aufstehe um sechs."
+        "Ich muss auf um sechs stehen.",
+        "Ich muss aufstehe um sechs.",
+        "Ich muss um sechs aufstehen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1703,10 +1703,10 @@
       "type": "multiple_choice",
       "prompt": "Which preposition means “with” and takes the dative?",
       "choices": [
-        "für",
-        "mit",
         "ohne",
-        "durch"
+        "mit",
+        "durch",
+        "für"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1721,12 +1721,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition means “for” and takes the accusative?",
       "choices": [
+        "bei",
         "für",
         "mit",
-        "bei",
         "nach"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1739,12 +1739,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition means “without” and takes the accusative?",
       "choices": [
-        "ohne",
+        "zu",
         "aus",
-        "von",
-        "zu"
+        "ohne",
+        "von"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1757,12 +1757,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition means “from / out of” and takes the dative?",
       "choices": [
-        "durch",
-        "gegen",
         "aus",
-        "um"
+        "durch",
+        "um",
+        "gegen"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1775,12 +1775,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition means “at / near” and takes the dative?",
       "choices": [
-        "bei",
         "für",
+        "bei",
         "ohne",
         "gegen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1793,12 +1793,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition normally introduces a destination city?",
       "choices": [
-        "nach",
-        "mit",
         "seit",
-        "aus"
+        "aus",
+        "nach",
+        "mit"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1811,12 +1811,12 @@
       "type": "multiple_choice",
       "prompt": "Which preposition normally introduces origin from a city?",
       "choices": [
-        "nach",
-        "aus",
         "zu",
-        "gegen"
+        "nach",
+        "gegen",
+        "aus"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "difficulty": "medium",
       "tags": [
         "a1",
@@ -1829,12 +1829,12 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “at the doctor’s”?",
       "choices": [
+        "ohne Arzt",
         "beim Arzt",
         "für den Arzt",
-        "nach Arzt",
-        "ohne Arzt"
+        "nach Arzt"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -1847,12 +1847,12 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “to the station”?",
       "choices": [
-        "zum Bahnhof",
-        "im Bahnhof",
+        "bei Bahnhof",
         "aus Bahnhof",
-        "bei Bahnhof"
+        "im Bahnhof",
+        "zum Bahnhof"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "hard",
       "tags": [
         "a1",
@@ -1865,9 +1865,9 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “in the city”?",
       "choices": [
-        "in die Stadt",
-        "in der Stadt",
         "aus die Stadt",
+        "in der Stadt",
+        "in die Stadt",
         "mit der Stadt"
       ],
       "correctIndex": 1,
@@ -2021,12 +2021,12 @@
       "type": "multiple_choice",
       "prompt": "Which adjective means “new”?",
       "choices": [
-        "alt",
         "neu",
+        "langsam",
         "teuer",
-        "langsam"
+        "alt"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "difficulty": "easy",
       "tags": [
         "a1",
@@ -2039,11 +2039,11 @@
       "prompt": "Which adjective means “slow”?",
       "choices": [
         "schnell",
-        "langsam",
         "warm",
+        "langsam",
         "leicht"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a1",

@@ -25,7 +25,8 @@ interface DeckImportOptions {
 
 /**
  * Importing deck files: pick one or several, check each, and ask what to do
- * when a deck is already in the library. Several files end with one summary.
+ * when a deck is already in the library. A file from "export all decks" holds
+ * many decks. Importing several decks ends with one summary.
  * Render `fileInput` and `dialogs`.
  */
 export function useDeckImport({ onImported, onLibraryChanged }: DeckImportOptions) {
@@ -35,21 +36,26 @@ export function useDeckImport({ onImported, onLibraryChanged }: DeckImportOption
   const [conflict, setConflict] = useState<DeckConflict | null>(null);
   const [summary, setSummary] = useState<string | null>(null);
   const answer = useRef<((choice: ConflictChoice) => void) | null>(null);
+  // Set when "do the same for the rest" is ticked; cleared when an import starts.
+  const choiceForRest = useRef<ConflictChoice | null>(null);
+  const [applyToRest, setApplyToRest] = useState(false);
 
   function askAboutConflict(next: DeckConflict): Promise<ConflictChoice> {
+    if (choiceForRest.current) return Promise.resolve(choiceForRest.current);
     return new Promise((resolve) => {
       answer.current = resolve;
       setConflict(next);
     });
   }
 
-  function resolveConflict(choice: ConflictChoice) {
+  function resolveConflict(choice: ConflictChoice, forRest = applyToRest) {
+    if (forRest) choiceForRest.current = choice;
     answer.current?.(choice);
     answer.current = null;
     setConflict(null);
   }
 
-  /** One file: open the deck on success, or show exactly what went wrong. */
+  /** One deck: open it on success, or show exactly what went wrong. */
   function showSingleResult(report: ImportReport) {
     const [imported] = report.imported;
     if (imported) {
@@ -65,9 +71,11 @@ export function useDeckImport({ onImported, onLibraryChanged }: DeckImportOption
 
   async function run(files: PickedFile[]) {
     if (files.length === 0) return;
+    choiceForRest.current = null;
+    setApplyToRest(false);
     const report = await importDeckFiles(files, { store, onConflict: askAboutConflict });
     if (report.imported.length > 0) requestPersistentStorage();
-    if (files.length === 1) {
+    if (report.imported.length + report.skipped.length === 1) {
       showSingleResult(report);
       return;
     }
@@ -124,18 +132,28 @@ export function useDeckImport({ onImported, onLibraryChanged }: DeckImportOption
         <Modal
           key={`${conflict.position}:${conflict.source}`}
           title="deck already in library"
-          onClose={() => resolveConflict('skip')}
+          onClose={() => resolveConflict('skip', false)}
         >
           <div className="window-body">
             {inBatch && (
               <p className="dim">
-                file {conflict.position} of {conflict.total}, {conflict.source}
+                deck {conflict.position} of {conflict.total} · {conflict.source}
               </p>
             )}
             <p>
               "{conflict.existing.name}" is already in your library. Replace it with the version in this file (
               {plural(conflict.deck.questions.length, 'question')}), or keep both?
             </p>
+            {inBatch && conflict.position < conflict.total && (
+              <label className="toggle toggle-check">
+                <input
+                  type="checkbox"
+                  checked={applyToRest}
+                  onChange={(event) => setApplyToRest(event.target.checked)}
+                />
+                <span>do the same for the rest of this import</span>
+              </label>
+            )}
           </div>
           <div className="window-actions">
             <button type="button" className="btn" onClick={() => resolveConflict('skip')} data-autofocus>

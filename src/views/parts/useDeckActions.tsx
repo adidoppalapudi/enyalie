@@ -3,7 +3,7 @@ import { useStatus } from '../../app/StatusContext';
 import { ConfirmDialog } from '../../components/ConfirmDialog';
 import { DeckFormDialog } from '../../components/DeckFormDialog';
 import { store } from '../../db';
-import { createDeckFile, deckFileName, serializeDeckFile } from '../../io/deckFile';
+import { createDeckFile, createDecksFile, deckFileName, decksFileName, serializeDeckFile } from '../../io/deckFile';
 import { downloadTextFile } from '../../io/files';
 import { errorMessage } from '../../lib/errors';
 import { plural } from '../../lib/format';
@@ -17,7 +17,8 @@ interface DeckActionCallbacks {
 
 /**
  * Edit, duplicate, export and delete for a deck, shared by the library and
- * the deck screen. Render the returned `dialogs` somewhere in the screen.
+ * the deck screen, plus exporting every deck to one file. Render the returned
+ * `dialogs` somewhere in the screen.
  */
 export function useDeckActions(callbacks: DeckActionCallbacks) {
   const { notify } = useStatus();
@@ -29,6 +30,19 @@ export function useDeckActions(callbacks: DeckActionCallbacks) {
       const questions = await store.listQuestions(deck.id);
       downloadTextFile(deckFileName(deck.name), serializeDeckFile(createDeckFile(deck, questions)));
       notify(`Exported "${deck.name}" (${plural(questions.length, 'question')}).`, 'ok');
+    } catch (error) {
+      notify(`Couldn't export: ${errorMessage(error)}`, 'error');
+    }
+  }
+
+  async function exportAllDecks(decks: readonly Deck[]) {
+    try {
+      const entries = await Promise.all(
+        decks.map(async (deck) => ({ deck, questions: await store.listQuestions(deck.id) })),
+      );
+      downloadTextFile(decksFileName(), serializeDeckFile(createDecksFile(entries)));
+      const questionCount = entries.reduce((sum, entry) => sum + entry.questions.length, 0);
+      notify(`Exported ${plural(entries.length, 'deck')} (${plural(questionCount, 'question')}) to one file.`, 'ok');
     } catch (error) {
       notify(`Couldn't export: ${errorMessage(error)}`, 'error');
     }
@@ -84,6 +98,7 @@ export function useDeckActions(callbacks: DeckActionCallbacks) {
 
   return {
     exportDeck,
+    exportAllDecks,
     duplicateDeck,
     editDeck: (deck: Deck) => setEditing(deck),
     deleteDeck: (deck: Deck, questionCount: number) => setDeleting({ deck, questionCount }),

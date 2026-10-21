@@ -152,9 +152,12 @@ export function LibraryView() {
     );
     footer = (
       <>
-        <p className="library-foot">
+        <p className="library-foot button-row">
           <button type="button" className="btn btn-quiet" onClick={() => setBrowsingStarters(true)}>
             browse starter decks
+          </button>
+          <button type="button" className="btn btn-quiet" onClick={() => deckActions.exportAllDecks(decks)}>
+            export all decks
           </button>
         </p>
         <p className="library-definition dim">Enyalië n. “memory, (lit.) recalling”</p>

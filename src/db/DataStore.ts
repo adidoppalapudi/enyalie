@@ -3,9 +3,8 @@ import type { Deck, DeckInput, DeckSummary, ImportedDeck, Question, QuestionCont
 /**
  * Everything the app needs from storage.
  *
- * The UI only talks to this interface. Today it is backed by IndexedDB in the
- * browser (indexedDbStore.ts); adding a server later means writing a second
- * implementation that calls an API, without touching the views.
+ * The UI only talks to this interface. indexedDbStore.ts implements it with
+ * IndexedDB in the browser.
  *
  * Methods that save data validate it and throw a ValidationError when it is
  * invalid, or a NotFoundError when the deck or question no longer exists.

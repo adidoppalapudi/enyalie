@@ -3,7 +3,7 @@ import 'fake-indexeddb/auto';
 import { describe, expect, it } from 'vitest';
 import type { DataStore } from '../src/db/DataStore';
 import { createIndexedDbStore } from '../src/db/indexedDbStore';
-import { createDeckFile, serializeDeckFile } from '../src/io/deckFile';
+import { createDeckFile, createDecksFile, serializeDeckFile } from '../src/io/deckFile';
 import { importDeckFiles, summarizeImport, type ConflictChoice, type DeckConflict } from '../src/io/importDecks';
 import { createId } from '../src/lib/id';
 import type { Deck } from '../src/models/types';
@@ -19,12 +19,18 @@ function file(name: string, text: string) {
   return { name, size: text.length, text: async () => text };
 }
 
-/** The text of a valid deck file with `questionCount` flashcards. */
-function deckText(id: string, name: string, questionCount = 3): string {
+/** A deck with `questionCount` flashcards. */
+function deckWith(id: string, name: string, questionCount = 3) {
   const deck: Deck = { id, name, description: '', createdAt: 1, updatedAt: 1 };
   const questions = Array.from({ length: questionCount }, (_, i) =>
     saved(flashcard(`${name} question ${i + 1}?`, 'Answer'), id),
   );
+  return { deck, questions };
+}
+
+/** The text of a valid deck file with `questionCount` flashcards. */
+function deckText(id: string, name: string, questionCount = 3): string {
+  const { deck, questions } = deckWith(id, name, questionCount);
   return serializeDeckFile(createDeckFile(deck, questions));
 }
 
@@ -126,7 +132,7 @@ describe('importing several deck files', () => {
     const report = await importDeckFiles(
       [
         file('notes.txt', 'hello'),
-        { name: 'huge.json', size: 6 * 1024 * 1024, text: async () => '' },
+        { name: 'huge.json', size: 21 * 1024 * 1024, text: async () => '' },
         file('bad.json', JSON.stringify({ name: '', questions: [{ type: 'flashcard', prompt: '', answer: '' }] })),
         file('good.json', deckText('deck-good', 'Good', 2)),
       ],
@@ -135,7 +141,7 @@ describe('importing several deck files', () => {
 
     expect(summarizeImport(report)).toBe(
       'Imported 1 deck. Skipped 3: bad.json (Deck name is required, and 2 more problems); ' +
-        'huge.json (The file is over 5 MB, too large to be a deck); ' +
+        'huge.json (The file is over 20 MB, too large to import); ' +
         "notes.txt (This file isn't valid JSON, so it can't be imported).",
     );
     const bad = report.skipped[0];
@@ -143,6 +149,32 @@ describe('importing several deck files', () => {
       'Deck name is required.',
       'Question 1: Prompt is required.',
       'Question 1: Answer is required.',
+    ]);
+  });
+
+  it('imports every deck in an export-all file and asks only about decks already there', async () => {
+    const store = freshStore();
+    await importDeckFiles([file('a.json', deckText('deck-a', 'Alpha', 2))], { store, onConflict: noConflictExpected });
+
+    const asked: DeckConflict[] = [];
+    const backup = serializeDeckFile(
+      createDecksFile([deckWith('deck-a', 'Alpha', 5), deckWith('deck-b', 'Beta', 1), deckWith('deck-c', 'Gamma', 4)]),
+    );
+    const report = await importDeckFiles([file('all.json', backup)], {
+      store,
+      onConflict: async (conflict) => {
+        asked.push(conflict);
+        return 'keep-both';
+      },
+    });
+
+    expect(asked.map((c) => [c.source, c.position, c.total])).toEqual([['all.json, "Alpha"', 1, 3]]);
+    expect(summarizeImport(report)).toBe('Imported 3 decks.');
+    expect((await store.listDecks()).map((deck) => [deck.name, deck.questionCount])).toEqual([
+      ['Alpha', 2],
+      ['Alpha (imported)', 5],
+      ['Beta', 1],
+      ['Gamma', 4],
     ]);
   });
 

@@ -1073,11 +1073,11 @@
       "type": "multiple_choice",
       "prompt": "Which rhetorical device repeats a beginning phrase?",
       "choices": [
-        "Anapher",
+        "Untertreibung",
         "Antithese",
-        "Untertreibung"
+        "Anapher"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "expert",
       "tags": [
         "c2",
@@ -1089,11 +1089,11 @@
       "type": "multiple_choice",
       "prompt": "What is a false friend?",
       "choices": [
-        "a similar-looking word with a different meaning",
+        "a loanword that keeps its original meaning",
         "a regional accent of the same language",
-        "a loanword that keeps its original meaning"
+        "a similar-looking word with a different meaning"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "expert",
       "tags": [
         "c2",
@@ -1121,11 +1121,11 @@
       "type": "multiple_choice",
       "prompt": "What does Kohärenz describe?",
       "choices": [
-        "logical connection of ideas",
+        "historical spelling",
         "only word pronunciation",
-        "historical spelling"
+        "logical connection of ideas"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "c2",
@@ -1137,11 +1137,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “to infer implicit meaning”?",
       "choices": [
-        "eine implizite Bedeutung erschließen",
         "eine Bedeutung wörtlich wiedergeben",
+        "eine implizite Bedeutung erschließen",
         "eine Nuance ausdrücklich betonen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "expert",
       "tags": [
         "c2",
@@ -1153,11 +1153,11 @@
       "type": "multiple_choice",
       "prompt": "What is a Pointe?",
       "choices": [
-        "a punchline",
         "a case ending",
+        "a punchline",
         "a regional vowel"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "expert",
       "tags": [
         "c2",
@@ -1169,11 +1169,11 @@
       "type": "multiple_choice",
       "prompt": "Which term means elevated formal language?",
       "choices": [
+        "veraltet only",
         "gehobener Sprachgebrauch",
-        "umgangssprachlich",
-        "veraltet only"
+        "umgangssprachlich"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "c2",

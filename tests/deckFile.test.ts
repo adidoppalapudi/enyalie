@@ -1,6 +1,14 @@
 import { describe, expect, it } from 'vitest';
 import { readdirSync, readFileSync } from 'node:fs';
-import { createDeckFile, deckFileName, parseDeckFile, serializeDeckFile } from '../src/io/deckFile';
+import {
+  createDeckFile,
+  createDecksFile,
+  deckFileName,
+  decksFileName,
+  parseDeckFile,
+  parseDecks,
+  serializeDeckFile,
+} from '../src/io/deckFile';
 import type { Deck } from '../src/models/types';
 import { sampleQuestions } from './helpers';
 
@@ -39,10 +47,48 @@ describe('deck files', () => {
     expect(Object.keys(file.questions[0])).toEqual(['type', 'prompt', 'choices', 'correctIndex', 'difficulty', 'tags']);
   });
 
+  it('round-trips every deck through one export-all file', () => {
+    const other: Deck = { id: 'deck-2', name: 'Rivers', description: '', createdAt: 1, updatedAt: 1 };
+    const text = serializeDeckFile(
+      createDecksFile([
+        { deck, questions: sampleQuestions() },
+        { deck: other, questions: sampleQuestions().slice(0, 2) },
+      ]),
+    );
+    expect(JSON.parse(text).format).toBe('enyalie-decks');
+    const parsed = parseDecks(text);
+    expect(parsed.ok && parsed.value.map((d) => [d.id, d.name, d.questions.length])).toEqual([
+      ['deck-1', 'PostgreSQL Fundamentals', 6],
+      ['deck-2', 'Rivers', 2],
+    ]);
+  });
+
+  it('reads a one-deck file as a list of one', () => {
+    const parsed = parseDecks(serializeDeckFile(createDeckFile(deck, sampleQuestions())));
+    expect(parsed.ok && parsed.value.map((d) => d.name)).toEqual(['PostgreSQL Fundamentals']);
+  });
+
+  it('rejects an export-all file with a broken deck, naming the deck', () => {
+    const good = { deck: { name: 'Good' }, questions: [{ type: 'true_false', prompt: 'fine', answer: true }] };
+    const bad = { deck: { name: 'Bad' }, questions: [{ type: 'true_false', prompt: '', answer: true }] };
+    const messages = (text: string) => {
+      const result = parseDecks(text);
+      return result.ok ? [] : result.errors.map((error) => error.message);
+    };
+    expect(messages(JSON.stringify({ format: 'enyalie-decks', decks: [good, bad] }))).toEqual([
+      'Deck 2: Question 1: Prompt is required.',
+    ]);
+    expect(messages(JSON.stringify({ format: 'enyalie-decks', decks: [] }))).toEqual([
+      'This file has no decks in it.',
+    ]);
+    expect(messages(JSON.stringify({ format: 'enyalie-decks' }))[0]).toMatch(/"decks" list/);
+  });
+
   it('names files after the deck', () => {
     expect(deckFileName('PostgreSQL Fundamentals')).toBe('postgresql-fundamentals.enyalie.json');
     expect(deckFileName('Café & Crème brûlée!')).toBe('cafe-creme-brulee.enyalie.json');
     expect(deckFileName('???')).toBe('deck.enyalie.json');
+    expect(decksFileName(new Date(2026, 9, 21))).toBe('enyalie-decks-2026-10-21.enyalie.json');
   });
 
   it('accepts minimal hand-written files', () => {

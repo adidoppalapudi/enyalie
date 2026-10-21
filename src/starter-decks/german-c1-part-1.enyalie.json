@@ -1047,11 +1047,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase is a passive alternative?",
       "choices": [
-        "Die Frage ist zu klären.",
         "Die Frage klärt.",
+        "Die Frage ist zu klären.",
         "Die Frage hat klären."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "c1",
@@ -1063,11 +1063,11 @@
       "type": "multiple_choice",
       "prompt": "Which formal preposition takes genitive?",
       "choices": [
-        "zwecks",
         "mit",
-        "bei"
+        "bei",
+        "zwecks"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "c1",
@@ -1079,11 +1079,11 @@
       "type": "multiple_choice",
       "prompt": "What does eine Behauptung relativieren mean?",
       "choices": [
-        "to qualify its force",
         "to prove it absolutely",
-        "to translate it"
+        "to translate it",
+        "to qualify its force"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "c1",
@@ -1095,11 +1095,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase narrows a definition?",
       "choices": [
-        "im engeren Sinne",
         "im weitesten Sinne",
-        "infolgedessen"
+        "infolgedessen",
+        "im engeren Sinne"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "c1",
@@ -1112,8 +1112,8 @@
       "prompt": "Which verb collocates with Position?",
       "choices": [
         "beziehen",
-        "erheben",
-        "verlängern"
+        "verlängern",
+        "erheben"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1127,11 +1127,11 @@
       "type": "multiple_choice",
       "prompt": "What does eine Entwicklung zeichnet sich ab mean?",
       "choices": [
-        "a development is emerging",
         "a development was cancelled",
+        "a development is emerging",
         "a development is translated"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "c1",
@@ -1143,11 +1143,11 @@
       "type": "multiple_choice",
       "prompt": "Which connector introduces contrast?",
       "choices": [
-        "wohingegen",
         "zumal",
+        "wohingegen",
         "infolgedessen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "c1",

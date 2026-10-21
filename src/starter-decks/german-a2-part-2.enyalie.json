@@ -1019,11 +1019,11 @@
       "type": "multiple_choice",
       "prompt": "Which relative pronoun completes: Das ist der Film, ___ wir gesehen haben.",
       "choices": [
-        "den",
         "dem",
+        "den",
         "der"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "a2",
@@ -1067,11 +1067,11 @@
       "type": "multiple_choice",
       "prompt": "Which sentence correctly uses the future?",
       "choices": [
+        "Ich werde morgen lerne.",
         "Ich werden morgen lernen.",
-        "Ich werde morgen lernen.",
-        "Ich werde morgen lerne."
+        "Ich werde morgen lernen."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "a2",
@@ -1083,11 +1083,11 @@
       "type": "multiple_choice",
       "prompt": "Which form is correct?",
       "choices": [
-        "ohne zu sprechen",
         "ohne sprechen zu",
-        "ohne gesprochen zu"
+        "ohne gesprochen zu",
+        "ohne zu sprechen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a2",
@@ -1099,11 +1099,11 @@
       "type": "multiple_choice",
       "prompt": "Choose the correct da-compound for über:",
       "choices": [
+        "überda",
         "darüber",
-        "dawüber",
-        "überda"
+        "dawüber"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "a2",
@@ -1131,11 +1131,11 @@
       "type": "multiple_choice",
       "prompt": "Complete: Das hängt ___ Wetter ab.",
       "choices": [
-        "vom",
         "für das",
-        "an den"
+        "an den",
+        "vom"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "a2",
@@ -1147,9 +1147,9 @@
       "type": "multiple_choice",
       "prompt": "Which request is most polite?",
       "choices": [
-        "Wiederholen Sie das sofort noch einmal!",
+        "Du wiederholst das jetzt noch einmal.",
         "Könnten Sie das bitte wiederholen?",
-        "Du wiederholst das jetzt noch einmal."
+        "Wiederholen Sie das sofort noch einmal!"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1163,11 +1163,11 @@
       "type": "multiple_choice",
       "prompt": "Which verb is inseparable?",
       "choices": [
+        "besichtigen",
         "einreichen",
-        "ausfallen",
-        "besichtigen"
+        "ausfallen"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "difficulty": "medium",
       "tags": [
         "a2",

@@ -1,17 +1,18 @@
 /**
  * Importing deck files into the library, one file or many at a time.
  *
- * Files are handled one after another, in name order, so a deck that is
- * already in the library can be settled (replace, keep both or skip) before
- * the next file is looked at. A file that can't be read or isn't a valid deck
- * is skipped and reported at the end; it never stops the others.
+ * A file holds one deck, or several when it came from "export all decks".
+ * Every file is read first, in name order. Then the decks are saved one after
+ * another, so a deck that is already in the library can be settled (replace,
+ * keep both or skip) before the next. A file that can't be read or isn't
+ * valid is skipped and reported at the end; it never stops the others.
  */
 import type { DataStore } from '../db/DataStore';
 import { errorMessage } from '../lib/errors';
 import { plural } from '../lib/format';
 import type { Deck, ImportedDeck } from '../models/types';
 import { nameWithSuffix } from '../models/validation';
-import { parseDeckFile } from './deckFile';
+import { parseDecks } from './deckFile';
 import { readTextFile, type PickedFile } from './files';
 
 /** What to do with a deck whose id is already in the library. */
@@ -22,9 +23,9 @@ export interface DeckConflict {
   deck: ImportedDeck;
   /** The library's copy with the same id. */
   existing: Deck;
-  /** The file's name. */
+  /** The file's name, plus the deck's name when the file holds several decks. */
   source: string;
-  /** This file's place in the batch (1-based) and the batch size. */
+  /** This deck's place in the batch (1-based) and the number of decks in it. */
   position: number;
   total: number;
 }
@@ -53,23 +54,31 @@ function byName(a: PickedFile, b: PickedFile): number {
   return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
 }
 
-/** Imports each file that holds a valid deck, and reports what happened to every file. */
+/** Imports every valid deck in the files, and reports what happened to each file or deck. */
 export async function importDeckFiles(files: readonly PickedFile[], { store, onConflict }: ImportOptions) {
-  const ordered = [...files].sort(byName);
   const report: ImportReport = { imported: [], skipped: [] };
+  const queue: { source: string; deck: ImportedDeck }[] = [];
 
-  for (const [index, file] of ordered.entries()) {
+  for (const file of [...files].sort(byName)) {
     const source = file.name;
     try {
-      const parsed = parseDeckFile(await readTextFile(file));
+      const parsed = parseDecks(await readTextFile(file));
       if (!parsed.ok) {
         report.skipped.push({ source, kind: 'invalid', problems: parsed.errors.map((error) => error.message) });
         continue;
       }
-      const deck = parsed.value;
+      const several = parsed.value.length > 1;
+      for (const deck of parsed.value) queue.push({ source: several ? `${source}, "${deck.name}"` : source, deck });
+    } catch (error) {
+      report.skipped.push({ source, kind: 'error', message: errorMessage(error) });
+    }
+  }
+
+  for (const [index, { source, deck }] of queue.entries()) {
+    try {
       const existing = deck.id ? await store.getDeck(deck.id) : undefined;
       const choice = existing
-        ? await onConflict({ deck, existing, source, position: index + 1, total: ordered.length })
+        ? await onConflict({ deck, existing, source, position: index + 1, total: queue.length })
         : 'replace'; // nothing to replace, so this saves it with the file's id
       if (choice === 'skip') {
         report.skipped.push({ source, kind: 'kept-existing' });

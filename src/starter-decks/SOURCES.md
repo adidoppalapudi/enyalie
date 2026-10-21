@@ -1,8 +1,8 @@
 # Starter deck references
 
-Content review date: 19 October 2026.
+Content last updated: 20 October 2026.
 
-These references support the new decks and the revised vocabulary and distractors. Short dictionary excerpts are attributed in question explanations; examples and quiz wording are original. Definitions refer to the sense used in each question, rather than every meaning a word can have.
+These references support the starter decks. Short dictionary excerpts are attributed in question explanations; examples and quiz wording are original. Definitions refer to the sense used in each question, rather than every meaning a word can have.
 
 ## Scope
 
@@ -39,7 +39,9 @@ Use the National Park Service's own descriptions and maps for each named park.
 - [Joshua Tree](https://www.nps.gov/jotr/index.htm), [Saguaro](https://www.nps.gov/sagu/index.htm), [Petrified Forest](https://www.nps.gov/pefo/index.htm), [Sequoia](https://www.nps.gov/seki/index.htm), [Redwood](https://www.nps.gov/redw/index.htm), [Denali](https://www.nps.gov/dena/index.htm), [Mesa Verde](https://www.nps.gov/meve/index.htm)
 - [Death Valley](https://www.nps.gov/deva/index.htm), [Wrangell–St. Elias](https://www.nps.gov/wrst/index.htm), [Hawaiʻi Volcanoes](https://www.nps.gov/havo/index.htm), [Carlsbad Caverns](https://www.nps.gov/cave/index.htm), [Great Sand Dunes](https://www.nps.gov/grsa/index.htm), [White Sands](https://www.nps.gov/whsa/index.htm), [Grand Teton](https://www.nps.gov/grte/index.htm), [Canyonlands](https://www.nps.gov/cany/index.htm), [Katmai](https://www.nps.gov/katm/index.htm), [Virgin Islands](https://www.nps.gov/viis/index.htm), [Cuyahoga Valley](https://www.nps.gov/cuva/index.htm), [New River Gorge](https://www.nps.gov/neri/index.htm), [Badlands](https://www.nps.gov/badl/index.htm), [Theodore Roosevelt](https://www.nps.gov/thro/index.htm), [Channel Islands](https://www.nps.gov/chis/index.htm), [Big Bend](https://www.nps.gov/bibe/index.htm)
 - [National Park Service: the 1916 Organic Act](https://www.nps.gov/yell/learn/management/national-park-service-organic-act-1916.htm)
-- [National Parks Traveler: 2025 visitation](https://www.nationalparkstraveler.org/2026/03/nps-recorded-more-323-million-recreation-visits-2025-slight-decrease-2024) for visit counts. The park count is as of 2026.
+- [National Parks Traveler: 2025 visitation](https://www.nationalparkstraveler.org/2026/03/nps-recorded-more-323-million-recreation-visits-2025-slight-decrease-2024) and [Outside: 2025 most and least visited parks](https://www.outsideonline.com/outdoor-adventure/environment/2025-national-parks-visitation/) for 2025 visit counts. Park counts are as of 2026.
+- [KTVZ: 2026 national park fee changes](https://ktvz.com/stacker-travel/2026/01/29/100-national-park-fee-what-visitors-need-to-know/) for pass prices and the nonresident surcharge.
+- [Dragon Bravo Fire](https://en.wikipedia.org/wiki/Dragon_Bravo_Fire) for the 2025 North Rim closure.
 
 ## NBA
 
@@ -75,7 +77,7 @@ Merriam-Webster entries checked for the definitions and examples:
 
 The reticent question now supplies context. Merriam-Webster records both reserved speech and a broader reluctant sense, so the old blanket claim that the latter is an error was removed.
 
-## Mixed trivia and revised historical questions
+## Mixed trivia and history
 
 - [NASA: solar system facts](https://science.nasa.gov/solar-system/solar-system-facts/)
 - [NASA: Venus facts](https://science.nasa.gov/venus/venus-facts/)
@@ -181,7 +183,7 @@ Questions and explanations are original and use everyday examples. Safety questi
 - [National Park Service: History of El Camino Real de Tierra Adentro](https://home.nps.gov/articles/000/history-and-significance-of-el-camino-real-de-tierra-adentro.htm) for the Pueblo Revolt question; [USC Shoah Foundation: Nanjing Massacre testimonies](https://sfi.usc.edu/collections/nanjing-massacre) for the World War II atrocity card.
 - [OpenStax World History, Volume 2](https://openstax.org/details/books/world-history-volume-2) for cross-regional context and chronology. Question wording, scenarios, source paraphrases, answer choices, and explanations are original; no long source passages or AP exam questions are reproduced.
 
-The deck was checked against the Fall 2026 College Board framework and its nine unit allocations. Enyalië's current question schema does not accept question IDs in imported content; the importer assigns database IDs when questions are saved, so no unsupported `id` field was added.
+The deck was checked against the Fall 2026 College Board framework and its nine unit allocations.
 
 ## NBA (expanded)
 

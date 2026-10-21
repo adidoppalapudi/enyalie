@@ -1049,11 +1049,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “to read between the lines”?",
       "choices": [
-        "zwischen den Zeilen lesen",
+        "den Faden aufnehmen",
         "unter vier Augen sprechen",
-        "den Faden aufnehmen"
+        "zwischen den Zeilen lesen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "c1",
@@ -1065,11 +1065,11 @@
       "type": "multiple_choice",
       "prompt": "What does eine Hypothese widerlegen mean?",
       "choices": [
-        "to refute a hypothesis",
+        "to request a permit",
         "to publish a headline",
-        "to request a permit"
+        "to refute a hypothesis"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "c1",
@@ -1081,11 +1081,11 @@
       "type": "multiple_choice",
       "prompt": "Which term describes social cohesion?",
       "choices": [
-        "gesellschaftlicher Zusammenhalt",
+        "eine literarische Strömung",
         "bürokratische Hürden abbauen",
-        "eine literarische Strömung"
+        "gesellschaftlicher Zusammenhalt"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "c1",
@@ -1098,8 +1098,8 @@
       "prompt": "Which verb means to challenge a legal decision?",
       "choices": [
         "anfechten",
-        "bewahren",
-        "entfalten"
+        "entfalten",
+        "bewahren"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1113,11 +1113,11 @@
       "type": "multiple_choice",
       "prompt": "What does in Kauf nehmen mean?",
       "choices": [
-        "to knowingly accept a drawback",
         "to purchase a house",
+        "to knowingly accept a drawback",
         "to avoid all consequences"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "easy",
       "tags": [
         "c1",
@@ -1129,11 +1129,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase means “at someone’s discretion”?",
       "choices": [
-        "im Ermessen von jemandem",
         "im Gegensatz zu jemandem",
+        "im Ermessen von jemandem",
         "im Anschluss an jemandem"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "c1",
@@ -1146,8 +1146,8 @@
       "prompt": "What does eine Quelle als glaubwürdig einschätzen involve?",
       "choices": [
         "evaluating its credibility",
-        "translating its title",
-        "shortening every quote"
+        "shortening every quote",
+        "translating its title"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1162,8 +1162,8 @@
       "prompt": "Which phrase means “to preserve cultural heritage”?",
       "choices": [
         "kulturelles Erbe bewahren",
-        "kulturelles Erbe widerlegen",
-        "kulturelles Erbe anfechten"
+        "kulturelles Erbe anfechten",
+        "kulturelles Erbe widerlegen"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1177,11 +1177,11 @@
       "type": "multiple_choice",
       "prompt": "Which adjective means open to two competing interpretations?",
       "choices": [
-        "ambivalent",
         "fristgerecht",
+        "ambivalent",
         "glaubwürdig"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "c1",
@@ -1194,8 +1194,8 @@
       "prompt": "Which formal phrase means “to base something on an assumption”?",
       "choices": [
         "eine Annahme zugrunde legen",
-        "eine Annahme in Kraft setzen",
-        "eine Annahme auslösen"
+        "eine Annahme auslösen",
+        "eine Annahme in Kraft setzen"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

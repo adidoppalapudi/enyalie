@@ -1,7 +1,7 @@
 /** Browser helpers for saving and opening files. */
 
-/** Largest deck file we try to import (5 MB is thousands of questions). */
-const MAX_IMPORT_BYTES = 5 * 1024 * 1024;
+/** Largest file we try to import. 20 MB holds tens of thousands of questions, enough for a full backup. */
+const MAX_IMPORT_BYTES = 20 * 1024 * 1024;
 
 /** Starts a download of `text` as a file named `fileName`. */
 export function downloadTextFile(fileName: string, text: string, mimeType = 'application/json'): void {
@@ -22,10 +22,10 @@ export function downloadTextFile(fileName: string, text: string, mimeType = 'app
 /** The parts of a picked File that import uses, so tests can pass a plain object. */
 export type PickedFile = Pick<File, 'name' | 'size' | 'text'>;
 
-/** Reads a file the user picked, refusing ones that are far too big to be a deck. */
+/** Reads a file the user picked, refusing ones that are far too big to hold decks. */
 export async function readTextFile(file: PickedFile): Promise<string> {
   if (file.size > MAX_IMPORT_BYTES) {
-    throw new Error('The file is over 5 MB, too large to be a deck.');
+    throw new Error('The file is over 20 MB, too large to import.');
   }
   return file.text();
 }

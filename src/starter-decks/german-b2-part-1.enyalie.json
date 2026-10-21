@@ -952,8 +952,8 @@
       "prompt": "Which phrase is a passive alternative meaning “can be solved”?",
       "choices": [
         "Das Problem lässt sich lösen.",
-        "Das Problem lässt lösen sich.",
-        "Das Problem ist lösen."
+        "Das Problem ist lösen.",
+        "Das Problem lässt lösen sich."
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -983,11 +983,11 @@
       "type": "multiple_choice",
       "prompt": "What does folglich signal?",
       "choices": [
+        "a location",
         "a consequence",
-        "a concession",
-        "a location"
+        "a concession"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b2",
@@ -999,11 +999,11 @@
       "type": "multiple_choice",
       "prompt": "Which collocation means “draw a conclusion”?",
       "choices": [
-        "eine Schlussfolgerung ziehen",
         "eine Schlussfolgerung machen",
-        "eine Schlussfolgerung nehmen"
+        "eine Schlussfolgerung nehmen",
+        "eine Schlussfolgerung ziehen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "b2",
@@ -1031,11 +1031,11 @@
       "type": "multiple_choice",
       "prompt": "Which clause introduces an exception?",
       "choices": [
-        "es sei denn",
+        "nicht zuletzt",
         "insofern als",
-        "nicht zuletzt"
+        "es sei denn"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "b2",
@@ -1047,11 +1047,11 @@
       "type": "multiple_choice",
       "prompt": "Which noun is a nominalization of vermeiden?",
       "choices": [
-        "Vermeidung",
         "Vermeiner",
+        "Vermeidung",
         "Vermeidungung"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "b2",
@@ -1063,11 +1063,11 @@
       "type": "multiple_choice",
       "prompt": "What does etwas belegen mean in academic writing?",
       "choices": [
-        "to substantiate it with evidence",
         "to hide it",
+        "to substantiate it with evidence",
         "to translate it literally"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "b2",
@@ -1079,11 +1079,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase expresses a cautious limitation?",
       "choices": [
-        "soweit ich weiß",
+        "ohne Zweifel",
         "auf jeden Fall",
-        "ohne Zweifel"
+        "soweit ich weiß"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "hard",
       "tags": [
         "b2",
@@ -1096,8 +1096,8 @@
       "prompt": "Which adjective is formed from a present participle?",
       "choices": [
         "wachsende",
-        "gewachsene",
-        "Wachstum"
+        "Wachstum",
+        "gewachsene"
       ],
       "correctIndex": 0,
       "difficulty": "hard",

@@ -20,7 +20,8 @@
       "difficulty": "easy",
       "tags": [
         "history"
-      ]
+      ],
+      "explanation": "Congress created Yellowstone before Wyoming, Montana and Idaho became states."
     },
     {
       "type": "multiple_choice",
@@ -50,7 +51,8 @@
       "difficulty": "easy",
       "tags": [
         "rivers"
-      ]
+      ],
+      "explanation": "The river carved the canyon over roughly the last 5 to 6 million years."
     },
     {
       "type": "multiple_choice",
@@ -95,7 +97,8 @@
       "difficulty": "medium",
       "tags": [
         "geology"
-      ]
+      ],
+      "explanation": "Bryce Canyon is not a true canyon. It is a series of natural amphitheaters eroded into the edge of a plateau."
     },
     {
       "type": "multiple_choice",
@@ -110,7 +113,8 @@
       "difficulty": "hard",
       "tags": [
         "geology"
-      ]
+      ],
+      "explanation": "The Waterpocket Fold is a wrinkle in Earth's crust, called a monocline, nearly 100 miles long."
     },
     {
       "type": "multiple_choice",
@@ -155,7 +159,8 @@
       "difficulty": "medium",
       "tags": [
         "landmarks"
-      ]
+      ],
+      "explanation": "Fort Jefferson is one of the largest brick forts in the Americas. It sits about 70 miles west of Key West and is reached only by boat or seaplane."
     },
     {
       "type": "multiple_choice",
@@ -216,7 +221,8 @@
       "difficulty": "easy",
       "tags": [
         "locations"
-      ]
+      ],
+      "explanation": "Mammoth Cave is the longest known cave system in the world, with more than 400 miles mapped."
     },
     {
       "type": "multiple_choice",
@@ -247,7 +253,8 @@
       "difficulty": "medium",
       "tags": [
         "habitats"
-      ]
+      ],
+      "explanation": "The Hoh is one of the largest temperate rain forests in the U.S. It gets about 12 feet of rain a year."
     },
     {
       "type": "multiple_choice",
@@ -262,7 +269,8 @@
       "difficulty": "hard",
       "tags": [
         "geology"
-      ]
+      ],
+      "explanation": "Mount Rainier is an active volcano. Its heavy glacier cover could feed large mudflows if it erupts."
     },
     {
       "type": "multiple_choice",
@@ -277,7 +285,8 @@
       "difficulty": "medium",
       "tags": [
         "landmarks"
-      ]
+      ],
+      "explanation": "The road crosses the Continental Divide at Logan Pass."
     },
     {
       "type": "multiple_choice",
@@ -292,7 +301,8 @@
       "difficulty": "medium",
       "tags": [
         "landmarks"
-      ]
+      ],
+      "explanation": "Trail Ridge Road is the highest continuous paved road in the U.S., reaching 12,183 feet."
     },
     {
       "type": "multiple_choice",
@@ -339,7 +349,8 @@
       "difficulty": "easy",
       "tags": [
         "geology"
-      ]
+      ],
+      "explanation": "Over more than 200 million years, minerals such as quartz replaced the wood's tissue."
     },
     {
       "type": "multiple_choice",
@@ -354,7 +365,8 @@
       "difficulty": "medium",
       "tags": [
         "plants"
-      ]
+      ],
+      "explanation": "General Sherman is the largest single-stem tree on Earth by volume."
     },
     {
       "type": "multiple_choice",
@@ -369,7 +381,8 @@
       "difficulty": "medium",
       "tags": [
         "plants"
-      ]
+      ],
+      "explanation": "Coast redwoods are the tallest trees on Earth. The tallest known, Hyperion, is about 380 feet tall."
     },
     {
       "type": "multiple_choice",
@@ -560,7 +573,7 @@
       "tags": [
         "records"
       ],
-      "explanation": "There are 63. The newest, New River Gorge in West Virginia, was designated in December 2020. The wider National Park System also includes more than 400 other sites, such as national monuments and historic sites."
+      "explanation": "There are 63. The newest, New River Gorge in West Virginia, became a national park in December 2020. The wider National Park System has 433 sites, including national monuments, battlefields and seashores."
     },
     {
       "type": "multiple_choice",
@@ -747,6 +760,128 @@
         "rivers"
       ],
       "explanation": "Big Bend is named after the large bend the Rio Grande makes along the park's southern border."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which Wyoming national park is known for the jagged Teton Range rising above Jenny Lake?",
+      "choices": [
+        "Yellowstone",
+        "Grand Teton",
+        "Glacier",
+        "Rocky Mountain"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "tags": [
+        "landmarks"
+      ],
+      "explanation": "Grand Teton National Park lies just south of Yellowstone."
+    },
+    {
+      "type": "true_false",
+      "prompt": "Denali, in Denali National Park and Preserve, is the highest mountain in North America.",
+      "answer": true,
+      "difficulty": "easy",
+      "tags": [
+        "landmarks"
+      ],
+      "explanation": "Denali rises to 20,310 feet (6,190 m)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park had the second-most visits in 2025?",
+      "choices": [
+        "Grand Canyon",
+        "Yellowstone",
+        "Zion",
+        "Yosemite"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "records"
+      ],
+      "explanation": "Zion had about 4.9 million visits, just ahead of Yellowstone with 4.7 million. Grand Canyon placed fourth with 4.4 million, in the year the Dragon Bravo Fire closed its North Rim and destroyed the historic Grand Canyon Lodge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which national park had the fewest visits in 2025?",
+      "choices": [
+        "Kobuk Valley",
+        "Gates of the Arctic",
+        "Isle Royale",
+        "North Cascades"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "tags": [
+        "records"
+      ],
+      "explanation": "Kobuk Valley, in Arctic Alaska, had 7,786 visits. No roads lead to it, so most visitors fly in on small planes. Isle Royale in Michigan was the least visited park outside Alaska, with about 29,000."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Which site in the National Park System had the most visits in 2025?",
+      "choices": [
+        "Great Smoky Mountains National Park",
+        "Golden Gate National Recreation Area",
+        "Blue Ridge Parkway",
+        "Lincoln Memorial"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "tags": [
+        "records"
+      ],
+      "explanation": "The Blue Ridge Parkway, a 469-mile scenic road through Virginia and North Carolina, had about 16.5 million visits. Golden Gate National Recreation Area was second with 15.7 million, both ahead of every national park."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "About how many recreation visits did the National Park System record in 2025?",
+      "choices": [
+        "About 132 million",
+        "About 323 million",
+        "About 532 million",
+        "About 32 million"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "records"
+      ],
+      "explanation": "That was 2.7% below the record of 331.8 million set in 2024. A 43-day government shutdown in October and November 2025 closed or limited many sites."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "As of 2026, which state has the most national parks?",
+      "choices": [
+        "Alaska",
+        "Utah",
+        "Colorado",
+        "California"
+      ],
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "tags": [
+        "locations"
+      ],
+      "explanation": "California has nine, including Yosemite, Death Valley and Channel Islands. Alaska has eight and Utah has five."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Since 2026, how much does the America the Beautiful annual pass cost visitors who aren't U.S. residents?",
+      "choices": [
+        "$80",
+        "$250",
+        "$120",
+        "$175"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "tags": [
+        "history"
+      ],
+      "explanation": "U.S. residents still pay $80. Nonresidents aged 16 and over also pay a $100 surcharge at 11 of the busiest parks, including Grand Canyon, Yellowstone and Yosemite."
     }
   ]
 }

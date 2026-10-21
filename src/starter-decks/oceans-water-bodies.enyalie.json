@@ -50,7 +50,8 @@
       "difficulty": "easy",
       "tags": [
         "oceans"
-      ]
+      ],
+      "explanation": "National Geographic recognized the Southern Ocean as the fifth ocean in 2021."
     },
     {
       "type": "multiple_choice",
@@ -128,7 +129,8 @@
       "difficulty": "medium",
       "tags": [
         "tides"
-      ]
+      ],
+      "explanation": "Spring tides have nothing to do with the season. At new and full moon, the Sun and Moon line up and their pulls add together."
     },
     {
       "type": "multiple_choice",
@@ -143,7 +145,8 @@
       "difficulty": "medium",
       "tags": [
         "tides"
-      ]
+      ],
+      "explanation": "At the quarter moons, the Sun and Moon pull at right angles, so the tidal range is smallest."
     },
     {
       "type": "multiple_choice",
@@ -203,7 +206,8 @@
       "difficulty": "medium",
       "tags": [
         "seafloor"
-      ]
+      ],
+      "explanation": "Challenger Deep, in the Mariana Trench, is about 10,900 m (35,800 ft) deep."
     },
     {
       "type": "multiple_choice",
@@ -233,7 +237,8 @@
       "difficulty": "easy",
       "tags": [
         "currents"
-      ]
+      ],
+      "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico up the U.S. East Coast and across the Atlantic."
     },
     {
       "type": "multiple_choice",
@@ -338,7 +343,8 @@
       "difficulty": "medium",
       "tags": [
         "lakes"
-      ]
+      ],
+      "explanation": "Lake Baikal in Siberia is about 1,640 m deep and holds roughly a fifth of the world's unfrozen surface fresh water."
     },
     {
       "type": "multiple_choice",
@@ -353,7 +359,8 @@
       "difficulty": "easy",
       "tags": [
         "lakes"
-      ]
+      ],
+      "explanation": "Lake Superior is the largest freshwater lake in the world by surface area."
     },
     {
       "type": "multiple_choice",
@@ -399,7 +406,8 @@
       "difficulty": "medium",
       "tags": [
         "waterways"
-      ]
+      ],
+      "explanation": "The canal opened in 1869 and lets ships avoid sailing around Africa."
     },
     {
       "type": "true_false",

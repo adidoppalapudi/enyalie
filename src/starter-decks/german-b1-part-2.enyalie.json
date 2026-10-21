@@ -1079,11 +1079,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase introduces a contrast?",
       "choices": [
+        "abschließend",
         "im Gegensatz dazu",
-        "zum Beispiel",
-        "abschließend"
+        "zum Beispiel"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1112,8 +1112,8 @@
       "prompt": "Which phrase means “to take responsibility”?",
       "choices": [
         "Verantwortung übernehmen",
-        "Verantwortung verlieren",
-        "Verantwortung fahren"
+        "Verantwortung fahren",
+        "Verantwortung verlieren"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1143,11 +1143,11 @@
       "type": "multiple_choice",
       "prompt": "Which verb-preposition combination means “get used to”?",
       "choices": [
-        "sich gewöhnen an",
         "sich erinnern über",
+        "sich gewöhnen an",
         "sich freuen bei"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "hard",
       "tags": [
         "b1",
@@ -1159,11 +1159,11 @@
       "type": "multiple_choice",
       "prompt": "Which phrase signals a conclusion?",
       "choices": [
-        "abschließend lässt sich sagen",
         "im Gegensatz dazu ist zu beachten",
-        "einerseits muss man bedenken"
+        "einerseits muss man bedenken",
+        "abschließend lässt sich sagen"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1175,11 +1175,11 @@
       "type": "multiple_choice",
       "prompt": "What does stetig zunehmen describe?",
       "choices": [
-        "a steady increase",
+        "a personal complaint",
         "a sudden cancellation",
-        "a personal complaint"
+        "a steady increase"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "easy",
       "tags": [
         "b1",
@@ -1192,8 +1192,8 @@
       "prompt": "Which noun means “freedom of expression”?",
       "choices": [
         "Meinungsfreiheit",
-        "Gleichberechtigung",
-        "Unterkunft"
+        "Unterkunft",
+        "Gleichberechtigung"
       ],
       "correctIndex": 0,
       "difficulty": "hard",
@@ -1207,11 +1207,11 @@
       "type": "multiple_choice",
       "prompt": "Which sentence uses the separable verb ausfallen correctly?",
       "choices": [
-        "Der Flug fällt aus.",
         "Der Flug ausfällt.",
+        "Der Flug fällt aus.",
         "Der Flug ist ausfallen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "medium",
       "tags": [
         "b1",
@@ -1223,11 +1223,11 @@
       "type": "multiple_choice",
       "prompt": "A good summary should usually do what?",
       "choices": [
-        "keep main ideas and omit minor details",
+        "add your own unrelated opinions and examples",
         "copy every sentence of the original text",
-        "add your own unrelated opinions and examples"
+        "keep main ideas and omit minor details"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "medium",
       "tags": [
         "b1",
